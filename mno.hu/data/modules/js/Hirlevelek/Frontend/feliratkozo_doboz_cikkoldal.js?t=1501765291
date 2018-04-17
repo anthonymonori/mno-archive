@@ -1,0 +1,55 @@
+$(document).ready(function() {
+
+    $('.hirlevel-feliratkozo-doboz form').on('click','button', function(e) {
+        e.preventDefault();
+
+        var _this=$(this).parents('.hirlevel-feliratkozo-doboz');
+
+        $(_this).find("#loader").show();
+        $(_this).find('.fa-envelope').hide();
+        
+        var data = $(_this).find('form').serialize(),
+            url = '?block=Hirlevelek_Feliratkozas&ajax=1';
+
+        $.ajax({
+            url: url,
+            type: 'GET',
+            data: data,
+            dataType: 'JSON',
+            success: function (json) {
+                $(_this).find('.fa-envelope').show();
+                $(_this).find("#loader").hide();
+                $(_this).find('.content-subscribe').hide();
+                $(_this).find('.contet-message').html('<i class="fa fa-exclamation-circle" aria-hidden="true"></i><span>'+json+'</span>');
+                if(json=="A feliratkozást elindítottuk. A megadott email címre egy aktiváló emailt kiküldtünk."){
+                    $(_this).find('.contet-message').css('background','#009444');
+                }else{
+                    $(_this).find('.contet-message').css('background','#9B162B');    
+                }
+                $(_this).find('.contet-message').show();
+
+                setTimeout(function(){ 
+                    $(_this).find('input#email').val('');
+                    $(_this).find('.content-subscribe').show();
+                    $(_this).find('.contet-message').html('');
+                    $(_this).find('.contet-message').hide();
+                }, 8000);
+
+            },
+            error: function() {
+                $(_this).find('.fa-envelope').show();
+                $(_this).find("#loader").hide();
+            }
+        });
+        
+
+        return false; // prevent deafult nem mindig mükszik
+
+    });
+
+    $('.hirlevel-feliratkozo-doboz form').on('submit',function(e) {
+        e.preventDefault();
+        $(this).find('button').trigger('click');
+    });
+
+});

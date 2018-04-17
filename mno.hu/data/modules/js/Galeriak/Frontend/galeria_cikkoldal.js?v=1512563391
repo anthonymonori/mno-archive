@@ -1,0 +1,563 @@
+$(document).ready(function() {
+
+    $('.responsive-gallery-holder').each(function() {
+        if (!$(this).data('skip-auto')) {
+            $(this).responsiveGallery();
+        }
+    });
+
+});
+
+(function( $, window, document, undefined ){
+
+    var Gallery = {
+
+        init: function( options, elem, clickable )
+        {
+            var self = this;
+
+            self.in_progress 	= false; // animacio alatt ne lehessen lapozni
+
+            self.options 		= $.extend( {}, $.fn.responsiveGallery.options, options ); // atvesszuk a costum beallitasokat ha vannak
+
+            self.current_index      = 0;
+            self.$document          = $('document');
+            self.$body              = $('body');
+            self.$gallery_wrapper   = $(elem);
+            self.$gallery_items     = $(elem).find('.responsive-gallery-item');
+            self.$gallery_clickable = clickable;
+            self.timer              = false;
+
+            var ajanlo = false;
+            if (self.$gallery_clickable) {
+                // ezekre az elemekre nyilik meg a galeria (a cikkben talalhato kepek galeriajaba fuzese miatt kell)
+                self.$gallery_clickable.on('click', function() {
+                    var first_index = self.$gallery_clickable.index(this);
+                    self.$counter_current.html(first_index + 1);
+                    self.current_index = first_index;
+                    self.$items_list.removeClass('active');
+                    $(self.$items_list[first_index]).addClass('active');
+                    self.loadActiveImage();
+                    self.showGallery();
+                    return false;
+                });
+            } else if (ajanlo = self.$gallery_wrapper.prev('.gallery-embed').get(0)) {
+                $(ajanlo).on('click', function() {
+                    first_index = 0;
+                    self.$counter_current.html(1);
+                    self.current_index = first_index;
+                    self.$items_list.removeClass('active');
+                    $(self.$items_list[first_index]).addClass('active');
+                    self.loadActiveImage();
+                    self.showGallery();
+                    return false;
+                });
+            }
+
+            if( self.$gallery_items.length ) // ha vannak elemek
+            {
+                // hozzaadjuk a markupot es az esemenykezeloket, alap esetben a galeria nem latszik
+                // ha valamelyik thumbra kattintunk akkor megjelenitjuk a layert
+                // aktiv itemnek beallitjuk azt amire kattintva lett, ha volt korabbi aktive akkor azt leszedjuk
+                // ha meg nem volt betoltve az img source akkor betoltjuk
+                // megjelenitjuk a kepet
+                // jobbra balra navigalasnal az aktiv elemrol leszedjuk az aktivot, majd a megfelelo elemre tesszuk at
+                // betoltjuk a kepet, majd megjelenitjuk az elemet
+                // bezarasnal elrejtjuk a galeriat, aktiv elemrol leszedjuk az aktivot
+                self.addTheMarkup();
+                self.adjustLayout();
+                //self.handleItemClick();
+                self.handleThumbsClick();
+                self.handleButtons();
+                self.handleKeys();
+
+                $(window).resize(function() {
+                    if (self.timer) {
+                        clearTimeout(self.timer);
+                    }
+                    self.timer = setTimeout(function() {
+                        self.adjustLayout();
+                        self.centerActiveImage();
+                    }, 100);
+                });
+            }
+        },
+        addTheMarkup: function()
+        {
+            var self = this;
+
+            self.$body.append('<div id="opened-' + self.$gallery_wrapper.attr('id') + '" class="resp-gallery"></div>');
+            self.$gallery_holder = self.$body.find('#opened-' + self.$gallery_wrapper.attr('id'));
+            self.current_index = 0;
+
+            self.addTop();
+            self.addItems();
+            self.addCounter();
+            self.addPager();
+            self.addThumbs();
+
+            // Automatikusan aktivra allitjuk az elso kepet
+            //$(self.$items_list[0]).addClass('active');
+            //self.loadActiveImage();
+            //self.showGallery();
+        },
+        addTop: function()
+        {
+            var self = this;
+
+            var html_string = '<div class="resp-gallery-top-bar">';
+            html_string += '<div class="resp-gallery-top-bar-left">';
+            html_string += '<i class="fa fa-image"></i><span class="resp-gallery-main-title"></span>';
+            html_string += '</div>';
+            html_string += '<ul class="resp-gallery-top-bar-right">';
+            //html_string += '<li class="resp-gallery-info-button" title="Részletek"><i class="fa fa-info-circle"></i></li>';
+            html_string += '<li class="resp-gallery-new-tab-button" title="Kép megnyitása új fülön"><i class="fa fa-external-link"></i></li>';
+            html_string += '<li class="resp-gallery-close-button" title="Bezárás"><i class="fa fa-close"></i></li>';
+            html_string += '</ul>';
+            html_string += '</div>';
+
+            self.$gallery_holder.append( html_string );
+            self.$gallery_top_bar   = self.$gallery_holder.find('.resp-gallery-top-bar');
+            self.$gallery_info      = self.$gallery_holder.find('.resp-gallery-info-button');
+            self.$new_tab_button    = self.$gallery_holder.find('.resp-gallery-new-tab-button');
+            self.$gallery_close     = self.$gallery_holder.find('.resp-gallery-close-button');
+            self.$main_title        = self.$gallery_holder.find('.resp-gallery-main-title');
+        },
+        addItems: function()
+        {
+            var self = this;
+
+            var html_string = '<ul class="resp-gallery-content">';
+
+            self.$gallery_items.each( function( index ) {
+                var $this = $(this);
+                var id = $this.data('id') ? $this.data('id') : 0;
+                var path = $this.data('path') ? $this.data('path') : '';
+                var file = $this.data('file') ? $this.data('file') : '';
+                var file_size = $this.data('file-size') ? $this.data('file-size') : '';
+                var nev = $this.data('nev') ? $this.data('nev') : '';
+                var alt = $this.data('alt') ? $this.data('alt') : '';
+                var leiras = $this.data('leiras') ? $this.data('leiras') : '';
+                var szerzo = $this.data('szerzo') ? $this.data('szerzo') : '';
+                var forras = $this.data('forras') ? $this.data('forras') : '';
+                var datum_feltoltes = $this.data('datum_feltoltes') ? $this.data('datum_feltoltes') : '';
+
+                html_string += '<li class="resp-gallery-picture-item" data-file="' + file + '">';
+                    html_string += '<div class="resp-gallery-picture-holder">';
+                        html_string += '<img class="resp-gallery-main-picture" src="" data-src="/data' + $this.data('path') + '">';
+                if( nev !== '' || leiras !== '' || szerzo !== '' || forras !== '' )
+                {
+                    pictext = '';
+                    pictext += ( nev !== '' ) ? nev : '';
+                    pictext += ( leiras !== '' ) ? (pictext ? '<br />' : '') + leiras : '';
+                    pictext += ( szerzo !== '' ) ? (pictext ? '<br />' : '') + 'Fotó: ' + szerzo : '';
+                        html_string += '<div class="resp-gallery-main-picture-texts">';
+                            html_string += '<p>' + pictext + '</p>';
+                        html_string += '</div>';
+                }
+                    html_string += '</div>';
+                    html_string += '<div class="resp-gallery-info-holder meta-editor-off">';
+                        html_string += '<h2>Meta adatok</h2>';
+                        html_string += '<div class="resp-gallery-info-table resp-gallery-info-table-meta">';
+                            html_string += '<div class="resp-gallery-info-row">';
+                                html_string += '<div>Név</div>';
+                                html_string += '<div class="resp-gallery-input-holder">';
+                                    html_string += '<span class="resp-gallery-meta-span resp-gallery-meta-span-nev">' + nev + '</span>';
+                                html_string += '</div>';
+                            html_string += '</div>';
+                            html_string += '<div class="resp-gallery-info-row">';
+                                html_string += '<div>Alt</div>';
+                                html_string += '<div class="resp-gallery-input-holder">';
+                                    html_string += '<span class="resp-gallery-meta-span resp-gallery-meta-span-alt">' + alt + '</span>';
+                                html_string += '</div>';
+                            html_string += '</div>';
+                            html_string += '<div class="resp-gallery-info-row">';
+                                html_string += '<div>Leírás</div>';
+                                html_string += '<div class="resp-gallery-input-holder">';
+                                    html_string += '<span class="resp-gallery-meta-span resp-gallery-meta-span-leiras">' + leiras + '</span>';
+                                html_string += '</div>';
+                            html_string += '</div>';
+                        html_string += '</div>';
+                        html_string += '<h2>Általános információk</h2>';
+                        html_string += '<div class="resp-gallery-info-table no-edit">';
+                            html_string += '<div class="resp-gallery-info-row">';
+                                html_string += '<div>Méret</div>';
+                                html_string += '<div class="image-resolution"></div>';
+                            html_string += '</div>';
+                            html_string += '<div class="resp-gallery-info-row">';
+                                html_string += '<div>Méret</div>';
+                                html_string += '<div>' + file_size + '</div>';
+                            html_string += '</div>';
+                            html_string += '<div class="resp-gallery-info-row">';
+                                html_string += '<div>Feltöltve</div>';
+                                html_string += '<div>' + datum_feltoltes + '</div>';
+                            html_string += '</div>';
+                        html_string += '</div>';
+                    html_string += '</div>';
+                html_string += '</li>';
+            });
+
+            html_string += '</ul>';
+
+            self.$gallery_holder.append( html_string );
+            self.$items                 = self.$gallery_holder.find('.resp-gallery-content');
+            self.$items_list            = self.$items.find('li');
+            self.$infoholder            = self.$items.find('.resp-gallery-info-holder');
+        },
+        addCounter: function()
+        {
+            var self = this;
+
+            var html_string = '<div class="resp-gallery-counter">';
+            html_string += '<i class="fa fa-th"></i> ' + self.$gallery_items.length + '/<span class="resp-gallery-counter-current">1</span>';
+            html_string += '</div>';
+
+            self.$gallery_holder.append( html_string );
+            self.$gallery_counter = self.$gallery_holder.find('.resp-gallery-counter');
+            self.$counter_current = self.$gallery_holder.find('.resp-gallery-counter-current');
+        },
+        addPager: function()
+        {
+            var self = this;
+
+            if( self.$gallery_items.length > 1 )
+            {
+                var html_string = '<div class="resp-gallery-left-button"><i class="fa fa-chevron-left"></i></div>';
+                html_string += '<div class="resp-gallery-right-button"><i class="fa fa-chevron-right"></i></div>';
+
+                self.$gallery_holder.append( html_string );
+                self.$gallery_left  = self.$gallery_holder.find('.resp-gallery-left-button');
+                self.$gallery_right = self.$gallery_holder.find('.resp-gallery-right-button');
+            }
+        },
+        addThumbs: function()
+        {
+            var self = this;
+
+            var html_string = '';
+            html_string += '<div class="resp-gallery-thumbs">';
+            html_string += '<ul>';
+
+            self.$gallery_items.each( function( index ) {
+                var p = $(this).data('path');
+                if (p.substr(0,1) == '/') {
+                    p = p.substr(1,p.length - 1);
+                }
+                html_string += '<li><img src="/data/' + p + '" ></li>';
+            });
+
+            html_string += '</ul>';
+            html_string += '</div>';
+
+            self.$gallery_holder.append( html_string );
+            self.$thumbs_holder = self.$gallery_holder.find('.resp-gallery-thumbs');
+            self.$thumbs = self.$thumbs_holder.find('li');
+
+            var thumbs_width = ( self.$thumbs.length * 120 ) + 30;
+            if( thumbs_width > $(window).width() ) {
+                self.$thumbs_holder.find('ul').width(thumbs_width);
+                self.$thumbs_holder.addClass('need-to-scroll');
+            }
+
+        },
+
+        adjustLayout: function()
+        {
+            var self = this;
+
+            var window_height = $(window).height();
+
+            if (window_height < 600 && (window_height / $(window).width()) < 0.6) {
+                self.$thumbs_holder.hide();
+                self.$gallery_counter.hide();
+            } else {
+                self.$thumbs_holder.show();
+                self.$gallery_counter.show();
+            }
+
+            var top_bar_height = self.$gallery_top_bar.height();
+            //var main_content_height = self.$items.height();
+            var thumbs_height = self.$thumbs_holder.height();
+            self.main_content_height = window_height - top_bar_height;
+
+            self.$items.height( self.main_content_height );
+            $('.resp-gallery-main-picture').css( "max-height", self.main_content_height-40 );
+        },
+
+        handleButtons: function()
+        {
+            var self = this;
+
+            /*self.$gallery_info.off('click').on('click', function(){ // info panel on/off
+                self.$gallery_holder.toggleClass('info-on');
+                self.centerActiveImage(true);
+            });*/
+
+            self.$gallery_close.off('click').on('click', function(e){ // bezaras
+                e.stopPropagation();
+                self.hideGallery();
+            });
+
+            if( self.$gallery_items.length > 1 )
+            {
+                self.$gallery_left.off('click').on( 'click', function(){ // balra
+                    if( ! self.in_progress )
+                    {
+                        self.in_progress = true;
+                        self.navigate('left');
+                    }
+                });
+
+                self.$gallery_right.off('click').on( 'click', function(){ // jobbra
+                    if( ! self.in_progress )
+                    {
+                        self.in_progress = true;
+                        self.navigate('right');
+                    }
+                });
+            }
+
+            self.$gallery_counter.off('click').on( 'click', function(){ // thumbs on/off
+                if( self.$gallery_holder.hasClass('thumbs-on') ) {
+                    self.$gallery_holder.removeClass('thumbs-on');
+                    self.$items.height( '+=' + self.$thumbs_holder.height() );
+                } else {
+                    self.$gallery_holder.addClass('thumbs-on');
+                    self.$items.height( '-=' + self.$thumbs_holder.height() );
+                }
+
+                var new_main_picture_max_height = self.$items.height() - 40;
+                $('.resp-gallery-main-picture').css( "max-height", new_main_picture_max_height );
+                self.centerActiveImage(true);
+            });
+
+            self.$new_tab_button.off('click').on( 'click', function(){ // kep megnyitasa uj tabon
+                var $active_li_img = self.$items.find('li.active .resp-gallery-main-picture');
+                window.open( $active_li_img.attr('src') );
+            });
+        },
+        handleKeys: function()
+        {
+            var self = this;
+
+            self.$body.on('keyup', function (e) {
+                if( self.$body.is('.modal-on')) // csak ha latszik a galeria es nem aktiv a meta szerkeszto
+                {
+                    switch(e.keyCode)
+                    {
+                        case 37:
+                            if( self.$gallery_items.length > 1 )
+                                self.$gallery_left.click();
+                            break;
+                        case 39:
+                            if( self.$gallery_items.length > 1 )
+                                self.$gallery_right .click();
+                            break;
+                        case 27:
+                            self.$gallery_close.click();
+                            break;
+                        /*case 73:
+                            self.$gallery_info.click();
+                            break;*/
+                        case 84:
+                            self.$gallery_counter.click();
+                            break;
+                    }
+                }
+            });
+        },
+        handleThumbsClick: function()
+        {
+            var self = this;
+
+            self.$thumbs.off('click').on('click', function(e){
+                e.preventDefault();
+
+                self.current_index = self.$thumbs.index( $(this) );
+
+                self.$items_list.removeClass('active');
+                self.$thumbs.removeClass('active');
+
+                $( self.$items_list[ self.current_index ] ).addClass('active');
+                $( self.$thumbs[ self.current_index ] ).addClass('active');
+
+                self.$counter_current.html( self.current_index + 1 );
+
+                self.loadActiveImage();
+            });
+        },
+        loadActiveImage: function()
+        {
+            var self = this;
+
+            var $active_li = self.$items.find('li.active');
+            var $active_li_image_resolution =  $active_li.find('.image-resolution');
+            var $active_li_img = $active_li.find('.resp-gallery-main-picture');
+            var active_li_img_src = $active_li_img.data('src');
+
+            self.$main_title.html( self.$gallery_wrapper.data('nev') );
+
+            if( self.current_index == 0 )
+                self.$gallery_holder.addClass('first-image');
+            else
+                self.$gallery_holder.removeClass('first-image');
+
+            if( self.current_index == ( self.$gallery_items.length-1 ) )
+                self.$gallery_holder.addClass('last-image');
+            else
+                self.$gallery_holder.removeClass('last-image');
+
+            $active_li_img.hide();
+            //self.$image_loader.show();
+
+            $active_li_img.on('load', function() {
+                self.centerActiveImage();
+                //self.$image_loader.hide();
+                var img_resolution = $active_li_img.prop('naturalWidth') + 'x' + $active_li_img.prop('naturalHeight');
+                $active_li_image_resolution.html( img_resolution );
+                $active_li_img.fadeIn('fast');
+                self.scrollThumbs();
+            }).attr('src', active_li_img_src);
+        },
+        centerActiveImage: function(animation) {
+            var self = this;
+            animation = typeof animation !== 'undefined' ? true : false;
+            var $active_li_img = self.$items.find('li.active .resp-gallery-main-picture'); // a kep
+            var $active_li_texts = self.$items.find('li.active .resp-gallery-main-picture-texts'); // a leiras
+            var active_li_img_height = $active_li_img.height(); // a kep magassaga
+            var active_li_texts_height = $active_li_texts.length ? $active_li_texts.height() : 0; // a leiras magassaga
+            var main_content_height = self.$items.height(); // befoglalo magassaga
+            var img_max_height = main_content_height - active_li_texts_height - 50;
+
+            var pic_real_width, pic_real_height;
+
+            if(!window.pic_real_width && !window.pic_real_height) {
+                window.pic_real_width=[];
+                window.pic_real_height=[];
+            }
+
+
+            if(!window.pic_real_width[$active_li_img.attr("src")] && !window.pic_real_height[$active_li_img.attr("src")]) {
+                $("<img/>") // Make in memory copy of image to avoid css issues
+                    .attr("src", $active_li_img.attr("src"))
+                    .load(function() {
+                        pic_real_width = this.width;   // Note: $(this).width() will not
+                        pic_real_height = this.height; // work for in memory images.
+
+						window.pic_real_width[$active_li_img.attr("src")]=pic_real_width;
+						window.pic_real_height[$active_li_img.attr("src")]=pic_real_height;
+						$active_li_img.css("width",'100%');
+						$active_li_img.css("height",'100%');
+
+						max_width=$active_li_img.height()*(pic_real_width/pic_real_height); //img heigh<absolute_max_height
+
+						abs_max_width=$(window).width()-20;
+						if(max_width>abs_max_width){
+							max_height=abs_max_width/(pic_real_width/pic_real_height);
+							$active_li_img.css( "max-width" , abs_max_width+"px");
+							$active_li_img.css( "max-height" , max_height+"px");
+						}else{
+							$active_li_img.css( "max-width" , max_width+"px");
+						}
+                    });
+
+                $active_li_img.css( "max-height", img_max_height );
+            }else{
+                pic_real_width=window.pic_real_width[$active_li_img.attr("src")];
+                pic_real_height=window.pic_real_height[$active_li_img.attr("src")];
+                $active_li_img.css("width",'auto');
+                $active_li_img.css("height",'100%');
+                
+                max_width=$active_li_img.height()*(pic_real_width/pic_real_height); //img heigh<absolute_max_height
+                abs_max_width=$(window).width()-20;
+                
+                if(max_width>abs_max_width){
+                    max_height=abs_max_width/(pic_real_width/pic_real_height);
+                    $active_li_img.css( "max-width" , abs_max_width+"px");
+                    $active_li_img.css( "max-height" , max_height+"px");
+                }else{
+                    $active_li_img.css( "max-width" , max_width+"px");
+                }
+            }
+            
+
+
+            var image_margin_top = 10; //( main_content_height - $active_li_img.height() - active_li_texts_height ) / 2;
+            
+            if( ! animation )
+                $active_li_img.css('margin-top', image_margin_top+'px');
+            else
+                $active_li_img.animate({
+                    marginTop: image_margin_top + 'px'
+                }, 200);
+        },
+        scrollThumbs: function()
+        {
+            var self = this;
+
+            if( self.$thumbs_holder.hasClass('need-to-scroll') ) {
+                var thumb_width = $( self.$thumbs[ 0 ] ).outerWidth( true ) ;
+                var shift = thumb_width * self.current_index;
+                self.$thumbs_holder.animate({scrollLeft: shift}, 200)
+            }
+        },
+        showGallery: function()
+        {
+            var self = this;
+
+            self.$body.addClass('modal-on');
+            self.$gallery_holder.addClass('opened');
+        },
+        hideGallery: function()
+        {
+            var self = this;
+
+            self.$body.removeClass('modal-on');
+            self.$gallery_holder.removeClass('opened');
+            self.$items_list.removeClass('active');
+        },
+        // Navigalas
+        navigate: function( direction )
+        {
+            var self = this;
+
+            if( direction == 'right')
+            {
+                var next_index = ( self.current_index >= ( self.$gallery_items.length - 1 ) ) ? 0 : ( self.current_index + 1);
+                var counter = next_index + 1;
+            }
+            else
+            {
+                var next_index = ( self.current_index < 1 ) ? ( self.$gallery_items.length - 1 ) : ( self.current_index - 1);
+                var counter = next_index + 1;
+            }
+
+            self.$infoholder.removeClass('editor-on loader-on');
+            self.$gallery_holder.removeClass('editor-on');
+
+            $( self.$items_list[ self.current_index ] ).removeClass('active');
+            $( self.$items_list[ self.current_index ] ).promise().done(function(){
+                $( self.$items_list[ next_index ] ).addClass('active');
+
+                self.$thumbs.removeClass('active');
+                $( self.$thumbs[ next_index ] ).addClass('active');
+
+                self.current_index = next_index;
+                self.$counter_current.html( counter );
+                self.loadActiveImage();
+                self.in_progress = false;
+            });
+
+            self.$document.trigger('gallery_nav_' + direction );  // dobunk egy gallery nav eventet
+        },
+    };
+
+    $.fn.responsiveGallery = function( options, clickable ) {
+        var gallery = Object.create( Gallery );
+        gallery.init( options, this, clickable );
+    };
+
+    $.fn.responsiveGallery.options = {
+    }
+
+})( jQuery, window, document );

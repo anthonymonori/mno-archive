@@ -1,0 +1,22 @@
+/*
+function checkHeight_full() {
+    $('.banner.banner-horizontal.banner-full').each(function() {
+        var h = $(this).height();
+        if (h < 10) {
+            $(this).remove();
+        }
+    });
+}
+
+window.onGoa3Invocation = function( response, pageIID ) {
+    setTimeout(function() {
+        checkHeight_full();
+    }, 2000);
+};
+
+$(window).load(function() {
+    setTimeout(function() {
+        checkHeight_full();
+    }, 10000);
+});
+*/

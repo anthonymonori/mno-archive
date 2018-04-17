@@ -1,0 +1,9 @@
+/**
+ * Created by bedekovits on 2017.03.13..
+ */
+$('.weather-region').on('change', function() {
+    var region = $(this).val();
+    $('.weather-forecast-region').removeClass('show');
+    $('.weather-forecast-region.forecast-' + region).addClass('show');
+});
+$('.weather-region').trigger('change');

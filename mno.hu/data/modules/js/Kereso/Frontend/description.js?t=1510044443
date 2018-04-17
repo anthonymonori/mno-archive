@@ -1,0 +1,67 @@
+$(document).ready(function(){
+    $('#datestart_txtf, #dateend_txtf').each(function() {
+        var pickr = $(this).flatpickr({
+            locale: 'hu',
+            dateFormat: 'Y. m. d.',
+            defaultDate: $(this).val(),
+            onOpen: function(selectedDates, dateStr, instance) {
+                $('.flatpickr-input.active').each(function() {
+                    if (this != instance.element && $(this).data('pickr')) {
+                        $(this).data('pickr').close();
+                    }
+                });
+            }
+        });
+        $(this).data('pickr', pickr);
+    });
+    $('#datestart_txtf').on('change', function() {
+        if (!$('#datestart_txtf').val()) {
+            return false;
+        }
+        var date_start, date_end, date_start_ts, date_end_ts;
+        var monthes = ['01','02','03','04','05','06','07','08','09','10','11','12'];
+        date_start = new Date($('#datestart_txtf').val().split('. '));
+        date_start_ts = date_start.getTime() / 1000;
+        if (date_end = ($('#dateend_txtf').val() ? new Date($('#dateend_txtf').val().split('. ')) : false)) {
+            date_end_ts = date_end.getTime() / 1000;
+        }
+        if ((date_start_ts && !date_end_ts && date_start_ts < (new Date().getTime() / 1000) - (365 * 24 * 60 * 60)) ||
+            (date_start_ts && date_end_ts && date_end_ts > date_start_ts + (365 * 24 * 60 * 60))) {
+            var one_year = new Date((date_start.getFullYear() + 1), date_start.getMonth(), date_start.getDate());
+            var day = one_year.getDate().toString();
+            if (day.length < 2) {
+                day = '0' + day;
+            }
+            $('#dateend_txtf').val(one_year.getFullYear() + '. ' + monthes[one_year.getMonth()] + '. ' + day + '.');
+        }
+    });
+    $('#dateend_txtf').on('change', function() {
+        if (!$('#dateend_txtf').val()) {
+            return false;
+        }
+        var date_start, date_end, date_start_ts, date_end_ts;
+        var monthes = ['01','02','03','04','05','06','07','08','09','10','11','12'];
+        date_end = new Date($('#dateend_txtf').val().split('. '));
+        date_end_ts = date_end.getTime() / 1000;
+        if (date_start = ($('#datestart_txtf').val() ? new Date($('#datestart_txtf').val().split('. ')) : false)) {
+            date_start_ts = date_start.getTime() / 1000;
+        }
+        if (date_start_ts && date_end_ts && date_end_ts > date_start_ts + (365 * 24 * 60 * 60)) {
+            var one_year = new Date((date_end.getFullYear() - 1), date_end.getMonth(), date_end.getDate());
+            var day = one_year.getDate().toString();
+            if (day.length < 2) {
+                day = '0' + day;
+            }
+            $('#datestart_txtf').val(one_year.getFullYear() + '. ' + monthes[one_year.getMonth()] + '. ' + day + '.');
+        }
+    });
+    $('.datepicker.flatpickr').on('click', function() {
+        var selector = '#' + $(this).data('input');
+        if ($(selector).is('.active')) {
+            $(selector).data('pickr').close();
+        } else {
+            $(selector).trigger('focus');
+        }
+        return false;
+    });
+});

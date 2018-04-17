@@ -1,0 +1,6 @@
+$(document).ready(function(){
+	$('.szerzo-description .open-up').click(function(){ 
+		$('.szerzo-description .box.szerzo-second').css('max-height','1000px');
+		$('.szerzo-description .open-up').hide();
+	});
+});

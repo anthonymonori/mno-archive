@@ -1,0 +1,6 @@
+$(document).ready(function(){
+	$('.kiemeltcimke-description .open-up').click(function(){
+		$('.kiemeltcimke-description .box.kiemeltcimke-second').css('max-height','1000px');
+		$('.kiemeltcimke-description .open-up').hide();
+	});
+});
