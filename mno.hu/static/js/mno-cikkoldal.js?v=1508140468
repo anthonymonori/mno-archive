@@ -1,0 +1,260 @@
+
+var cikkoldal_resize = false;
+var cikkoldal = {
+    kepek_galeriaba: [],
+};
+cikkoldal.socials = function() {
+    $('.share-container a.window-open').on('click', function() {
+        window.open($(this).attr('href'), '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');
+        return false;
+    });
+    $('.share-container a.icon-more').on('click', function() {
+        $(this).closest('.icons').find('.more-icons').toggleClass('opened');
+        return false;
+    });
+    if (!$('.comments').length) {
+        $('a[href="#comments"]').remove();
+    }
+};
+cikkoldal.parse_kepek = function() {
+    // itt fuzzuk fel az oldalon talalhato kepeket a kepgaleriaba (elsonek a lead kepet, ha van, majd a tobbi beszurt kepet)
+    if (lead_kep = $('.box-cikkoldal .header .img-container:not(.weather-map)').get(0)) {
+        var kep = {
+            elem: $(lead_kep),
+            nev: ((_nev = $(lead_kep).find('.cikkepcim').get(0)) ? $.trim($(_nev).text()) : ''),
+            alt: (((_img = $(lead_kep).find('img').get(0)) && $(_img).attr('alt')) ? $.trim($(_img).attr('alt')) : ''),
+            leiras: ((_leiras = $(lead_kep).find('.description').get(0)) ? $.trim($(_leiras).text()) : ''),
+            szerzo: ((_szerzo = $(lead_kep).find('.fotos.szerzo').get(0)) ? $.trim($(_szerzo).text()) : ''),
+        };
+        if (kep.szerzo.substring(0, 5) == 'Fotó:') {
+            kep.szerzo = $.trim(kep.szerzo.substring(5));
+        }
+        var forras = '';
+        if (_forras = $(lead_kep).find('.fotos.forras').get(0)) {
+            forras = $(_forras).text();
+            if (forras.substring(0, 7) == 'Forrás:') {
+                forras = $.trim(forras.substring(7));
+            }
+            if (kep.szerzo) {
+                kep.szerzo += ' / ';
+            }
+            kep.szerzo += forras;
+        }
+        cikkoldal.kepek_galeriaba.push(kep);
+    }
+
+    $('div.image.image-div > .cikkkeptable').each(function() {
+        if (!$.trim($(this).text()).length) {
+            $(this).closest('div.image.image-div').addClass('empty');
+        }
+
+        var kep = {
+            elem: $(this).parent(),
+            nev: ((_nev = $(this).find('.cikkepcim').get(0)) ? $.trim($(_nev).text()) : ''),
+            alt: (((_img = $(this).find('img').get(0)) && $(_img).attr('alt')) ? $.trim($(_img).attr('alt')) : ''),
+            leiras: ((_leiras = $(this).find('.cikkepalairas').get(0)) ? $.trim($(_leiras).text()) : ''),
+            szerzo: ((_szerzo = $(this).find('.cikkepszerzo').get(0)) ? $.trim($(_szerzo).text()) : ''),
+        };
+        if (kep.szerzo.substring(0, 5) == 'Fotó:') {
+            kep.szerzo = $.trim(kep.szerzo.substring(5));
+        }
+        cikkoldal.kepek_galeriaba.push(kep);
+    });
+
+    if (cikkoldal.kepek_galeriaba.length) {
+        // a skip-auto-val megakadalyozzuk, hogy a galeria osztaly automatikusan felepitse belole a galeria-t
+        var ul = $('<ul id="responsive-gallery-holder-cikk" class="responsive-gallery-holder" data-skip-auto="true"></ul>');
+        ul.data('nev', $('.box-cikkoldal .header h1').text());
+        ul.data('leiras', $('.box-cikkoldal .content-header .lead').text());
+        $.each(cikkoldal.kepek_galeriaba, function(index, kep) {
+            var img = kep.elem.find('img');
+
+            img.addClass('responsive-gallery-cikk-clickable');
+
+            var data = '';
+            var path = (img.data('origsrc') ? img.data('origsrc') : img.attr('src'));
+            if (path.substring(0, 5) == '/data') {
+                path = path.substring(5);
+            }
+            var file = path.substring(path.lastIndexOf('/') + 1);
+            data += ' data-path="' + path + '" data-file="' + file + '"';
+            if (kep.nev) { data += ' data-nev="' + kep.nev + '"'; }
+            if (kep.alt) { data += ' data-alt="' + kep.alt + '"'; }
+            if (kep.leiras) { data += ' data-leiras="' + kep.leiras + '"'; }
+            if (kep.szerzo) { data += ' data-szerzo="' + kep.szerzo + '"'; }
+            var li = $('<li class="responsive-gallery-item"' + data + '></li>');
+            ul.append(li);
+        });
+        $('body').append(ul);
+        ul.responsiveGallery({}, $('.responsive-gallery-cikk-clickable'));
+    }
+};
+cikkoldal.disqus = function() {
+    $('#comments-open, .comments-opener').on('click', function() {
+        $('#comments').show();
+        //localStorage.setItem('open-comments', 'open');
+        return false;
+    });
+    $('[href="#comments"]').on('click', function() {
+        $('#comments-open').trigger('click');
+        var top = $('#comments-open').offset().top - 40;
+        $('html, body').animate({
+            scrollTop: top
+        }, 300);
+    });
+    /*
+    if (localStorage.getItem('open-comments') == 'open') {
+        $('#comments-open').trigger('click');
+    }*/
+};
+cikkoldal.print = function() {
+    $('.icon-print').on('click', function(e) {
+        window.print();
+        return false;
+    });
+};
+cikkoldal.plus18 = function() {
+    if ($('#plus18-content').length) {
+		$('#plus18-content .plus18-agree').on('click', function() {
+            $('#plus18-content, #plus18-overlay').hide();
+            $('#plus18-content, #plus18-overlay').hide();
+			var ts = Math.floor(new Date().getTime() / 1000);
+			window.localStorage.setItem('plus18', ts);
+			return false;
+		});
+		$('#plus18-content .plus18-disagree').on('click', function() {
+		    window.history.back();
+			return false;
+        });
+    }
+	if ($('.plus18-content').length) {
+		$('.plus18-content .plus18-agree').on('click', function() {
+			$('.plus18-content').hide();
+			var ts = Math.floor(new Date().getTime() / 1000);
+			window.localStorage.setItem('plus18', ts);
+			return false;
+		});
+		$('.plus18-content .plus18-disagree').on('click', function() {
+			$('.plus18-content').each(function() {
+			    $(this).parent().remove();
+            });
+			return false;
+		});
+		if (window.localStorage.getItem("plus18") &&
+            window.localStorage.getItem("plus18") > (new Date().getTime() / 1000) - 86400) {
+			$('.plus18-content').hide();
+		}
+	}
+};
+
+// Az oldalsavban esetlegesen jelenlevo helykitolto cikkek megjeleneset szabalyozza
+cikkoldal.handleSidePlaceholders = function () {
+    var $box_cikk_tartalom = $('.article-page #block-cikkoldal');
+    var $box_sidebar = $('.article-page .box.box-sidebar');
+    var $placeholder_boxes = $('.article-page .box.box-placeholder');
+
+    var tartalom_height=$box_cikk_tartalom.height();
+
+    if($('.back-to-home').length>0){ //nem az egész cikk doboz magassága kell csak a vissza a címlapra csíkig.
+        tartalom_height=$('.back-to-home').offset().top-$('.article-page #block-cikkoldal').offset().top;
+    }
+
+    if( $box_cikk_tartalom.length && $box_sidebar.length && $placeholder_boxes.length // Ha megvan minden ami itt szamit
+        && tartalom_height < $box_sidebar.height() ) // es a cikk tartalom magassaga kisebb mint az oldalsav
+    {
+
+        this.manageSidePlaceholderBoxes(tartalom_height, $box_sidebar.height(), $placeholder_boxes);
+    }
+};
+
+cikkoldal.manageSidePlaceholderBoxes = function (cikk_tartalom_height, sidebar_height, $placeholder_boxes) {
+    var placeholder_box_height = $placeholder_boxes.eq(0).outerHeight(); // Milyen magas egy cikk doboz az oldalsavban
+    for(var i = $placeholder_boxes.length -1; i >= 0; i--) { // Legalso doboztol indulva vegigmegyunk rajtuk
+        if(cikk_tartalom_height < sidebar_height) {
+            $placeholder_boxes.eq(i).remove(); // Lekapkodjuk az egyes cikkdobozokat addig, amig az oldalsav kisebb nem lesz mint a cikk tartalom, vagy amig el nem fogynak a cikkdobozok
+            sidebar_height -= placeholder_box_height;
+
+            if(i == 0)
+                $('.cikk-list-placeholder-header').remove();
+        }
+        else
+            break;
+    }
+};
+
+var percrol_percre = {};
+percrol_percre.scroll = function() {
+    if( $('.direct-link-item').length ) { // Percrol perce oldalon gorgetes a kozvetlenul linkelt bejegyzeshez
+        $('html, body').animate({
+            scrollTop: $(".direct-link-item").offset().top
+        }, 400);
+    }
+};
+
+$(window).on('resize', function() {
+    clearTimeout(cikkoldal_resize);
+    cikkoldal_resize = setTimeout(function() {
+
+    }, 100);
+});
+
+var done=false;
+
+$(document).scroll(function(){
+    
+    if(!done && $('#more-articles-placeholder')){
+        var t=$('#more-articles-placeholder').offset();
+        if(window.scrollY+window.innerHeight+100>t.top){
+            var cid=$('#more-articles-placeholder').attr('data-id');
+            var id=$('#more-articles-placeholder').attr('data-channel');
+            $.ajax({
+                url: "/?block=Layout_Cikkoldal_Tovabbicikkek_Ajax&cid="+cid+"&id="+id+"&ajax=1",
+                async: false,
+                dataType: 'JSON',
+                success: function(result){
+                    if(result.data){
+                        done=true;
+
+                        var elem = $(result.data);
+                        $('#block-cikkoldal').append(elem);
+
+                        $(window).trigger('resize');
+                    }
+                }
+            });
+        }
+    } 
+});
+
+$(document).ready(function() {
+
+    cikkoldal.parse_kepek();
+    cikkoldal.disqus();
+    cikkoldal.print();
+	cikkoldal.plus18();
+	cikkoldal.socials();
+    cikkoldal.handleSidePlaceholders();
+});
+$(window).on('load', function() {
+    percrol_percre.scroll();
+
+    /*
+    var disqusPublicKey = "V9sRAjrwkw5N3hAFQhtnl9C8OqbAhIqY7toa5VwcpqH1KAAZ1zsA1tN5es3fk7DI";
+    var disqusShortname = "mnohu";
+    var thread_id = $('.disqus-comment-count').data('disqus-identifier');
+    $.ajax({
+        type: 'GET',
+        url: "https://disqus.com/api/3.0/threads/set.json",
+        data: { api_key: disqusPublicKey, forum : disqusShortname, thread : ['ident:' + thread_id] },
+        cache: false,
+        dataType: 'json',
+        success: function (result) {
+            if (result && result.response && result.response[0] && result.response[0].posts) {
+                $('.disqus-comment-count').append('<span>' + result.response[0].posts + '</span>');
+            } else {
+                $('.disqus-comment-count').append('<span>0</span>');
+            }
+        }
+    });
+    */
+});

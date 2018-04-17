@@ -1,0 +1,60 @@
+$.fn.focuspoint = function() {
+    var wrapper = this, img = $(this).children('img, picture');
+    if (img.is('picture')) {
+        img = img.children('img');
+    }
+    if (!img.length)
+        return;
+    var x = parseFloat($(wrapper).data('focus-x')), y = parseFloat($(wrapper).data('focus-y')) * -1;
+    if (isNaN(x)) { x = 0; }
+    if (isNaN(y)) { y = 0; }
+
+    var x_thres = (img.width() - $(wrapper).width()) / 2, y_thres = (img.height() - $(wrapper).height()) / 2;
+    if (x != 0 && x_thres > 0) {
+        var left = ($(img).width() / 2 * (x + 1) - ($(wrapper).width() / 2)) * -1;
+        if (left > 0) {
+            left = 0;
+        } else if (left < $(wrapper).width() - $(img).width()) {
+            left = $(wrapper).width() - $(img).width();
+        }
+        img.css('left', left + 'px');
+    } else {
+        img.css('left', '-' + x_thres + 'px');
+    }
+    if (y != 0 && y_thres > 0) {
+        var top = ($(img).height() / 2 * (y + 1) - ($(wrapper).height() / 2)) * -1;
+        if (top > 0) {
+            top = 0;
+        } else if (top < $(wrapper).height() - $(img).height()) {
+            top = $(wrapper).height() - $(img).height();
+        }
+        img.css('top', top + 'px');
+    } else {
+        img.css('top', '-' + y_thres + 'px');
+    }
+};
+$('.focuspoint').each(function() {
+    if ($(this).data('focus-x') || $(this).data('focus-y')) {
+        var img = $(this).children('img, picture');
+        img.on('load', function() {
+            $(this).parent().focuspoint();
+        });
+        img.trigger('load');
+    }
+});
+var focuspoint_resize_timer = false;
+$(window).resize(function() {
+    if (focuspoint_resize_timer) {
+        clearTimeout(focuspoint_resize_timer);
+    }
+    focuspoint_resize_timer = setTimeout(function() {
+        $('.focuspoint').each(function() {
+            if ($(this).data('focus-x') || $(this).data('focus-y')) {
+                $(this).focuspoint();
+            }
+        });
+    }, 100);
+});
+$(window).load(function() {
+    $(window).trigger('resize');
+});

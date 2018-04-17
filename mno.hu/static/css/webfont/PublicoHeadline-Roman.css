@@ -1,0 +1,12 @@
+/* Webfont: PublicoHeadline-Roman */@font-face {
+    font-family: 'PublicoHeadline';
+    src: url('PublicoHeadline-Roman.eot'); /* IE9 Compat Modes */
+    src: url('PublicoHeadline-Roman.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('PublicoHeadline-Roman.woff') format('woff'), /* Modern Browsers */
+         url('PublicoHeadline-Roman.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('PublicoHeadline-Roman.svg#PublicoHeadline-Roman') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

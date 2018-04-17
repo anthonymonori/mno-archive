@@ -1,0 +1,72 @@
+if (typeof _banners !== "undefined" && _banners) {
+    var to_delete = ['xs', 'sm'];
+    var to_show = 'lg';
+
+    var w = Math.max(document.documentElement.clientWidth, window.innerWidth || 0);
+    if (w < 614) {
+        to_delete = ['sm', 'lg'];
+        to_show = 'xs';
+    } else if (w > 613 && w < 1238) {
+        to_delete = ['xs', 'lg'];
+        to_show = 'sm';
+    }
+
+    for (var i = 0; i < to_delete.length; i++) {
+        for (var j = 0; j < _banners[to_delete[i]].length; j++) {
+            var item_to_delete = document.getElementById(_banners[to_delete[i]][j]);
+            item_to_delete.parentNode.removeChild(item_to_delete); // IE doesn't support the remove() native JS function, but does support removeChild()
+        }
+    }
+    for (var i = 0; i < _banners[to_show].length; i++) {
+        document.getElementById(_banners[to_show][i]).style = 'display: block';
+    }
+
+	_banners = false;
+}
+
+
+
+function checkHeight_cikk() {
+    $('.banner-media').each(function() {
+        $(this).removeClass('xs-min-height');
+        var h = $(this).height();
+        if (h < 10) {
+            $(this).remove();
+        }
+    });
+}
+function checkHeight_full() {
+    $('.banner.banner-horizontal.banner-full').each(function() {
+        $(this).removeClass('xs-min-height');
+        var h = $(this).height();
+        if (h < 10) {
+            $(this).remove();
+        }
+    });
+}
+function checkHeight() {
+    $('.banner.banner-horizontal.banner-nonfix').each(function() {
+        $(this).removeClass('xs-min-height');
+        var h = $(this).height();
+        if (h < 10) {
+            $(this).remove();
+        }
+    });
+}
+window.onGoa3Invocation = function( response, pageIID ) {
+    setTimeout(function() {
+        checkHeight_cikk();
+        checkHeight_full();
+        checkHeight();
+    }, 2000);
+};
+
+$(window).on('load', function() {
+
+    setTimeout(function() {
+        checkHeight_cikk();
+        checkHeight_full();
+        checkHeight();
+    }, 10000);    
+
+});

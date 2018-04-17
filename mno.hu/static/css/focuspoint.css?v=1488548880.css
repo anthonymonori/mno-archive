@@ -1,0 +1,32 @@
+.focuspoint {
+  display: block;
+  position: relative;
+  overflow: hidden; }
+  .focuspoint > img, .focuspoint > picture, .focuspoint > picture > img {
+    position: absolute;
+    display: block;
+    margin: 0;
+    width: auto;
+    height: auto;
+    min-width: 100%;
+    min-height: 100%;
+    max-width: none;
+    max-height: none;
+    left: 0;
+    top: 0;
+    -webkit-transition: all 0.2s;
+    -moz-transition: all 0.2s;
+    -ms-transition: all 0.2s;
+    -o-transition: all 0.2s;
+    transition: all 0.2s; }
+
+.focuspoint[data-focus-x="0"][data-focus-y="0"] > img, .focuspoint[data-focus-x="0"][data-focus-y="0"] > picture, .focuspoint[data-focus-x="0"][data-focus-y="0"] > picture > img {
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  -moz-transform: translateX(-50%) translateY(-50%);
+  -ms-transform: translateX(-50%) translateY(-50%);
+  -o-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+  left: 50%;
+  top: 50%; }
+
+/*# sourceMappingURL=focuspoint.css.map */

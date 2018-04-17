@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="76.236px"
+	 height="48.357px" viewBox="0 0 76.236 48.357" enable-background="new 0 0 76.236 48.357" xml:space="preserve">
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  height="48.357" width="76.236" y="-445.228" x="258.94" bottomLeftOrigin="true"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<g>
+	<path fill="#6E6F72" d="M65.528,24.804c4.249,2.194,6.796,4.905,6.796,7.851c0,7.27-15.315,13.164-34.206,13.164
+		c-18.891,0-34.206-5.894-34.206-13.164c0-2.946,2.546-5.657,6.795-7.851C4.09,27.305,0,30.702,0,34.453
+		c0,7.679,17.066,13.904,38.118,13.904s38.118-6.225,38.118-13.904C76.236,30.702,72.146,27.305,65.528,24.804z"/>
+	<path fill="#6E6F72" d="M55.123,26.525c2.636,1.361,4.216,3.043,4.216,4.871c0,4.511-9.501,7.875-21.222,7.875
+		c-11.721,0-21.222-3.364-21.222-7.875c0-1.828,1.58-3.51,4.216-4.871c-4.106,1.552-6.643,3.659-6.643,5.986
+		c0,4.764,10.588,8.626,23.649,8.626s23.649-3.862,23.649-8.626C61.767,30.184,59.229,28.077,55.123,26.525z"/>
+	<path fill="#6E6F72" d="M45.279,28.323c1.11,0.573,1.776,1.281,1.776,2.051c0,1.9-4.001,2.849-8.937,2.849
+		c-4.936,0-8.937-0.95-8.937-2.849c0-0.77,0.665-1.478,1.775-2.051c-1.729,0.653-2.797,1.541-2.797,2.521
+		c0,2.006,4.576,3.887,10.077,3.887s9.842-1.88,9.842-3.887C48.077,29.864,47.008,28.976,45.279,28.323z"/>
+	<path fill="#6E6F72" d="M47.129,17.769c0,5.016-4.066,9.082-9.082,9.082s-9.082-4.066-9.082-9.082S38.047,0,38.047,0
+		S47.129,12.753,47.129,17.769z"/>
+</g>
+</svg>
