@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Csókás Adrienn]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/csokas-adrienn-20479</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 22:22:28 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Rászállt az ovisokra a reklámipar]]></title>
+   <link>http://mno.hu/belfold/celkeresztben-az-ovodas-korosztaly-1321207?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Csókás Adrienn</author>
+   <enclosure url="http://mno.hu/data/cikkek/1321/13212/cikk-1321207/ovodas_teve_media.jpg" length="185439" type="image/jpeg"/>
+   <description><![CDATA[A médiakampányok is veszélyt jelenthetnek a gyerekekre. A reklámokra nem vonatkozik a korhatár-besorolási kötelezettség.]]></description>
+   <category>Belföld</category>
+   <pubDate>Tue, 29 Dec 2015 13:29:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Terápia nélkül az autista gyerekek]]></title>
+   <link>http://mno.hu/belfold/terapia-nelkul-az-autista-gyerekek-1314155?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Csókás Adrienn</author>
+   <enclosure url="http://mno.hu/data/cikkek/1314/13141/cikk-1314155/BA20140520_2332.jpg" length="111126" type="image/jpeg"/>
+   <description><![CDATA[Országszerte gondok vannak a fejlesztőpedagógia területén, a nevelési problémákkal küzdő diákok jó része nem kapja meg a szükséges terápiát.]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 16 Nov 2015 07:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az orvosok és a jogászok szívnak jövőre a felvételin]]></title>
+   <link>http://mno.hu/belfold/nehezebb-lesz-a-felveteli-1313751?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Csókás Adrienn</author>
+   <enclosure url="http://mno.hu/data/cikkek/1313/13137/cikk-1313751/MNO_HM20150723_5023.jpg" length="324096" type="image/jpeg"/>
+   <description><![CDATA[A leendő orvosoknak két, jogászoknak legalább egy emelt szintű vizsga kell majd.]]></description>
+   <category>Belföld</category>
+   <pubDate>Fri, 13 Nov 2015 08:20:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kötelezővé teszik a szünidei étkeztetést]]></title>
+   <link>http://mno.hu/belfold/kotelezove-teszik-a-szunidei-etkeztetest-1313636?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Csókás Adrienn</author>
+   <enclosure url="http://mno.hu/data/cikkek/1313/13136/cikk-1313636/etkeztetes.jpg" length="243299" type="image/jpeg"/>
+   <description><![CDATA[Az őszi, téli és tavaszi szünetek alatt eddig szinte sehol nem kaptak enni a rászoruló gyermekek.]]></description>
+   <category>Belföld</category>
+   <pubDate>Thu, 12 Nov 2015 12:43:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Sok az agresszív tanár a diákok szerint]]></title>
+   <link>http://mno.hu/belfold/sok-az-agressziv-tanar-a-diakok-szerint-1313197?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Csókás Adrienn</author>
+   <enclosure url="http://mno.hu/data/cikkek/1313/13131/cikk-1313197/043_12457892.jpg" length="203532" type="image/jpeg"/>
+   <description><![CDATA[A diákok 20 százaléka legalább heti gyakorisággal tapasztal bántalmazó tanári viselkedést vagy durva, megalázó pedagógusi szóhasználatot.]]></description>
+   <category>Belföld</category>
+   <pubDate>Tue, 10 Nov 2015 09:41:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Politika lett az iskolai foci]]></title>
+   <link>http://mno.hu/belfold/politika-lett-az-iskolai-foci-1313022?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Csókás Adrienn, Katona Mariann, Lipiczky Ágnes</author>
+   <enclosure url="http://mno.hu/data/cikkek/1313/13130/cikk-1313022/MNO_HM20140624_2006.jpg" length="578451" type="image/jpeg"/>
+   <description><![CDATA[Módosulhat a kerettantervekről szóló rendelet. Heti két tornaórát labdarúgásra is fordíthatnak az intézmények.]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 09 Nov 2015 06:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Elavulttá váltak a kötelező olvasmányok]]></title>
+   <link>http://mno.hu/belfold/elavultta-valtak-a-kotelezo-olvasmanyok-1312874?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Csókás Adrienn</author>
+   <enclosure url="http://mno.hu/data/cikkek/1312/13128/cikk-1312874/Olvasoterem_ogyk_uj_fekvo_lead.jpg" length="148517" type="image/jpeg"/>
+   <description><![CDATA[Görcsösen ragaszkodunk a nemzeti kincsnek számító művekhez. Sokkal több kortárs és populáris ifjúsági irodalom kellene az iskolába.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sat, 07 Nov 2015 14:29:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Siker: mégis lehetnek szenvedélybetegek a tanárok]]></title>
+   <link>http://mno.hu/belfold/finomitjak-a-pedagogus-etikai-kodexet-1312267?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Csókás Adrienn</author>
+   <enclosure url="http://mno.hu/data/cikkek/1312/13122/cikk-1312267/MNO_BA20140506_8166.jpg" length="330701" type="image/jpeg"/>
+   <description><![CDATA[Kikerülnek a legtöbbet kritizált magatartási ajánlások a dokumentumból; november közepén dönthetnek a szabályokról.]]></description>
+   <category>Belföld</category>
+   <pubDate>Wed, 04 Nov 2015 10:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Riasztó a lemorzsolódás a felsőoktatásban]]></title>
+   <link>http://mno.hu/belfold/riaszto-a-lemorzsolodas-a-felsooktatasban-1311100?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Csókás Adrienn</author>
+   <enclosure url="http://mno.hu/data/cikkek/1311/13111/cikk-1311100/oktatas1.jpg" length="91960" type="image/jpeg"/>
+   <description><![CDATA[Az informatikushallgatók zöme menet közben kiesik az egyetemről.]]></description>
+   <category>Belföld</category>
+   <pubDate>Wed, 28 Oct 2015 06:56:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Év közben is megkezdhető az óvoda]]></title>
+   <link>http://mno.hu/belfold/ev-kozben-is-megkezdheto-az-ovoda-1310965?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Csókás Adrienn</author>
+   <enclosure url="http://mno.hu/data/cikkek/1310/13109/cikk-1310965/ovoda_szb20150422_5028.jpg" length="368130" type="image/jpeg"/>
+   <description><![CDATA[Csaknem öt és fél ezer férőhely létrehozására nyertek el támogatást az önkormányzatok.]]></description>
+   <category>Belföld</category>
+   <pubDate>Tue, 27 Oct 2015 13:02:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Egyre erősebb a kínai vonal a magyar oktatásban]]></title>
+   <link>http://mno.hu/belfold/keves-a-kulfoldi-diak-a-magyar-egyetemeken-1310805?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Csókás Adrienn</author>
+   <enclosure url="http://mno.hu/data/cikkek/1310/13108/cikk-1310805/fiatal_egyetem_iskola_oktatas.jpg" length="88098" type="image/jpeg"/>
+   <description><![CDATA[Leginkább az orvosi képzések miatt jönnek hozzánk más országokból. A műszaki és a gazdasági szakokat erősítené a tárca.]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 26 Oct 2015 20:16:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[„Kitehetjük a megtelt táblát”]]></title>
+   <link>http://mno.hu/belfold/kitehetjuk-a-megtelt-tablat-1309937?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Csókás Adrienn</author>
+   <enclosure url="http://mno.hu/data/cikkek/1309/13099/cikk-1309937/Szel_Agoston.jpg" length="121687" type="image/jpeg"/>
+   <description><![CDATA[A Semmelweis Egyetemen emelnék a külföldi hallgatók tandíját.]]></description>
+   <category>Belföld</category>
+   <pubDate>Tue, 20 Oct 2015 12:30:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Indul a keresztféléves felvételi]]></title>
+   <link>http://mno.hu/belfold/indul-a-keresztfeleves-felveteli-1309767?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Csókás Adrienn</author>
+   <enclosure url="http://mno.hu/data/cikkek/1309/13097/cikk-1309767/BA20150116_4180.jpg" length="118141" type="image/jpeg"/>
+   <description><![CDATA[A legdrágább képzés a Corvinuson van, 600 ezer forintba kerül félévente.]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 19 Oct 2015 06:20:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Több szakiskolás tanuló kap ösztöndíjat]]></title>
+   <link>http://mno.hu/belfold/tobb-szakiskolas-tanulo-kap-osztondijat-1309239?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Csókás Adrienn</author>
+   <enclosure url="http://mno.hu/data/cikkek/1309/13092/cikk-1309239/autoszerelU_grid2_fekvo_lead.jpg" length="61484" type="image/jpeg"/>
+   <description><![CDATA[Aki jól tanul, akár harmincezer forinthoz is juthat.]]></description>
+   <category>Belföld</category>
+   <pubDate>Thu, 15 Oct 2015 10:38:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Túlterheli a tanárokat a fideszes rendszer]]></title>
+   <link>http://mno.hu/belfold/tulterhelik-a-tanarokat-1309023?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Csókás Adrienn</author>
+   <enclosure url="http://mno.hu/data/cikkek/1309/13090/cikk-1309023/MNO_HM20131108_0405_grid2_fekvo_lead.jpg" length="82058" type="image/jpeg"/>
+   <description><![CDATA[A KLIK iskoláiban dolgozók 80 százalékának több órája van, mint az életpályamodell bevezetését megelőzően. ]]></description>
+   <category>Belföld</category>
+   <pubDate>Wed, 14 Oct 2015 10:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Sok új diplomás „termelődhet” hazánkban]]></title>
+   <link>http://mno.hu/belfold/ezerketszaz-diplomamento-1308420?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Csókás Adrienn</author>
+   <enclosure url="http://mno.hu/data/cikkek/1308/13084/cikk-1308420/diploma.jpg" length="242699" type="image/jpeg"/>
+   <description><![CDATA[A próbálkozók 90 százaléka már sikeresen nyelvvizsgát tett.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sat, 10 Oct 2015 08:11:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nagyobb elsimerésre vágynak a tanárok]]></title>
+   <link>http://mno.hu/belfold/jutalmat-akarnak-a-tanarok-1307865?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Csókás Adrienn</author>
+   <enclosure url="http://mno.hu/data/cikkek/1307/13078/cikk-1307865/horvath_peter.jpg" length="283586" type="image/jpeg"/>
+   <description><![CDATA[Több ponton is módosítana a tanári életpályamodell szabályain a Nemzeti Pedagóguskar.]]></description>
+   <category>Belföld</category>
+   <pubDate>Wed, 07 Oct 2015 09:26:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nem szűrik ki az alkalmatlan tanárjelöltet]]></title>
+   <link>http://mno.hu/belfold/nem-sokat-er-a-tanari-palyaalkalmassagi-szures-1307249?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Csókás Adrienn</author>
+   <enclosure url="http://mno.hu/data/cikkek/1307/13072/cikk-1307249/tanar_fekvo_grid2_fekvo_lead.jpg" length="55399" type="image/jpeg"/>
+   <description><![CDATA[Könnyű bejutni a pedagógia szakokra, de sok hallgató már a diplomázás előtt rájön: rosszul döntött.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sat, 03 Oct 2015 14:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nincsenek felkészülve több kiskorú fogadására]]></title>
+   <link>http://mno.hu/belfold/nincsenek-felkeszulve-tobb-kiskoru-fogadasara-1307041?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Csókás Adrienn</author>
+   <enclosure url="http://mno.hu/data/cikkek/1307/13070/cikk-1307041/Nemzetkozi_Ifjusagi_Haz_grid2_fekvo_lead.jpg" length="110539" type="image/jpeg"/>
+   <description><![CDATA[Újranyitnák a bezárt otthonokat, de azok egy részét már eladta az állam.]]></description>
+   <category>Belföld</category>
+   <pubDate>Fri, 02 Oct 2015 06:15:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Még mindig kevés a tornaterem]]></title>
+   <link>http://mno.hu/belfold/meg-mindig-keves-a-tornaterem-1306844?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Csókás Adrienn</author>
+   <description><![CDATA[Az iskolák több mint egyharmadában gondot okoz a testnevelésórák megszervezése.]]></description>
+   <category>Belföld</category>
+   <pubDate>Thu, 01 Oct 2015 07:42:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hatszáz kis iskola még kitart]]></title>
+   <link>http://mno.hu/belfold/hatszaz-kis-iskola-meg-kitart-1306101?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Csókás Adrienn</author>
+   <enclosure url="http://mno.hu/data/cikkek/1306/13061/cikk-1306101/HM20150417_168.jpg" length="92755" type="image/jpeg"/>
+   <description><![CDATA[A faluszövetség szerint a települések csaknem felében nincs oktatás.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sat, 26 Sep 2015 16:05:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Újratervezés a karait vesztett Corvinuson]]></title>
+   <link>http://mno.hu/belfold/ujratervezes-a-karait-vesztett-corvinuson-1306103?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Csókás Adrienn</author>
+   <enclosure url="http://mno.hu/data/cikkek/1306/13061/cikk-1306103/BA20150917_2160.jpg" length="211834" type="image/jpeg"/>
+   <description><![CDATA[Új kart alapítanak, vidéki telephelyet nyitnak, egy sor szervezeti átalakítást hajtanak végre.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sat, 26 Sep 2015 06:33:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nem lesz elég a kettes]]></title>
+   <link>http://mno.hu/belfold/nem-lesz-eleg-a-kettes-az-ingyenes-helyhez-1305906?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Csókás Adrienn</author>
+   <enclosure url="http://mno.hu/data/cikkek/1305/13059/cikk-1305906/felsUoktatas.jpg" length="177657" type="image/jpeg"/>
+   <description><![CDATA[Képzési területenként eltérő átsorolási kritériumokat állapított meg a szaktárca a felsőoktatásban.]]></description>
+   <category>Belföld</category>
+   <pubDate>Fri, 25 Sep 2015 08:15:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ombudsman: Nem nagyon tudják eltüntetni a nyomokat]]></title>
+   <link>http://mno.hu/belfold/ombudsmani-vizsgalat-menekultugyben-1305546?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Csókás Adrienn</author>
+   <enclosure url="http://mno.hu/data/cikkek/1305/13055/cikk-1305546/BA20150917_2009_grid2_fekvo_lead.jpg" length="52419" type="image/jpeg"/>
+   <description><![CDATA[Inkognitóban is körülnézett a déli határon Székely László; hamarosan jönnek a migránsjelentések.]]></description>
+   <category>Belföld</category>
+   <pubDate>Wed, 23 Sep 2015 06:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Visszavennék az iskolák működtetését]]></title>
+   <link>http://mno.hu/belfold/visszavennek-az-iskolak-mukodteteset-1305014?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Csókás Adrienn</author>
+   <description><![CDATA[Egy tárcaközi bizottság döntött a települések kezdeményezéseiről. Csupán tizenhárom önkormányzat kérelmét támogatták.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sat, 19 Sep 2015 07:05:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Klik: jelentősen csökkent a tartozás]]></title>
+   <link>http://mno.hu/belfold/klik-jelentosen-csokkent-a-tartozas-1304510?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Csókás Adrienn</author>
+   <description><![CDATA[Az elmaradások legnagyobb része áruszállításokhoz köthető.]]></description>
+   <category>Belföld</category>
+   <pubDate>Wed, 16 Sep 2015 06:35:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Van felmentés a tanfelügyelet alól]]></title>
+   <link>http://mno.hu/belfold/van-felmentes-a-tanfelugyelet-alol-1304024?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Csókás Adrienn</author>
+   <description><![CDATA[Az Oktatási Hivatalhoz fordulhat, aki el akarja kerülni a szakmai ellenőrzést.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sat, 12 Sep 2015 05:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Előnyös is lehet az agyelszívás]]></title>
+   <link>http://mno.hu/belfold/elonyos-is-lehet-az-agyelszivas-1303946?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Csókás Adrienn</author>
+   <description><![CDATA[A külföldi tapasztalattal bíró fiatalok alkalmazása valódi versenyelőnyt jelenthet a hazai munkaadóknak.]]></description>
+   <category>Belföld</category>
+   <pubDate>Fri, 11 Sep 2015 16:24:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[PPP: vidéki főiskolák szabadulnak elsőként]]></title>
+   <link>http://mno.hu/belfold/ppp-videki-foiskolak-szabadulnak-elsokent-1303857?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Csókás Adrienn</author>
+   <enclosure url="http://mno.hu/data/cikkek/1303/13038/cikk-1303857/egyetem_3.jpg" length="119430" type="image/jpeg"/>
+   <description><![CDATA[Az ötven PPP-projekt közül huszonhat esetben tett javaslatot kiváltásra 2018-ig a szakminisztérium.]]></description>
+   <category>Belföld</category>
+   <pubDate>Fri, 11 Sep 2015 06:18:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Év közben is teher az iskoláztatás]]></title>
+   <link>http://mno.hu/belfold/ev-kozben-is-teher-az-iskolaztatas-1303108?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Csókás Adrienn</author>
+   <description><![CDATA[Jelentősen lefaragja a költségeket a térítésmentes tankönyvellátás kiterjesztése.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sat, 05 Sep 2015 07:35:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

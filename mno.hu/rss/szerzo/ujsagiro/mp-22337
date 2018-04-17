@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: MP]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/mp-22337</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Sun, 15 Apr 2018 00:15:58 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Szír hétköznapok: szelfi egy bombával]]></title>
+   <link>http://mno.hu/kulfold/foto-egy-fel-nem-robbant-bombaval-1312584?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MP</author>
+   <enclosure url="http://mno.hu/data/cikkek/1312/13125/cikk-1312584/K_EPA20151105084_grid2_fekvo_lead.jpg" length="72369" type="image/jpeg"/>
+   <description><![CDATA[Edzés a ködben, afgán harcosok és Madonna-koncert a nap képein.]]></description>
+   <category>Külföld</category>
+   <pubDate>Thu, 05 Nov 2015 19:44:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Válogatás az elmúlt 24 óra legjobb képeiből]]></title>
+   <link>http://mno.hu/eletmod/valogatas-az-elmult-24-ora-legjobb-kepeibol-1297615?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MP</author>
+   <description><![CDATA[Fényinstalláció Kapolcson, kosárlabdaedzés a naplementében a nap legjobb fotóin.]]></description>
+   <category>Életmód</category>
+   <pubDate>Wed, 29 Jul 2015 15:40:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Embertelen körülmények közé kerültek a vendégmunkások]]></title>
+   <link>http://mno.hu/f22/embertelen-korulmenyek-koze-kerultek-a-vendegmunkasok-1285044?utm_source=feed&amp;utm_medium=rss</link>
+   <author>SZF, MP</author>
+   <description><![CDATA[A 2022-es labdarúgó-világbajnokság infrastruktúrájának kiépítésén dolgozó külföldieket szinte rabszolgaként dolgoztatják.]]></description>
+   <category>Fotó (f22)</category>
+   <pubDate>Thu, 07 May 2015 16:05:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

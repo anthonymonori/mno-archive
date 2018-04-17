@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Dávid Ferenc]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/david-ferenc-29172</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 23:49:30 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Az MSZP haláltusája]]></title>
+   <link>http://mno.hu/velemeny/az-mszp-halaltusaja-2424871?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Dávid Ferenc</author>
+   <enclosure url="http://mno.hu/data/cikkek/2424/24248/cikk-2424871/MNO_NBB_20140913_7108.jpg" length="324845" type="image/jpeg"/>
+   <description><![CDATA[Nemcsak egy párt miniszterelnök-jelöltje bukott el nemrégiben, hanem a testületeken áterőltetett, nívótlan programterv is.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Wed, 01 Nov 2017 19:04:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

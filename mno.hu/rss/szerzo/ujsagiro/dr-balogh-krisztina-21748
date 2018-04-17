@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: dr. Balogh Krisztina]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/dr-balogh-krisztina-21748</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 06:04:41 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Öröklés és ajándékozás - hogyan oldható meg?]]></title>
+   <link>http://mno.hu/korabbipartnereink/orokles-es-ajandekozas-hogyan-oldhato-meg-1269252?utm_source=feed&amp;utm_medium=rss</link>
+   <author>dr. Balogh Krisztina</author>
+   <description><![CDATA[Az ajándékozás nem lehet a hagyatéki eljárás része, csupán az örökölt vagyon.]]></description>
+   <category>Korábbi partnereink</category>
+   <pubDate>Sat, 24 Jan 2015 09:28:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Vita támadt az aukciós portálon eladott műszaki cikk miatt]]></title>
+   <link>http://mno.hu/korabbipartnereink/vita-tamadt-az-aukcios-portalon-eladott-muszaki-cikk-miatt-1262973?utm_source=feed&amp;utm_medium=rss</link>
+   <author>dr. Balogh Krisztina</author>
+   <description><![CDATA[Nálam még működött a berendezés, a vevőnél – állítólag – hibák jelentkeztek. Feljelentett. Mire számíthatok?]]></description>
+   <category>Korábbi partnereink</category>
+   <pubDate>Sat, 13 Dec 2014 12:33:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Még mindig nem kapom a családi pótlékot és a gyest]]></title>
+   <link>http://mno.hu/korabbipartnereink/meg-mindig-nem-kapom-a-csaladi-potlekot-es-a-gyest-1259858?utm_source=feed&amp;utm_medium=rss</link>
+   <author>dr. Balogh Krisztina</author>
+   <description><![CDATA[Időben igényeltem a családi pótlékot és a gyest, a kisfiam már hat hónapos, de még mindig nem kaptam semmit.]]></description>
+   <category>Korábbi partnereink</category>
+   <pubDate>Mon, 24 Nov 2014 15:31:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

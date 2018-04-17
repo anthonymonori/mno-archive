@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Erdős Miklós]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/erdos-miklos-29353</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Fri, 13 Apr 2018 13:17:37 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Úgy kezdődött, hogy ő visszaütött]]></title>
+   <link>http://mno.hu/velemeny/ugy-kezdodott-hogy-o-visszautott-2430438?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Erdős Miklós</author>
+   <enclosure url="http://mno.hu/data/cikkek/2430/24304/cikk-2430438/SZB_4508.jpg" length="379069" type="image/jpeg"/>
+   <description><![CDATA[Íródhat-e történet, amivel jobban ránk lehetne ijeszteni, mint ahogyan a kormány teszi?]]></description>
+   <category>Vélemény</category>
+   <pubDate>Tue, 28 Nov 2017 19:45:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Szekeres Nóra]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/szekeres-nora-24336</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 05:13:53 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Minek nevezzelek?]]></title>
+   <link>http://mno.hu/konyveshaz/minek-nevezzelek-2401031?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szekeres Nóra</author>
+   <enclosure url="http://mno.hu/data/cikkek/2401/24010/cikk-2401031/vamos_miklos_estje_hattyuk_dala_original_90924.jpg" length="117286" type="image/jpeg"/>
+   <description><![CDATA[Vámos Miklós legújabb regénye tulajdonképpen nem is regény, ahogy erre maga a szerző is felhívja a figyelmet. ]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Thu, 01 Jun 2017 15:08:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az énfejlődés útjai]]></title>
+   <link>http://mno.hu/konyveshaz/az-enfejlodes-utjai-1387313?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szekeres Nóra</author>
+   <enclosure url="http://mno.hu/data/cikkek/1387/13873/cikk-1387313/B288259_896_504_1487847598.JPG" length="46761" type="image/jpeg"/>
+   <description><![CDATA[Az Amerikában 2013-ban kiadott Az Aranypintyre tizenkét évet kellett várniuk a rajongóknak, ám úgy tűnik, megérte.]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Fri, 24 Feb 2017 09:27:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Merész hajtűkanyarok]]></title>
+   <link>http://mno.hu/konyveshaz/meresz-hajtukanyarok-1352649?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szekeres Nóra</author>
+   <enclosure url="http://mno.hu/data/cikkek/1352/13526/cikk-1352649/samela-27-avagy-halal-teszi-a-muveszt-head.jpg" length="109956" type="image/jpeg"/>
+   <description><![CDATA[A 27 – avagy halál teszi a művészt rendhagyó történetébe önéletrajzi utalásokat is szövő író merészen keveri a szálakat.]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Wed, 20 Jul 2016 13:34:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Halálom órája]]></title>
+   <link>http://mno.hu/konyveshaz/halalom-oraja-1347103?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szekeres Nóra</author>
+   <enclosure url="http://mno.hu/data/cikkek/1347/13471/cikk-1347103/fernanda_torres_veg_grid2_fekvo_lead.jpg" length="66687" type="image/jpeg"/>
+   <description><![CDATA[Elhibázott életek, megnyomorított lelkek az Oscar-díjra jelölt brazil színésznő első szépirodalmi kísérletében.]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Sun, 19 Jun 2016 15:21:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nők a tűzvonalban: el nem sírt könnyek]]></title>
+   <link>http://mno.hu/konyveshaz/el-nem-sirt-konnyek-1338267?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szekeres Nóra</author>
+   <enclosure url="http://mno.hu/data/cikkek/1338/13382/cikk-1338267/000_ARP3442706.jpg" length="710405" type="image/jpeg"/>
+   <description><![CDATA[Asszonyok vallanak leplezetlenül a „nagy honvédő háborúban” eltöltött éveikről, sokkoló történeteikről. ]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Thu, 21 Apr 2016 10:47:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

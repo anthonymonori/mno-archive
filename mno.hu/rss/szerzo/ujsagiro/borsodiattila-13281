@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Borsodi Attila]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/borsodiattila-13281</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 22:08:38 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Óriási különbségek a nyugdíjaknál]]></title>
+   <link>http://mno.hu/gazdasag/oriasi-kulonbsegek-a-nyugdijaknal-1277901?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Borsodi Attila</author>
+   <description><![CDATA[Budapesten az átlagosnál magasabb az öregségi juttatás.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Thu, 19 Mar 2015 06:20:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Lentulai Krisztián: Minden egyes interjúalany egy új történet]]></title>
+   <link>http://mno.hu/belfold/lentulai-krisztian-minden-egyes-interjualany-egy-uj-tortenet-1277538?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Borsodi Attila</author>
+   <description><![CDATA[A Lánchíd Rádió szerkesztő-műsorvezetőjének adományozta a Magyar Innovációs Szövetség a 2014. évi médiadíjat.]]></description>
+   <category>Belföld</category>
+   <pubDate>Tue, 17 Mar 2015 04:45:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Jobbikos városok elszámolása ]]></title>
+   <link>http://mno.hu/belfold/jobbikos-varosok-elszamolasa-1276629?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Borsodi Attila</author>
+   <description><![CDATA[Az ellenzék településenként eltérő véleménnyel van a radikális párt munkájáról.]]></description>
+   <category>Belföld</category>
+   <pubDate>Wed, 11 Mar 2015 06:25:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Jajkiáltás Kárpátaljáról]]></title>
+   <link>http://mno.hu/belfold/jajkialtas-karpataljarol-1275167?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Borsodi Attila</author>
+   <description><![CDATA[Az anyaországtól remélnek támogatást.]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 02 Mar 2015 05:45:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Egyre erősödő bevándorlási hullámok]]></title>
+   <link>http://mno.hu/belfold/egyre-erosodo-bevandorlasi-hullamok-1275169?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Borsodi Attila</author>
+   <description><![CDATA[Mi zsilipország vagyunk, a nagyobb teher viszont Olaszországra és Spanyolországra nehezedik.]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 02 Mar 2015 05:30:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Utcára vonulhat a cigányság]]></title>
+   <link>http://mno.hu/belfold/utcara-vonulhat-a-ciganysag-1273916?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Borsodi Attila</author>
+   <description><![CDATA[A Híd a munka világába roma felzárkóztatási program pénzköltéseit kifogásolják.]]></description>
+   <category>Belföld</category>
+   <pubDate>Fri, 20 Feb 2015 21:40:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Csődbiztos az ORÖ élén?]]></title>
+   <link>http://mno.hu/belfold/csodbiztos-az-oro-elen-1273721?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Borsodi Attila</author>
+   <description><![CDATA[Forgács István szerint is aggályos lehet az ötmilliárdos költés.]]></description>
+   <category>Belföld</category>
+   <pubDate>Fri, 20 Feb 2015 05:19:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A bombának nem jár le a szavatossága]]></title>
+   <link>http://mno.hu/belfold/a-bombanak-nem-jar-le-a-szavatossaga-1267249?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Velkei Tamás, Borsodi Attila</author>
+   <description><![CDATA[A magyar tűzszerészek tapasztalata szerint még első világháborús tüzérségi lövedék is képes lett volna a pusztításra.]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 12 Jan 2015 05:06:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Bizakodó települések]]></title>
+   <link>http://mno.hu/belfold/bizakodo-telepulesek-1265932?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Borsodi Attila</author>
+   <description><![CDATA[Vidéken nagyon várják az európai uniós fejlesztési pénzeket.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sat, 03 Jan 2015 09:32:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Rekordot döntöttek az illegális migránsok]]></title>
+   <link>http://mno.hu/belfold/rekordot-dontottek-az-illegalis-migransok-1265662?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Nagy Áron, Borsodi Attila</author>
+   <description><![CDATA[Vannak hetek, amikor annyi az illegális bevándorló, mint az ezredforduló környékén egy teljes évben.]]></description>
+   <category>Belföld</category>
+   <pubDate>Wed, 31 Dec 2014 12:21:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Háborognak a polgármesterek ]]></title>
+   <link>http://mno.hu/belfold/haborognak-a-polgarmesterek-1264082?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Borsodi Attila</author>
+   <description><![CDATA[A falvakat irányító politikusok visszakérik a korábbi bérüket.]]></description>
+   <category>Belföld</category>
+   <pubDate>Fri, 19 Dec 2014 05:45:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ünnep a börtön falai között]]></title>
+   <link>http://mno.hu/belfold/unnep-a-borton-falai-kozott-1263894?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Borsodi Attila</author>
+   <description><![CDATA[Nekem a legnagyobb karácsonyi ajándék a fogvatartottak megtérése – mondta Kemenes Gábor börtönlelkész, Nagykovácsi plébánosa. Interjú.]]></description>
+   <category>Belföld</category>
+   <pubDate>Thu, 18 Dec 2014 07:20:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Összehangolt elrettentő akció földön és levegőben]]></title>
+   <link>http://mno.hu/belfold/elrettento-akcio-foldon-es-levegoben-1257649?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Borsodi Attila</author>
+   <description><![CDATA[Helikopterrel, speciális deszantterepjáróval és fél tucat földi járművel kutatta a rendőrség a fatolvajokat.]]></description>
+   <category>Belföld</category>
+   <pubDate>Tue, 11 Nov 2014 06:30:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Patthelyzet több városban]]></title>
+   <link>http://mno.hu/belfold/patthelyzet-tobb-varosban-1253332?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Borsodi Attila</author>
+   <description><![CDATA[Működésképtelenné válhat több jobbikos és baloldali vezetésű város, ha a választáson győztes polgármester vagy az ellenzék erői nem tudnak többséget kialakítani a képviselő-testületben. ]]></description>
+   <category>Belföld</category>
+   <pubDate>Wed, 15 Oct 2014 06:24:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Fejlesztésre költik a támogatásokat ]]></title>
+   <link>http://mno.hu/belfold/fejlesztesre-koltik-a-tamogatasokat-1252656?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Borsodi Attila</author>
+   <description><![CDATA[Több adósságkonszolidációban részt nem vett település is felhasználta már az államtól kapott támogatást.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sat, 11 Oct 2014 05:30:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Olaszliszka szelleme kísértett]]></title>
+   <link>http://mno.hu/belfold/olaszliszka-szelleme-kisertett-1252428?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Borsodi Attila</author>
+   <description><![CDATA[Két fiatalembert majdnem meglincseltek Felsőzsolcán egy elsodort gyermek rokonai; a Magyar Nemzet a helyszínen járt.]]></description>
+   <category>Belföld</category>
+   <pubDate>Fri, 10 Oct 2014 05:20:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nyíregyházán kapós lett a polgármesteri szék]]></title>
+   <link>http://mno.hu/belfold/nyiregyhazan-kapos-lett-a-polgarmesteri-szek-1252144?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Borsodi Attila</author>
+   <description><![CDATA[A kormánypártok szerint Nyíregyházán megkezdődött az önkormányzati rendszerváltás. Nem fordulnának vissza!]]></description>
+   <category>Belföld</category>
+   <pubDate>Wed, 08 Oct 2014 19:23:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kétmilliárdos gyarapodás Balatonföldváron]]></title>
+   <link>http://mno.hu/belfold/ketmilliardos-gyarapodas-balatonfoldvaron-1251991?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Borsodi Attila</author>
+   <description><![CDATA[Holovits Huba, a Fidesz–KDNP polgármesterjelöltje: Nincs más választásunk, nekünk a turizmusból kell megélnünk.]]></description>
+   <category>Belföld</category>
+   <pubDate>Wed, 08 Oct 2014 05:42:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nagykanizsa régiós vezető szerepre tör]]></title>
+   <link>http://mno.hu/belfold/nagykanizsa-regios-vezeto-szerepre-tor-1252084?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Borsodi Attila</author>
+   <description><![CDATA[Dénes Sándor, a Fidesz–KDNP polgármesterjelöltje: Az irány jó, folytatnám a megkezdett munkát!]]></description>
+   <category>Belföld</category>
+   <pubDate>Tue, 07 Oct 2014 22:37:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Zalaegerszeg történelmi lehetőség előtt]]></title>
+   <link>http://mno.hu/belfold/zalaegerszeg-tortenelmi-lehetoseg-elott-1252083?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Borsodi Attila</author>
+   <description><![CDATA[Céljaink megvalósításához erős helyi gazdaság kell – mondja Balaicz Zoltán, a Fidesz–KDNP polgármesterjelöltje.]]></description>
+   <category>Belföld</category>
+   <pubDate>Tue, 07 Oct 2014 22:32:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Baloldali uralom után jobboldali fordulat?]]></title>
+   <link>http://mno.hu/belfold/baloldali-uralom-utan-jobboldali-fordulat-1252080?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Borsodi Attila</author>
+   <description><![CDATA[Kondorné Sztojka Ágnes: Kazincbarcikáért dolgoznék, és nem a városból akarok hasznot húzni.]]></description>
+   <category>Belföld</category>
+   <pubDate>Tue, 07 Oct 2014 21:22:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Visszakapaszkodás a szakadék széléről]]></title>
+   <link>http://mno.hu/belfold/visszakapaszkodas-a-szakadek-szelerol-1252069?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Borsodi Attila</author>
+   <description><![CDATA[Országos példa lett a munka + tanulás program.]]></description>
+   <category>Belföld</category>
+   <pubDate>Tue, 07 Oct 2014 20:55:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Bevált a stabilitási törvény]]></title>
+   <link>http://mno.hu/gazdasag/bevalt-a-stabilitasi-torveny-1251568?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Borsodi Attila</author>
+   <description><![CDATA[Jelentősen csökkent az önkormányzati hitelfelvételek száma és az összegek nagysága.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Mon, 06 Oct 2014 06:25:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Budaörsön újabb csúcsra törnek a kormánypártok]]></title>
+   <link>http://mno.hu/belfold/budaorson-ujabb-csucsokra-tornek-a-kormanypartok-1251075?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Borsodi Attila</author>
+   <description><![CDATA[Az ex-SZDSZ-es polgármester szédül a létrán, a Fidesz–KDNP lendületet venne a Pest megyei városban.]]></description>
+   <category>Belföld</category>
+   <pubDate>Fri, 03 Oct 2014 19:25:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Új erőkkel és szellemiséggel Esztergomért]]></title>
+   <link>http://mno.hu/belfold/uj-erokkel-es-szellemiseggel-esztergomert-1251137?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Borsodi Attila</author>
+   <description><![CDATA[Turisztikai, kulturális és idegenforgalmi központtá változtatná a várost Romanek Etelka, a Fidesz–KDNP polgármesterjelöltje.]]></description>
+   <category>Belföld</category>
+   <pubDate>Fri, 03 Oct 2014 04:21:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Baloldali törvénysértés Miskolcon]]></title>
+   <link>http://mno.hu/belfold/baloldali-torvenysertes-miskolcon-1249335?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Borsodi Attila</author>
+   <description><![CDATA[Pásztor Albert, a baloldal miskolci polgármesterjelöltje jogszabályellenesen függetlennek hirdette magát.]]></description>
+   <category>Belföld</category>
+   <pubDate>Tue, 23 Sep 2014 17:21:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Tovább nyomoznak a volt MSZP-s polgármester ellen]]></title>
+   <link>http://mno.hu/belfold/tovabb-nyomoznak-a-volt-mszp-s-polgarmester-ellen-1248407?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Borsodi Attila</author>
+   <description><![CDATA[Ha megjön egy szakértői vélemény, lezárhatják a Gyurcsány egykori tanácsadója, Érsek Zsolt elleni nyomozást.]]></description>
+   <category>Belföld</category>
+   <pubDate>Thu, 18 Sep 2014 17:20:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szakértői véleményre várnak]]></title>
+   <link>http://mno.hu/belfold/szakertoi-velemenyre-varnak-1248357?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Borsodi Attila</author>
+   <description><![CDATA[Így zárható le a Hatvan volt MSZP-s polgármestere elleni nyomozás.]]></description>
+   <category>Belföld</category>
+   <pubDate>Thu, 18 Sep 2014 05:44:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az állam stabilizálta az önkormányzatokat]]></title>
+   <link>http://mno.hu/belfold/az-allam-stabilizalta-az-onkormanyzatokat-1240587?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Borsodi Attila, Szabó Zsolt</author>
+   <description><![CDATA[Pogácsás Tibor: Nagy változásra nincs szükség a feladatfinanszírozási rendszerben.]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 04 Aug 2014 06:15:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Egyeztetés után jöhet a felszámolás]]></title>
+   <link>http://mno.hu/belfold/egyeztetes-utan-johet-a-felszamolas-1240396?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Borsodi Attila</author>
+   <description><![CDATA[Három helyszínen folyik a miskolci nyomortelepek megszüntetésének műszaki és jogi előkészítése, a legjelentősebb érintett terület a számozott utcák városrész – tudtuk meg Schweickhardt Gyula polgármesteri biztostól, akit Kriza Ákos, Miskolc első embere nevezett ki a program felügyeletére.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sat, 02 Aug 2014 07:00:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

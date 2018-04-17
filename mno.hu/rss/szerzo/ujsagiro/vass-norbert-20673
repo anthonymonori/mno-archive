@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Vass Norbert]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/vass-norbert-20673</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Wed, 11 Apr 2018 09:11:52 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Országunkat egy posztért]]></title>
+   <link>http://mno.hu/velemeny/orszagunkat-egy-posztert-2458929?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vass Norbert</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24589/cikk-2458929/000_12Y854.jpg" length="289049" type="image/jpeg"/>
+   <description><![CDATA[A jelszó lesz az új útlevél, az emotikon pedig a XXI. századi lingua franca?]]></description>
+   <category>Vélemény</category>
+   <pubDate>Tue, 10 Apr 2018 19:55:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Sorsmásító módszerek egy elsüllyedt világból]]></title>
+   <link>http://mno.hu/konyveshaz/sorsmasito-modszerek-egy-elsullyedt-vilagbol-2458553?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vass Norbert</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24585/cikk-2458553/ritus.jpg" length="355395" type="image/jpeg"/>
+   <description><![CDATA[Áfra János a sokszólamú bemutatkozó és szempárközeli második kötetét követően ezúttal a személytelen megszólalást választotta]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Tue, 10 Apr 2018 19:19:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A lapozgatásnak makacsul ellenáll]]></title>
+   <link>http://mno.hu/konyveshaz/a-lapozgatasnak-makacsul-ellenall-2457178?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vass Norbert, Ficsor Benedek, Lakner Dávid</author>
+   <enclosure url="http://mno.hu/data/cikkek/2457/24571/cikk-2457178/Szazadelo_konyvek_896_504_1522767432.jpg" length="49995" type="image/jpeg"/>
+   <description><![CDATA[A századelő irodalma: vakfoltok és féloldalasság a Magyar Napló gigászi trilógiájában.]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Tue, 03 Apr 2018 19:45:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Elkészült a magyar zenei underground Így írtok ti-ja]]></title>
+   <link>http://mno.hu/grund/elkeszult-a-magyar-zenei-underground-igy-irtok-ti-ja-2455582?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vass Norbert</author>
+   <enclosure url="http://mno.hu/data/cikkek/2455/24555/cikk-2455582/VL20180321_8849.jpg" length="359632" type="image/jpeg"/>
+   <description><![CDATA[Darvas Benedekkel és Czitrom Ádámmal beszélgettünk, akik katalógusszerű karikatúralemezt készítettek a kedvenc előadóik dalaiból.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Wed, 28 Mar 2018 21:27:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nem hittek semmiben, csak abban: minden lehetséges]]></title>
+   <link>http://mno.hu/grund/nem-hittek-semmiben-csak-abban-minden-lehetseges-2454553?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vass Norbert</author>
+   <enclosure url="http://mno.hu/data/cikkek/2454/24545/cikk-2454553/MNO_Monks_896_504_1521570160.jpg" length="59289" type="image/jpeg"/>
+   <description><![CDATA[A Monks azért fordította ki a könnyűzene külsőségeit, hogy a hidegháború mélyén lapuló őrületre mutasson rá.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Tue, 20 Mar 2018 20:25:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kővé vált imák]]></title>
+   <link>http://mno.hu/magazinpublicisztika/kove-valt-imak-2450973?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vass Norbert</author>
+   <enclosure url="http://mno.hu/data/cikkek/2450/24509/cikk-2450973/DSC_1965x.jpg" length="746255" type="image/jpeg"/>
+   <description><![CDATA[Ahelyett, hogy úgy éreznénk, keretek közé szorít, lehetőségként kellene a böjtre gondolnunk.]]></description>
+   <category>Publicisztika a Magazinban</category>
+   <pubDate>Sun, 11 Mar 2018 21:41:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hogy lett végleg a fura az új nem fura?]]></title>
+   <link>http://mno.hu/film/hogy-lett-vegleg-a-fura-az-uj-nem-fura-2451543?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vass Norbert</author>
+   <enclosure url="http://mno.hu/data/cikkek/2451/24515/cikk-2451543/000_11X5GC_896_504_1520273265.jpg" length="50515" type="image/jpeg"/>
+   <description><![CDATA[Így nyert Oscart Guillermo del Toro a Trumppal terhelt, posztweinsteini és #metoo-sokkból ébredező Hollywoodban. Simán!]]></description>
+   <category>Szuperplán</category>
+   <pubDate>Mon, 05 Mar 2018 19:26:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A gyógyegérkülsejű balladai hős és a zene halálának napja]]></title>
+   <link>http://mno.hu/grund/a-gyogyeger-kulseju-balladai-hos-es-a-zene-halalanak-napja-2448296?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vass Norbert</author>
+   <enclosure url="http://mno.hu/data/cikkek/2448/24482/cikk-2448296/000_Was3016731_896_504_1519133319.jpg" length="73334" type="image/jpeg"/>
+   <description><![CDATA[Kanonizálta a színpadokon a rövidlátást, de másért is hála jár neki – 60 éve jelent meg Buddy Holly második lemeze.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Tue, 20 Feb 2018 15:17:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Tűz, szél, füst és harmat]]></title>
+   <link>http://mno.hu/konyveshaz/tuz-szel-fust-es-harmat-2446624?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vass Norbert</author>
+   <enclosure url="http://mno.hu/data/cikkek/2446/24466/cikk-2446624/maxresdefault_.jpg" length="103859" type="image/jpeg"/>
+   <description><![CDATA[Kamo no Csómei szövege csaknem egy évezred messzeségéből és több ezer kilométer távolságából szól bár, mégis időszerű.]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Tue, 13 Feb 2018 19:49:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kalapács alatt Dalí rágógumiszerű csontfigurái]]></title>
+   <link>http://mno.hu/grund/kalapacs-alatt-dali-ragogumiszeru-csontfigurai-2445871?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vass Norbert</author>
+   <enclosure url="http://mno.hu/data/cikkek/2445/24458/cikk-2445871/dali2.jpg" length="104732" type="image/jpeg"/>
+   <description><![CDATA[Február 28-án 1,8, illetve 1,2 millió fontról indul értük a licit.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Thu, 08 Feb 2018 17:17:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Csillámjelmezbe bújt, korszerű képregényfigurák]]></title>
+   <link>http://mno.hu/grund/csillamjelmezbe-bujt-korszeru-kepregenyfigurak-2445416?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vass Norbert</author>
+   <enclosure url="http://mno.hu/data/cikkek/2445/24454/cikk-2445416/000_APW2001011976069.jpg" length="253372" type="image/jpeg"/>
+   <description><![CDATA[A Van Halen negyven éve megjelent első lemeze a múltból merítve emelte új szintre a virtuóz hangszeres játékot.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Wed, 07 Feb 2018 09:13:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Cseh Tamás indiánjai és hipnotizált, misztikus fotók]]></title>
+   <link>http://mno.hu/grund/cseh-tamas-indianjai-es-hipnotizalt-misztikus-fotok-2445213?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Tölgyesi Gábor, Vass Norbert, Tompos Ádám, Lakner Dávid</author>
+   <enclosure url="http://mno.hu/data/cikkek/2445/24452/cikk-2445213/MNO_26543762_10207971003231455_1579102464_o_896_504_1517849533.jpg" length="63650" type="image/jpeg"/>
+   <description><![CDATA[A hétköznapok szürkesége helyett négy budapesti galéria színes kiállításait ajánljuk]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Mon, 05 Feb 2018 22:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[„Nem hülye ez, hanem romány”]]></title>
+   <link>http://mno.hu/grund/nem-hulye-ez-hanem-romany-2445106?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vass Norbert</author>
+   <enclosure url="http://mno.hu/data/cikkek/2445/24451/cikk-2445106/MaRo.jpg" length="90519" type="image/jpeg"/>
+   <description><![CDATA[A marosvásárhelyi Yorick Stúdió erdélyi együttéléses párpercesei a magyar–román közös lét konfliktusait viszik színre.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Mon, 05 Feb 2018 14:18:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Egy mosókonyhából neki a világnak – Ma lenne 75 éves Cseh Tamás]]></title>
+   <link>http://mno.hu/grund/egy-mosokonyhabol-neki-a-vilagnak-ma-lenne-75-eves-cseh-tamas-2441873?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vass Norbert, Hegyi Zoltán, Vékony Zsolt</author>
+   <enclosure url="http://mno.hu/data/cikkek/2441/24418/cikk-2441873/EA20051028_0425.jpg" length="165223" type="image/jpeg"/>
+   <description><![CDATA[Zenész, indián, rajztanár, egyszálgitáros, színpadra lépni izguló rendkívül összetett kulturális jelenség.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Mon, 22 Jan 2018 13:13:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Buheraészjárás és baranyai furfang]]></title>
+   <link>http://mno.hu/belfold/buheraeszjaras-es-baranyai-furfang-2439698?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vass Norbert</author>
+   <enclosure url="http://mno.hu/data/cikkek/2439/24396/cikk-2439698/kilato_e1515611027501_1024x578.jpg" length="54349" type="image/jpeg"/>
+   <description><![CDATA[A nyugotszenterzsébeti, magaslesnek álcázott buszmegálló a túlbürokratizált Nyugat kelet-európai kritikája.]]></description>
+   <category>Belföld</category>
+   <pubDate>Fri, 12 Jan 2018 21:42:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A cinizmus keretei]]></title>
+   <link>http://mno.hu/velemeny/a-cinizmus-keretei-2439155?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vass Norbert</author>
+   <enclosure url="http://mno.hu/data/cikkek/2439/24391/cikk-2439155/DBZOL20171115001.jpg" length="597029" type="image/jpeg"/>
+   <description><![CDATA[Sosem voltunk ennyire unalmasan megvezetve még. Ez pedig nem sok jót ígér.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Thu, 11 Jan 2018 07:48:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Párnák, pillangószemek és a Szajna-parti bágyasztó doboz]]></title>
+   <link>http://mno.hu/grund/parnak-pillangoszemek-es-a-szajna-parti-bagyaszto-doboz-2438840?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vass Norbert</author>
+   <enclosure url="http://mno.hu/data/cikkek/2438/24388/cikk-2438840/12_4mti.jpg" length="320721" type="image/jpeg"/>
+   <description><![CDATA[Szörényi Levente leszállt az Illés szekeréről, hogy első szólólemezével elegánsan gyalogoljon át a Fonográfba.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Wed, 10 Jan 2018 18:56:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Merkel Angéla mestertroll ajka beletörődőn lebiggyed]]></title>
+   <link>http://mno.hu/grund/merkel-angela-mestertroll-ajka-beletorodon-lebiggyed-2438082?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vass Norbert</author>
+   <enclosure url="http://mno.hu/data/cikkek/2438/24380/cikk-2438082/szb20170104_4042.jpg" length="429750" type="image/jpeg"/>
+   <description><![CDATA[Bűnbánó Magdolna-parafrázis és pokolallegória a kehidakustányi fürdőfolyosón.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Fri, 05 Jan 2018 17:30:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Öt előadás, amitől elakadt a szavunk]]></title>
+   <link>http://mno.hu/grund/ot-eloadas-amitol-elakadt-a-szavunk-2437395?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Makrai Sonja, Pethő Tibor, Vass Norbert, Kézdi Beáta</author>
+   <enclosure url="http://mno.hu/data/cikkek/2437/24373/cikk-2437395/D_SOS20170920009.jpg" length="226588" type="image/jpeg"/>
+   <description><![CDATA[A pezsgő, sokszínű 2017-es színházi kínálatból nem könnyű kiemelni öt előadást. Végtelenül szubjektív lista következik.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Thu, 04 Jan 2018 07:02:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Öt sorozat, amely az idén a képernyőhöz szögezett minket]]></title>
+   <link>http://mno.hu/film/ot-sorozat-amely-az-iden-a-kepernyohoz-szogezett-minket-2436532?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szathmáry István Pál, Molnár Csaba, Vass Norbert, Ficsor Benedek</author>
+   <enclosure url="http://mno.hu/data/cikkek/2436/24365/cikk-2436532/MV5BNzhhMzkxZTktYzk1NS00YTE0LTlkYTYtMzA1MzI0ZmJkNjMyXkEyXkFqcGdeQXVyNjc5Mjg0NjU_._V1_.jpg" length="583466" type="image/jpeg"/>
+   <description><![CDATA[A mind nagyobb kínálatban egyre nehezebb választani. Nekünk ezek a szériák tetszettek leginkább 2017-ben.]]></description>
+   <category>Szuperplán</category>
+   <pubDate>Fri, 29 Dec 2017 12:20:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Várj, és ne félj!]]></title>
+   <link>http://mno.hu/hetvegimagazin/varj-es-ne-felj-2435683?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vass Norbert</author>
+   <enclosure url="http://mno.hu/data/cikkek/2435/24356/cikk-2435683/F_CI19601205041.jpg" length="752579" type="image/jpeg"/>
+   <description><![CDATA[Az ének megemelt beszéd, a karácsony megemelt idő. Magasba ránt, magához ölel általuk az Isten.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Sun, 24 Dec 2017 10:53:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Elvis Presley a fagyöngy alatt]]></title>
+   <link>http://mno.hu/grund/elvis-presley-a-fagyongy-alatt-2434870?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vass Norbert</author>
+   <enclosure url="http://mno.hu/data/cikkek/2434/24348/cikk-2434870/MNO_010_A7A08B02_325.jpg" length="875029" type="image/jpeg"/>
+   <description><![CDATA[A fekete hangú fehér fiú esete a lányos anyák kegyeivel és a White Christmasszel.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Wed, 20 Dec 2017 08:33:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Virágzó kokainbiznisz – a felszippantott földrész]]></title>
+   <link>http://mno.hu/konyveshaz/viragzo-kokainbiznisz-a-felszippantott-foldresz-2432670?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vass Norbert</author>
+   <enclosure url="http://mno.hu/data/cikkek/2432/24326/cikk-2432670/RTR30B9I.jpg" length="361878" type="image/jpeg"/>
+   <description><![CDATA[A Narcoamerica a szegénység, a kegyetlenség és a függőség motívumai köré szerveződő rendhagyó kontinenstörténet.]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Sat, 09 Dec 2017 14:33:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A keserű kalandor barlangmély, bús balladái]]></title>
+   <link>http://mno.hu/grund/a-keseru-kalandor-barlangmely-bus-balladai-2430578?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vass Norbert</author>
+   <enclosure url="http://mno.hu/data/cikkek/2430/24305/cikk-2430578/002_10517_1.jpg" length="686412" type="image/jpeg"/>
+   <description><![CDATA[Leonard Cohen félszáz éve megjelent első lemeze apokrif evangélium, amelyben az e világit találkoztatja a másutt tapasztalttal.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Wed, 29 Nov 2017 14:30:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Jim Morrison esete az önbeteljesítő jóslatokkal és a sorssal]]></title>
+   <link>http://mno.hu/grund/jim-morrison-esete-az-onbeteljesito-joslatokkal-es-a-sorssal-2427474?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vass Norbert</author>
+   <enclosure url="http://mno.hu/data/cikkek/2427/24274/cikk-2427474/doorsx.jpg" length="232010" type="image/jpeg"/>
+   <description><![CDATA[A Doors bemutatkozó lemezén megcsillan a napfény, de már látszik, hogy a dalokon kívül nem túl biztonságos a világ.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Wed, 15 Nov 2017 17:55:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ez a találmány valósította meg Kodály Zoltán álmát]]></title>
+   <link>http://mno.hu/infografika/ez-a-talalmany-valositotta-meg-kodaly-zoltan-almat-2426794?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vass Norbert</author>
+   <enclosure url="http://mno.hu/data/cikkek/2426/24267/cikk-2426794/His_Master_s_Voice_focuspoint_926x504.jpg" length="151165" type="image/jpeg"/>
+   <description><![CDATA[Százharminc éve szabadalmaztatta a zenehallgatást forradalmasító gramofont Emile Berliner.]]></description>
+   <category>Infografika</category>
+   <pubDate>Sun, 12 Nov 2017 12:37:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nagy csapda lenyűgözőnek nevezni a középszerűt]]></title>
+   <link>http://mno.hu/nagyinterju_magazinban/nagy-csapda-lenyugozonek-nevezni-a-kozepszerut-2423957?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vass Norbert</author>
+   <enclosure url="http://mno.hu/data/cikkek/2423/24239/cikk-2423957/VL20171016_9746.jpg" length="375187" type="image/jpeg"/>
+   <description><![CDATA[Lajtai Péter a műgyűjtők háromféle típusáról, a szakrális mentőövről, a Kádár-kor szűk tereiről és a tudástól mindenhatóvá váló szűk elitről.]]></description>
+   <category>Nagyinterjú a Magazinban</category>
+   <pubDate>Wed, 01 Nov 2017 14:10:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nyekenyóka kántálás, Big Ben-dob és motorosfűrész-gitár]]></title>
+   <link>http://mno.hu/grund/nyekenyoka-kantalas-big-ben-dob-es-motorosfuresz-gitar-2424341?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vass Norbert</author>
+   <enclosure url="http://mno.hu/data/cikkek/2424/24243/cikk-2424341/000_ARP1820470.jpg" length="382270" type="image/jpeg"/>
+   <description><![CDATA[A Sex Pistols negyven éve megjelent nyegle, nyers nagylemeze egy kis anarchiát lopott a szürke Egyesült Királyságba.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Tue, 31 Oct 2017 11:36:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Me too, u, u, u]]></title>
+   <link>http://mno.hu/velemeny/me-too-u-u-u-2422968?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vass Norbert</author>
+   <enclosure url="http://mno.hu/data/cikkek/2422/24229/cikk-2422968/043_dpa_pa_171020_99_533382_dpai.jpg" length="140171" type="image/jpeg"/>
+   <description><![CDATA[Régimódi vagyok, nem hiszek a hashtagelt részvétnyilvánításban.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Mon, 23 Oct 2017 13:15:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Rajzfilmes vokálok és progrockszilánkok]]></title>
+   <link>http://mno.hu/grund/rajzfilmes-vokalok-es-progrockszilankok-2421818?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vass Norbert</author>
+   <enclosure url="http://mno.hu/data/cikkek/2421/24218/cikk-2421818/MNO_F_IS19681207006.jpg" length="454614" type="image/jpeg"/>
+   <description><![CDATA[Az Omega első hazai nagylemeze sietve rögzített stíluskeresés, jelentősége mégis megkerülhetetlen.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Thu, 19 Oct 2017 15:12:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

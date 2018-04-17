@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: kgy]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/kgy-2985</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 06:51:05 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Nem lesz népi hős a Viszkisből]]></title>
+   <link>http://mno.hu/film/viszkis-1345244?utm_source=feed&amp;utm_medium=rss</link>
+   <author>kgy</author>
+   <enclosure url="http://mno.hu/data/cikkek/1345/13452/cikk-1345244/D_ATI20110704034_grid2_fekvo_lead.jpg" length="70421" type="image/jpeg"/>
+   <description><![CDATA[A Kontroll rendezője 1,1 milliárdból viszi vászonra a viszkis rabló, vagyis Ambrus Attila történetét.]]></description>
+   <category>Szuperplán</category>
+   <pubDate>Thu, 02 Jun 2016 17:02:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Véget ért a Titanic]]></title>
+   <link>http://mno.hu/film/veget-ert-a-titanic-1338150?utm_source=feed&amp;utm_medium=rss</link>
+   <author>kgy</author>
+   <description><![CDATA[A rendhagyót kereste a közönség és a zsűri is a hét végén zárult 23. Titanic Nemzetközi Filmfesztiválon.]]></description>
+   <category>Szuperplán</category>
+   <pubDate>Mon, 18 Apr 2016 20:53:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Botrány a lengyel köztévében]]></title>
+   <link>http://mno.hu/film/botrany-a-lengyel-kozteveben-1331803?utm_source=feed&amp;utm_medium=rss</link>
+   <author>kgy</author>
+   <enclosure url="http://mno.hu/data/cikkek/1331/13318/cikk-1331803/Ida-2013-Pawel-Pawlikowski-05_grid2_fekvo_lead.jpg" length="33124" type="image/jpeg"/>
+   <description><![CDATA[Pawel Pawlikowski filmjét, az Idát azzal támadják: zsidóbarát szemléletének köszönheti az Oscar-díjat.]]></description>
+   <category>Szuperplán</category>
+   <pubDate>Sat, 05 Mar 2016 14:30:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A Saul fiával kezdődött el a 2. Magyar Filmhét]]></title>
+   <link>http://mno.hu/film/a-saul-fiaval-kezdodott-el-a-2-magyar-filmhet-1331194?utm_source=feed&amp;utm_medium=rss</link>
+   <author>kgy</author>
+   <enclosure url="http://mno.hu/data/cikkek/1331/13311/cikk-1331194/filmhet__029_grid2_fekvo_lead.jpg" length="82650" type="image/jpeg"/>
+   <description><![CDATA[A Magyar Filmhét visszafele tekint. A Magyar Filmakadémia 18 kategóriában díjazza a filmeket.]]></description>
+   <category>Szuperplán</category>
+   <pubDate>Tue, 01 Mar 2016 19:28:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A Saul fia Oscar-díjas!]]></title>
+   <link>http://mno.hu/film/a-saul-fia-oscar-dijas-1330867?utm_source=feed&amp;utm_medium=rss</link>
+   <author>kgy, fib</author>
+   <enclosure url="http://mno.hu/data/cikkek/1330/13308/cikk-1330867/000_APW1198494_grid2_fekvo_lead.jpg" length="41926" type="image/jpeg"/>
+   <description><![CDATA[Nemes Jeles László műve történelmet írt és megkapta az Oscar-díjat! A legjobb film a Spotlight - Egy nyomozás részletei lett.]]></description>
+   <category>Szuperplán</category>
+   <pubDate>Mon, 29 Feb 2016 02:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Bevándorlótéma nyerte az Arany Medvét]]></title>
+   <link>http://mno.hu/film/bevandorlotema-nyert-arany-medvet-berlinben-1329804?utm_source=feed&amp;utm_medium=rss</link>
+   <author>kgy</author>
+   <enclosure url="http://mno.hu/data/cikkek/1329/13298/cikk-1329804/Gianfranco_Rosi_Meryl_Streep_AFP_grid2_fekvo_lead.jpg" length="42729" type="image/jpeg"/>
+   <description><![CDATA[Az olasz Gianfranco Rosi dokumentumfilmje kapta a fődíjat, de a Ferenc Ferdinánd-merénylet is díjat ért. ]]></description>
+   <category>Szuperplán</category>
+   <pubDate>Sun, 21 Feb 2016 15:02:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az iskolai menzáról a francia film élvonalába]]></title>
+   <link>http://mno.hu/film/az-iskolai-menzarol-a-francia-film-elvonalaba-1326811?utm_source=feed&amp;utm_medium=rss</link>
+   <author>kgy</author>
+   <enclosure url="http://mno.hu/data/cikkek/1326/13268/cikk-1326811/MNO_000_DV1875777_grid2_fekvo_lead.jpg" length="29197" type="image/jpeg"/>
+   <description><![CDATA[A fiatalok problémáját nem oldja meg helyettük senki – véli Vincent Lacoste frankofón színészüstökös.
+]]></description>
+   <category>Szuperplán</category>
+   <pubDate>Wed, 03 Feb 2016 16:06:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A Saul fia tarolt]]></title>
+   <link>http://mno.hu/film/a-saul-fia-tarolt-1326221?utm_source=feed&amp;utm_medium=rss</link>
+   <author>kgy</author>
+   <enclosure url="http://mno.hu/data/cikkek/1326/13262/cikk-1326221/BA20160129_6176_grid2_fekvo_lead.jpg" length="38584" type="image/jpeg"/>
+   <description><![CDATA[A magyar filmkritikusok is Nemes Jeles László Oscar-jelölt alkotását helyezték az első helyre.]]></description>
+   <category>Szuperplán</category>
+   <pubDate>Fri, 29 Jan 2016 18:45:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[César-díjas lehet a Saul fia, jön a német bemutató]]></title>
+   <link>http://mno.hu/film/cesar-dijra-jeloltek-a-saul-fiat-1325794?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI, kgy, rkk</author>
+   <enclosure url="http://mno.hu/data/cikkek/1325/13257/cikk-1325794/Saul_fia_uj_fekvo_lead_grid2_fekvo_lead.jpeg" length="62969" type="image/jpeg"/>
+   <description><![CDATA[Németországban is a Sony Pictures forgalmazza a filmet, mert német jelentkező nem akadt. ]]></description>
+   <category>Szuperplán</category>
+   <pubDate>Wed, 27 Jan 2016 14:20:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Spike Lee és az első Amazon-játékfilm]]></title>
+   <link>http://mno.hu/film/spike-lee-es-az-elso-amazon-jatekfilm-1322374?utm_source=feed&amp;utm_medium=rss</link>
+   <author>kgy</author>
+   <enclosure url="http://mno.hu/data/cikkek/1322/13223/cikk-1322374/Chi-Raq.jpg" length="148982" type="image/jpeg"/>
+   <description><![CDATA[A világ vezető online kereskedelmi áruháza, az Amazon vérmes reményekkel filmstúdiót alapított.]]></description>
+   <category>Szuperplán</category>
+   <pubDate>Fri, 08 Jan 2016 14:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A magyar animáció ismét jó évet zárt ]]></title>
+   <link>http://mno.hu/film/a-magyar-animacio-ismet-remek-evet-zart-1321400?utm_source=feed&amp;utm_medium=rss</link>
+   <author>kgy</author>
+   <enclosure url="http://mno.hu/data/cikkek/1321/13214/cikk-1321400/limbolimbotravel_grid2_fekvo_lead.jpg" length="65851" type="image/jpeg"/>
+   <description><![CDATA[Remek formában van a magyar animáció, jövőre talán már csak a PR-ben kellene erősödnie. Ilyen volt 2015.]]></description>
+   <category>Szuperplán</category>
+   <pubDate>Thu, 31 Dec 2015 07:32:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hitler itt jár közöttünk, és aggasztóan népszerű]]></title>
+   <link>http://mno.hu/film/hitler-itt-jar-kozottunk-es-aggasztoan-nepszeru-1318101?utm_source=feed&amp;utm_medium=rss</link>
+   <author>kgy</author>
+   <enclosure url="http://mno.hu/data/cikkek/1318/13181/cikk-1318101/filmstill-er-ist-wieder-da.jpeg" length="79537" type="image/jpeg"/>
+   <description><![CDATA[Timur Vermes regénye, a Nézd, ki van itt filmváltozata fantasztikus mozisiker Németországban.]]></description>
+   <category>Szuperplán</category>
+   <pubDate>Wed, 09 Dec 2015 14:16:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ők esélyesek Európai Filmdíjra]]></title>
+   <link>http://mno.hu/film/ok-eselyesek-europai-filmdijra-1313004?utm_source=feed&amp;utm_medium=rss</link>
+   <author>kgy</author>
+   <enclosure url="http://mno.hu/data/cikkek/1313/13130/cikk-1313004/youth-film.jpg" length="332695" type="image/jpeg"/>
+   <description><![CDATA[A Saul fiát nem nevezték, Paolo Sorrentino Ifjúság című filmje viszont öt fontos kategóriában nyerhet.]]></description>
+   <category>Szuperplán</category>
+   <pubDate>Sun, 08 Nov 2015 19:47:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Csillagok háborúja: minden rekord a múlté lesz?]]></title>
+   <link>http://mno.hu/film/csillagok-haboruja-minden-rekord-a-multe-lesz-1311074?utm_source=feed&amp;utm_medium=rss</link>
+   <author>kgy</author>
+   <enclosure url="http://mno.hu/data/cikkek/1311/13110/cikk-1311074/jakku_grid2_fekvo_lead.png" length="347346" type="image/png"/>
+   <description><![CDATA[Két hónappal a bemutatása előtt Az ébredő Erő már csúcsok sorát döntötte meg. A Disney mennybe megy.]]></description>
+   <category>Szuperplán</category>
+   <pubDate>Thu, 29 Oct 2015 08:58:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nagyot bukott a Veszettek]]></title>
+   <link>http://mno.hu/film/a-magyar-mozi-lendulete-nem-viszi-a-veszetteket-1311019?utm_source=feed&amp;utm_medium=rss</link>
+   <author>kgy</author>
+   <enclosure url="http://mno.hu/data/cikkek/1311/13110/cikk-1311019/Veszettek_grid2_fekvo_lead.jpg" length="43693" type="image/jpeg"/>
+   <description><![CDATA[Az ősz rosszul alakul a magyar filmek tekintetében: a Víkendet és a Veszetteket is alig nézik.]]></description>
+   <category>Szuperplán</category>
+   <pubDate>Tue, 27 Oct 2015 14:22:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Brazilok a noszvaji barlanglakásokban]]></title>
+   <link>http://mno.hu/grund/brazilok-a-noszvaji-barlanglakasokban-1304769?utm_source=feed&amp;utm_medium=rss</link>
+   <author>kgy</author>
+   <enclosure url="http://mno.hu/data/cikkek/1304/13047/cikk-1304769/BA20150828_3490_grid2_fekvo_lead.jpg" length="101732" type="image/jpeg"/>
+   <description><![CDATA[Készül M. Kiss Csaba első nagyjátékfilmje, a Brazilok, amelyben a vidéki élet napos oldalát szeretnék megmutatni.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Thu, 17 Sep 2015 17:52:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A Bélier család: keserédes komédia szívvel és humorral ]]></title>
+   <link>http://mno.hu/grund/a-belier-csalad-keseredes-komedia-szivvel-es-humorral-1296580?utm_source=feed&amp;utm_medium=rss</link>
+   <author>kgy</author>
+   <description><![CDATA[A Bélier család igazi nyári, könnyed családi film, a jó közérzet mellett megható üzenettel és sok nevetéssel.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Thu, 23 Jul 2015 13:43:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Megrendítően Kurt Cobainről]]></title>
+   <link>http://mno.hu/grund/megrenditoen-kurt-cobainrol-1296173?utm_source=feed&amp;utm_medium=rss</link>
+   <author>kgy</author>
+   <description><![CDATA[A Cobain: Montage of Heck a Nirvana frontembere, Kurt Cobain életútjáról szól, és az archív felvételek mellett animációs betétek színesítik.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Tue, 21 Jul 2015 13:18:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A vissza nem térő Panahi legendája]]></title>
+   <link>http://mno.hu/grund/a-vissza-nem-tero-panahi-legendaja-1295645?utm_source=feed&amp;utm_medium=rss</link>
+   <author>kgy</author>
+   <description><![CDATA[A magyar mozikban az iráni rendező, Dzsafar Panahi berlini nagydíjas filmje.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Fri, 17 Jul 2015 12:53:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Filmre vitték a Nobel-békedíjas Malala életét]]></title>
+   <link>http://mno.hu/grund/filmre-vittek-a-nobel-bekedijas-malala-eletet-1291935?utm_source=feed&amp;utm_medium=rss</link>
+   <author>kgy</author>
+   <description><![CDATA[A Nobel-békedíjas Malala életéről szóló filmet tűz műsorára a National Geographic Channel.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Mon, 22 Jun 2015 19:19:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A dinók új reneszánsza]]></title>
+   <link>http://mno.hu/grund/a-dinok-uj-reneszansza-1290780?utm_source=feed&amp;utm_medium=rss</link>
+   <author>kgy</author>
+   <description><![CDATA[A Jurassic World gyenge utánérzés. Azok fogják élvezni, akik nem láttak még ilyet. Már két generáció jelent meg a mozikban, és nem volt dinós korszakuk.
+]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Tue, 16 Jun 2015 14:40:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[George Clooney esete az ifjúsági filmmel]]></title>
+   <link>http://mno.hu/grund/george-clooney-esete-az-ifjusagi-filmmel-1289236?utm_source=feed&amp;utm_medium=rss</link>
+   <author>kgy</author>
+   <description><![CDATA[A Műkincsvadászok bukása után George Clooney a Disney Holnapoliszával igyekezett helyreállítani a renoméját.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Thu, 04 Jun 2015 12:24:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A közösségi média is imádja a Saul fiát]]></title>
+   <link>http://mno.hu/grund/a-kozossegi-media-is-imadja-a-saul-fiat-1287024?utm_source=feed&amp;utm_medium=rss</link>
+   <author>kgy</author>
+   <description><![CDATA[Egy felmérés szerint a közösségi médiában Cannes kapcsán említett tíz legnépszerűbb film egyike a Saul fia.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Wed, 20 May 2015 14:32:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Álmosító melodráma sebzett szívekkel]]></title>
+   <link>http://mno.hu/grund/almosito-melodrama-sebzett-szivekkel-1286170?utm_source=feed&amp;utm_medium=rss</link>
+   <author>kgy</author>
+   <description><![CDATA[Benoit Jacquet 3 szív című filmje az ígéretes felütés után sematikus szerelmi történetté válik.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Thu, 14 May 2015 12:51:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Még mindig Hollywood uralja Európát]]></title>
+   <link>http://mno.hu/grund/meg-mindig-hollywood-uralja-europat-1285670?utm_source=feed&amp;utm_medium=rss</link>
+   <author>kgy</author>
+   <description><![CDATA[2014-ben enyhe növekedést könyvelhettek el az unió mozijai. A legnépszerűbb húsz között csak három európai film.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Mon, 11 May 2015 10:21:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Argo 2: suttyóék még suttyóbbak]]></title>
+   <link>http://mno.hu/grund/argo-2-suttyoek-meg-suttyobbak-1284168?utm_source=feed&amp;utm_medium=rss</link>
+   <author>kgy</author>
+   <description><![CDATA[A kultfilm folytatásában még intellektuális áthallások is vannak. No meg két remek János: Kulka és Bán.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Thu, 30 Apr 2015 12:22:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A négyes számú polgártárs: hős vagy hazaáruló?]]></title>
+   <link>http://mno.hu/grund/a-negyes-szamu-polgartars-hos-vagy-hazaarulo-1284167?utm_source=feed&amp;utm_medium=rss</link>
+   <author>kgy</author>
+   <description><![CDATA[Dokumentumfilm Edward Snowdenről és az ő nagy szivárogtatásáról.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Thu, 30 Apr 2015 09:35:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Véget ért a Titanic filmfesztivál]]></title>
+   <link>http://mno.hu/grund/veget-ert-a-titanic-filmfesztival-1282585?utm_source=feed&amp;utm_medium=rss</link>
+   <author>kgy</author>
+   <description><![CDATA[Francia rendezőnő nyerte a fődíjat. A közönségdíj a Hétköznapi vámpíroknak jutott.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Mon, 20 Apr 2015 10:13:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A magyar animáció újra a csúcs felé tart]]></title>
+   <link>http://mno.hu/grund/a-magyar-animacio-ujra-a-csucs-fele-tart-1280164?utm_source=feed&amp;utm_medium=rss</link>
+   <author>kgy</author>
+   <description><![CDATA[Hat magyar produkció kapott meghívást Annecyba, a legrangosabb animációsfilm-fesztiválra.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Thu, 02 Apr 2015 21:12:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Halálos iramban 7: Paul Walkert digitálisan idézik]]></title>
+   <link>http://mno.hu/grund/halalos-iramban-7-paul-walkert-digitalisan-idezik-1279989?utm_source=feed&amp;utm_medium=rss</link>
+   <author>kgy</author>
+   <description><![CDATA[Hiába a sok akció, ez a film úgy marad fenn, mint a mozi, ami elbúcsúzott Paul Walkertől.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Thu, 02 Apr 2015 19:45:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

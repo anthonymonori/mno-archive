@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Albert Enikő]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/albert-eniko-26016</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Sat, 14 Apr 2018 08:09:53 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[A nyugat-balkáni bővítés csak púp az unió hátán]]></title>
+   <link>http://mno.hu/kulfold/a-nyugat-balkani-bovites-csak-pup-az-unio-hatan-1389277?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Albert Enikő</author>
+   <enclosure url="http://mno.hu/data/cikkek/1389/13892/cikk-1389277/K_EPA20170304062x.jpg" length="335026" type="image/jpeg"/>
+   <description><![CDATA[Brüsszelben attól félnek, hogy az elutasítás miatt tovább erősödik Oroszország befolyása a térségben.]]></description>
+   <category>Külföld</category>
+   <pubDate>Wed, 08 Mar 2017 15:06:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Negatív visszhangot keltett Szijjártó új-zélandi beszéde]]></title>
+   <link>http://mno.hu/kulfold/negativ-visszhangot-keltett-szijjarto-uj-zelandi-beszede-1389008?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Albert Enikő</author>
+   <enclosure url="http://mno.hu/data/cikkek/1389/13890/cikk-1389008/xK_EPA20170123069.jpg" length="197879" type="image/jpeg"/>
+   <description><![CDATA[Brüsszelben sokaknak nem tetszett, ahogyan a magyar külügyminiszter Wellingtonban az EU-t kritizálta.]]></description>
+   <category>Külföld</category>
+   <pubDate>Tue, 07 Mar 2017 06:32:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[ Brüsszelben is áll az olimpiaellenesek standja]]></title>
+   <link>http://mno.hu/belfold/nolimpia-sorok-es-konfliktusok-a-standoknal-1385658?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lőrincz Tamás, Albert Enikő</author>
+   <enclosure url="http://mno.hu/data/cikkek/1385/13856/cikk-1385658/MNO_D_NOE20170212004.jpg" length="595768" type="image/jpeg"/>
+   <description><![CDATA[Pénteken vallanak színt az aláírásgyűjtők.]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 13 Feb 2017 06:26:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

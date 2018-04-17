@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Fecske Csaba]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/fecske-csaba-19418</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Fri, 13 Apr 2018 01:54:36 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[A sánta kiskacsa]]></title>
+   <link>http://mno.hu/2percproza/a-santa-kiskacsa-2410141?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Fecske Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2410/24101/cikk-2410141/78003224_l.jpg" length="258857" type="image/jpeg"/>
+   <description><![CDATA[Minden délutánunk a kiskacsáké volt. Együtt ment a család a határba csalánt meg más zöldfélét szedni, csorbókát, répalevelet.]]></description>
+   <category>2 perc próza</category>
+   <pubDate>Fri, 04 Aug 2017 07:53:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Cili]]></title>
+   <link>http://mno.hu/2percproza/cili-1383584?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Fecske Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/1383/13835/cikk-1383584/2percproza.jpg" length="68717" type="image/jpeg"/>
+   <description><![CDATA[Természetessé vált számunkra, hogy van egy macskánk. Kiflivég helyett most már mócsingot, kolbászvéget kapott tőlünk.]]></description>
+   <category>2 perc próza</category>
+   <pubDate>Mon, 30 Jan 2017 21:41:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hűség]]></title>
+   <link>http://mno.hu/konyveshaz/huseg-1352626?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Fecske Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/1352/13526/cikk-1352626/NBB_20080703_7393.jpg" length="166026" type="image/jpeg"/>
+   <description><![CDATA[Fecske Csaba írása.]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Mon, 01 Aug 2016 17:38:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Két kis színes]]></title>
+   <link>http://mno.hu/konyveshaz/ket-kis-szines-1343030?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Fecske Csaba</author>
+   <description><![CDATA[Fecske Csaba írásai költészetről és a tuskóba vert szegekről.]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Thu, 19 May 2016 20:47:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Naplemente]]></title>
+   <link>http://mno.hu/konyveshaz/naplemente-1338271?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Fecske Csaba</author>
+   <description><![CDATA[Lacus végül eladósodott, eladta a lovát és a szekerét... Hirtelen esett le a lábáról.]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Sat, 23 Apr 2016 15:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Könyvsarok]]></title>
+   <link>http://mno.hu/migr/konyvsarok-769253?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Fecske Csaba</author>
+   <description><![CDATA[A most hatvanéves Serfőző Simon regénytrilógiájának &#8211; A kis vadóc, Nyulak a hurokban, Nincs maradás &#8211; hőse Matyi, a tanyán élő kisfiú. Gyerekről szól, de mégsem mondanám gyerekregénynek (mint ahogy Móricz remekműve, a Légy jó mindhalálig sem az). Regény, mégpedig nagyon jó regény.]]></description>
+   <category>Archívum</category>
+   <pubDate>Fri, 06 Sep 2002 08:00:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

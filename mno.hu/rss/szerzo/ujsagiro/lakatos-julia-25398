@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Lakatos Júlia]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/lakatos-julia-25398</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 01:08:19 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Kísérletezéses technikák a politikában]]></title>
+   <link>http://mno.hu/velemeny/kiserletezeses-technikak-a-politikaban-2446914?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lakatos Júlia</author>
+   <enclosure url="http://mno.hu/data/cikkek/2446/24469/cikk-2446914/MNO_SZB20170802_4589_896_504_1518514218.jpg" length="73660" type="image/jpeg"/>
+   <description><![CDATA[A könnyen elsajátítható dizájngondolkodás színt vihetne a megfáradt struktúrákba.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Wed, 14 Feb 2018 07:20:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Soros György mint szelep]]></title>
+   <link>http://mno.hu/velemeny/soros-gyorgy-mint-szelep-2424790?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lakatos Júlia</author>
+   <enclosure url="http://mno.hu/data/cikkek/2424/24247/cikk-2424790/bp_plakatjavitas_01_preview.jpeg" length="428625" type="image/jpeg"/>
+   <description><![CDATA[Távolról sem olyan szoros a társadalmi összetartás, ha pozitív üzenetek mellett próbálják a választókat mobilizálni.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Tue, 31 Oct 2017 20:11:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az átlagpolgár]]></title>
+   <link>http://mno.hu/magazinpublicisztika/az-atlagpolgar-2411749?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lakatos Júlia</author>
+   <enclosure url="http://mno.hu/data/cikkek/2411/24117/cikk-2411749/img129.jpg" length="396212" type="image/jpeg"/>
+   <description><![CDATA[A baloldali kulturális politizálás a másságot helyezte előtérbe, eközben nem foglalkozott az átlagpolgárok nehézségeivel. ]]></description>
+   <category>Publicisztika a Magazinban</category>
+   <pubDate>Fri, 11 Aug 2017 13:40:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A szabadság girbegurba útjai]]></title>
+   <link>http://mno.hu/magazinpublicisztika/a-szabadsag-girbegurba-utjai-2400971?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lakatos Júlia</author>
+   <enclosure url="http://mno.hu/data/cikkek/2400/24009/cikk-2400971/img118.jpg" length="408953" type="image/jpeg"/>
+   <description><![CDATA[A liberális elit legfőbb feladata, hogy a vesztesekkel is foglalkozzon. A populistáknak már vannak válaszaik.]]></description>
+   <category>Publicisztika a Magazinban</category>
+   <pubDate>Thu, 01 Jun 2017 14:04:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Narratíva vagy litánia?]]></title>
+   <link>http://mno.hu/magazinpublicisztika/narrativa-vagy-litania-1381048?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lakatos Júlia</author>
+   <enclosure url="http://mno.hu/data/cikkek/1381/13810/cikk-1381048/bojcsuk1713.jpg" length="55300" type="image/jpeg"/>
+   <description><![CDATA[A magyar baloldal megújulási lehetőségeit behatárolja a narratíva hiánya.]]></description>
+   <category>Publicisztika a Magazinban</category>
+   <pubDate>Sun, 15 Jan 2017 07:59:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Összefogás]]></title>
+   <link>http://mno.hu/magazinpublicisztika/osszefogas-1377040?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lakatos Júlia</author>
+   <enclosure url="http://mno.hu/data/cikkek/1377/13770/cikk-1377040/bojcsuk_parlament_896_504_1482003413.jpg" length="362907" type="image/jpeg"/>
+   <description><![CDATA[Ma hazánkban a társadalmi összetartozás javarészt negatív előjellel – valami ellenében – létezik.]]></description>
+   <category>Publicisztika a Magazinban</category>
+   <pubDate>Sun, 18 Dec 2016 08:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A rettegés foka: ki formálja át Amerikát?]]></title>
+   <link>http://mno.hu/velemeny/a-retteges-foka-ki-formalja-at-amerikat-1370166?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lakatos Júlia</author>
+   <enclosure url="http://mno.hu/data/cikkek/1370/13701/cikk-1370166/MNO_063_613701494.jpg" length="285164" type="image/jpeg"/>
+   <description><![CDATA[Mindkét pártnak reagálnia kell a megváltozott választói igényekre.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Mon, 07 Nov 2016 19:32:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

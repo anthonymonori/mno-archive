@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Peterdi Nagy László]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/peterdi-nagy-laszlo-28541</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Fri, 13 Apr 2018 23:54:18 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Cselgáncsórák kezdőknek és haladóknak]]></title>
+   <link>http://mno.hu/velemeny/cselgancsorak-kezdoknek-es-haladoknak-2416349?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Peterdi Nagy László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2416/24163/cikk-2416349/BD20170828_015.jpg" length="402081" type="image/jpeg"/>
+   <description><![CDATA[Nem az a kérdés, hogy miért kell nekünk Oroszország, hanem az, hogy mi kellünk-e neki.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Sat, 09 Sep 2017 14:07:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Üdv a pokolban!]]></title>
+   <link>http://mno.hu/velemeny/udv-a-pokolban-2410490?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Peterdi Nagy László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2410/24104/cikk-2410490/MNO_000_QE21L.jpg" length="285776" type="image/jpeg"/>
+   <description><![CDATA[Az emberek kezdik felismerni a politikusok igazi arcát és a tógájuk alól kilógó patákat.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Tue, 01 Aug 2017 12:27:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

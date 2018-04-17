@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Hász Róbert]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/hasz-robert-14475</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 13:41:26 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Az utolsó temetőcsősz]]></title>
+   <link>http://mno.hu/2percproza/az-utolso-temetocsosz-1387887?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hász Róbert</author>
+   <enclosure url="http://mno.hu/data/cikkek/1387/13878/cikk-1387887/hasz_robert_ajanlo.jpg" length="96622" type="image/jpeg"/>
+   <description><![CDATA[Az én sírjaimat soha nem verte fel a gaz. Itt nincs hátrahagyott szemét, üres üveg vagy szanaszét cigarettacsikk.]]></description>
+   <category>2 perc próza</category>
+   <pubDate>Wed, 01 Mar 2017 07:16:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Élünk, komám]]></title>
+   <link>http://mno.hu/2percproza/elunk-komam-1385870?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hász Róbert</author>
+   <enclosure url="http://mno.hu/data/cikkek/1385/13858/cikk-1385870/hasz_robert_ajanlo.jpg" length="96622" type="image/jpeg"/>
+   <description><![CDATA[Füleki háborús veterán volt, olyan résztvevője a második világháborúnak, aki aktív harcosként megjárta a front mindkét oldalát.]]></description>
+   <category>2 perc próza</category>
+   <pubDate>Tue, 14 Feb 2017 20:13:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A harmadik könyv]]></title>
+   <link>http://mno.hu/2percproza/a-harmadik-konyv-1385161?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hász Róbert</author>
+   <enclosure url="http://mno.hu/data/cikkek/1385/13851/cikk-1385161/hasz_robert_ajanlo.jpg" length="96622" type="image/jpeg"/>
+   <description><![CDATA[A régi asszonyok kézzel írott receptgyűjteménye a legrészletesebb naplónál is többet őriz és mond el róluk.]]></description>
+   <category>2 perc próza</category>
+   <pubDate>Thu, 09 Feb 2017 20:06:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A karácsonyi lunda]]></title>
+   <link>http://mno.hu/2percproza/a-karacsonyi-lunda-1384467?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hász Róbert</author>
+   <enclosure url="http://mno.hu/data/cikkek/1384/13844/cikk-1384467/hasz_robert_ajanlo.jpg" length="96622" type="image/jpeg"/>
+   <description><![CDATA[Tudod, melyik volt életem legkeservesebb időszaka? ’94 ősze és tele.]]></description>
+   <category>2 perc próza</category>
+   <pubDate>Sun, 05 Feb 2017 13:03:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kincshalász a limesen]]></title>
+   <link>http://mno.hu/2percproza/kincshalasz-a-limesen-1383103?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hász Róbert</author>
+   <enclosure url="http://mno.hu/data/cikkek/1383/13831/cikk-1383103/hasz_robert_ajanlo.jpg" length="96622" type="image/jpeg"/>
+   <description><![CDATA[Nándor, miként egy újkori aranyásó, amikor csak ideje engedte, felült a robogójára, és elpöfögött vele a sáncok irányába.]]></description>
+   <category>2 perc próza</category>
+   <pubDate>Fri, 27 Jan 2017 14:07:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Diplomás szegénység]]></title>
+   <link>http://mno.hu/2percproza/diplomas-szegenyseg-1381154?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hász Róbert</author>
+   <enclosure url="http://mno.hu/data/cikkek/1381/13811/cikk-1381154/hasz_robert_ajanlo.jpg" length="96622" type="image/jpeg"/>
+   <description><![CDATA[„Az egyik fele diplomás, a másik fele analfabéta. Kell-e ennél pompásabb elosztás?”]]></description>
+   <category>2 perc próza</category>
+   <pubDate>Sun, 15 Jan 2017 17:30:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Sosam kuja, sosam kuja, kevet…]]></title>
+   <link>http://mno.hu/konyveshaz/sosam-kuja-sosam-kuja-kevet-1358145?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hász Róbert</author>
+   <enclosure url="http://mno.hu/data/cikkek/1358/13581/cikk-1358145/MV5BMTc5NDY0ODk3OV5BMl5BanBnXkFtZTYwMzgwMjc5._V1_.jpg" length="41840" type="image/jpeg"/>
+   <description><![CDATA[Xántus János, akárcsak Old Shatterhand, tanárból lett a Pacific-vasút mérnöke, mindenütt békét teremtett, számos indián barátot szerzett.]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Sun, 28 Aug 2016 19:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Káposztatorzsák Balzac fején]]></title>
+   <link>http://mno.hu/konyveshaz/kaposztatorzsak-balzac-fejen-1354551?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hász Róbert</author>
+   <enclosure url="http://mno.hu/data/cikkek/1354/13545/cikk-1354551/hugo.jpg" length="4433" type="image/jpeg"/>
+   <description><![CDATA[Amikor az irodalmi harcokat még lerágott csontokkal, kolbásszal és krumplihéjjal rendezték le.]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Sat, 06 Aug 2016 19:35:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Góóóóól, góóóóól, góóóóól!]]></title>
+   <link>http://mno.hu/konyveshaz/goooool-goooool-goooool-1351568?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hász Róbert</author>
+   <enclosure url="http://mno.hu/data/cikkek/1351/13515/cikk-1351568/foci8_beres.jpg" length="71132" type="image/jpeg"/>
+   <description><![CDATA[„Amikor a válogatott hosszú évtizedek után kijutott végre a vébére, nagyapáék házában háromhetes készenléti állapot lépett életbe.”]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Sun, 17 Jul 2016 20:21:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Együtt a buszon]]></title>
+   <link>http://mno.hu/konyveshaz/egyutt-a-buszon-1348284?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hász Róbert</author>
+   <enclosure url="http://mno.hu/data/cikkek/1348/13482/cikk-1348284/szb20150920_8033.jpg" length="101446" type="image/jpeg"/>
+   <description><![CDATA[„Olyan kevesen vagytok magyarok, mégis annyifélét csináltok. Hogy van ez?”]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Sun, 26 Jun 2016 21:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A kútásó légiós]]></title>
+   <link>http://mno.hu/konyveshaz/a-kutaso-legios-1344680?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hász Róbert</author>
+   <description><![CDATA[Mindenféle legendák keringtek a kútásó Fercsiről, míg ki nem derült, hogy „ötvenhatos”. Hász Róbert írása.]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Sun, 05 Jun 2016 17:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nina és a harcosok ideje]]></title>
+   <link>http://mno.hu/konyveshaz/nina-es-a-harcosok-ideje-1338274?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hász Róbert</author>
+   <description><![CDATA[Harcolt Szlavóniában, ott volt Vukovár, Szarajevó ostrománál, egyszer, mesélték, hazalátogatott egy vadonatúj, rendszám nélküli Golf kettessel.]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Mon, 25 Apr 2016 22:47:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Galaxis a falu végén]]></title>
+   <link>http://mno.hu/konyveshaz/galaxis-a-falu-vegen-1335418?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hász Róbert</author>
+   <description><![CDATA[Faluvégi Lajos apróhirdetésekben kereste a ritkaságszámba menő képregénypéldányokat.]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Sat, 02 Apr 2016 09:14:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Bábel busza]]></title>
+   <link>http://mno.hu/migr_1834/babel-busza-510314?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hász Róbert</author>
+   <description><![CDATA[Szigetvilág<br/><br/>Erős képzelet szüli az okokat<br/>(Montaigne)]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Sat, 03 Jun 2006 01:00:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

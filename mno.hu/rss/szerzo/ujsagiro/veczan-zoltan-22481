@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Veczán Zoltán]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/veczan-zoltan-22481</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Wed, 11 Apr 2018 13:11:28 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Programozókat faragnak négy hónap alatt]]></title>
+   <link>http://mno.hu/belfold/programozokat-faragnak-negy-honap-alatt-1387334?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Veczán Zoltán</author>
+   <description><![CDATA[A kódolótanfolyamok a végzős tanulóknak munkát és legalább 250 ezer forintos fizetést kínálnak.]]></description>
+   <category>Belföld</category>
+   <pubDate>Thu, 23 Feb 2017 07:36:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ha nem romlott el, ne javítsd meg]]></title>
+   <link>http://mno.hu/velemeny/ha-nem-romlott-el-ne-javitsd-meg-1386537?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Veczán Zoltán</author>
+   <enclosure url="http://mno.hu/data/cikkek/1386/13865/cikk-1386537/fortepan_102661.jpg" length="370709" type="image/jpeg"/>
+   <description><![CDATA[A Cukrászda régen sem volt jó hely, de legalább volt valamilyen. Működött. Most még rosszabb lett.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Sat, 18 Feb 2017 18:48:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Feljelentették a rendőrségen a pécsi családfakutatókat]]></title>
+   <link>http://mno.hu/belfold/feljelentettek-a-rendorsegen-a-pecsi-csaladfakutatokat-1386564?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Veczán Zoltán</author>
+   <enclosure url="http://mno.hu/data/cikkek/1386/13865/cikk-1386564/034_1983032HDF.jpg" length="440781" type="image/jpeg"/>
+   <description><![CDATA[A Magyar Nemzeti Levéltárra hivatkozva is pénzt csikart ki az ügyfelektől Mester János ügyvezető.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sat, 18 Feb 2017 10:40:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Brit kutatók bojkottálják az MMA-t]]></title>
+   <link>http://mno.hu/belfold/brit-kutatok-bojkottaljak-az-mma-t-1386204?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Veczán Zoltán</author>
+   <enclosure url="http://mno.hu/data/cikkek/1386/13862/cikk-1386204/MNO_szb20150109_0936.jpg" length="233765" type="image/jpeg"/>
+   <description><![CDATA[Magyar filozófusoknak is közük van ahhoz, hogy meghiúsult a nemzetközi rendezvény.]]></description>
+   <category>Belföld</category>
+   <pubDate>Thu, 16 Feb 2017 09:02:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Politikai öltönyvásár]]></title>
+   <link>http://mno.hu/velemeny/politikai-oltonyvasar-1385906?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Veczán Zoltán</author>
+   <enclosure url="http://mno.hu/data/cikkek/1385/13859/cikk-1385906/Nevtelen_1_896_504_1487078839.JPG" length="89858" type="image/jpeg"/>
+   <description><![CDATA[Milyen legyen a tánc, milyen legyen az öltöny?]]></description>
+   <category>Vélemény</category>
+   <pubDate>Tue, 14 Feb 2017 14:40:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Tovább gyűrűzik a családfakutató-botrány]]></title>
+   <link>http://mno.hu/belfold/tovabb-gyuruzik-a-csaladfakutato-botrany-1385710?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Veczán Zoltán</author>
+   <enclosure url="http://mno.hu/data/cikkek/1385/13857/cikk-1385710/MNO_034_1111247_896_504_1486981660.jpg" length="119006" type="image/jpeg"/>
+   <description><![CDATA[Az érintett cég honlapját felfüggesztették. Újabb károsultak és a Magyar Nemzeti Levéltár neve is felbukkant.]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 13 Feb 2017 11:33:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Akasztófa járt a magyar parancsnoknak, német feletteseit alig büntették]]></title>
+   <link>http://mno.hu/tortenelem/akasztofa-jart-a-magyar-parancsnoknak-nemet-feletteseit-alig-buntettek-1385482?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Veczán Zoltán</author>
+   <enclosure url="http://mno.hu/data/cikkek/1385/13854/cikk-1385482/fortepan_58304.jpg" length="1121059" type="image/jpeg"/>
+   <description><![CDATA[Az 1944-es budavári kitörés német tábornokai nem kaptak halálbüntetést a háború után.]]></description>
+   <category>Múlt idő</category>
+   <pubDate>Sat, 11 Feb 2017 16:25:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hárít és tagad az államtitkár a civilek szerint]]></title>
+   <link>http://mno.hu/belfold/harit-es-tagad-az-allamtitkar-a-civilek-szerint-1385232?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Veczán Zoltán</author>
+   <enclosure url="http://mno.hu/data/cikkek/1385/13852/cikk-1385232/BA20160209_7396.jpg" length="253001" type="image/jpeg"/>
+   <description><![CDATA[Palkovics úgy tesz, mintha nem hónapokkal az érettségi előtt vezettek volna be új, kötelező vizsgatárgyat.]]></description>
+   <category>Belföld</category>
+   <pubDate>Thu, 09 Feb 2017 19:48:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Fiktív ősökkel házalhat a családfakutató]]></title>
+   <link>http://mno.hu/belfold/fiktiv-osokkel-hazalhat-a-csaladfakutato-1385166?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Veczán Zoltán</author>
+   <enclosure url="http://mno.hu/data/cikkek/1385/13851/cikk-1385166/25259311_l.jpg" length="1807501" type="image/jpeg"/>
+   <description><![CDATA[Sok százezer forintért kínálnak a szakma szerint kétes eredetű nemzetségtáblákat a megrendelőknek.]]></description>
+   <category>Belföld</category>
+   <pubDate>Thu, 09 Feb 2017 13:56:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Leleplezett összeesküvés]]></title>
+   <link>http://mno.hu/velemeny/leleplezett-osszeeskuves-1384992?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Veczán Zoltán</author>
+   <enclosure url="http://mno.hu/data/cikkek/1384/13849/cikk-1384992/12648738_lxx.jpg" length="251542" type="image/jpeg"/>
+   <description><![CDATA[Mindenről a női kvóta hiánya, és a Nagy Férfi-összeesküvés tehet?]]></description>
+   <category>Vélemény</category>
+   <pubDate>Thu, 09 Feb 2017 08:24:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nemzeti büszkeség, vagy a sportburzsoázia ünnepe?]]></title>
+   <link>http://mno.hu/belfold/nemzeti-buszkeseg-vagy-a-sportburzsoazia-unnepe-1384010?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Veczán Zoltán</author>
+   <enclosure url="http://mno.hu/data/cikkek/1384/13840/cikk-1384010/20170201_04.jpg" length="160026" type="image/jpeg"/>
+   <description><![CDATA[Az olimpia akkor is veszteséges, ha egy fillért sem lopnak el – állítja egy tanulmány.]]></description>
+   <category>Belföld</category>
+   <pubDate>Wed, 01 Feb 2017 21:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Példamutatóan viselték a szmogriadót az autósok]]></title>
+   <link>http://mno.hu/belfold/peldamutatoan-viseltek-a-szmogriadot-az-autosok-1382526?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Veczán Zoltán</author>
+   <description><![CDATA[Kevesebb autó volt utcán, mint amennyit a korlátozás érintett. Ugyanakkor további megszorítások is lehetségesek.]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 23 Jan 2017 19:31:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hova tegyék gyereküket a dolgozó kismamák?]]></title>
+   <link>http://mno.hu/belfold/hova-tegyek-gyerekuket-a-dolgozo-kismamak-1382490?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Veczán Zoltán</author>
+   <enclosure url="http://mno.hu/data/cikkek/1382/13824/cikk-1382490/5_2mp.jpg" length="408310" type="image/jpeg"/>
+   <description><![CDATA[A gyed extrával sok szülő hamarabb visszamenne dolgozni, de kevés a bölcsőde, és döcög a bővítés.]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 23 Jan 2017 16:32:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Voltak, akik helyet cseréltek, és így élték túl]]></title>
+   <link>http://mno.hu/belfold/voltak-akik-helyet-csereltek-es-igy-eltek-tul-1382367?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Veczán Zoltán</author>
+   <enclosure url="http://mno.hu/data/cikkek/1382/13823/cikk-1382367/mti_verona_896_504_1485124757.jpg" length="90935" type="image/jpeg"/>
+   <description><![CDATA[A veronai buszbaleset túlélőire pszichológiai utókezelés vár. Életbevágó a kríziscsoport működése.]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 23 Jan 2017 07:10:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Fagyoskodnak a váci mentősök]]></title>
+   <link>http://mno.hu/belfold/fagyoskodnak-a-vaci-mentosok-1382221?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Veczán Zoltán</author>
+   <enclosure url="http://mno.hu/data/cikkek/1382/13822/cikk-1382221/BA20170120_6343.jpg" length="1929335" type="image/jpeg"/>
+   <description><![CDATA[Csak azért nincsenek kemény mínuszok a mentőállomáson, mert barkácsmegoldásokkal fűtenek.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sat, 21 Jan 2017 17:49:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Olasz lavina: rengeteg halott lehet a szállóban]]></title>
+   <link>http://mno.hu/kulfold/olasz-lavina-rengeteg-halott-lehet-a-szalloban-1381844?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Veczán Zoltán</author>
+   <enclosure url="http://mno.hu/data/cikkek/1381/13818/cikk-1381844/K_EPA20170119046.jpg" length="178561" type="image/jpeg"/>
+   <description><![CDATA[A mentőalakulatok szerint harmincan eltűntek; két túlélőt már kimentettek, sokakat most ásnak ki a hóból.]]></description>
+   <category>Külföld</category>
+   <pubDate>Thu, 19 Jan 2017 11:47:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hetven éve szűnt meg az „úri” Magyarország]]></title>
+   <link>http://mno.hu/tortenelem/hetven-eve-szunt-meg-az-uri-magyarorszag-1381745?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Veczán Zoltán</author>
+   <enclosure url="http://mno.hu/data/cikkek/1381/13817/cikk-1381745/fortepan_105772.jpg" length="1149736" type="image/jpeg"/>
+   <description><![CDATA[Az 1947-es törvény véget vetett a cím- és rangkórságnak, viszont megágyazott az elvtársozásnak.]]></description>
+   <category>Múlt idő</category>
+   <pubDate>Wed, 18 Jan 2017 18:24:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kétségek az új MTA-kutatóház körül]]></title>
+   <link>http://mno.hu/belfold/ketsegek-az-uj-mta-kutatohaz-korul-1381592?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Veczán Zoltán</author>
+   <enclosure url="http://mno.hu/data/cikkek/1381/13815/cikk-1381592/BD20170117_08.jpg" length="1600353" type="image/jpeg"/>
+   <description><![CDATA[Csőtörés, nehézkes költözés és állásféltés kíséri az akadémiai intézetek költözését.]]></description>
+   <category>Belföld</category>
+   <pubDate>Tue, 17 Jan 2017 21:38:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kabátok után étel is kerülhet a fogasok alá]]></title>
+   <link>http://mno.hu/belfold/kabatok-utan-etel-is-kerulhet-a-fogasok-ala-1381318?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Veczán Zoltán</author>
+   <enclosure url="http://mno.hu/data/cikkek/1381/13813/cikk-1381318/MNO_20170108_03.jpg" length="500134" type="image/jpeg"/>
+   <description><![CDATA[Tovább bővül a civilek kezdeményezése. Már külföldön is népszerű a magyar ötlet.]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 16 Jan 2017 10:51:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Süketek párbeszéde]]></title>
+   <link>http://mno.hu/velemeny/suketek-parbeszede-1381216?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Veczán Zoltán</author>
+   <enclosure url="http://mno.hu/data/cikkek/1381/13812/cikk-1381216/szb20160922_3015.jpg" length="239752" type="image/jpeg"/>
+   <description><![CDATA[Azon tanakodtak zsidó vezetők, mit is kellene reagálni Vona hanukai üdvözletére.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Sun, 15 Jan 2017 15:05:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Majdnem Vona Gábor kapta a Sánta Kutya Díjat]]></title>
+   <link>http://mno.hu/belfold/majdnem-vona-gabor-kapta-a-santa-kutya-dijat-1380999?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Veczán Zoltán</author>
+   <enclosure url="http://mno.hu/data/cikkek/1380/13809/cikk-1380999/20170113_120910.jpg" length="312697" type="image/jpeg"/>
+   <description><![CDATA[A bizottság azért „jutalmazta” volna, mert nem szavazta meg az alaptörvény módosítását.]]></description>
+   <category>Belföld</category>
+   <pubDate>Fri, 13 Jan 2017 16:51:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Elzárkóztak Vona gesztusától a zsidó kerekasztalon]]></title>
+   <link>http://mno.hu/belfold/elzarkoztak-vona-gesztusatol-a-zsido-kerekasztalon-1380728?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Veczán Zoltán</author>
+   <enclosure url="http://mno.hu/data/cikkek/1380/13807/cikk-1380728/szb20150510_1710.jpg" length="378814" type="image/jpeg"/>
+   <description><![CDATA[A Jobbiknak „purgatóriumon kell keresztülmennie”, hogy szóba álljanak vele, de a Fidesz sem jobb.]]></description>
+   <category>Belföld</category>
+   <pubDate>Wed, 11 Jan 2017 22:05:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Véletlenül visszacsatolták Kárpátalját]]></title>
+   <link>http://mno.hu/hatarontul/veletlenul-visszacsatoltak-karpataljat-1380692?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Veczán Zoltán</author>
+   <description><![CDATA[Egy magyar nyelvi gyorstalpaló borítója ábrázolja hazánk térképét némi módosítással.]]></description>
+   <category>Határon túl</category>
+   <pubDate>Wed, 11 Jan 2017 18:10:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Meleg kabátok képében mutatkozik meg az emberség]]></title>
+   <link>http://mno.hu/belfold/meleg-kabatok-kepeben-mutatkozik-meg-az-emberseg-1380529?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sashegyi Zsófia, Veczán Zoltán</author>
+   <enclosure url="http://mno.hu/data/cikkek/1380/13805/cikk-1380529/_D_7041x.jpg" length="399179" type="image/jpeg"/>
+   <description><![CDATA[Páratlan összefogást indított el a levetett kabátjaink megosztására buzdító kezdeményezés.]]></description>
+   <category>Belföld</category>
+   <pubDate>Tue, 10 Jan 2017 19:05:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Lezsidózták Majtényit az ATV-ben]]></title>
+   <link>http://mno.hu/belfold/lezsidoztak-majtenyit-az-atv-ben-1380470?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Veczán Zoltán</author>
+   <description><![CDATA[Támogatna az átlagmagyar egy „szemmel láthatóan zsidó származású” jelöltet? – kérdezte Kende Péter.]]></description>
+   <category>Belföld</category>
+   <pubDate>Tue, 10 Jan 2017 14:14:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Twist Olivér számítógéppel]]></title>
+   <link>http://mno.hu/velemeny/twist-oliver-szamitogeppel-1380192?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Veczán Zoltán</author>
+   <enclosure url="http://mno.hu/data/cikkek/1380/13801/cikk-1380192/000_795PD.jpg" length="266529" type="image/jpeg"/>
+   <description><![CDATA[A legtöbb munkahelyen alapelvárás lett, hogy az alkalmazott kizsigerelje magát a cégért.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Mon, 09 Jan 2017 09:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szanyi: Viccpártként is szavazhatnak az MSZP-re]]></title>
+   <link>http://mno.hu/belfold/szanyi-viccpartkent-is-szavazhatnak-az-mszp-re-1379893?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Veczán Zoltán</author>
+   <enclosure url="http://mno.hu/data/cikkek/1379/13798/cikk-1379893/NBB_20140529_6568.JPG" length="883652" type="image/jpeg"/>
+   <description><![CDATA[Nem kizárt, hogy viccpárti szavazókra is számíthat az MSZP a választásokon – véli Szanyi Tibor.]]></description>
+   <category>Belföld</category>
+   <pubDate>Fri, 06 Jan 2017 15:57:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Bölcsődei haláleset: nem agyhártyagyulladás volt]]></title>
+   <link>http://mno.hu/belfold/bolcsodei-halaleset-nem-agyhartyagyulladas-volt-1379868?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Veczán Zoltán</author>
+   <enclosure url="http://mno.hu/data/cikkek/1379/13798/cikk-1379868/szb20140218_7586.jpg" length="711861" type="image/jpeg"/>
+   <description><![CDATA[Nem fertőzés okozta a kisgyermek halálát az illetékes hatóság és a bölcsőde szerint.]]></description>
+   <category>Belföld</category>
+   <pubDate>Fri, 06 Jan 2017 13:57:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Lecsapna egy múzeum a berlini merénylet kamionjára]]></title>
+   <link>http://mno.hu/kulfold/lecsapna-egy-muzeum-a-berlini-merenylet-kamionjara-1379773?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Veczán Zoltán</author>
+   <enclosure url="http://mno.hu/data/cikkek/1379/13797/cikk-1379773/000_JA3F8.jpg" length="385153" type="image/jpeg"/>
+   <description><![CDATA[Egy bonni terrortörténeti gyűjtemény szeretné megszerezni, de azért még kivárnak az áldozatok miatt.]]></description>
+   <category>Külföld</category>
+   <pubDate>Thu, 05 Jan 2017 21:03:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Megskalpolták a fehér fiatalt a feketék]]></title>
+   <link>http://mno.hu/kulfold/megskalpoltak-a-feher-fiatalt-a-feketek-1379756?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Veczán Zoltán</author>
+   <enclosure url="http://mno.hu/data/cikkek/1379/13797/cikk-1379756/586e3a30f0209.image.jpg" length="9112" type="image/jpeg"/>
+   <description><![CDATA[Facebookon közvetítették, ahogy Trumpot és a fehéreket szidalmazva fél óráig kínozták a fiút.]]></description>
+   <category>Külföld</category>
+   <pubDate>Thu, 05 Jan 2017 19:34:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

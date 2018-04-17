@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - rovat: Vízhang blog]]></title>
+  <link>http://mno.hu/vizhangblog</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Wed, 11 Apr 2018 08:41:34 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Hosszú Katinkáékhoz indul a FINA-busz?]]></title>
+   <link>http://mno.hu/vizhangblog/hosszu-katinkaekhoz-indul-a-fina-busz-2410543?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Radványi Benedek</author>
+   <enclosure url="http://mno.hu/data/cikkek/2410/24105/cikk-2410543/DSC_0456.JPG" length="195675" type="image/jpeg"/>
+   <description><![CDATA[Bajára tart a vizes vb buszjárata. Így próbálják kideríteni az Iron Lady titkát?]]></description>
+   <category>Vízhang blog</category>
+   <pubDate>Tue, 01 Aug 2017 15:45:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A pogácsázó újságírók Mekkája]]></title>
+   <link>http://mno.hu/vizhangblog/a-pogacsazo-ujsagirok-mekkaja-2410211?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Bucsy Levente</author>
+   <enclosure url="http://mno.hu/data/cikkek/2410/24102/cikk-2410211/20170730_124901_1_.jpg" length="173900" type="image/jpeg"/>
+   <description><![CDATA[Nem hagyják éhen a tudósítókat a Duna Arénában, persze aki dolgozni jött, az nem tömi magát degeszre. Körkép.]]></description>
+   <category>Vízhang blog</category>
+   <pubDate>Sun, 30 Jul 2017 16:16:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Őrült ugrók és piperkőcök a Batthyány téren]]></title>
+   <link>http://mno.hu/vizhangblog/orult-ugrok-es-piperkocok-a-batthyanyi-teren-2410213?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Gabay Balázs</author>
+   <enclosure url="http://mno.hu/data/cikkek/2410/24102/cikk-2410213/a_16_01.jpg" length="151227" type="image/jpeg"/>
+   <description><![CDATA[Az óriás-toronyugrás tömegeket vonzott a lélegzetelállító látványt nyújtó helyszínen. Fociultráknak nem ajánlott.]]></description>
+   <category>Vízhang blog</category>
+   <pubDate>Sun, 30 Jul 2017 14:50:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Water Liliék legyőzték Jakabos Zsut]]></title>
+   <link>http://mno.hu/vizhangblog/water-liliek-legyoztek-jakabos-zsut-2410136?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Radványi Benedek</author>
+   <enclosure url="http://mno.hu/data/cikkek/2410/24101/cikk-2410136/D_YT20170628007.jpg" length="377631" type="image/jpeg"/>
+   <description><![CDATA[Döbbenetesen népszerűek a Water Willyként még botrányt okozó kabalafigurák. Ötezerért ön is szerezhet egyet!]]></description>
+   <category>Vízhang blog</category>
+   <pubDate>Sat, 29 Jul 2017 07:58:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szájtáti népek]]></title>
+   <link>http://mno.hu/vizhangblog/szajtati-nepek-2410016?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Bucsy Levente</author>
+   <enclosure url="http://mno.hu/data/cikkek/2410/24100/cikk-2410016/_BA_2891_01.jpeg" length="184736" type="image/jpeg"/>
+   <description><![CDATA[Síri csendben, rezzenéstelen arccal bámulják a monitorokon a külföldi újságírók az óriás-toronyugrás eseményeit.]]></description>
+   <category>Vízhang blog</category>
+   <pubDate>Fri, 28 Jul 2017 14:30:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Egyedi vb-faktor a dunai utazás]]></title>
+   <link>http://mno.hu/vizhangblog/egyedi-vb-faktor-a-dunai-utazas-2409850?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Radványi Benedek</author>
+   <enclosure url="http://mno.hu/data/cikkek/2409/24098/cikk-2409850/hajo2.jpg" length="186832" type="image/jpeg"/>
+   <description><![CDATA[Remek Budapest-reklám a világbajnokság alatti hajóközlekedés. És még gyors is, kényelmes is.]]></description>
+   <category>Vízhang blog</category>
+   <pubDate>Thu, 27 Jul 2017 17:07:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hosszú Katinka következő célpontjai: az újságírók]]></title>
+   <link>http://mno.hu/vizhangblog/hosszu-katinka-kovetkezo-celpontjai-az-ujsagirok-2409866?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Bucsy Levente</author>
+   <enclosure url="http://mno.hu/data/cikkek/2409/24098/cikk-2409866/BA20161104_1329.jpg" length="1196197" type="image/jpeg"/>
+   <description><![CDATA[Az Iron Ladytől nem szabad bármit megkérdezni, mert még hazafiatlannak tűnik az ember.]]></description>
+   <category>Vízhang blog</category>
+   <pubDate>Thu, 27 Jul 2017 15:55:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[„Te meg mit keresel itt?”]]></title>
+   <link>http://mno.hu/vizhangblog/te-meg-mit-keresel-itt-2409650?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Bucsy Levente</author>
+   <enclosure url="http://mno.hu/data/cikkek/2409/24096/cikk-2409650/000_QX7T9.jpg" length="260595" type="image/jpeg"/>
+   <description><![CDATA[Amikor a világsztár úszót még névtáblájával együtt sem ismerik fel a valtonosok.]]></description>
+   <category>Vízhang blog</category>
+   <pubDate>Wed, 26 Jul 2017 16:50:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A magyarverő Campagna bánata]]></title>
+   <link>http://mno.hu/vizhangblog/a-magyarvero-campagna-banata-2409639?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Gabay Balázs</author>
+   <enclosure url="http://mno.hu/data/cikkek/2409/24096/cikk-2409639/D_KOS20170721085.jpg" length="260356" type="image/jpeg"/>
+   <description><![CDATA[Tükörbe nézést javaslunk az olasz edzőfenoménnak, vagdalkozzásal ugyanis nem lehet világbajnokságot nyerni.]]></description>
+   <category>Vízhang blog</category>
+   <pubDate>Wed, 26 Jul 2017 12:53:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Járvány terjed a Duna Arénában]]></title>
+   <link>http://mno.hu/vizhangblog/jarvany-terjed-a-duna-arenaban-2409577?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Bucsy Levente</author>
+   <enclosure url="http://mno.hu/data/cikkek/2409/24095/cikk-2409577/D_YT20170203030.jpg" length="206833" type="image/jpeg"/>
+   <description><![CDATA[Ha egy város uszodájában világcsúcsot úsznak, az akár hosszú-hosszú évekre jó reklám lehet.]]></description>
+   <category>Vízhang blog</category>
+   <pubDate>Wed, 26 Jul 2017 06:50:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Sikoly a csendben: margitszigeti dráma]]></title>
+   <link>http://mno.hu/vizhangblog/sikoly-a-csendben-margitszigeti-drama-2409416?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Radványi Benedek</author>
+   <enclosure url="http://mno.hu/data/cikkek/2409/24094/cikk-2409416/_BA_0126.JPG" length="406358" type="image/jpeg"/>
+   <description><![CDATA[Egyedi védekezéssel bénították meg a lányokat a kanadaiak, de sokszor még a kaput sem sikerült eltalálni.]]></description>
+   <category>Vízhang blog</category>
+   <pubDate>Tue, 25 Jul 2017 11:19:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Katinka, a matektanár]]></title>
+   <link>http://mno.hu/vizhangblog/katinka-a-matektanar-2409400?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Bucsy Levente</author>
+   <enclosure url="http://mno.hu/data/cikkek/2409/24094/cikk-2409400/_BA_2454.jpg" length="263663" type="image/jpeg"/>
+   <description><![CDATA[Megmérte, majd érzésre megverte a mezőnyt 200 m vegyesen, világcsúcsot ráér még később is úszni. Ki van ez számolva!]]></description>
+   <category>Vízhang blog</category>
+   <pubDate>Tue, 25 Jul 2017 06:51:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az üres Dagály-székek vérlázító titka]]></title>
+   <link>http://mno.hu/vizhangblog/az-ures-dagaly-szekek-verlazito-titka-2409230?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Bucsy Levente</author>
+   <enclosure url="http://mno.hu/data/cikkek/2409/24092/cikk-2409230/fenyar_896_504_1500837841.png" length="621922" type="image/png"/>
+   <description><![CDATA[A nép egy emberként követeli, hogy engedjék be a Duna Aréna üresen maradt helyeire.]]></description>
+   <category>Vízhang blog</category>
+   <pubDate>Mon, 24 Jul 2017 04:20:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nyílt víz, nyílt beszéd]]></title>
+   <link>http://mno.hu/vizhangblog/nyilt-viz-nyilt-beszed-2408991?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Bucsy Levente</author>
+   <enclosure url="http://mno.hu/data/cikkek/2408/24089/cikk-2408991/000_QN032.jpg" length="256531" type="image/jpeg"/>
+   <description><![CDATA[Követhetetlen, gagyi, kusza és végtelen hosszúságú volt minden egyes füredi vb-verseny – jelen formájában.]]></description>
+   <category>Vízhang blog</category>
+   <pubDate>Fri, 21 Jul 2017 18:57:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Itt a vizes vb, eladom a házam!]]></title>
+   <link>http://mno.hu/vizhangblog/itt-a-vizes-vb-eladom-a-hazam-2408598?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Havasi Zsolt</author>
+   <enclosure url="http://mno.hu/data/cikkek/2408/24085/cikk-2408598/Zsolti.jpg" length="457670" type="image/jpeg"/>
+   <description><![CDATA[A hirdetőtábla szélén magányosan árválkodik egy fehér cetli, lássuk, mit rejt.]]></description>
+   <category>Vízhang blog</category>
+   <pubDate>Thu, 20 Jul 2017 06:50:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Amikor a fránya fémdarab kitakarja Nagy Viktort]]></title>
+   <link>http://mno.hu/vizhangblog/amikor-a-franya-femdarab-kitakarja-nagy-viktort-2408565?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Gabay Balázs</author>
+   <enclosure url="http://mno.hu/data/cikkek/2408/24085/cikk-2408565/DSC_0036.JPG" length="557389" type="image/jpeg"/>
+   <description><![CDATA[Előállhat olyan helyzet, hogy az újságíró tévét szerel a sajtópáholyban.]]></description>
+   <category>Vízhang blog</category>
+   <pubDate>Wed, 19 Jul 2017 16:23:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Politizálni és varázsolni is tilos a vizes vb szurkolói zónáiban]]></title>
+   <link>http://mno.hu/vizhangblog/politizalni-es-varazsolni-is-tilos-a-vizes-vb-szurkoloi-zonaiban-2408368?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Radványi Benedek</author>
+   <enclosure url="http://mno.hu/data/cikkek/2408/24083/cikk-2408368/DSC_0451_3_.JPG" length="214689" type="image/jpeg"/>
+   <description><![CDATA[Eldeformált horogkereszt és Audi-jel: érthetetlen és mókás piktogramok a bejáratnál, sajátosan értelmeztük őket. ]]></description>
+   <category>Vízhang blog</category>
+   <pubDate>Tue, 18 Jul 2017 17:50:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Üres székek, jegy meg sehol – itt a magyarázat]]></title>
+   <link>http://mno.hu/vizhangblog/ures-szekek-jegy-meg-sehol-itt-a-magyarazat-2408193?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Bucsy Levente</author>
+   <enclosure url="http://mno.hu/data/cikkek/2408/24081/cikk-2408193/D_KOS20170716040.jpg" length="436574" type="image/jpeg"/>
+   <description><![CDATA[Hazardírozásra buzdít a Bp2017, bátran induljon el az is, akinek nincs jegye.]]></description>
+   <category>Vízhang blog</category>
+   <pubDate>Mon, 17 Jul 2017 14:54:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Parttól parti(i)g]]></title>
+   <link>http://mno.hu/vizhangblog/parttol-partiig-2408156?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Radványi Benedek</author>
+   <enclosure url="http://mno.hu/data/cikkek/2408/24081/cikk-2408156/D_KOS20170716076.jpg" length="533957" type="image/jpeg"/>
+   <description><![CDATA[Pezsgést hozott a vizes vb, pedig épphogy csak elkezdődött. Motoros kislány az egyik, plusz löket a másik oldalon.]]></description>
+   <category>Vízhang blog</category>
+   <pubDate>Mon, 17 Jul 2017 11:30:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[100 női gyorson Kozma Dominik és Bohus Richárd]]></title>
+   <link>http://mno.hu/vizhangblog/100-noi-gyorson-kozma-dominik-es-bohus-richard-2408103?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Bucsy Levente</author>
+   <enclosure url="http://mno.hu/data/cikkek/2408/24081/cikk-2408103/kozmabohus.png" length="82863" type="image/png"/>
+   <description><![CDATA[Tuti magyar arany-ezüstöt ígér, ha igaz, amiről a budapesti vizes világbajnokság magyar nyelvű honlapja tájékoztat. ]]></description>
+   <category>Vízhang blog</category>
+   <pubDate>Mon, 17 Jul 2017 07:03:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Angol–magyar lecke a Dagálynál]]></title>
+   <link>http://mno.hu/vizhangblog/angolmagyar-lecke-a-dagalynal-2407915?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Bucsy Levente</author>
+   <enclosure url="http://mno.hu/data/cikkek/2407/24079/cikk-2407915/_BA_5540.jpg" length="803863" type="image/jpeg"/>
+   <description><![CDATA[Hogy a világversenyt nyitó műugróesemények szinte senkit nem érdekelnek, az már odaérkezésem előtt kiderült.]]></description>
+   <category>Vízhang blog</category>
+   <pubDate>Fri, 14 Jul 2017 20:54:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

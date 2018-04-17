@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Czefernek Léna]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/czefernek-lena-2913</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Sat, 14 Apr 2018 12:12:47 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Aki miatt csökkent a császármetszések száma]]></title>
+   <link>http://mno.hu/csaladhalo/aki-miatt-csokkent-a-csaszarmetszesek-szama-1125410?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Czefernek Léna</author>
+   <description><![CDATA[A Szent Imre Kórházban ma Magyarországon az egyik legkevesebb beavatkozást hajtják végre. Mi a titok? Rákóczi István professzorral beszélgettünk.]]></description>
+   <category>Családháló</category>
+   <pubDate>Tue, 18 Dec 2012 12:40:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Császár császárt szül ]]></title>
+   <link>http://mno.hu/csaladhalo/csutortokre-csaszar-csaszart-szul-1118874?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Czefernek Léna</author>
+   <description><![CDATA[Egyes intézményekben a császármetszések aránya meghaladja az 50 százalékot is, azaz minden második nőn műtétet hajtanak végre a szülés során. Miért?]]></description>
+   <category>Családháló</category>
+   <pubDate>Thu, 22 Nov 2012 07:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Már csecsemőkorban eldől, félünk-e a házasságtól?]]></title>
+   <link>http://mno.hu/csaladhalo/mar-csecsemokorban-eldol-felunk-e-a-hazassagtol-1117779?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Czefernek Léna</author>
+   <description><![CDATA[A házasság és a család válsága mellett a fiatalok egyre később állnak munkába és egyre idősebb korban vállalnak családot. Félünk az elköteleződéstől?]]></description>
+   <category>Családháló</category>
+   <pubDate>Sun, 18 Nov 2012 07:25:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A Gorove házaspár a házasság titkairól]]></title>
+   <link>http://mno.hu/csaladhalo/a-kettesben-toltott-idok-voltak-a-highlightok-az-eletunkben-interju-a-gorove-hazasparral-1113382?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Czefernek Léna</author>
+   <description><![CDATA[Több mint nyolcszáz párt készítettek már fel a házasságra, és jegyesoktatásaikra sokszor nem is olyan könnyű bejutni. ]]></description>
+   <category>Családháló</category>
+   <pubDate>Thu, 01 Nov 2012 08:50:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Elváltunk - lehet boldog a gyerek?]]></title>
+   <link>http://mno.hu/csaladhalo/elvaltunk-lehet-boldog-kiegyensulyozott-a-gyerek-1109516?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Czefernek Léna</author>
+   <description><![CDATA[A válás mindkét fél számára veszteség, a kudarc közös. De hogyan látja a válást a gyerek? Mit jelent, hogy apu és anyu már nem szereti egymást?]]></description>
+   <category>Családháló</category>
+   <pubDate>Fri, 05 Oct 2012 10:45:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nyakig az őszben - színekkel hódítunk]]></title>
+   <link>http://mno.hu/eletmod/nyakig-az-oszben-szinekkel-hoditjuk-meg-a-divatot-1109029?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Czefernek Léna</author>
+   <description><![CDATA[Ne hagyják, hogy a borús őszi napok ráüljenek a hangulatukra! Lapozzák át divattippjeinket, és máris jobb kedvük lesz!]]></description>
+   <category>Életmód</category>
+   <pubDate>Wed, 03 Oct 2012 12:23:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kismama: nem vagy egyedül]]></title>
+   <link>http://mno.hu/csaladhalo/kismama-nem-vagy-egyedul-1107301?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Czefernek Léna</author>
+   <description><![CDATA[Egy kismama boldog, kiegyensúlyozott, mindig mosolyog, és egyáltalán: két méterrel a föld felett jár. Ám a valóság sokszor ennél nehezebb.]]></description>
+   <category>Családháló</category>
+   <pubDate>Tue, 25 Sep 2012 06:39:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kábítószer-élvezők a családi belül]]></title>
+   <link>http://mno.hu/csaladhalo/lassan-szulo-korba-lep-egy-generacio-akik-jobban-hozzafertek-az-illegalis-szerekhez-1105519?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Czefernek Léna</author>
+   <description><![CDATA[Nem csupán a gyereket, de az egész famíliát megterheli, ha a családban valaki drogot fogyaszt.]]></description>
+   <category>Családháló</category>
+   <pubDate>Sat, 15 Sep 2012 17:36:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA["Nem cserélném el semmilyen más zenei karrierre ezt a pályát!"]]></title>
+   <link>http://mno.hu/csaladhalo/nem-cserelnem-el-semmilyen-mas-zenei-karrierre-ezt-a-palyat-1103793?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Czefernek Léna</author>
+   <description><![CDATA[Tanúságtételeivel, dalaival, rádiós műsorával immáron több mint negyven éve formálja hazánk egyházi zenei életét, s erősíti környezete hitét. Sillye Jenő minderről szerényen nyilatkozik: szerinte mindez a Szentlélek munkája, amelyben számára végig gyermekei és felesége jelentette a biztos pontot.]]></description>
+   <category>Családháló</category>
+   <pubDate>Thu, 06 Sep 2012 16:58:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Daloló, "mihaszna" osztály]]></title>
+   <link>http://mno.hu/csaladhalo/dalolo-mihaszna-osztaly-1102709?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Czefernek Léna</author>
+   <description><![CDATA[Létezhet első osztály teljesítménykényszer és különóra nélkül, ahol a diákok dalolnak, táncolnak, kézműveskednek, mellesleg megtanulnak írni-olvasni, mindeközben a szülők nyugodtan hátradőlve asszisztálnak a lelkesítő programokhoz? Éva néni és Kati néni osztályában így zajlott az élet.]]></description>
+   <category>Családháló</category>
+   <pubDate>Sat, 01 Sep 2012 11:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA["Magyarországon a szegénységnek ma gyermekarca van"]]></title>
+   <link>http://mno.hu/csaladhalo/magyarorszagon-a-szegenysegnek-ma-gyermekarca-van-1096022?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Czefernek Léna</author>
+   <description><![CDATA[Átgondolná a szocpol rendszerét, a nyugdíjak meghatározásánál is figyelembe venné a felnevelt gyerekek számát és bevezetné a nagycsaládos igazolványt Orbán Viktor új családpolitikai tanácsadója. ]]></description>
+   <category>Családháló</category>
+   <pubDate>Wed, 01 Aug 2012 10:06:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA["Nem tolerálható, ha a nőket szülőgép helyzetre kárhoztatják!"]]></title>
+   <link>http://mno.hu/csaladhalo/nem-toleralhato-ha-a-noket-szulogep-helyzetre-karhoztatjak-1093302?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Czefernek Léna</author>
+   <description><![CDATA[Az afrikai nő titokban készül fogamzásgátló módszer alkalmazására, miközben indiai sorstársának gyermeke az utcára jár iskolába. ]]></description>
+   <category>Családháló</category>
+   <pubDate>Fri, 20 Jul 2012 12:05:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Lábhajtány – újjáéled a sínbicikli?]]></title>
+   <link>http://mno.hu/csaladhalo/labhajtany-ujjaeled-a-sinbicikli-1092327?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Czefernek Léna</author>
+   <description><![CDATA[Lábhajtány, kerékhajtány, sínbicikli, railbike - egy találmány, amely nemhogy veszített volna népszerűségéből, napjainkban reneszánszát éli.]]></description>
+   <category>Családháló</category>
+   <pubDate>Mon, 16 Jul 2012 15:59:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nagyszülővé válni – amitől ők is félnek]]></title>
+   <link>http://mno.hu/csaladhalo/nagyszulove-valni-amitol-ok-is-felnek-1091967?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Czefernek Léna</author>
+   <description><![CDATA[Szülővé válni nem könnyű, ám ennek a folyamatnak vannak más részesei is – az alábbiakban három olyan rejtett stresszforrásról hallhatunk, amely inkább a nagyszülőket fenyegeti.]]></description>
+   <category>Családháló</category>
+   <pubDate>Sat, 14 Jul 2012 23:11:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Jövő, amelyben elhanyagolható a gyerekek száma?]]></title>
+   <link>http://mno.hu/csaladhalo/jovo-amelyben-elhanyagolhato-a-gyerekek-szama-1091396?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Czefernek Léna</author>
+   <description><![CDATA[Képzeljünk el egy olyan világot, ahol a gyerekek száma elhanyagolható – ezt a nem túl rózsás képet festették le a jövő Európájáról a Népesedési Világnap alkalmából tartott konferencián, ahol a lehetséges negatív forgatókönyvek mellett azért a helyzetet orvosló javaslatok is elhangzottak.]]></description>
+   <category>Családháló</category>
+   <pubDate>Thu, 12 Jul 2012 13:20:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Akinek a kezében van a szíve – interjú Dévény Annával]]></title>
+   <link>http://mno.hu/csaladhalo/akinek-a-kezeben-van-a-szive-interju-deveny-annaval-1087448?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Czefernek Léna</author>
+   <description><![CDATA[Apróságok, egészen picike és nagyobbacska babák, tehetetlen testecskék, szüleikkel és egy segítő szakemberrel, no meg játékokkal körbevéve. ]]></description>
+   <category>Családháló</category>
+   <pubDate>Fri, 29 Jun 2012 11:43:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Védjük szemünk fénye szeme fényét?]]></title>
+   <link>http://mno.hu/csaladhalo/vedjuk-szemunk-fenye-szeme-fenyet-1085724?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Czefernek Léna</author>
+   <description><![CDATA[A napszemüveg napjainkra igen felkapott divatkellékké nőtte ki magát, s ez a tendencia remekül rímel az amúgy is szükséges UV-védelemmel. Gyermekeink szemére azonban kevesebbszer gondolunk, mint saját dizájnunkra, pedig a káros sugarak őket sem kímélik!]]></description>
+   <category>Családháló</category>
+   <pubDate>Fri, 22 Jun 2012 14:58:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Egy élhető alternatíva? Biciklivel a fővárosban]]></title>
+   <link>http://mno.hu/csaladhalo/egy-elheto-alternativa-biciklivel-a-fovarosban-1084766?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Czefernek Léna</author>
+   <description><![CDATA[2006 óta megduplázódott a kerékpárosok száma a fővárosban. De mennyire élhető alternatíva ez egy kisgyerekes családnak?]]></description>
+   <category>Családháló</category>
+   <pubDate>Tue, 19 Jun 2012 12:21:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Mumus a falon]]></title>
+   <link>http://mno.hu/csaladhalo/mumus-a-falon-1083663?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Czefernek Léna</author>
+   <description><![CDATA[A gyerekek néha egészen elképesztő dolgoktól képesek félni, olyannyira, hogy akár egy szobában sem hajlandóak maradni a szóban forgó horrorisztikus tárggyal.]]></description>
+   <category>Családháló</category>
+   <pubDate>Thu, 14 Jun 2012 12:53:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Boldogabb babát szeretnénk nevelni? ]]></title>
+   <link>http://mno.hu/csaladhalo/boldogabb-babat-szeretnenk-nevelni-1082620?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Czefernek Léna</author>
+   <description><![CDATA[A zenetanulás nyugtat, segíti a babák kommunikácóját, a nagyobb gyerekeknél pedig az empátia kialakulásában is fontos szerepet játszik.]]></description>
+   <category>Családháló</category>
+   <pubDate>Sun, 10 Jun 2012 15:37:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kinek érdemes passzív házban gondolkodni?]]></title>
+   <link>http://mno.hu/csaladhalo/kinek-erdemes-passziv-hazban-gondolkodni-1077847?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Czefernek Léna</author>
+   <description><![CDATA[Kinek érdemes passzív házban gondolkodnia? Egyáltalán mit is jelent maga a fogalom? És csak a passzív ház lehet energiatakarékos? Dr. Ónodi Gábor építésszel, a Magyar Nemzeti Vidéki Hálózat elnökségi tagjával beszélgettünk.]]></description>
+   <category>Családháló</category>
+   <pubDate>Tue, 22 May 2012 11:39:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ma másként csinálnám? Szülésem története ]]></title>
+   <link>http://mno.hu/csaladhalo/ma-maskent-csinalnam-szulesem-tortenete-1074985?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Czefernek Léna</author>
+   <description><![CDATA[Ki csodálatos, ki kellemetlen érzéseket őrizget magában, de abban minden nő egyetért, hogy saját szülésünknek, ennek a gyakran elementáris, felkavaró élménynek az emlékét életünk egyik legmeghatározóbb mozzanataként élénken, mélyen hordozzuk magunkban. ]]></description>
+   <category>Családháló</category>
+   <pubDate>Thu, 10 May 2012 14:49:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kepes, Tari: a család fogalma és a problémák megoldása is kultúrafüggő]]></title>
+   <link>http://mno.hu/csaladhalo/kepes-tari-a-csalad-fogalma-es-a-problemak-megoldasa-is-kulturafuggo-1074565?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Czefernek Léna</author>
+   <description><![CDATA[Milyen családban élünk nők, férfiak, lányok és fiúk, kicsik és nagyok?]]></description>
+   <category>Családháló</category>
+   <pubDate>Wed, 09 May 2012 08:08:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Itt a gyerek és a szülő a lényeg!]]></title>
+   <link>http://mno.hu/csaladhalo/itt-a-gyerek-es-a-szulo-a-lenyeg-1073156?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Czefernek Léna</author>
+   <description><![CDATA[Tipikus családi vállalkozásnak indult, mára azonban már a „játszótéri híradó” is „reklámozza” a Kerekerdő Fejlesztő Játszókuckót, amely egyre nagyobb népszerűségnek örvend a zuglói kismamák körében. ]]></description>
+   <category>Családháló</category>
+   <pubDate>Thu, 03 May 2012 11:37:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Tizenöt jel, amiből tudhatod: kisbabát vársz]]></title>
+   <link>http://mno.hu/csaladhalo/tizenot-jel-amibol-tudhatod-kisbabat-varsz-1072262?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Czefernek Léna</author>
+   <description><![CDATA[Nincs is annál izgalmasabb dolog, mint a netet böngészve azon morfondírozni, vajon a felsorolt terhességi tünetek ránk illenek-e. ]]></description>
+   <category>Családháló</category>
+   <pubDate>Sun, 29 Apr 2012 15:24:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Te, Én és Isten – no meg a szex]]></title>
+   <link>http://mno.hu/csaladhalo/te-en-es-isten-no-meg-a-szex-1070422?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Czefernek Léna</author>
+   <description><![CDATA[Folytatjuk Papp Miklós előadássorozatát, melyet a morálteológus Somogyiné Petik Krisztina és Kézdy Anikó pszichológusokkal közösen tartott a Sapientia Hittudományi Főiskolán. A téma ezúttal is "... és boldogan éltek, amíg meg nem haltak" – azaz a Kommunikáció, ami összetart. Míg előző cikkünkben a jó házasság titkairól és buktatóiról esett szó, most azt boncolgatjuk, milyen arányban esik latba a szexualitás, a barátság és Istennel való kapcsolatunk.]]></description>
+   <category>Családháló</category>
+   <pubDate>Mon, 23 Apr 2012 11:19:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Jó házasságra annyi az esély, mint nyerni a lottón?]]></title>
+   <link>http://mno.hu/csaladhalo/jo-hazassagra-annyi-az-esely-mint-nyerni-a-lotton-1069943?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Czefernek Léna</author>
+   <description><![CDATA[Az iskolában megtanulunk deriválni, sőt, az ízeltlábúak összes tulajdonságát megismerhetjük, csak éppen arra nem kapunk választ, hogyan ápoljuk, gondozzuk kapcsolatainkat, házasságunkat.]]></description>
+   <category>Családháló</category>
+   <pubDate>Fri, 20 Apr 2012 14:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Család a vásznon avagy a leghíresebb famíliák]]></title>
+   <link>http://mno.hu/csaladhalo/csalad-a-vasznon-avagy-a-leghiresebb-familiak-1069605?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Czefernek Léna</author>
+   <description><![CDATA[Hogyan ábrázolták nagy művészeink a családot, mint társadalmunk egyik alappillérét? Mi volt a trendi évszázadokkal ezelőtt? Hogyan mutatnak kiöntött, vászonra festett, kőbe faragott családjaink? Tegyünk egy kis időutazást!]]></description>
+   <category>Családháló</category>
+   <pubDate>Thu, 19 Apr 2012 12:48:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[„A sikerélmény nélkülözhetetlen egy gyerek számára”]]></title>
+   <link>http://mno.hu/csaladhalo/a-sikerelmeny-nelkulozhetetlen-egy-gyerek-szamara-1069351?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Czefernek Léna</author>
+   <description><![CDATA[„Van egy plusz, amit más nem adhat, csak a magyar néptánc: hogy ez az én nemzetemnek a gyökere, és már az ükapám, meg az ő apja is ezt csinálta! (...) Ki nem élvezi, ha a közönség neki tombol, ő meg hajlong - már három évesen - az Operaház színpadán?”]]></description>
+   <category>Családháló</category>
+   <pubDate>Wed, 18 Apr 2012 12:34:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nem drog, de "addiktív” - Energiaitalok vonzásában]]></title>
+   <link>http://mno.hu/csaladhalo/nem-drog-de-addiktiv-energiaitalok-vonzasaban-1064071?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Czefernek Léna</author>
+   <description><![CDATA[Napjainkban egyre több fiatalt lehet látni kezében energiaitallal, manapság trendi dolognak számít, ha az ember így turbózza fel a reggelt, esetleg az esti bulit is. Az sem ritka, hogy alkohollal keverve fogyasztják a koffeint és taurint is tartalmazó "üdítőket".]]></description>
+   <category>Családháló</category>
+   <pubDate>Wed, 28 Mar 2012 12:00:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

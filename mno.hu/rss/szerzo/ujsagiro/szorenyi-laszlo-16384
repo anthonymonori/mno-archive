@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Szörényi László]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/szorenyi-laszlo-16384</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Wed, 11 Apr 2018 10:13:42 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Confessio Paschalis]]></title>
+   <link>http://mno.hu/2percproza/confessio-paschalis-2456647?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szörényi László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2456/24566/cikk-2456647/VL20140607_7237.jpg" length="395352" type="image/jpeg"/>
+   <description><![CDATA[Elmélyültem a XII–XVIII. század világában, ha már itt a nagyböjt, és elvileg tavasz is van.]]></description>
+   <category>2 perc próza</category>
+   <pubDate>Fri, 30 Mar 2018 06:54:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Portársunk, Tompa Mihály]]></title>
+   <link>http://mno.hu/2percproza/portarsunk-tompa-mihaly-2420601?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szörényi László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2420/24206/cikk-2420601/Tompa_Mihaly.jpg" length="97850" type="image/jpeg"/>
+   <description><![CDATA[Aranyra emlékezünk, rá alig-alig. Összes versei legutóbb 1994-ben jelent meg.]]></description>
+   <category>2 perc próza</category>
+   <pubDate>Fri, 13 Oct 2017 19:03:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kortársam, G. A. halálán]]></title>
+   <link>http://mno.hu/2percproza/kortarsam-g-a-halalan-2399753?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szörényi László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2399/23997/cikk-2399753/szorenyi_laszlo_ajanlo.jpg" length="104523" type="image/jpeg"/>
+   <description><![CDATA[Gyásznap volt: harmadmagammal, osztálytársak G. Tóni temetésére utaztunk Győrbe.]]></description>
+   <category>2 perc próza</category>
+   <pubDate>Fri, 19 May 2017 21:30:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A leleményes Hugó]]></title>
+   <link>http://mno.hu/2percproza/a-lelemenyes-hugo-2396844?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szörényi László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2396/23968/cikk-2396844/szorenyi_laszlo_ajanlo.jpg" length="104523" type="image/jpeg"/>
+   <description><![CDATA[A húsvéti népszokások maradandók. Mindennek természetesen allegorikus jelentése is van.]]></description>
+   <category>2 perc próza</category>
+   <pubDate>Mon, 01 May 2017 18:37:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Magyar rémmese az ifjúkori elhülyülésről]]></title>
+   <link>http://mno.hu/2percproza/magyar-remmese-az-ifjukori-elhulyulesrol-2412735?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szörényi László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2412/24127/cikk-2412735/szorenyi_laszlo_ajanlo.jpg" length="104523" type="image/jpeg"/>
+   <description><![CDATA[Az orvostudomány megnyújtotta az emberi életkort, az ember már nem is tudja, mikor kezdődik az ifjúkori szenilitás.]]></description>
+   <category>2 perc próza</category>
+   <pubDate>Sat, 01 Apr 2017 10:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Bölénygulyás]]></title>
+   <link>http://mno.hu/2percproza/bolenygulyas-2390726?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szörényi László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2390/23907/cikk-2390726/szorenyi_laszlo_ajanlo.jpg" length="104523" type="image/jpeg"/>
+   <description><![CDATA[A szalontai Arany-emlékhelyeket bejáró tömeges zarándoklat is zavart kissé, mert elöl egy hangszórós autó popzenét üvöltözött.]]></description>
+   <category>2 perc próza</category>
+   <pubDate>Sun, 19 Mar 2017 19:55:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[„Az ember… a költő (mily bitang ez a név!)”]]></title>
+   <link>http://mno.hu/magazinpublicisztika/az-ember-a-kolto-mily-bitang-ez-a-nev-1389792?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szörényi László</author>
+   <enclosure url="http://mno.hu/data/cikkek/1389/13897/cikk-1389792/Barabas_arany_1__896_504_1489250326.jpg" length="313702" type="image/jpeg"/>
+   <description><![CDATA[Nélkülözhetetlen, hogy megvizsgáljuk, miképpen építette is föl Arany a „Kisebb költeményeket”.]]></description>
+   <category>Publicisztika a Magazinban</category>
+   <pubDate>Sat, 11 Mar 2017 18:54:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[„Én is éltem…”]]></title>
+   <link>http://mno.hu/2percproza/en-is-eltem-1386960?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szörényi László</author>
+   <enclosure url="http://mno.hu/data/cikkek/1386/13869/cikk-1386960/szorenyi_laszlo_ajanlo.jpg" length="104523" type="image/jpeg"/>
+   <description><![CDATA[Az Őszi utazások a vörös postakocsin című Krúdy-regénnyel a modern magyar regény született meg.]]></description>
+   <category>2 perc próza</category>
+   <pubDate>Tue, 21 Feb 2017 09:30:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[„Emlékezetnek okáért”]]></title>
+   <link>http://mno.hu/2percproza/emlekezetnek-okaert-1384651?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szörényi László</author>
+   <enclosure url="http://mno.hu/data/cikkek/1384/13846/cikk-1384651/szorenyi_laszlo_ajanlo.jpg" length="104523" type="image/jpeg"/>
+   <description><![CDATA[Az egyik pocsolyában találtam egy vízhatlan műanyag tokba kötött orosz nyelvű füzetecskét. Szovjet tankhoz tartozott.]]></description>
+   <category>2 perc próza</category>
+   <pubDate>Tue, 07 Feb 2017 11:11:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Isa vogymuk!]]></title>
+   <link>http://mno.hu/2percproza/isa-vogymuk-1383856?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szörényi László</author>
+   <enclosure url="http://mno.hu/data/cikkek/1383/13838/cikk-1383856/szorenyi_laszlo_ajanlo.jpg" length="104523" type="image/jpeg"/>
+   <description><![CDATA[Nekünk folyamatosan azért kell irodalmat létrehoznunk, hogy egyáltalán fönnmaradjunk!]]></description>
+   <category>2 perc próza</category>
+   <pubDate>Wed, 01 Feb 2017 08:23:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[„Ne hasoníts…”]]></title>
+   <link>http://mno.hu/2percproza/ne-hasonits-1382719?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szörényi László</author>
+   <enclosure url="http://mno.hu/data/cikkek/1382/13827/cikk-1382719/szorenyi_laszlo_ajanlo.jpg" length="104523" type="image/jpeg"/>
+   <description><![CDATA[Mátyás király szobra előtt a bronztáblácska még ott virított a talapzaton, a román történésztől, Nicolae Iorgától egy idézettel.]]></description>
+   <category>2 perc próza</category>
+   <pubDate>Tue, 24 Jan 2017 20:35:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Annus aureus]]></title>
+   <link>http://mno.hu/2percproza/annus-aureus-1380497?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szörényi László</author>
+   <enclosure url="http://mno.hu/data/cikkek/1380/13804/cikk-1380497/DEBRE20150302002x.jpg" length="391685" type="image/jpeg"/>
+   <description><![CDATA[Március 2-án lesz a kétszázadik évfordulója, hogy Arany János megszületett.]]></description>
+   <category>2 perc próza</category>
+   <pubDate>Tue, 10 Jan 2017 16:49:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Zsarnoklista, félidőben]]></title>
+   <link>http://mno.hu/konyveshaz/zsarnoklista-felidoben-1363659?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szörényi László</author>
+   <enclosure url="http://mno.hu/data/cikkek/1363/13636/cikk-1363659/Gentile_Bellini_003_01.jpg" length="467197" type="image/jpeg"/>
+   <description><![CDATA[Magyarország és a török hódítók küzdelme egy csehországi latin költeményben.]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Tue, 27 Sep 2016 19:28:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nefelejcs]]></title>
+   <link>http://mno.hu/konyveshaz/nefelejcs-1362490?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szörényi László</author>
+   <enclosure url="http://mno.hu/data/cikkek/1362/13624/cikk-1362490/Homonnai_Juhasz_1924_896_504_1474369242.jpg" length="42149" type="image/jpeg"/>
+   <description><![CDATA[Szörényi László írása Juhász Gyuláról és a száz évvel ezelőtti román támadásról.]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Tue, 20 Sep 2016 18:21:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ildom]]></title>
+   <link>http://mno.hu/konyveshaz/ildom-1357132?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szörényi László</author>
+   <description><![CDATA[Sokat sóhajtoztam az elmúlt három hétben, mivel tudtam, hogy – ha megérem – a 65. darabot kell előállítanom a tárcasorozatból.]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Mon, 22 Aug 2016 22:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ezen a napon történt]]></title>
+   <link>http://mno.hu/konyveshaz/ezen-a-napon-tortent-1353539?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szörényi László</author>
+   <enclosure url="http://mno.hu/data/cikkek/1353/13535/cikk-1353539/Petrarch_by_Bargilla01.jpg" length="279081" type="image/jpeg"/>
+   <description><![CDATA[Petrarca pápákat, királyokat és magát a császárt is erélyesen fegyelmezte. Nem voltak illúziói a történelemről és a politikáról.]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Sun, 31 Jul 2016 20:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Capriccio: fősüni]]></title>
+   <link>http://mno.hu/konyveshaz/capriccio-fosuni-1350433?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szörényi László</author>
+   <description><![CDATA[Szabó Magdának egy ismeretlen keresztnevű apai ősét kereste, helyette egy hihetetlen életrajzot talált Szörényi László.]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Sun, 10 Jul 2016 08:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A mosolygó diplomata]]></title>
+   <link>http://mno.hu/konyveshaz/a-mosolygo-diplomata-1347104?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szörényi László</author>
+   <enclosure url="http://mno.hu/data/cikkek/1347/13471/cikk-1347104/8997372-nagya.jpg" length="63534" type="image/jpeg"/>
+   <description><![CDATA[Szörényi László Trianonról és az olasz diplomatáról, aki nemigen tudta, hogy a Monarchiában magyarok is élnek.]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Sat, 18 Jun 2016 08:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Buborék]]></title>
+   <link>http://mno.hu/konyveshaz/buborek-1343714?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szörényi László</author>
+   <enclosure url="http://mno.hu/data/cikkek/1343/13437/cikk-1343714/buborek.jpg" length="405619" type="image/jpeg"/>
+   <description><![CDATA[Szörényi László a b-vel kezdődő illetlen szóról és a Vanitatum vanitasról.]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Mon, 30 May 2016 08:28:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A fordító fájó szíve]]></title>
+   <link>http://mno.hu/konyveshaz/a-fordito-fajo-szive-1343716?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szörényi László</author>
+   <enclosure url="http://mno.hu/data/cikkek/1343/13437/cikk-1343716/Francesco_Scaramuzza_-_Inferno__Canto_XVII.jpg" length="81419" type="image/jpeg"/>
+   <description><![CDATA[Dante fő műve Nádasdy Ádám merész magyarításában született újjá.]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Wed, 25 May 2016 08:40:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Attila a tuniszi légtérben]]></title>
+   <link>http://mno.hu/konyveshaz/attila-a-tuniszi-legterben-1340584?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szörényi László</author>
+   <enclosure url="http://mno.hu/data/cikkek/1340/13405/cikk-1340584/pyrker.jpg" length="40559" type="image/jpeg"/>
+   <description><![CDATA[Szörényi László írása egy ajándékba kapott igazi könyvritkaságról.]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Sun, 08 May 2016 06:57:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Valamivel Mohács előtt…]]></title>
+   <link>http://mno.hu/konyveshaz/valamivel-mohacs-elott-1336992?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szörényi László</author>
+   <description><![CDATA[VI. Adorján komolyan vette a magyarok fenyegetettségét. Kár, hogy másfél év után bele is halt a pápaságba.]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Wed, 13 Apr 2016 17:24:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Oktatáspolitika és továbbadandó nemzeti műveltség]]></title>
+   <link>http://mno.hu/migr_1834/oktataspolitika_es_tovabbadando_nemzeti_muveltseg-224638?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szörényi László</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 14 Sep 2010 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nemzeti tudományok és oktatás]]></title>
+   <link>http://mno.hu/migr_1834/nemzeti_tudomanyok_es_oktatas-235394?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szörényi László</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Sun, 30 May 2010 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A magyar &#8222;dolce stil nuovo&#8221;]]></title>
+   <link>http://mno.hu/migr_1834/a-magyar-dolce-stil-nuovo-849925?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szörényi László</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Sat, 02 Dec 2000 00:00:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

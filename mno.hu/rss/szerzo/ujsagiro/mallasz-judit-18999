@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Mallász Judit]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/mallasz-judit-18999</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Sun, 15 Apr 2018 00:42:22 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Mobil egészségügy]]></title>
+   <link>http://mno.hu/bitvilag/mobil-egeszsegugy-1073162?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Mallász Judit</author>
+   <description><![CDATA[A technológia adott, hogy egy mobileszköz, valamint az arra épülő alkalmazások segítsék az idősek, betegek, rászorulók, de akár az egészséges életre törekvők, a sportolók napi életvitelét. Hazai fejlesztőkből sincs hiány, ám a termékké válás, a megfelelő üzleti modell kialakítása még komoly gondot okoz.
+]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Thu, 03 May 2012 11:55:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Indul a Tesco Mobile]]></title>
+   <link>http://mno.hu/bitvilag/indul-a-tesco-mobile-1055525?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Mallász Judit</author>
+   <description><![CDATA[Olyan mobilkészülék is van az új, virtuális mobilszolgáltató kínálatában, amelybe két SIM-kártya helyezhető. ]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Tue, 28 Feb 2012 13:15:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Száguldó robotautók ]]></title>
+   <link>http://mno.hu/bitvilag/szaguldo-robotautok-1044514?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Mallász Judit</author>
+   <description><![CDATA[Önállóan működő robotok versenyeztek a Műegyetem Q épületének aulájában. ]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Wed, 18 Jan 2012 17:51:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Mikor lesz a nyusziból kutya?]]></title>
+   <link>http://mno.hu/bitvilag/mikor-lesz-a-nyuszibol-kutya-1039777?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Mallász Judit</author>
+   <description><![CDATA[A robotok kiszabadultak a gyárakból, és intelligenciájuk révén egyre inkább az ember hétköznapi szolgálatába állnak.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Tue, 27 Dec 2011 09:47:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Mérsékelten terjed a gép-gép kommunikáció]]></title>
+   <link>http://mno.hu/bitvilag/mersekelten-terjed-a-gep-gep-kommunikacio-1039653?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Mallász Judit</author>
+   <description><![CDATA[Noha korábban azt jósolták, hogy 50 milliárd gépben lesz majd SIM-kártya, a technológia fejlődése és a szolgáltatói piac alakulása némiképp keresztülhúzta a számításokat. ]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Mon, 26 Dec 2011 10:33:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[IP-címet minden homokszemnek]]></title>
+   <link>http://mno.hu/bitvilag/ip-cimet-minden-homokszemnek-1038038?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Mallász Judit</author>
+   <description><![CDATA[Ha bevezetik az IPv6-ot, akkor akár minden homokszem kaphatna internetcímet. A szakértők természetesen nem ezért tartják roppant sürgetőnek az áttérést. ]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Fri, 16 Dec 2011 10:11:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

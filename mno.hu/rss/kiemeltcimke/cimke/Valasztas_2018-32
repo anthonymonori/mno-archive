@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - kiemelt címke: Választás 2018]]></title>
+  <link>http://mno.hu/kiemeltcimke/cimke/Valasztas_2018-32</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Wed, 11 Apr 2018 10:49:19 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Orbán Viktor beugrott a Fradiba Kubatov Gáborhoz, és köszönetet mondott neki]]></title>
+   <link>http://mno.hu/belfold/orban-viktor-beugrott-a-fradiba-kubatov-gaborhoz-es-koszonetet-mondott-neki-2459314?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <description><![CDATA[A kormányfő megköszönte a „nemzeti ügyekben” nyújtott támogatást az FTC-nek.]]></description>
+   <category>Belföld</category>
+   <pubDate>Tue, 10 Apr 2018 21:35:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Karácsony Gergely lemond parlamenti mandátumáról]]></title>
+   <link>http://mno.hu/belfold/karacsony-gergely-lemond-parlamenti-mandatumarol-2459310?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24593/cikk-2459310/BA20171010_0234.jpg" length="464141" type="image/jpeg"/>
+   <description><![CDATA[A listavezető inkább marad polgármester, mint hogy ellenzéki képviselő legyen az Országgyűlésben.]]></description>
+   <category>Belföld</category>
+   <pubDate>Tue, 10 Apr 2018 20:53:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Megbírságolták a TV2-t, amiért a Fidesz mellett kampányolt]]></title>
+   <link>http://mno.hu/media/megbirsagoltak-a-tv2-t-amiert-a-fidesz-mellett-kampanyolt-2459308?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <description><![CDATA[A HVG.hu úgy tudja, hogy 3,45 milliós bírságot szabtak ki.]]></description>
+   <category>Média</category>
+   <pubDate>Tue, 10 Apr 2018 20:40:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[RTL: Nem futunk el, maradunk]]></title>
+   <link>http://mno.hu/media/rtl-nem-futunk-el-maradunk-2459294?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kovacsik Ágnes</author>
+   <description><![CDATA[Az RTL bízik a magyar médiapiacban, nincs tervben, hogy eladnák az RTL Klubot vagy más portfóliót.]]></description>
+   <category>Média</category>
+   <pubDate>Tue, 10 Apr 2018 19:25:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hétvégéig várhatóan nem áll helyre a választási iroda honlapja, a jegyzőkönyvek sem olvashatók]]></title>
+   <link>http://mno.hu/belfold/hetvegeig-varhatoan-nem-all-helyre-a-valasztasi-iroda-honlapja-a-jegyzokonyvek-sem-olvashatoak-2459281?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <description><![CDATA[Legalább négy nap szükséges még a Választás.hu honlap teljes újraindításához. ]]></description>
+   <category>Belföld</category>
+   <pubDate>Tue, 10 Apr 2018 17:57:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A Nemzeti Választási Iroda nem kapott konkrét ügyben panaszt]]></title>
+   <link>http://mno.hu/belfold/a-nemzeti-valasztasi-iroda-nem-kapott-konkret-ugyben-panaszt-2459262?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <description><![CDATA[Azt írták: ha nincs konkrét panasz, akkor nincs mit vizsgálni.]]></description>
+   <category>Belföld</category>
+   <pubDate>Tue, 10 Apr 2018 17:18:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ab: A Kúria alkotmányellenesen korlátozta a Fidesz véleménynyilvánítási szabadságát]]></title>
+   <link>http://mno.hu/belfold/ab-a-kuria-alkotmanyellenesen-korlatozta-a-fidesz-velemenynyilvanitasi-szabadsagat-2459257?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <description><![CDATA[Az alaptörvény őrei egyértelműnek tartják, hogy a kifogásolt plakát Fidesz-propagandát fogalmazott meg.]]></description>
+   <category>Belföld</category>
+   <pubDate>Tue, 10 Apr 2018 17:05:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nem vasárnap, hanem szombaton lesz a kormányellenes tüntetés]]></title>
+   <link>http://mno.hu/belfold/nem-vasarnap-hanem-szombaton-lesz-a-kormanyellenes-tuntetes-2459249?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24592/cikk-2459249/IMG_0853.JPG" length="468448" type="image/jpeg"/>
+   <description><![CDATA[Szombaton 17.30-kor várnak mindenkit az Operaháznál.]]></description>
+   <category>Belföld</category>
+   <pubDate>Tue, 10 Apr 2018 16:22:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Választási csalásra gyanakszanak, és újraszámlálást követelnek az ellenzéki pártok]]></title>
+   <link>http://mno.hu/belfold/valasztasi-csalasra-gyanakszik-es-ujraszamlalast-kovetel-a-jobbik-es-az-mszp-2459240?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24592/cikk-2459240/BD20161002_1860.jpg" length="528878" type="image/jpeg"/>
+   <description><![CDATA[A Jobbik, az MSZP, az LMP és a DK is kifogásokat fogalmazott meg a közölt választási eredménnyel kapcsolatban, de az NVI eddig nem kapott beadványt.]]></description>
+   <category>Belföld</category>
+   <pubDate>Tue, 10 Apr 2018 16:15:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nemes Gábor felhagy a szakszervezeti munkával, és beleveti magát a politikába]]></title>
+   <link>http://mno.hu/belfold/nemes-gabor-felhagy-a-szakszervezeti-munkaval-es-beleveti-magat-a-politikaba-2459214?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <description><![CDATA[Nemes a választásokon a DK jelöltjeként elindult a XVI. kerületben, majd visszalépett az Együtt politikusa javára.]]></description>
+   <category>Belföld</category>
+   <pubDate>Tue, 10 Apr 2018 14:22:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kamupárthoz kerülhettek a Jobbikra adott szavazatok]]></title>
+   <link>http://mno.hu/belfold/kamuparthoz-kerulhettek-a-jobbikra-adott-szavazatok-2459206?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <description><![CDATA[A Jobbik felszólította az NVI-t, vizsgálja ki a választási csalások gyanújával kapcsolatos összes bejelentést.]]></description>
+   <category>Belföld</category>
+   <pubDate>Tue, 10 Apr 2018 14:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Folyt. köv.]]></title>
+   <link>http://mno.hu/marabu/folyt-kov-2459201?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Marabu</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24592/cikk-2459201/folyt_kov.jpg" length="315053" type="image/jpeg"/>
+   <description><![CDATA[A hazaáruló, sorosista-civilista ellenzék választási csalásai és manipulációi miatt sajnos nem lett meg a négyötöd.]]></description>
+   <category>Marabu</category>
+   <pubDate>Tue, 10 Apr 2018 13:18:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[„Schiffer shortolta a választásokat” – belháború dúl az LMP-ben]]></title>
+   <link>http://mno.hu/belfold/schiffer-shortolta-a-valasztasokat-belhaboru-dul-az-lmp-ben-2459166?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kovács Áron</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24591/cikk-2459166/RD_DSC_9630.jpg" length="233085" type="image/jpeg"/>
+   <description><![CDATA[Miközben az LMP-t egyesek „keresztre feszítik” a Fidesz győzelme miatt, a megegyezést keresőket házon belül támadják.]]></description>
+   <category>Belföld</category>
+   <pubDate>Tue, 10 Apr 2018 09:41:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Mirkóczki: Vona nyomába se fognak érni azok, akik a helyén marakodnak]]></title>
+   <link>http://mno.hu/belfold/mirkoczki-vona-nyomaba-se-fognak-erni-azok-akik-a-helyen-marakodnak-2459163?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24591/cikk-2459163/VL20161002_7541x.jpg" length="213126" type="image/jpeg"/>
+   <description><![CDATA[A Jobbik szóvivője biztos abban, hogy a többség nem akarja elfogadni a döntést.]]></description>
+   <category>Belföld</category>
+   <pubDate>Tue, 10 Apr 2018 09:12:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nem zárja ki a csalást: kikérné a szavazatok ellenőrzését a választási szakértő]]></title>
+   <link>http://mno.hu/belfold/nem-zarja-ki-a-csalast-kikerne-a-szavazatok-ellenorzeset-a-valasztasi-szakerto-2459159?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24591/cikk-2459159/CM9R3858.jpg" length="255730" type="image/jpeg"/>
+   <description><![CDATA[Tóth Zoltán szerint szakmai szempontból megbukott az NVI. Pálffy Ilona szerint nem nyúlhattak bele az eredménybe.]]></description>
+   <category>Belföld</category>
+   <pubDate>Tue, 10 Apr 2018 08:44:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Tüntetés lesz vasárnap a Kossuth téren]]></title>
+   <link>http://mno.hu/belfold/tuntetes-lesz-vasarnap-a-kossuth-teren-2459149?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <description><![CDATA[Már tízezren jelezték, hogy részt vesznek a demonstráción.]]></description>
+   <category>Belföld</category>
+   <pubDate>Tue, 10 Apr 2018 07:50:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Gulyás Márton: Vissza kellene adni az ellenzéki mandátumokat]]></title>
+   <link>http://mno.hu/belfold/gulyas-marton-vissza-kellene-adni-az-ellenzeki-mandatumokat-2459148?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24591/cikk-2459148/BA20151117_9530.jpg" length="223975" type="image/jpeg"/>
+   <description><![CDATA[Oltári nagy bukás az ellenzéknek a Fidesz győzelme – jelentette ki.]]></description>
+   <category>Belföld</category>
+   <pubDate>Tue, 10 Apr 2018 07:34:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szél Bernadett újraszámoltatja a szavazatait]]></title>
+   <link>http://mno.hu/belfold/szel-bernadett-ujraszamoltatja-a-szavazatait-2459147?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24591/cikk-2459147/szb20140324_2020.jpg" length="180264" type="image/jpeg"/>
+   <description><![CDATA[Lesz tisztújítás az LMP-ben.]]></description>
+   <category>Belföld</category>
+   <pubDate>Tue, 10 Apr 2018 07:15:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Választás után]]></title>
+   <link>http://mno.hu/vezercikk/valasztas-utan-2459137?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lukács Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24591/cikk-2459137/BEL_3607_01.jpg" length="214634" type="image/jpeg"/>
+   <description><![CDATA[Jó kérdés, hogy a győztest mennyire részegíti meg a siker, és a súlyos vereségből képes lesz-e tanulni a sok vesztes.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Tue, 10 Apr 2018 00:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Index: Fegyelmi vizsgálat vár Hadházy Ákosra az LMP-ben]]></title>
+   <link>http://mno.hu/belfold/index-fegyelmi-vizsgalat-var-hadhazy-akosra-az-lmp-ben-2459132?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24591/cikk-2459132/D_SOS20180322016.jpg" length="245685" type="image/jpeg"/>
+   <description><![CDATA[Az LMP testületi döntései az önállóság mellett szóltak, Hadházy viszont egyezkedett a szocialistákkal.]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 09 Apr 2018 21:12:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Závecz Tibor: Orbán belefújt a harci kürtbe]]></title>
+   <link>http://mno.hu/belfold/zavecz-tibor-orban-belefujt-a-harci-kurtbe-2459124?utm_source=feed&amp;utm_medium=rss</link>
+   <author>R. Kiss Kornélia</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24591/cikk-2459124/20180408_NBB3260.JPG" length="258635" type="image/jpeg"/>
+   <description><![CDATA[A közvélemény-kutató szerint az utolsó napok fideszes mozgósítása sokat nyomott a latban.]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 09 Apr 2018 20:59:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Gőgös Zoltán is befejezte ]]></title>
+   <link>http://mno.hu/belfold/gogos-zoltan-is-befejezte-2459121?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24591/cikk-2459121/NBB_20151214_8665.JPG" length="294078" type="image/jpeg"/>
+   <description><![CDATA[Az MSZP-s politikus nem veszi át mandátumát, helyette Harangozó Tamás kerül az Országgyűlésbe.]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 09 Apr 2018 20:31:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Vona Gábor kivonul a politikából]]></title>
+   <link>http://mno.hu/belfold/vona-gabor-kivonul-a-politikabol-2459113?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24591/cikk-2459113/30051624_10156384434554623_4640788996571361056_o.jpg" length="103185" type="image/jpeg"/>
+   <description><![CDATA[Nem indul a következő elnökválasztáson, és nem veszi át a parlamenti mandátumát sem.]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 09 Apr 2018 19:51:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A lengyelek láthatóan alaposan tanulmányozzák Orbán győzelmét]]></title>
+   <link>http://mno.hu/kulfold/a-lengyelek-lathatoan-alaposan-tanulmanyozzak-orban-gyozelmet-2459082?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szathmáry István Pál</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24590/cikk-2459082/20180406_NBB2256.JPG" length="147406" type="image/jpeg"/>
+   <description><![CDATA[A Fidesz győzelme megihlette a lengyel politikai elemzőket. ]]></description>
+   <category>Külföld</category>
+   <pubDate>Mon, 09 Apr 2018 19:30:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Fekete-Győr: Tömegével akarnak csatlakozni a Momentumhoz]]></title>
+   <link>http://mno.hu/belfold/fekete-gyor-tomegevel-akarnak-csatlakozni-a-momentumhoz-2459106?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24591/cikk-2459106/_D_5003.jpg" length="581782" type="image/jpeg"/>
+   <description><![CDATA[Az elnök szerint van olyan tagjuk, aki felmondott a minisztériumban, hogy teljes állásban náluk dolgozzon.]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 09 Apr 2018 19:24:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[„Vidéken az átszavazás szinte egyáltalán nem működött”]]></title>
+   <link>http://mno.hu/belfold/videken-az-atszavazas-szinte-egyaltalan-nem-mukodott-2459094?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Unyatyinszki György</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24590/cikk-2459094/RD_DSC_9594.jpg" length="205561" type="image/jpeg"/>
+   <description><![CDATA[Az ellenzéki együttműködés szorgalmazói szerint a pártok tehetségtelensége a vereség oka. De a kiábrándult fideszesek sem találtak alternatívát.]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 09 Apr 2018 19:11:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Bukta után]]></title>
+   <link>http://mno.hu/velemeny/bukta-utan-2459038?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pethő Tibor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24590/cikk-2459038/2781F299_0EF8_4DB6_AFC0_73744DD423EC.jpeg" length="342391" type="image/jpeg"/>
+   <description><![CDATA[Ámítottuk magunkat, a végeredménynek látványos előjelei voltak. A tömegeket egy mérsékelt és hiteles ellenzék szólíthatná meg.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Mon, 09 Apr 2018 18:21:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hahó, facebookosok! – Orbán Viktor azt üzente…]]></title>
+   <link>http://mno.hu/belfold/haho-facebookosok-orban-viktor-azt-uzente-2459079?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24590/cikk-2459079/000_8G87Z.jpg" length="47153" type="image/jpeg"/>
+   <description><![CDATA[Mi másról is beszélhetett volna a választás másnapján a kormányfő, mint a haza megvédéséről. Azt nem árulta el, kitől kell félnünk.]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 09 Apr 2018 18:05:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Timmermans: Majd meglátjuk, mihez kezd Orbán]]></title>
+   <link>http://mno.hu/belfold/timmermans-majd-meglatjuk-mihez-kezd-orban-2459059?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <description><![CDATA[Az Európai Bizottság első alelnöke szerint a kampány során „sok volt a retorika”, de ő már hozzászokott.]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 09 Apr 2018 17:16:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A vereség után inkább Brüsszelt választják a DK-sok]]></title>
+   <link>http://mno.hu/kulfold/a-vereseg-utan-inkabb-brusszelt-valasztjak-a-dk-sok-2459037?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Arató László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24590/cikk-2459037/NBB_20170304_0301_896_504_1523286228.JPG" length="38100" type="image/jpeg"/>
+   <description><![CDATA[Niedermüller Péter és Molnár Csaba európai parlamenti képviselők hiába jutottak be a Gyurcsány vezette párt listáján.]]></description>
+   <category>Külföld</category>
+   <pubDate>Mon, 09 Apr 2018 17:03:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

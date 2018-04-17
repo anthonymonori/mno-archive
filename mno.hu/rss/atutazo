@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - rovat: Átutazó]]></title>
+  <link>http://mno.hu/atutazo</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Wed, 11 Apr 2018 08:05:58 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Ácsorgók és aktivátorok]]></title>
+   <link>http://mno.hu/atutazo/acsorgok-es-aktivatorok-2458789?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Tóth Szabolcs Töhötöm</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24587/cikk-2458789/szb20180321_5758.jpg" length="200590" type="image/jpeg"/>
+   <description><![CDATA[Mintha valamely foszló gerincű, ócska kémregény poros díszletei között téblábolnánk.]]></description>
+   <category>Átutazó</category>
+   <pubDate>Sun, 08 Apr 2018 18:06:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Fotelország]]></title>
+   <link>http://mno.hu/atutazo/fotelorszag-2457163?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Tóth Szabolcs Töhötöm</author>
+   <enclosure url="http://mno.hu/data/cikkek/2457/24571/cikk-2457163/RD_DSC_9038.jpg" length="502321" type="image/jpeg"/>
+   <description><![CDATA[Tömegsportra alig jut pénz, nem úgy az e-sportnak nevezett gombnyomogatásra. ]]></description>
+   <category>Átutazó</category>
+   <pubDate>Mon, 02 Apr 2018 13:45:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Lakóparkosítás]]></title>
+   <link>http://mno.hu/atutazo/lakoparkositas-2455719?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Tóth Szabolcs Töhötöm</author>
+   <enclosure url="http://mno.hu/data/cikkek/2455/24557/cikk-2455719/willow_campus_o_brien_park_copyright_oma1.jpg" length="685799" type="image/jpeg"/>
+   <description><![CDATA[Érdekes kérdés, hogy Facebook, amely nem éppen jó pásztor módjára sáfárkodott rá bízott személyes adatainkkal, miképpen képzeli városaink jövőjét. ]]></description>
+   <category>Átutazó</category>
+   <pubDate>Sun, 25 Mar 2018 20:45:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Menetelők kérték]]></title>
+   <link>http://mno.hu/atutazo/menetelok-kertek-2454142?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Tóth Szabolcs Töhötöm</author>
+   <enclosure url="http://mno.hu/data/cikkek/2454/24541/cikk-2454142/CM9R4511.jpg" length="178540" type="image/jpeg"/>
+   <description><![CDATA[A pszichózis, amelyet a propaganda gerjeszt, kívül esik még a szimbolikus vagy érzelmi politizálás világán is.]]></description>
+   <category>Átutazó</category>
+   <pubDate>Sat, 17 Mar 2018 15:59:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kalózok]]></title>
+   <link>http://mno.hu/atutazo/kalozok-2452796?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Tóth Szabolcs Töhötöm</author>
+   <enclosure url="http://mno.hu/data/cikkek/2452/24527/cikk-2452796/000_V645J.jpg" length="324099" type="image/jpeg"/>
+   <description><![CDATA[A rendkívüli helyzetekben kikényszerített rendkívüli felhatalmazás jó eséllyel a totalitárius rendszerek felé löki a politikát.]]></description>
+   <category>Átutazó</category>
+   <pubDate>Sun, 11 Mar 2018 06:15:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Világítás okosban]]></title>
+   <link>http://mno.hu/atutazo/vilagitas-okosban-2451208?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Tóth Szabolcs Töhötöm</author>
+   <enclosure url="http://mno.hu/data/cikkek/2451/24512/cikk-2451208/035_20180215_56376.jpg" length="349688" type="image/jpeg"/>
+   <description><![CDATA[Nekünk, magyaroknak kétszeresen is elgondolkoztató lehet az okosváros technológiáinak térhódítása.]]></description>
+   <category>Átutazó</category>
+   <pubDate>Sun, 04 Mar 2018 06:10:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Tücsköt, bogarat]]></title>
+   <link>http://mno.hu/atutazo/tucskot-bogarat-2449702?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Tóth Szabolcs Töhötöm</author>
+   <enclosure url="http://mno.hu/data/cikkek/2449/24497/cikk-2449702/VL20180223_7373.jpg" length="462963" type="image/jpeg"/>
+   <description><![CDATA[Fazekas Sándor és Németh Szilárd láthatóan azon dolgozik, hogy az egész magyar konyhaművészetet bezárja egy piros aranyos tubusba.]]></description>
+   <category>Átutazó</category>
+   <pubDate>Sun, 25 Feb 2018 14:40:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Céline, az antiszemita]]></title>
+   <link>http://mno.hu/atutazo/celine-az-antiszemita-2447770?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Tóth Szabolcs Töhötöm</author>
+   <enclosure url="http://mno.hu/data/cikkek/2447/24477/cikk-2447770/000_SAPA990427454900_.jpg" length="449401" type="image/jpeg"/>
+   <description><![CDATA[Van úgy, hogy az ember ordas nagy antiszemita. Ennek tetejében üldözési mániájával is kínozza környezetét.]]></description>
+   <category>Átutazó</category>
+   <pubDate>Sun, 18 Feb 2018 08:08:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Deres]]></title>
+   <link>http://mno.hu/atutazo/deres-2446420?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Tóth Szabolcs Töhötöm</author>
+   <enclosure url="http://mno.hu/data/cikkek/2446/24464/cikk-2446420/to284his314_896_504_1518345952.jpg" length="47654" type="image/jpeg"/>
+   <description><![CDATA[Magukat „ifjúnak” mondó konzervatívok köreiben mind többször találkozni azzal, miszerint a feudális állapotok Magyarország természetes közegét jelentenék.]]></description>
+   <category>Átutazó</category>
+   <pubDate>Sun, 11 Feb 2018 12:43:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ütni Trumpot]]></title>
+   <link>http://mno.hu/atutazo/utni-trumpot-2444814?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Tóth Szabolcs Töhötöm</author>
+   <enclosure url="http://mno.hu/data/cikkek/2444/24448/cikk-2444814/000_X166S.jpg" length="149550" type="image/jpeg"/>
+   <description><![CDATA[Nem önsorsrontó-e ez az egyre inkább komikusan mágikus jelleget öltő vagdalkozás?]]></description>
+   <category>Átutazó</category>
+   <pubDate>Sat, 03 Feb 2018 18:22:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A korszak vége]]></title>
+   <link>http://mno.hu/atutazo/a-korszak-vege-2443212?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Tóth Szabolcs Töhötöm</author>
+   <enclosure url="http://mno.hu/data/cikkek/2443/24432/cikk-2443212/D_SOS20020421091.jpg" length="196886" type="image/jpeg"/>
+   <description><![CDATA[Orbán rendszere nem fasizmus, de a polgári Magyarországot lecserélte a legsötétebb indulatokkal játszadozó ösztön-Magyarországra.]]></description>
+   <category>Átutazó</category>
+   <pubDate>Sun, 28 Jan 2018 07:20:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Chelsea és Milo]]></title>
+   <link>http://mno.hu/atutazo/chelsea-es-milo-2441141?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Tóth Szabolcs Töhötöm</author>
+   <enclosure url="http://mno.hu/data/cikkek/2441/24411/cikk-2441141/000_UV5KN.jpg" length="280884" type="image/jpeg"/>
+   <description><![CDATA[Májusban hívják meg inkább Chelsea Manninget: ha a fiatal választók megnyerése a cél, ez is menő lenne és időszerű.]]></description>
+   <category>Átutazó</category>
+   <pubDate>Sat, 20 Jan 2018 11:15:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Elektrománc: mindennapi örkényi pillanataink a trolin]]></title>
+   <link>http://mno.hu/atutazo/elektromanc-mindennapi-orkenyi-pillanataink-a-trolin-2439938?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Tóth Szabolcs Töhötöm</author>
+   <enclosure url="http://mno.hu/data/cikkek/2439/24399/cikk-2439938/HM20151116_106.jpg" length="278410" type="image/jpeg"/>
+   <description><![CDATA[Valami furcsa adalékanyagot keverhetnek mostanában a budapesti chemtrailbe.]]></description>
+   <category>Átutazó</category>
+   <pubDate>Sat, 13 Jan 2018 14:56:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szellem a boltban]]></title>
+   <link>http://mno.hu/atutazo/szellem-a-boltban-2438285?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Tóth Szabolcs Töhötöm</author>
+   <enclosure url="http://mno.hu/data/cikkek/2438/24382/cikk-2438285/035_pbu530699_08.jpg" length="239507" type="image/jpeg"/>
+   <description><![CDATA[Kétségtelen, hogy egynémely boltos vagy vendéglős számára a vásárló, a vendég már ma is zavaró tényező.]]></description>
+   <category>Átutazó</category>
+   <pubDate>Sun, 07 Jan 2018 14:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Új pártszlogen lép a konzervativizmus helyébe: a nyugtalan erő]]></title>
+   <link>http://mno.hu/atutazo/uj-partszlogen-lep-a-konzervativizmus-helyebe-a-nyugtalan-ero-2436990?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Tóth Szabolcs Töhötöm</author>
+   <enclosure url="http://mno.hu/data/cikkek/2436/24369/cikk-2436990/SZB_4508.jpg" length="379069" type="image/jpeg"/>
+   <description><![CDATA[A Fidesz letöltötte adatbázisaiba a magyarok dühét, félelmeit és indulatait. Csupán folyamatos hadiállapotra van szüksége.]]></description>
+   <category>Átutazó</category>
+   <pubDate>Sat, 30 Dec 2017 12:30:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Várakozás]]></title>
+   <link>http://mno.hu/atutazo/varakozas-2435872?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Tóth Szabolcs Töhötöm</author>
+   <enclosure url="http://mno.hu/data/cikkek/2435/24358/cikk-2435872/Rogier_van_der_Weyden_009.jpg" length="492114" type="image/jpeg"/>
+   <description><![CDATA[A tetszik kultúrájában élünk. Ebben az igében sok minden benne foglaltatik.]]></description>
+   <category>Átutazó</category>
+   <pubDate>Sun, 24 Dec 2017 09:56:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Te is? Én is!]]></title>
+   <link>http://mno.hu/atutazo/te-is-en-is-2434349?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Tóth Szabolcs Töhötöm</author>
+   <enclosure url="http://mno.hu/data/cikkek/2434/24343/cikk-2434349/DSZZS20151003205_896_504_1494794315.jpg" length="170505" type="image/jpeg"/>
+   <description><![CDATA[Nem tudom, Havas molesztált-e nőket, nem szeretném felmenteni olyan ügyben, amiről nincsenek ismereteim. ]]></description>
+   <category>Átutazó</category>
+   <pubDate>Sun, 17 Dec 2017 06:06:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hozzávalók forradalomhoz]]></title>
+   <link>http://mno.hu/atutazo/hozzavalok-forradalomhoz-2432802?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Tóth Szabolcs Töhötöm</author>
+   <enclosure url="http://mno.hu/data/cikkek/2432/24328/cikk-2432802/063_457430169.jpg" length="183635" type="image/jpeg"/>
+   <description><![CDATA[A szeretet ünnepére készülődve említést tennék egy különleges receptgyűjteményről.]]></description>
+   <category>Átutazó</category>
+   <pubDate>Sat, 09 Dec 2017 10:30:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Keleti üdvösségünk]]></title>
+   <link>http://mno.hu/atutazo/keleti-udvossegunk-2431406?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Tóth Szabolcs Töhötöm</author>
+   <enclosure url="http://mno.hu/data/cikkek/2431/24314/cikk-2431406/000_Hkg7409076.jpg" length="371242" type="image/jpeg"/>
+   <description><![CDATA[A keleti nyitás ideológiai pótlékká változott, és így sóvárgó kívánsággá nőtt a magyarban: „Menjünk vissza Ázsiába!”]]></description>
+   <category>Átutazó</category>
+   <pubDate>Sat, 02 Dec 2017 18:17:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Apák és fiúk, ezek és azok]]></title>
+   <link>http://mno.hu/atutazo/apak-es-fiuk-ezek-es-azok-2430243?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Tóth Szabolcs Töhötöm</author>
+   <enclosure url="http://mno.hu/data/cikkek/2430/24302/cikk-2430243/apak_es_fiuk.jpg" length="626591" type="image/jpeg"/>
+   <description><![CDATA[Néha úgy tűnik, mintha Magyarországon 1919 óta vendetta lenne, amelyből nem lehet kiszállni.]]></description>
+   <category>Átutazó</category>
+   <pubDate>Mon, 27 Nov 2017 20:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A megperzselt Nyugat]]></title>
+   <link>http://mno.hu/atutazo/a-megperzselt-nyugat-2425802?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Tóth Szabolcs Töhötöm</author>
+   <enclosure url="http://mno.hu/data/cikkek/2425/24258/cikk-2425802/K_EPA20160701096.jpg" length="356659" type="image/jpeg"/>
+   <description><![CDATA[Semmi sem olyan kelendő termék a közösségi médiában, mint a düh és a felháborodás.]]></description>
+   <category>Átutazó</category>
+   <pubDate>Mon, 06 Nov 2017 18:42:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kutyaszorítóban: Weinstein és az új vadkanok]]></title>
+   <link>http://mno.hu/atutazo/kutyaszoritoban-weinstein-es-az-uj-vadkanok-2421494?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Tóth Szabolcs Töhötöm</author>
+   <enclosure url="http://mno.hu/data/cikkek/2421/24214/cikk-2421494/000_DV1487915.jpg" length="186698" type="image/jpeg"/>
+   <description><![CDATA[Egy Káin-ember a kultúrháborúban.]]></description>
+   <category>Átutazó</category>
+   <pubDate>Sat, 14 Oct 2017 09:55:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Atombunker és zombiapokalipszis: miért gyűjt egy amerikai lőfegyver-arzenált?]]></title>
+   <link>http://mno.hu/atutazo/atombunker-es-zombiapokalipszis-miert-gyujt-egy-amerikai-fegyverarzenalt-2420133?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Tóth Szabolcs Töhötöm</author>
+   <enclosure url="http://mno.hu/data/cikkek/2420/24201/cikk-2420133/000_R636N.jpg" length="619146" type="image/jpeg"/>
+   <description><![CDATA[Jobb, ha a legrosszabbra készülsz. És ez 1620 óta így megy minden nap.]]></description>
+   <category>Átutazó</category>
+   <pubDate>Thu, 05 Oct 2017 18:10:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Addig feszülnek egymásnak Amerikában, míg ránk nem gyújtják az egész világot]]></title>
+   <link>http://mno.hu/atutazo/addig-feszulnek-egymasnak-amerikaban-mig-rank-nem-gyujtjak-az-egesz-vilagot-2418190?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Tóth Szabolcs Töhötöm</author>
+   <enclosure url="http://mno.hu/data/cikkek/2418/24181/cikk-2418190/000_QP3GX.jpg" length="213058" type="image/jpeg"/>
+   <description><![CDATA[Hey, Mr. Freeman, kedves Morgan! Ez most már egy másik mozi.]]></description>
+   <category>Átutazó</category>
+   <pubDate>Fri, 22 Sep 2017 12:16:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Marsbéli krónikáink]]></title>
+   <link>http://mno.hu/atutazo/marsbeli-kronikaink-2412462?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Tóth Szabolcs Töhötöm</author>
+   <enclosure url="http://mno.hu/data/cikkek/2412/24124/cikk-2412462/MNO_martian_5.jpg" length="215596" type="image/jpeg"/>
+   <description><![CDATA[Tényleg csak a kampánygurukon múlna, melyik Magyarországgal ébredünk holnap?]]></description>
+   <category>Átutazó</category>
+   <pubDate>Mon, 14 Aug 2017 18:54:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kiváltságos helyjegyesek]]></title>
+   <link>http://mno.hu/atutazo/kivaltsagos-helyjegyesek-2412267?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Tóth Szabolcs Töhötöm</author>
+   <enclosure url="http://mno.hu/data/cikkek/2412/24122/cikk-2412267/D_MTZ20130706004.jpg" length="503293" type="image/jpeg"/>
+   <description><![CDATA[Ha Einstein nem a svájci, hanem a magyar államvasutakat látja maga előtt, mivel rukkolt volna elő? Belegondolni is szédítő.]]></description>
+   <category>Átutazó</category>
+   <pubDate>Sun, 13 Aug 2017 14:45:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A nők lázadása]]></title>
+   <link>http://mno.hu/atutazo/a-nok-lazadasa-2409806?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Tóth Szabolcs Töhötöm</author>
+   <enclosure url="http://mno.hu/data/cikkek/2409/24098/cikk-2409806/000_Mvd1263072_896_504_1501147591.jpg" length="17607" type="image/jpeg"/>
+   <description><![CDATA[Ez a fiúkollégiumok világát idéző, hátba csapkodós infantilizmus megbosszulja magát. A szavazófülkékben is.]]></description>
+   <category>Átutazó</category>
+   <pubDate>Thu, 27 Jul 2017 11:34:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Halászlé-kapitalizmus: A szegény bajai riporter és a kádárkori televíziózás reneszánsza]]></title>
+   <link>http://mno.hu/atutazo/halaszle-kapitalizmus-2407429?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Tóth Szabolcs Töhötöm</author>
+   <enclosure url="http://mno.hu/data/cikkek/2407/24074/cikk-2407429/tv_fortepan3.jpg" length="250749" type="image/jpeg"/>
+   <description><![CDATA[A „szegény” részeg bajai riporter, az MTVA és a kádárkori televíziózás reneszánsza.]]></description>
+   <category>Átutazó</category>
+   <pubDate>Wed, 12 Jul 2017 10:16:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Folytassa, Anglia!]]></title>
+   <link>http://mno.hu/atutazo/folytassa-anglia-2403230?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Tóth Szabolcs Töhötöm</author>
+   <enclosure url="http://mno.hu/data/cikkek/2403/24032/cikk-2403230/000_PD2QN.jpg" length="623210" type="image/jpeg"/>
+   <description><![CDATA[Hogyan lett a londoni terrortámadás hőse a sörrel kóválygó férfi? Kocsma, közélet és a szabadság kis körei.]]></description>
+   <category>Átutazó</category>
+   <pubDate>Wed, 14 Jun 2017 11:59:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Achitofel hazamegy]]></title>
+   <link>http://mno.hu/atutazo/achitofel-hazamegy-2402198?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Tóth Szabolcs Töhötöm</author>
+   <enclosure url="http://mno.hu/data/cikkek/2402/24021/cikk-2402198/ahitofel_lead.jpg" length="906796" type="image/jpeg"/>
+   <description><![CDATA[A politikai borulópont, amikor a tanácsadó előtt kibomlik a jövő, de ő inkább a kötelet választja.]]></description>
+   <category>Átutazó</category>
+   <pubDate>Wed, 07 Jun 2017 14:30:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

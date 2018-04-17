@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Szanyi Tibor]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/szanyi-tibor-14359</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Fri, 13 Apr 2018 00:09:30 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Húsz további ok a kormányváltásra]]></title>
+   <link>http://mno.hu/velemeny/husz-tovabbi-ok-a-kormanyvaltasra-2427759?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szanyi Tibor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2427/24277/cikk-2427759/000_Par3695535.jpg" length="1247975" type="image/jpeg"/>
+   <description><![CDATA[Orbán Viktor az eddigi három cölöpről le akarja lökni hazánkat, a negyedikből pedig nem kér.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Wed, 15 Nov 2017 14:29:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Baloldali javaslat: Orbán távozzon!]]></title>
+   <link>http://mno.hu/migr_1834/baloldali-javaslat-orban-tavozzon-481300?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szanyi Tibor</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Thu, 07 Dec 2006 00:00:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

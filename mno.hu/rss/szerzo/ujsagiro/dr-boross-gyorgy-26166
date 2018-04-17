@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Dr. Boross György]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/dr-boross-gyorgy-26166</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Wed, 11 Apr 2018 13:18:50 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Ha zsibbad a kéz]]></title>
+   <link>http://mno.hu/drborossrendel/ha-zsibbad-a-kez-2390229?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Dr. Boross György</author>
+   <enclosure url="http://mno.hu/data/cikkek/2390/23902/cikk-2390229/carpaltunnel2017.jpg" length="44760" type="image/jpeg"/>
+   <description><![CDATA[Sokan jelentkeznek rendelésemen ujjaik zsibbadása miatt. Ennek oka az úgynevezett alagút szindróma.]]></description>
+   <category>Dr. Boross rendel</category>
+   <pubDate>Sun, 19 Mar 2017 08:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ami még a gyógyuláshoz szükséges]]></title>
+   <link>http://mno.hu/drborossrendel/ami-meg-a-gyogyulashoz-szukseges-1389812?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Dr. Boross György</author>
+   <enclosure url="http://mno.hu/data/cikkek/1389/13898/cikk-1389812/utokezeles01.jpg" length="52023" type="image/jpeg"/>
+   <description><![CDATA[Lehet bármilyen jó a kezelés, sikerülhet bármilyen jól a műtét, a teljes gyógyuláshoz utókezelés is kell.]]></description>
+   <category>Dr. Boross rendel</category>
+   <pubDate>Sun, 12 Mar 2017 06:39:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Mi okozhat deformitást a kézen?]]></title>
+   <link>http://mno.hu/drborossrendel/mi-okozhat-deformitast-a-kezen-1389218?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Dr. Boross György</author>
+   <enclosure url="http://mno.hu/data/cikkek/1389/13892/cikk-1389218/csomoakezen01.jpg" length="35723" type="image/jpeg"/>
+   <description><![CDATA[A kézen kialakuló kisebb-nagyobb csomóknak számos oka lehet, de hogy mi, az legtöbbször csak a rendelőben derül ki. ]]></description>
+   <category>Dr. Boross rendel</category>
+   <pubDate>Wed, 08 Mar 2017 10:00:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

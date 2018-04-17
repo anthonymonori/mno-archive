@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Szilágyi Szabolcs]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/szilagyi-szabolcs-2951</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Fri, 13 Apr 2018 12:01:46 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Vége a kínai lázadásnak]]></title>
+   <link>http://mno.hu/bitvilag/elfojtottak-az-apple-beszallitok-zavargasat-1107422?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szilágyi Szabolcs</author>
+   <description><![CDATA[Újranyílt a feldühödött dolgozók haragja miatt bezárni kényszerült gyár, de a háttérben hatalmas a feszültség.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Tue, 25 Sep 2012 12:58:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az utolsó szabad IPv4-címek Európában]]></title>
+   <link>http://mno.hu/bitvilag/az-utolso-szabad-ipv4-cimek-europaban-1105966?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szilágyi Szabolcs</author>
+   <description><![CDATA[Itt az út vége. Szerencsére a megoldás már évek óta elérhető.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Tue, 18 Sep 2012 12:55:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A rendszergazda sötét titkai]]></title>
+   <link>http://mno.hu/bitvilag/a-rendszergazdak-sotet-titka-1105295?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szilágyi Szabolcs</author>
+   <description><![CDATA[A rendszergazda szigorú, a rendszergazda felügyel, a rendszergazda szeme mindent lát – még azt is, amit nem kellene…]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Fri, 14 Sep 2012 10:51:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Robottal a felvételi vizsgákra]]></title>
+   <link>http://mno.hu/bitvilag/robottal-a-felveteli-vizsgakra-1104641?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szilágyi Szabolcs</author>
+   <description><![CDATA[A Fujitsu olyan szoftverrobotot tervez létrehozni, mely kellően erős mesterséges intelligenciával bír ahhoz, hogy képes legyen a csúcsegyetemek matematikai felvételi tesztjeinek megoldására.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Tue, 11 Sep 2012 09:18:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Beköszöntött az elektromos járművek kora(?)]]></title>
+   <link>http://mno.hu/bitvilag/bekoszontott-az-elektromos-jarmuvek-kora-1103895?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szilágyi Szabolcs</author>
+   <description><![CDATA[A leginkább kardinális kérdés az akkumulátorok és töltésük módja. Utóbbiak (is) gyorsan fejlődnek.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Fri, 07 Sep 2012 09:43:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Tisztogatásba kezd a Facebook]]></title>
+   <link>http://mno.hu/bitvilag/tisztogatasba-kezd-a-facebook-1103168?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szilágyi Szabolcs</author>
+   <description><![CDATA[Felvette a kesztyűt a közösségi hálózat üzemeltetője: leszámol a tízmilliószámra létrehozott hamis felhasználókkal. Remélhetőleg valós profilok nem esnek áldozatul az akciónak...]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Tue, 04 Sep 2012 09:52:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Csapás csapás után a PC-piacon]]></title>
+   <link>http://mno.hu/bitvilag/csapas-csapas-utan-a-pc-piacon-1101038?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szilágyi Szabolcs</author>
+   <description><![CDATA[Vergődnek a hagyományos személyi számítógépek, már ami az eladásokat illeti, de talán már látni az alagút végét...]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Fri, 24 Aug 2012 10:27:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Álcázó robotok]]></title>
+   <link>http://mno.hu/bitvilag/alcazo-robotok-1100437?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szilágyi Szabolcs</author>
+   <description><![CDATA[Elbújni az ellenség elől, vagy élénk színekkel segíteni egy természeti csapás túlélőinek - a robotika új szintre fejlődött.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Tue, 21 Aug 2012 14:40:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Mégsincs gyerekmunka a Samsungnál?]]></title>
+   <link>http://mno.hu/bitvilag/megsincs-gyerekmunka-a-samsungnal-1098081?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szilágyi Szabolcs</author>
+   <description><![CDATA[Máris cáfolták a két nappal korábbi vádat.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Fri, 10 Aug 2012 09:59:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Negyedmilliárd iPhone 5]]></title>
+   <link>http://mno.hu/bitvilag/negyedmilliard-iphone-5-1097547?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szilágyi Szabolcs</author>
+   <description><![CDATA[Valami elképesztő várakozásokkal tekint az Apple a következő generációs okostelefonjaira. Jogosan?]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Wed, 08 Aug 2012 10:12:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hamis Facebook-felhasználók]]></title>
+   <link>http://mno.hu/bitvilag/hamis-facebook-felhasznalok-1096526?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szilágyi Szabolcs</author>
+   <description><![CDATA[Dagad a botrány a közösségi hálózat körül.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Fri, 03 Aug 2012 10:42:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Microsoft: alapjaiban megváltozó munkahelyek]]></title>
+   <link>http://mno.hu/bitvilag/microsoft-alapjaiban-megvaltozo-munkahelyek-1095774?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szilágyi Szabolcs</author>
+   <description><![CDATA[Legújabb felvásárlása révén átalakítaná mai, munkahelyről alkotott fogalmunkat az amerikai vállalat.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Tue, 31 Jul 2012 10:19:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Már Kína is túl drága?]]></title>
+   <link>http://mno.hu/bitvilag/mar-kina-is-tul-draga-1094856?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szilágyi Szabolcs</author>
+   <description><![CDATA[Legtöbben úgy véljük, mindent Kínában gyártanak. Holott ez közel sem igaz: a rizs hazája is kezd túl drága lenni. Ezt persze nem hagyják figyelmen kívül a globalizáció vállalatai...]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Fri, 27 Jul 2012 10:15:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nagy siker a felhő-tablet]]></title>
+   <link>http://mno.hu/bitvilag/nagy-siker-a-felho-tablet-1094029?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szilágyi Szabolcs</author>
+   <description><![CDATA[A Google két modelljéből az egyik, cloud használatra szánt változat már el is fogyott.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Tue, 24 Jul 2012 10:29:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ekkor jelenik meg a Windows 8]]></title>
+   <link>http://mno.hu/bitvilag/ekkor-jelenik-meg-a-windows-8-1092987?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szilágyi Szabolcs</author>
+   <description><![CDATA[Kiderült, hogy pontosan mikor válik elérhetővé a Microsoft következő operációs rendszere. Sok múlik a W8 sikerén - Redmond ezzel hozhatja rendbe a mobileszközök fejlesztői által megtépázott hírnevét, de könnyen a vég kezdete is lehet, kedvezőtlen fogadtatás esetén...]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Thu, 19 Jul 2012 10:10:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Jó-jó az új Windows backup, de...]]></title>
+   <link>http://mno.hu/bitvilag/jo-jo-az-uj-windows-backup-de-1091568?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szilágyi Szabolcs</author>
+   <description><![CDATA[Fontos lépés a Microsofttól, de azért továbbra is lesznek adatvesztések. Redmond még mindig egy lépéssel hátrébb jár?]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Fri, 13 Jul 2012 09:13:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kétélű fegyver a Windows 8-ra frissítés]]></title>
+   <link>http://mno.hu/bitvilag/ketelu-fegyver-a-windows-8-ra-frissites-1090069?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szilágyi Szabolcs</author>
+   <description><![CDATA[Olcsón válthatnak a Windows XP, Vista és 7 felhasználók - a kezdeményezés azonban rosszul is elsülhet...]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Tue, 10 Jul 2012 09:56:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[EU: a demokrácia ideje lejárt]]></title>
+   <link>http://mno.hu/bitvilag/eu-a-demokracia-ideje-lejart-1089141?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szilágyi Szabolcs</author>
+   <description><![CDATA[Legalábbis, ami az autógyártást, azon belül is az ütközések kezelését illeti. Az eddigi, önkéntes hozzáállás ugyanis alig hozott eredményt...]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Fri, 06 Jul 2012 07:46:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Mobilfejlesztés Magyarországon]]></title>
+   <link>http://mno.hu/bitvilag/mobilfejlesztes-magyarorszagon-1088364?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szilágyi Szabolcs</author>
+   <description><![CDATA[Hogyan zajlik a mobilalkalmazások fejlesztése? Ennek jártunk utána személyesen az SAP hazai központjában.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Tue, 03 Jul 2012 09:27:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hol van 4G?]]></title>
+   <link>http://mno.hu/bitvilag/hol-van-4g-1088016?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szilágyi Szabolcs</author>
+   <description><![CDATA[Csak ígérgetnek a szolgáltatók, vagy tényleg felpörgött a mobilinternet?]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Mon, 02 Jul 2012 09:18:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kereskedelmi háború Kínával?]]></title>
+   <link>http://mno.hu/bitvilag/kereskedelmi-haboru-kinaval-1087387?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szilágyi Szabolcs</author>
+   <description><![CDATA[Acél, olaj, tiszta víz? Ugyan, van ennél még égetőbb probléma: a ritkaföldfémek. Kína ráült a készletekre, pedig arra nagy szüksége lenne a fejlett világnak is.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Fri, 29 Jun 2012 08:56:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Mire költsd a pénzed? Hawaii]]></title>
+   <link>http://mno.hu/bitvilag/mire-koltsd-a-penzed-hawaii-1085606?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szilágyi Szabolcs</author>
+   <description><![CDATA[Cégvezetőként, különösen amerikai cégvezetőként igen tekintélyes summát halmozhat fel az, aki nem csak megkeresni tudja a fizetését, hanem annak jelentős hányadát okosan forgatja is. De mire költse el? Például Hawaii egyik szigetére...]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Fri, 22 Jun 2012 09:14:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Mit várunk egy windowsos tablettől?]]></title>
+   <link>http://mno.hu/bitvilag/mit-varunk-egy-windowsos-tablettol-1084685?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szilágyi Szabolcs</author>
+   <description><![CDATA[Bemutatta be első, nem x86-os alapokon nyugvó táblagépen futó operációs rendszerét a Microsoft. De vajon méltó-e figyelmünkre?]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Tue, 19 Jun 2012 09:40:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nokia reboot]]></title>
+   <link>http://mno.hu/bitvilag/nokia-reboot-1083869?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szilágyi Szabolcs</author>
+   <description><![CDATA[A finneknek szembe kell nézniük a valósággal.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Fri, 15 Jun 2012 10:03:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Keresgélés ismerősök okostelefonjaiban]]></title>
+   <link>http://mno.hu/bitvilag/keresgeles-ismerosok-okostelefonjaiban-1083012?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szilágyi Szabolcs</author>
+   <description><![CDATA[A való világból és nem a cybertérből szerzi információit egy újfajta keresőmotor - többek között a hozzánk közel állók mobil készülékeinek adatait felhasználva.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Tue, 12 Jun 2012 08:32:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A világ leghatékonyabb napeleme]]></title>
+   <link>http://mno.hu/bitvilag/a-vilag-leghatekonyabb-napeleme-1082047?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szilágyi Szabolcs</author>
+   <description><![CDATA[43,5%-os konverziós hatékonysággal rendelkező háromrétegű napelemet jelentett be a Sharp.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Fri, 08 Jun 2012 12:57:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A világ legkönnyebb laptopja]]></title>
+   <link>http://mno.hu/bitvilag/a-vilag-legkonnyebb-laptopja-1081219?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szilágyi Szabolcs</author>
+   <description><![CDATA[Forma-1 versenyautóknál használt anyagból készül a Gigabyte legújabb modellje.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Tue, 05 Jun 2012 13:52:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Most már tényleg közel a PC halála?]]></title>
+   <link>http://mno.hu/bitvilag/most-mar-tenyleg-kozel-a-pc-halala-1081107?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szilágyi Szabolcs</author>
+   <description><![CDATA[Windows x86-os processzorok helyett ARM CPU-kon, a Dell és a HP kiszállhat a piacról - ütött a PC utolsó órája?]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Tue, 05 Jun 2012 08:41:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Samsung Galaxy S III – sikerre ítélve?]]></title>
+   <link>http://mno.hu/bitvilag/samsung-galaxy-s-iii-sikerre-itelve-1080428?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szilágyi Szabolcs</author>
+   <description><![CDATA[Hazánkban is bemutatkozott az okostelefon, amely minden korábbi rekordot megdönthet. ]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Fri, 01 Jun 2012 16:20:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Arcfelismerés a Facebookon: áldás vagy átok?]]></title>
+   <link>http://mno.hu/bitvilag/arcfelismeres-a-facebookon-aldas-vagy-atok-1080307?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szilágyi Szabolcs</author>
+   <description><![CDATA[A Facebook cégfelvásárlási terve megbolygatta a biometria állóvizét.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Fri, 01 Jun 2012 09:44:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

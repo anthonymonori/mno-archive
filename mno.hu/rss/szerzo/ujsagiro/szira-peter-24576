@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Szira Péter]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/szira-peter-24576</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 16:05:12 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Zaklatás: Budapesten népharag, Tyukodon megfélemlítés a következmény ]]></title>
+   <link>http://mno.hu/hetvegimagazin/zaklatas-budapesten-nepharag-tyukodon-megfelemlites-a-kovetkezmeny-2434121?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szira Péter</author>
+   <enclosure url="http://mno.hu/data/cikkek/2434/24341/cikk-2434121/VL20171110_1284.jpg" length="372960" type="image/jpeg"/>
+   <description><![CDATA[Tyukodon egy önkormányzati alkalmazott feljelentette a polgármestert szexuális zaklatásért. Nem járt jól.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Sun, 17 Dec 2017 07:07:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Csobogóavató „mélymagyarok” és „szomjazók” harca Pusztaszabolcson]]></title>
+   <link>http://mno.hu/hetvegimagazin/csobogoavato-melymagyarok-es-szomjazok-harca-pusztaszabolcson-2423940?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szira Péter</author>
+   <enclosure url="http://mno.hu/data/cikkek/2423/24239/cikk-2423940/VL20170925_7124_cimlap.jpg" length="336181" type="image/jpeg"/>
+   <description><![CDATA[A város úgy néz ki, mint egy túlméretes terepasztal. Csak néhányan leesnek róla. Riport.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Wed, 01 Nov 2017 20:25:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Pokol Sátán]]></title>
+   <link>http://mno.hu/hetvegimagazin/pokol-satan-2403646?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szira Péter</author>
+   <enclosure url="http://mno.hu/data/cikkek/2403/24036/cikk-2403646/VL20170523_2963.jpg" length="604563" type="image/jpeg"/>
+   <description><![CDATA[A vészjósló nevű borsodi településen kisemmizettek és megalázottak osztoznak a nyomoron.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Sun, 18 Jun 2017 16:36:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[„Má’ megint egy cigánycikk...” – Körülnéztünk Tiszavasváriban]]></title>
+   <link>http://mno.hu/hetvegimagazin/ma-megint-egy-ciganycikk-korulneztunk-tiszavasvariban-2399655?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szira Péter</author>
+   <enclosure url="http://mno.hu/data/cikkek/2399/23996/cikk-2399655/NBB_20170427_7504_896_504_1495199740.JPG" length="83217" type="image/jpeg"/>
+   <description><![CDATA[Integrációs célú normaátadás zajlik – szelíd erőszakkal – a tiszavasvári szegregátumban. Riport.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Sun, 21 May 2017 13:25:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Mikula Tamás az idén sem kapott tüzelőt]]></title>
+   <link>http://mno.hu/hetvegimagazin/harminc-lett-maradhat-1389815?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szira Péter</author>
+   <enclosure url="http://mno.hu/data/cikkek/1389/13898/cikk-1389815/VL20170213_6276.jpg" length="153445" type="image/jpeg"/>
+   <description><![CDATA[Hogyan lehet három lépésben eljutni a vállalható szegénységből a dermesztő nyomorig?]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Sun, 12 Mar 2017 08:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kísért a zsombói kakifantom]]></title>
+   <link>http://mno.hu/belfold/kisert-a-zsomboi-kakifantom-1376411?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szira Péter</author>
+   <enclosure url="http://mno.hu/data/cikkek/1376/13764/cikk-1376411/IMG_0433.jpg" length="359285" type="image/jpeg"/>
+   <description><![CDATA[Ki csinálta össze szisztematikus rendszerességgel a csongrádi település buszmegállóját? Körbeszaglásztunk a helyszínen.]]></description>
+   <category>Belföld</category>
+   <pubDate>Wed, 14 Dec 2016 11:16:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Egy sört akart meginni, agyonverték]]></title>
+   <link>http://mno.hu/hetvegimagazin/egy-sort-akart-meginni-agyonvertek-1346478?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szira Péter</author>
+   <enclosure url="http://mno.hu/data/cikkek/1346/13464/cikk-1346478/VL20160412_4562.jpg" length="609077" type="image/jpeg"/>
+   <description><![CDATA[Látogatás Berzéken, ahol négy éve megöltek egy embert. Hogy lehet feldolgozni egy egész közösséget érintő tragédiát?]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Sun, 12 Jun 2016 15:01:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

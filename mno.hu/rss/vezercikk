@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - rovat: Vezércikk]]></title>
+  <link>http://mno.hu/vezercikk</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 05:11:28 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Vége]]></title>
+   <link>http://mno.hu/vezercikk/vege-2459316?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lukács Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24593/cikk-2459316/CM9R4916.jpg" length="152116" type="image/jpeg"/>
+   <description><![CDATA[Hogy mi lesz a nyomtatott sajtóval Magyarországon? Erre a kérdésre a Magyar Nemzet ikonikus szerzőjének, Kristóf Attilának a mondatával válaszolok: Én nem tudom…]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Wed, 11 Apr 2018 00:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Választás után]]></title>
+   <link>http://mno.hu/vezercikk/valasztas-utan-2459137?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lukács Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24591/cikk-2459137/BEL_3607_01.jpg" length="214634" type="image/jpeg"/>
+   <description><![CDATA[Jó kérdés, hogy a győztest mennyire részegíti meg a siker, és a súlyos vereségből képes lesz-e tanulni a sok vesztes.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Tue, 10 Apr 2018 00:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Talpra, magyar!]]></title>
+   <link>http://mno.hu/vezercikk/talpra-magyar-2458515?utm_source=feed&amp;utm_medium=rss</link>
+   <author>György Zsombor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24585/cikk-2458515/BD20170415_02.jpg" length="629546" type="image/jpeg"/>
+   <description><![CDATA[A valóságtól teljesen elszakadt propagandavilág lebontása is a választás tétje. Talán az egyik legfontosabb.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Sat, 07 Apr 2018 00:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Választás csalással]]></title>
+   <link>http://mno.hu/vezercikk/valasztas-csalassal-2458245?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pintér Bence</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24582/cikk-2458245/20180322_NBB9259.JPG" length="322279" type="image/jpeg"/>
+   <description><![CDATA[A Fidesz rendkívül érzékeny a választási csalás gyanújára – akkor, ha a saját jelöltje a vesztes. ]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Fri, 06 Apr 2018 00:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ezerötszázmilliárdos tandíj]]></title>
+   <link>http://mno.hu/vezercikk/ezerotszazmilliardos-tandij-2458013?utm_source=feed&amp;utm_medium=rss</link>
+   <author>B. Molnár László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24580/cikk-2458013/MNO_HM20150602_113.jpg" length="477570" type="image/jpeg"/>
+   <description><![CDATA[A mai sport immár szinte lélegezni sem tud a tao nélkül, és nincs senki és semmi, ami felkészítené az egyesületeket a tao utáni, üzleti alapú működésre.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Thu, 05 Apr 2018 00:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Barátok és ellenségek]]></title>
+   <link>http://mno.hu/vezercikk/baratok-es-ellensegek-2457722?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szerető Szabolcs</author>
+   <enclosure url="http://mno.hu/data/cikkek/2457/24577/cikk-2457722/NBB_20171112_7088.JPG" length="318212" type="image/jpeg"/>
+   <description><![CDATA[Akinek sok az ellensége, barátokra is nagy szüksége van. És Orbán Viktor már nem nagyon válogat.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Wed, 04 Apr 2018 00:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Integráció, csak papíron]]></title>
+   <link>http://mno.hu/vezercikk/integracio-csak-papiron-2457450?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Tompos Ádám</author>
+   <enclosure url="http://mno.hu/data/cikkek/2457/24574/cikk-2457450/VL20160222_2502.jpg" length="752414" type="image/jpeg"/>
+   <description><![CDATA[A krumplival és agitációval megfoghatók nem lettek kevesebben, sőt.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Tue, 03 Apr 2018 00:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Név szerint]]></title>
+   <link>http://mno.hu/vezercikk/nev-szerint-2457098?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szerető Szabolcs</author>
+   <enclosure url="http://mno.hu/data/cikkek/2457/24570/cikk-2457098/D_AS20170922003.jpg" length="357235" type="image/jpeg"/>
+   <description><![CDATA[Sajnálhatjuk, hogy a köztársasági elnök a húsvéthoz legközelebbi időpontra tűzte ki a választást.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Sat, 31 Mar 2018 00:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nemzetbiztonsági kockázatok]]></title>
+   <link>http://mno.hu/vezercikk/nemzetbiztonsagi-kockazatok-2456717?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Torkos Matild</author>
+   <enclosure url="http://mno.hu/data/cikkek/2456/24567/cikk-2456717/NBB_20150227_7618.JPG" length="297186" type="image/jpeg"/>
+   <description><![CDATA[Le kell vonni azt a következtetést: a végrehajtó hatalom csúcsán, a kormányzati szinten nemzetbiztonsági kockázatot jelentő politikusok állnak.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Thu, 29 Mar 2018 00:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Strómanvilág]]></title>
+   <link>http://mno.hu/vezercikk/stromanvilag-2456468?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Csécsi László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2456/24564/cikk-2456468/34874367_l.jpg" length="76698" type="image/jpeg"/>
+   <description><![CDATA[Sokan néznek rossz szemmel a strómanvilágra, amelyet a polgári eszme álcája mögé bújt Fidesz-vezetés a hajdani támogatóik alapos megvezetésével felépített.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Wed, 28 Mar 2018 00:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Gyurcsány a mocsárban]]></title>
+   <link>http://mno.hu/vezercikk/gyurcsany-a-mocsarban-2456183?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Gazda Albert</author>
+   <enclosure url="http://mno.hu/data/cikkek/2456/24561/cikk-2456183/20160501_NBB4248.jpg" length="356061" type="image/jpeg"/>
+   <description><![CDATA[A DK hét végén közzétett kolozsvári videója semmiben nem tér el a kormányzati gyalázatszpotoktól.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Tue, 27 Mar 2018 00:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kampány és fekete lyuk]]></title>
+   <link>http://mno.hu/vezercikk/kampany-es-fekete-lyuk-2455669?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Tompos Ádám</author>
+   <enclosure url="http://mno.hu/data/cikkek/2455/24556/cikk-2455669/44759982_l.jpg" length="398398" type="image/jpeg"/>
+   <description><![CDATA[Orbán Viktor a minap megszakította mintegy három éve tartó migránsozását egy kis időre.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Sat, 24 Mar 2018 00:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Testvéri pofon]]></title>
+   <link>http://mno.hu/vezercikk/testveri-pofon-2455413?utm_source=feed&amp;utm_medium=rss</link>
+   <author>László Dávid</author>
+   <enclosure url="http://mno.hu/data/cikkek/2455/24554/cikk-2455413/000_V57T0.jpg" length="148931" type="image/jpeg"/>
+   <description><![CDATA[A magyar kormány, no meg az agymosásnak hála a társadalmunk egy része benn ragadt a sokkoló 2015-ben, ám a többi tagállam továbblépett.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Fri, 23 Mar 2018 00:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ügynök volt? Na és?!]]></title>
+   <link>http://mno.hu/vezercikk/ugynok-volt-na-es-2455147?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szerető Szabolcs</author>
+   <enclosure url="http://mno.hu/data/cikkek/2455/24551/cikk-2455147/szb20180208_7630.jpg" length="254736" type="image/jpeg"/>
+   <description><![CDATA[A Fidesz újjáépítette az MSZP következmények nélküli országát, elégtételt érte a választó vehet április 8-án.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Thu, 22 Mar 2018 00:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Járulékos veszteség]]></title>
+   <link>http://mno.hu/vezercikk/jarulekos-veszteseg-2454873?utm_source=feed&amp;utm_medium=rss</link>
+   <author>R. Kiss Kornélia</author>
+   <enclosure url="http://mno.hu/data/cikkek/2454/24548/cikk-2454873/szb20160909_2051.jpg" length="424655" type="image/jpeg"/>
+   <description><![CDATA[A magyar muszlimokat nem tudjuk igazán mivel biztatni, most ők kerültek a napi politikai úthenger útjába.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Wed, 21 Mar 2018 00:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Putyin 4.0]]></title>
+   <link>http://mno.hu/vezercikk/putyin-40-2454632?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Stier Gábor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2454/24546/cikk-2454632/K_AP20180318180.jpg" length="368230" type="image/jpeg"/>
+   <description><![CDATA[A Nyugat segítségével megszerzett támogatás szélesebb értelemben gyorsíthatja fel Oroszország megújulását.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Tue, 20 Mar 2018 00:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hiszen ezek csalnak!]]></title>
+   <link>http://mno.hu/vezercikk/hiszen-ezek-csalnak-2454358?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Fokasz Oresztész</author>
+   <enclosure url="http://mno.hu/data/cikkek/2454/24543/cikk-2454358/D_SOS20180314017.jpg" length="480993" type="image/jpeg"/>
+   <description><![CDATA[Miközben mi, polgárok fövünk a saját levünkben meg a kampánynak nevezett nyúlós pasztában, valakik szépen csendben elcsalják a választást.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Mon, 19 Mar 2018 00:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Taktikai áldozat]]></title>
+   <link>http://mno.hu/vezercikk/taktikai-aldozat-2454076?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kuthi Áron</author>
+   <enclosure url="http://mno.hu/data/cikkek/2454/24540/cikk-2454076/DKRCS20161103005x.jpg" length="332967" type="image/jpeg"/>
+   <description><![CDATA[Fico távozásával még az az alku is kijátszható, hogy a szlovákok most könnyedén ejtik a harcias kvótaellenességet egy uniópárti hangnem érdekében.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Sat, 17 Mar 2018 00:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Sötét órák és hideg napok]]></title>
+   <link>http://mno.hu/vezercikk/sotet-orak-es-hideg-napok-2453873?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Torkos Matild</author>
+   <enclosure url="http://mno.hu/data/cikkek/2453/24538/cikk-2453873/20180315_NBB7364.JPG" length="245957" type="image/jpeg"/>
+   <description><![CDATA[Orbán Soros-jelöltekkel, migránsokkal riogatta hallgatóságát, de egy szót sem ejtett holmi szabad sajtóról vagy a közteherviselésről.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Fri, 16 Mar 2018 00:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az emlékezetpolitizálás foglyai]]></title>
+   <link>http://mno.hu/vezercikk/az-emlekezetpolitizalas-foglyai-2453497?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ugró Miklós</author>
+   <enclosure url="http://mno.hu/data/cikkek/2453/24534/cikk-2453497/SZB20170315_4542.jpg" length="296765" type="image/jpeg"/>
+   <description><![CDATA[A különböző színezetű és szándékú ünnepi szónokok nem megemlékeznek a múltbéli eseményről, hanem magukat, pártjukat, sikereiket, vágyaikat fényezik.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Wed, 14 Mar 2018 00:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Semjén Zsolt, a horgony]]></title>
+   <link>http://mno.hu/vezercikk/semjen-zsolt-a-horgony-2453250?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szerető Szabolcs</author>
+   <enclosure url="http://mno.hu/data/cikkek/2453/24532/cikk-2453250/BA20171024_8184.jpg" length="143783" type="image/jpeg"/>
+   <description><![CDATA[A züllés a kormányoldalon megállíthatatlan: könnyen lehet, hogy Schmitt Pál ma már megúszná a plagizálást.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Tue, 13 Mar 2018 00:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kékcédulás ajánlások]]></title>
+   <link>http://mno.hu/vezercikk/kekcedulas-ajanlasok-2452982?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szerető Szabolcs</author>
+   <enclosure url="http://mno.hu/data/cikkek/2452/24529/cikk-2452982/FMAFI19473590010.jpg" length="306078" type="image/jpeg"/>
+   <description><![CDATA[Az eddig megismert esetekből arra következtethetünk, hogy az ajánlásokkal való visszaélések szervezetten és iparszerű méretekben folytak.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Mon, 12 Mar 2018 00:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Rénszarvas, akasztva]]></title>
+   <link>http://mno.hu/vezercikk/renszarvas-akasztva-2452700?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kovács  Tamás</author>
+   <enclosure url="http://mno.hu/data/cikkek/2452/24527/cikk-2452700/IMG_1900.jpg" length="377268" type="image/jpeg"/>
+   <description><![CDATA[Aki arra számít, hogy Semjént egyszer majd Stüszi-vadászkalapban, vállán a puskájával ábrázolják, valószínűleg téved. Ő annyira vadász, amennyire kereszténydemokrata.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Sat, 10 Mar 2018 00:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kövér László költészete]]></title>
+   <link>http://mno.hu/vezercikk/kover-laszlo-kolteszete-2452437?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Gazda Albert</author>
+   <enclosure url="http://mno.hu/data/cikkek/2452/24524/cikk-2452437/BA_08655.JPG" length="241766" type="image/jpeg"/>
+   <description><![CDATA[A talajszinttől egyszer s mindenkorra elrugaszkodott Fidesz-rezsim leváltható és felszámolható-e?]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Fri, 09 Mar 2018 00:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ki veri el a Fideszt?]]></title>
+   <link>http://mno.hu/vezercikk/ki-veri-el-a-fideszt-2452188?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Gazda Albert</author>
+   <enclosure url="http://mno.hu/data/cikkek/2452/24521/cikk-2452188/HM20140406_2009.jpg" length="1389703" type="image/jpeg"/>
+   <description><![CDATA[Egy februári mérés semmit sem mondhat arról, hogy milyen lesz a közhangulat április 8-án.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Thu, 08 Mar 2018 00:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Titkos százmilliárdok]]></title>
+   <link>http://mno.hu/vezercikk/titkos-szazmilliardok-2451922?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Zord Gábor László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2451/24519/cikk-2451922/Airbus_3.jpg" length="390416" type="image/jpeg"/>
+   <description><![CDATA[A Fidesz–KDNP szavazógépe mintegy 650 milliárd forint elköltésére adott felhatalmazást, mindössze öt-tizenöt perc alatt.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Wed, 07 Mar 2018 00:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Svihákország visszavág]]></title>
+   <link>http://mno.hu/vezercikk/svihakorszag-visszavag-2451653?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kuthi Áron</author>
+   <enclosure url="http://mno.hu/data/cikkek/2451/24516/cikk-2451653/Octopus_vulgaris2.jpg" length="309024" type="image/jpeg"/>
+   <description><![CDATA[A szlovákok tudatában még élénken él a 90-es évek zűrös világa, az újszülött Szlovákiában elharapózó maffialeszámolások emléke.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Tue, 06 Mar 2018 00:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kopogtat a valóság]]></title>
+   <link>http://mno.hu/vezercikk/kopogtat-a-valosag-2451377?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szerető Szabolcs</author>
+   <enclosure url="http://mno.hu/data/cikkek/2451/24513/cikk-2451377/BA_05188.JPG" length="166283" type="image/jpeg"/>
+   <description><![CDATA[Mielőtt jót kacagnánk a szorult helyzetbe került Fideszen, ne feledjük: számukra valóban óriási a tét áprilisban.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Mon, 05 Mar 2018 00:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nemzeti agyhalál]]></title>
+   <link>http://mno.hu/vezercikk/nemzeti-agyhalal-2451141?utm_source=feed&amp;utm_medium=rss</link>
+   <author>R. Kiss Kornélia</author>
+   <enclosure url="http://mno.hu/data/cikkek/2451/24511/cikk-2451141/szb20170915_3864.jpg" length="185206" type="image/jpeg"/>
+   <description><![CDATA[Néhányan talán csodálkoznak, milyen népszerűnek látszik az új önmeghatározás, a „csalódott fideszes”. Pedig nincs min meglepődni.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Sat, 03 Mar 2018 00:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Mikor fogy el a türelem?]]></title>
+   <link>http://mno.hu/vezercikk/mikor-fogy-el-a-turelem-2450874?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hajdú Péter</author>
+   <enclosure url="http://mno.hu/data/cikkek/2450/24508/cikk-2450874/1_1nbb.jpg" length="4475229" type="image/jpeg"/>
+   <description><![CDATA[Ha egyszer megindulnak a teljesen kilátástalan helyzetbe kerültek, akkor biztosan nem a választási kampány lesz a kormány legnagyobb gondja.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Fri, 02 Mar 2018 00:01:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

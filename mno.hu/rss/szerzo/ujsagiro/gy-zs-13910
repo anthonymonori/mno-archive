@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Gy. Zs.]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/gy-zs-13910</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Wed, 11 Apr 2018 11:53:43 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Béruniót sürget az új országos plakátkampány]]></title>
+   <link>http://mno.hu/belfold/beruniot-surget-az-uj-orszagos-plakatkampany-2411400?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Gy. Zs.</author>
+   <enclosure url="http://mno.hu/data/cikkek/2411/24114/cikk-2411400/plakat_06.jpg" length="491938" type="image/jpeg"/>
+   <description><![CDATA[Új plakátok jelentek meg a Mahir felületein. A megrendelő magánszemély, így a törvény kijátszható. ]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 07 Aug 2017 12:21:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kárpátalját is a feje tetejére állíthatják]]></title>
+   <link>http://mno.hu/hetvegimagazin/nektek-csak-laci-1295768?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Gy. Zs.</author>
+   <description><![CDATA[Kárpátalja destabilizálása is célja lehet az alvilághoz köthető fegyvereseknek Nem bankot raboltak, vitték az egész bankot.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Sun, 19 Jul 2015 07:34:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Unortodox megoldások]]></title>
+   <link>http://mno.hu/hetvegimagazin/unortodox-megoldasok-1280931?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Gy. Zs.</author>
+   <description><![CDATA[Ha a túlélés a tét, öt év hosszú idő. Történelmi távlatban viszont szinte semmi.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Wed, 08 Apr 2015 15:13:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Tükörreflex]]></title>
+   <link>http://mno.hu/migr_1834/tukorreflex-372288?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Gy. Zs.</author>
+   <description><![CDATA[Két első díjat is nyert az idei World Press Photo pályázatán a világutazó magyar fotós, Gárdi Balázs. A fiatalember 2001 óta többször megfordult Afganisztánban, mint mondja, nagyon megszerette az embereket és a kultúrát, úgyhogy hamarosan ismét visszatér. A kockázatokkal tisztában van, de állítja: képtelen lenne irodában tölteni a munkaidejét.]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 26 Feb 2008 00:00:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

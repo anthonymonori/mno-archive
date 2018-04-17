@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Jásdi István]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/jasdi-istvan-23886</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Wed, 11 Apr 2018 19:10:28 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Ötvenes karácsonyok vaskályha mellett]]></title>
+   <link>http://mno.hu/velemeny/otvenes-karacsonyok-vaskalyha-mellett-2435875?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Jásdi István</author>
+   <enclosure url="http://mno.hu/data/cikkek/2435/24358/cikk-2435875/8_1.jpg" length="2706902" type="image/jpeg"/>
+   <description><![CDATA[Az előkészületek jókora szervezést igényeltek, időre kellett elkészülnie mindennek.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Sun, 24 Dec 2017 00:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A szöcskeevők és az istenember]]></title>
+   <link>http://mno.hu/velemeny/a-szocskeevok-es-az-istenember-2412952?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Jásdi István</author>
+   <enclosure url="http://mno.hu/data/cikkek/2412/24129/cikk-2412952/000_A06YM.jpg" length="357538" type="image/jpeg"/>
+   <description><![CDATA[Minden gondot megoldottunk, nincs éhezés, nincs háború; ha mégis – rendszerhiba.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Thu, 17 Aug 2017 16:02:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Párhuzamos szőlősorok]]></title>
+   <link>http://mno.hu/tudomany/parhuzamos-szolosorok-2401915?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Jásdi István</author>
+   <enclosure url="http://mno.hu/data/cikkek/2401/24019/cikk-2401915/DSC_1317.JPG" length="549871" type="image/jpeg"/>
+   <description><![CDATA[Természetesen többet ér a dűlőnek az a fele, ahová évtizede nem tette be a lábát ember.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Wed, 07 Jun 2017 12:48:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Jövőt a Balatonnak!]]></title>
+   <link>http://mno.hu/eletmod/jovot-a-balatonnak-2391471?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Jásdi István</author>
+   <enclosure url="http://mno.hu/data/cikkek/2391/23914/cikk-2391471/20150303_Belo21.jpg" length="487006" type="image/jpeg"/>
+   <description><![CDATA[Az örökség ápolása és a minőségi munka – csak ezek tarthatják meg értékeinket hosszú távon.]]></description>
+   <category>Életmód</category>
+   <pubDate>Thu, 23 Mar 2017 18:25:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Mi lesz így jövőre egy palack borban?]]></title>
+   <link>http://mno.hu/magazinpublicisztika/mi-lesz-igy-jovore-egy-palack-borban-1385524?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Jásdi István</author>
+   <enclosure url="http://mno.hu/data/cikkek/1385/13855/cikk-1385524/VL20160926_6374.jpg" length="1884591" type="image/jpeg"/>
+   <description><![CDATA[A kárpótlás során szőlőhöz jutott emberek egy része meghalt, másik része visszavonhatatlanul megöregedett.]]></description>
+   <category>Publicisztika a Magazinban</category>
+   <pubDate>Sun, 12 Feb 2017 09:52:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A Jány Gusztáv-perről és a népbíróságokról]]></title>
+   <link>http://mno.hu/velemeny/a-jany-gusztav-perrol-1326428?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ungváry Krisztián, Jásdi István</author>
+   <enclosure url="http://mno.hu/data/cikkek/1326/13264/cikk-1326428/FMAFI19473827001.jpg" length="113570" type="image/jpeg"/>
+   <description><![CDATA[Jásdi István és Ungváry Krisztián levélváltása.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Sun, 31 Jan 2016 16:00:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

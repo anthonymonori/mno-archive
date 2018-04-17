@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Cúth Csaba]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/cuth-csaba-26010</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Wed, 11 Apr 2018 16:04:07 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Orbán Viktor soha nem tenné meg]]></title>
+   <link>http://mno.hu/velemeny/orban-viktor-soha-nem-tenne-meg-2457806?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Cúth Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2457/24578/cikk-2457806/K_EPA20180316107_896_504_1522834916.jpg" length="42991" type="image/jpeg"/>
+   <description><![CDATA[Szlovák kormányfő az ország történetében először távozott önként a székéből.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Wed, 04 Apr 2018 20:52:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A haza és a nemzet mint áru]]></title>
+   <link>http://mno.hu/velemeny/a-haza-es-a-nemzet-mint-aru-2426499?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Cúth Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2426/24264/cikk-2426499/8_1tt.jpg" length="1960152" type="image/jpeg"/>
+   <description><![CDATA[Az árulózók úgy hiszik, egyedül ők ismerik és képviselik a haza és a nemzet érdekeit]]></description>
+   <category>Vélemény</category>
+   <pubDate>Fri, 10 Nov 2017 16:47:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A szlovák és a magyar diplomácia útjai]]></title>
+   <link>http://mno.hu/magazinpublicisztika/a-szlovak-es-a-magyar-diplomacia-utjai-2419475?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Cúth Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2419/24194/cikk-2419475/bojcsuk0930.jpg" length="242618" type="image/jpeg"/>
+   <description><![CDATA[Magyarország annyira bezárta magát az általa teremtett világba, hogy már a külügyeket is belügyként kezeli.]]></description>
+   <category>Publicisztika a Magazinban</category>
+   <pubDate>Sun, 01 Oct 2017 19:52:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szlovákiai magyar életstratégiák]]></title>
+   <link>http://mno.hu/velemeny/szlovakiai-magyar-eletstrategiak-2419043?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Cúth Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2419/24190/cikk-2419043/MNO_TT20090901_042.jpg" length="581691" type="image/jpeg"/>
+   <description><![CDATA[A kisebbségi lét nyilván nem fenékig tejfel, de meg lehet benne találni a lehetőségeket is.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Fri, 29 Sep 2017 21:31:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A rossz magyarokat lelövik]]></title>
+   <link>http://mno.hu/hetvegimagazin/a-rossz-magyarokat-lelovik-2412226?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Cúth Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2412/24122/cikk-2412226/033_ria04_001886_3000.jpg" length="559614" type="image/jpeg"/>
+   <description><![CDATA[Csehszlovák örökség – A ligetfalui tömegmészárlás még az 1990-es évek második felében is tabunak számított.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Sun, 13 Aug 2017 06:27:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Meddig tart lebontani egy autoriter rendszert?]]></title>
+   <link>http://mno.hu/velemeny/meddig-tart-lebontani-egy-autoriter-rendszert-2402917?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Cúth Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2402/24029/cikk-2402917/C_SOS19951111068.jpg" length="298275" type="image/jpeg"/>
+   <description><![CDATA[Az olyan rezsimek, amilyen Vladimír Meciaré is volt, nem tudnak meglenni ellenségkép nélkül.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Mon, 12 Jun 2017 20:34:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szlovákia, a lesajnált bezzegország]]></title>
+   <link>http://mno.hu/velemeny/szlovakia-a-lesajnalt-bezzegorszag-2400611?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Cúth Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2400/24006/cikk-2400611/MNO_szb20081117_9624.jpg" length="399922" type="image/jpeg"/>
+   <description><![CDATA[Magyarországon tankolunk, de sört továbbra is csak Szlovákiában veszünk.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Fri, 26 May 2017 19:31:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A szlovákiai civileket lehet támogatni?]]></title>
+   <link>http://mno.hu/velemeny/a-szlovakiai-civileket-lehet-tamogatni-1387554?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Cúth Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/1387/13875/cikk-1387554/8_1szb.jpg" length="881488" type="image/jpeg"/>
+   <description><![CDATA[Áttekinthetetlen rendszerben kapnak támogatást az MKP-hoz közeli szervezetek.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Sat, 25 Feb 2017 09:28:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nyelvtörvény és a tények]]></title>
+   <link>http://mno.hu/velemeny/nyelvtorveny-es-a-tenyek-1385568?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Cúth Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/1385/13855/cikk-1385568/NBB_20071116_6754.jpg" length="306051" type="image/jpeg"/>
+   <description><![CDATA[A szlovákiai nyelvtörvény alapján 638 önkormányzatból 598 ellen eljárást kellene indítani.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Sun, 12 Feb 2017 12:44:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

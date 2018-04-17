@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - rovat: Vezérlőterem]]></title>
+  <link>http://mno.hu/vezerloterem</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Wed, 11 Apr 2018 08:59:02 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Szolgálati közlemény: hogy ne a Facebook döntse el Ön helyett, mit olvashat]]></title>
+   <link>http://mno.hu/vezerloterem/szolgalati-kozlemeny-hogy-ne-a-facebook-dontse-el-on-helyett-hogy-mit-olvashat-2442996?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2442/24429/cikk-2442996/000_IA5IO.jpg" length="219442" type="image/jpeg"/>
+   <description><![CDATA[Ne hagyja, hogy Mark Zuckerbergen és a titokzatos algoritmusokon múljon, mi kerülhet a szeme elé!]]></description>
+   <category>Vezérlőterem</category>
+   <pubDate>Sat, 27 Jan 2018 09:53:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Megújult a Hír TV online oldala]]></title>
+   <link>http://mno.hu/vezerloterem/megujult-a-hir-tv-online-oldala-2422122?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Tóth Szabolcs Töhötöm</author>
+   <enclosure url="http://mno.hu/data/cikkek/2422/24221/cikk-2422122/video_csoportkep.jpeg" length="336448" type="image/jpeg"/>
+   <description><![CDATA[Nem lenne kedve kicsit átugrani a szomszédba? A Hír TV online szájtja jobb mint valaha.]]></description>
+   <category>Vezérlőterem</category>
+   <pubDate>Wed, 18 Oct 2017 18:13:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Miért maradna le bármiről? Iratkozzon fel új hírleveleinkre!]]></title>
+   <link>http://mno.hu/vezerloterem/miert-maradna-le-barmirol-iratkozzon-fel-uj-hirleveleinkre-2417090?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2417/24170/cikk-2417090/81654149_l.jpg" length="165207" type="image/jpeg"/>
+   <description><![CDATA[Mozi- és történelemrajongóknak, könyvmolyoknak és véleményvezéreknek is van már hírlevelünk.]]></description>
+   <category>Vezérlőterem</category>
+   <pubDate>Thu, 14 Sep 2017 16:42:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ez itt már az új Magyar Nemzet online]]></title>
+   <link>http://mno.hu/vezerloterem/ez-itt-mar-az-uj-magyar-nemzet-online-2391071?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Tóth Szabolcs Töhötöm</author>
+   <enclosure url="http://mno.hu/data/cikkek/2391/23910/cikk-2391071/CD6K9471.jpg" length="229907" type="image/jpeg"/>
+   <description><![CDATA[Miért kell folyton változtatni, ha ez egy konzervatív hírportál? Mi ez az egész? Megújultunk.]]></description>
+   <category>Vezérlőterem</category>
+   <pubDate>Thu, 23 Mar 2017 10:57:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Médiaajánlat]]></title>
+   <link>http://mno.hu/lapinformaciok/mediaajanlat-2391099?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <description><![CDATA[]]></description>
+   <category>Lapinformációk</category>
+   <pubDate>Thu, 23 Mar 2017 10:02:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szombaton már új külsővel jelent meg a Magyar Nemzet]]></title>
+   <link>http://mno.hu/vezerloterem/megujult-magyar-nemzet-jatek-es-rend-1367908?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Tóth Szabolcs Töhötöm</author>
+   <enclosure url="http://mno.hu/data/cikkek/1367/13679/cikk-1367908/DSC_1920.JPG" length="196332" type="image/jpeg"/>
+   <description><![CDATA[A hétvégi lapszámban mutatkozott be a print lap új tipográfiája.]]></description>
+   <category>Vezérlőterem</category>
+   <pubDate>Sun, 23 Oct 2016 20:50:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Máris megnézhet két oldalt az újratervezett Magyar Nemzetből]]></title>
+   <link>http://mno.hu/vezerloterem/megujul-a-magyar-nemzet-1367661?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/1367/13676/cikk-1367661/mn_uj_logo_lead.jpg" length="92474" type="image/jpeg"/>
+   <description><![CDATA[A Magyar Nemzet szombattól megújult külsővel jelenik meg. Egy kis előzetes.]]></description>
+   <category>Vezérlőterem</category>
+   <pubDate>Fri, 21 Oct 2016 20:30:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Megérkezett a Disqus: új kommentfelület az MNO-n]]></title>
+   <link>http://mno.hu/vezerloterem/uj-kommentfelulet-az-mno-n-1324246?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MNO</author>
+   <description><![CDATA[Kedves olvasóink január 19-től újabb változást tapasztalhatnak az MNO-n: megújul a hozzászólások felülete.]]></description>
+   <category>Vezérlőterem</category>
+   <pubDate>Tue, 19 Jan 2016 06:06:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Megújult a Lánchíd Rádió hírportálja is]]></title>
+   <link>http://mno.hu/vezerloterem/megujult-a-lanchid-radio-hirportalja-is-1315442?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Tóth Szabolcs Töhötöm</author>
+   <enclosure url="http://mno.hu/data/cikkek/1315/13154/cikk-1315442/lanchid_grid2_fekvo_lead.png" length="423409" type="image/png"/>
+   <description><![CDATA[Az MNO és a Hír TV után a Lánchíd Rádió is új ruhában jelenik meg az interneten.]]></description>
+   <category>Vezérlőterem</category>
+   <pubDate>Mon, 23 Nov 2015 17:55:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Új rovatunk kezdő és haladó testmozgóknak]]></title>
+   <link>http://mno.hu/vezerloterem/uj-rovatunk-a-szabadidosportok-szerelmeseinek-1313460?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MNO</author>
+   <enclosure url="http://mno.hu/data/cikkek/1313/13134/cikk-1313460/000_Hkg10215247.jpg" length="63063" type="image/jpeg"/>
+   <description><![CDATA[Milyen cipőben fussunk? Milyen alkalmazással? Melyik jógatanfolyamot válasszuk? Ki a fotelből, itt a Tornasor!]]></description>
+   <category>Vezérlőterem</category>
+   <pubDate>Wed, 11 Nov 2015 16:16:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Felhasználási Feltételek]]></title>
+   <link>http://mno.hu/lapinformaciok/felhasznalasi-feltetelek-3527?utm_source=feed&amp;utm_medium=rss</link>
+   <description><![CDATA[]]></description>
+   <category>Lapinformációk</category>
+   <pubDate>Wed, 12 Oct 2011 16:58:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Meixner Zoltán]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/meixner-zoltan-3107</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Fri, 13 Apr 2018 12:01:22 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Közeleg a digitális univerzum Nagy Bummja]]></title>
+   <link>http://mno.hu/bitvilag/kozeleg-a-digitalis-univerzum-nagy-bummja-1125150?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Meixner Zoltán</author>
+   <description><![CDATA[A következő nyolc év során 40 zettabyte mennyiségű adatot produkál a világ. Ez a becslés szerint 57-szer több, mint ahány homokszem van a világ összes tengerpartján. ]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Sun, 23 Dec 2012 07:05:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[IT-sek, figyelem: az európaiak már fizetnének a tartalomért]]></title>
+   <link>http://mno.hu/bitvilag/it-sek-figyelem-az-europaiak-mar-fizetnenek-a-tartalomert-1121826?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Meixner Zoltán</author>
+   <description><![CDATA[A nyugat-európai netes tartalomvásárlók száma 8-12 százalékkal, a forgalom nagysága pedig 65 százalékkal fog megemelkedni öt éven belül. Valami megmozdult…]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Fri, 07 Dec 2012 06:48:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[2016-ban már 275 millió tabletet adnak el ]]></title>
+   <link>http://mno.hu/bitvilag/2016-ban-mar-275-millio-tabletet-adnak-el-1111822?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Meixner Zoltán</author>
+   <description><![CDATA[A tabletpiac éves átlagban 19 százalékkal bővül a GBI Research jelentése szerint. A kereslet elképesztő, a laptop szektorét négyszeresen haladja meg.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Wed, 17 Oct 2012 07:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A Siemens elbocsátásokra készül ]]></title>
+   <link>http://mno.hu/bitvilag/a-siemenselbocsatasokra-keszul-1110945?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Meixner Zoltán</author>
+   <description><![CDATA[A Siemens kénytelen lesz irodákat bezárni és több ezer embert elbocsátani. A drasztikus intézkedéseket Peter Löscher vezérigazgató jelentette be.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Fri, 12 Oct 2012 12:30:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kína tovább erőlteti a hi-tech-növekedést]]></title>
+   <link>http://mno.hu/bitvilag/kina-tovabb-erolteti-a-hi-tech-novekedest-1110947?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Meixner Zoltán</author>
+   <description><![CDATA[Már a kínai gazdaság sem száguld olyan eszeveszetten, a növekedési ütem fenntartásáért Peking az eddigieknél is több ösztönzést adna a hi-tech-importra.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Fri, 12 Oct 2012 07:33:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az AMD a Windows 8-as tabletpiacán]]></title>
+   <link>http://mno.hu/bitvilag/az-amd-a-windows-8-as-tabletpiacan-1110405?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Meixner Zoltán</author>
+   <description><![CDATA[Az AMD bejelentette, hogy válaszul a Windows 8 eszközök keresletére Z-60 jelzésű processzorával megjelenik a "teljesítmény tablet" szegmensben.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Wed, 10 Oct 2012 12:29:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Sokat bukhat a Samsung a pereskedés miatt]]></title>
+   <link>http://mno.hu/bitvilag/sokat-bukhat-a-samsung-a-pereskedes-miatt-1110402?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Meixner Zoltán</author>
+   <description><![CDATA[A Samsung profitja jobban emelkedett a vártnál a Galaxy okostelefonoknak köszönhetően, de az Apple-lel vívott csaták jelentős veszteségeket okozhatnak.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Wed, 10 Oct 2012 06:24:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Viharos vizeken a HP hajója]]></title>
+   <link>http://mno.hu/bitvilag/viharos-vizeken-a-hp-hajoja-1109476?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Meixner Zoltán</author>
+   <description><![CDATA[A HP részvényei esésnek indultak, miután a cég bejelentette: 2013-ban bevételcsökkenésre számít. Elkerülhetik-e a jéghegyet? ]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Thu, 04 Oct 2012 14:17:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kevés a bizalom, lassú felhősödés várható]]></title>
+   <link>http://mno.hu/bitvilag/keves-a-bizalom-lassu-felhosodes-varhato-1109111?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Meixner Zoltán</author>
+   <description><![CDATA[Egy minap közzétett kutatás szerint az innováció és a szolgáltatás érettségének hiánya miatt sok vállalkozás távol tartja magát a számítási felhőktől.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Wed, 03 Oct 2012 08:29:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Samsung vs. Apple: a pofozkodás folytatódik]]></title>
+   <link>http://mno.hu/bitvilag/samsung-vs-apple-a-pofozkodas-folytatodik-1109034?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Meixner Zoltán</author>
+   <description><![CDATA[A Samsung beperelte egy kaliforniai bíróságon az Apple-t, mert szerinte az iPhone 5 sérti a szabadalmait.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Tue, 02 Oct 2012 15:36:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Adattárolás évmilliókig?]]></title>
+   <link>http://mno.hu/bitvilag/adattarolas-evmilliokig-1107703?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Meixner Zoltán</author>
+   <description><![CDATA[A Hitachi által kifejlesztett megoldás kvarcüveg lapkákba kódolja a digitális információkat, amelyek aztán szinte korlátlan ideig megőrződnek.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Wed, 26 Sep 2012 10:41:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Napelemháború az EU és Kína között]]></title>
+   <link>http://mno.hu/bitvilag/napelemhaboru-az-eu-es-kina-kozott-1103676?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Meixner Zoltán</author>
+   <description><![CDATA[Kína napelem táblák millióit exportálja minden évben az unióba, amely a világ legnagyobb - több milliárd dolláros - felvevőpiacának számít. Az Európai Unió tegnapi döntése alapján most nyomozás indul a kínai dömpingárak ügyében. ]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Thu, 06 Sep 2012 11:33:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Gigantikus emeletes adatközpont épül Indiában]]></title>
+   <link>http://mno.hu/bitvilag/gigantikus-emeletes-adatkozpont-epul-indiaban-1102499?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Meixner Zoltán</author>
+   <description><![CDATA[Az IBM tervezte meg és a felépítésében is segít annak a 84 ezer négyzetméteres adatközpontnak, amely a legnagyobb kapacitású ilyen létesítmény lesz Indiában, s a világon is az elsők közé fog tartozni.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Fri, 31 Aug 2012 11:20:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szabadalomharc: titkos Apple-Google tárgyalás]]></title>
+   <link>http://mno.hu/bitvilag/szabadalomharc-titkos-apple-google-targyalas-1102483?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Meixner Zoltán</author>
+   <description><![CDATA[Egy tokiói bíróság úgy döntött, hogy a Samsung nem sértette meg az Apple szabadalmát. Közben az Apple és a Google vezetői titokban szintén a szabadalmi harc ügyeiről tárgyaltak.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Fri, 31 Aug 2012 10:47:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Milliók tolonganak a magyar szélessávon]]></title>
+   <link>http://mno.hu/bitvilag/milliok-tolonganak-a-magyar-szelessavon-1102338?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Meixner Zoltán</author>
+   <description><![CDATA[Az NMHH gyorsjelentése szerint 2012 júliusában az adatszolgáltatók vezetékes szélessávú internet-előfizetéseinek becsült száma a teljes piacon 2,123 millió volt. ]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Thu, 30 Aug 2012 16:25:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A shopping a hálózatra költözik]]></title>
+   <link>http://mno.hu/bitvilag/a-shopping-mindinkabb-a-halozatra-koltozik-1102333?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Meixner Zoltán</author>
+   <description><![CDATA[Becslések szerint jelenleg 13 milliárd eszköz kapcsolódik a hálózatra, s ez a szám 2020-ra elérheti az 50 milliárdot. Jelentős részükön keresztül máris lebonyolítunk vásárlásokat, de nem minden kategóriában egyforma lelkesedéssel. A Nielsen felmérte a hozzáállásunkat.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Thu, 30 Aug 2012 16:14:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Jönnek a Youtube-hirdetések mobiltelefonra is]]></title>
+   <link>http://mno.hu/bitvilag/jonnek-a-youtube-hirdetesek-mobiltelefonra-is-1100867?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Meixner Zoltán</author>
+   <description><![CDATA[A Google olyan hirdetések bevezetését tervezi a YouTube videómegosztón, amelyek 5 másodperc után lelőhetők.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Thu, 23 Aug 2012 13:13:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Buffett dobta az Intelt, inkább olajpapírokba fektet]]></title>
+   <link>http://mno.hu/bitvilag/buffett-dobta-az-intelt-inkabb-olajpapirokba-fektet-1099560?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Meixner Zoltán</author>
+   <description><![CDATA[Warren Buffett befektetési cége, a Berkshire Hathaway eladta részesedését az Intelben, és inkább a National Oilwell Varco és Phillips 66 olajipari társaságokba fektetett komolyabb összegeket.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Thu, 16 Aug 2012 13:30:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Meglepő áron érkezhet a Microsoft Surface]]></title>
+   <link>http://mno.hu/bitvilag/meglepo-aron-erkezhet-a-microsoft-surface-1099550?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Meixner Zoltán</author>
+   <description><![CDATA[Már az is alapos meglepetés volt, hogy a Microsoft bejelentette júniusban a Surface RT tablet megjelentetését. Ha igazak a legutóbbi hírek, most még nagyobb meglepetést okozhatnak Redmondban a készülék fogyasztói árával.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Thu, 16 Aug 2012 13:11:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A Microsoft 19-re lapot húz: a Windows 8-ra jön a Blue]]></title>
+   <link>http://mno.hu/bitvilag/a-microsoft-19-re-lapot-huz-a-windows-8-ra-jon-a-blue-1098988?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Meixner Zoltán</author>
+   <description><![CDATA[Egy évvel azután, hogy a Microsoft bemutatja a valódi generációváltást jelentő Windows 8-at, máris előáll az operációs rendszer továbbfejlesztett változatával, a Blue-val.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Tue, 14 Aug 2012 13:44:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kinyírják a kompakt fényképezőket az okostelefonok]]></title>
+   <link>http://mno.hu/bitvilag/kinyirjak-a-kompakt-fenykepezoket-az-okostelefonok-1097958?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Meixner Zoltán</author>
+   <description><![CDATA[A kompakt fényképezőgépek globális forgalma 30 százalékkal csökkent június folyamán az egy évvel korábbihoz mérve.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Thu, 09 Aug 2012 16:37:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az Amazon több e-bookot ad el, mint nyomtatott könyvet]]></title>
+   <link>http://mno.hu/bitvilag/az-amazon-tobb-e-bookot-ad-el-mint-nyomtatott-konyvet-1097346?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Meixner Zoltán</author>
+   <description><![CDATA[A globális online kereskedelem gigászának brit részlege több e-bookot adott el, mint ahány könyvet, a legfrissebb adatok szerint.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Tue, 07 Aug 2012 12:14:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Windows 8 - jön, jön, jön!]]></title>
+   <link>http://mno.hu/bitvilag/windows-8-jon-jon-jon-1096289?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Meixner Zoltán</author>
+   <description><![CDATA[A Microsoft 25 éves befektetései a Windows 8-ban összegződnek, s az új operációs rendszer piacra lépésével teljesen új világ kezdődik.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Thu, 02 Aug 2012 12:11:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Forrósodik a napelem-háború Kína és az EU között]]></title>
+   <link>http://mno.hu/bitvilag/forrosodik-a-napelem-haboru-kina-es-az-eu-kozott-1094607?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Meixner Zoltán</author>
+   <description><![CDATA[A kínai napelem-gyártó cégek kereskedelmi figyelmeztetést adtak ki, hogy felhívják a kínai kormány figyelmét az Európai Unió által kezdeményezett antidömping eljárásra, amely tönkreteheti őket.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Thu, 26 Jul 2012 11:24:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az Intel fellebbez az EU gigabírsága ellen]]></title>
+   <link>http://mno.hu/bitvilag/az-intel-fellebbez-az-eu-gigabirsaga-ellen-1088926?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Meixner Zoltán</author>
+   <description><![CDATA[Minden idők legnagyobb bírságát varrta az EU az Intel nyakába - a processzorairól ismert vállalat azonban nem akarja kifizetni az öreg kontinens által kirótt büntetést. Pedig van vaj a füle mögött...]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Thu, 05 Jul 2012 10:44:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Top 5: kik állnak a tablethegy csúcsán?]]></title>
+   <link>http://mno.hu/bitvilag/top-5-kik-allnak-a-tablethegy-csucsan-1087070?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Meixner Zoltán</author>
+   <description><![CDATA[2011 legnagyobb tabletgyártói és a legjobban fogyó táblagépek. ]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Thu, 28 Jun 2012 08:34:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kütyük nélkül idegesek a nyaralók]]></title>
+   <link>http://mno.hu/bitvilag/kutyuk-nelkul-idegesek-a-nyaralok-1085324?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Meixner Zoltán</author>
+   <description><![CDATA[Az Intel az utazás és a technológia kapcsolatát illető felhasználói attitűdöt igyekezett feltárni, amiből kiderült, hogy a nyaralók idegességet éreznek, ha nincs velük a mobiltelefonjuk, és dühösek, ha nem tudják feltölteni a lemerülőben lévő készüléket.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Thu, 21 Jun 2012 08:52:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nem sci-fi: agyfolyadékból generál áramot az üzemanyagcella ]]></title>
+   <link>http://mno.hu/bitvilag/nem-sci-fi-agyfolyadekbol-general-aramot-az-uzemanyagcella-1083646?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Meixner Zoltán</author>
+   <description><![CDATA[Olyan agyba ültethető üzemanyagcellát hoztak létre, amely az agy-gericvelő folyadékban található cukrot használja fel áramtermelésre.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Thu, 14 Jun 2012 11:40:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kína lesz a technológiai szuperhatalom]]></title>
+   <link>http://mno.hu/bitvilag/kina-lesz-a-technologiai-szuperhatalom-1080041?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Meixner Zoltán</author>
+   <description><![CDATA[A Kínai Kommunista Párt Központi Bizottságának Politikai Irodája határozatban sürgette, hogy az országot technológiai szuperhatalommá kell formálni. A kivitelezhetőségről megoszlanak az elemzői vélemények.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Thu, 31 May 2012 11:26:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Élő DNS-ből csináltak újraírható adattárolót]]></title>
+   <link>http://mno.hu/bitvilag/elo-dns-bol-csinaltak-ujrairhato-adattarolot-1078073?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Meixner Zoltán</author>
+   <description><![CDATA[A Stanford University kutatói kidolgoztak egy olyan módszert, amellyel mikrobák élő DNS-ét használhatják fel bináris adattárolásra, méghozzá újraírható módon.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Wed, 23 May 2012 09:59:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Egedy Gergely]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/egedy-gergely-13465</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 00:46:55 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Brexit: kemény tények két olvasatban]]></title>
+   <link>http://mno.hu/velemeny/brexit-kemeny-tenyek-ket-olvasatban-2454211?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Egedy Gergely</author>
+   <enclosure url="http://mno.hu/data/cikkek/2454/24542/cikk-2454211/000_V627N.jpg" length="295368" type="image/jpeg"/>
+   <description><![CDATA[Az EU érdeke most az, hogy Nagy-Britannia kilépése ne legyen sikertörténet.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Sun, 18 Mar 2018 17:57:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az Európai Unió legeslegjobb barátja]]></title>
+   <link>http://mno.hu/velemeny/az-europai-unio-legeslegjobb-baratja-2419726?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Egedy Gergely</author>
+   <enclosure url="http://mno.hu/data/cikkek/2419/24197/cikk-2419726/000_PE55G.jpg" length="367846" type="image/jpeg"/>
+   <description><![CDATA[A brit kormányfő a lehető legmesszebbre ment azért, hogy az unió kedvében járjon.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Wed, 04 Oct 2017 10:43:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Európa kontra Európai Unió?]]></title>
+   <link>http://mno.hu/velemeny/europa-kontra-europai-unio-1382810?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Egedy Gergely</author>
+   <enclosure url="http://mno.hu/data/cikkek/1382/13828/cikk-1382810/000_K2777_896_504_1485247677.jpg" length="42769" type="image/jpeg"/>
+   <description><![CDATA[Theresa May a briteknek sima átmenetet, úgynevezett soft brexitet ígért.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Wed, 25 Jan 2017 11:40:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szuez, 1956: egy összeesküvés anatómiája]]></title>
+   <link>http://mno.hu/velemeny/szuez-1956-egy-osszeeskuves-anatomiaja-1377013?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Egedy Gergely</author>
+   <enclosure url="http://mno.hu/data/cikkek/1377/13770/cikk-1377013/000_APP2001021513365_896_504_1481989753.jpg" length="47731" type="image/jpeg"/>
+   <description><![CDATA[Az intervenció hivatkozási alapként szolgált a Szovjetunió magyarországi beavatkozásához.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Sun, 18 Dec 2016 11:31:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[David Cameron: az örökség kérdőjelei]]></title>
+   <link>http://mno.hu/velemeny/david-cameron-az-orokseg-kerdojelei-1362922?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Egedy Gergely</author>
+   <enclosure url="http://mno.hu/data/cikkek/1362/13629/cikk-1362922/000_D51CE.jpg" length="274171" type="image/jpeg"/>
+   <description><![CDATA[Könnyen lehet, hogy őt is egyetlen ügy alapján fogja megítélni az utókor.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Thu, 22 Sep 2016 19:32:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Brexit: a demokrácia ára vagy sikere?]]></title>
+   <link>http://mno.hu/velemeny/brexit-a-demokracia-ara-vagy-sikere-1349873?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Egedy Gergely</author>
+   <enclosure url="http://mno.hu/data/cikkek/1349/13498/cikk-1349873/londonchurchill.jpg" length="199856" type="image/jpeg"/>
+   <description><![CDATA[A szigetország mindig is „vonakodó európai” volt.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Fri, 01 Jul 2016 11:35:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A posztliberalizmus esélyei]]></title>
+   <link>http://mno.hu/velemeny/a-posztliberalizmus-eselyei-1326229?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Egedy Gergely</author>
+   <enclosure url="http://mno.hu/data/cikkek/1326/13262/cikk-1326229/Atomium.jpg" length="286794" type="image/jpeg"/>
+   <description><![CDATA[Olyan absztrakciókban gondolkoznak, amelyek mögött nincsenek időtálló emberi tapasztalatok.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Fri, 29 Jan 2016 18:14:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az újból visszanyert állam]]></title>
+   <link>http://mno.hu/migr_1834/az_ujbol_visszanyert_allam-201048?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Egedy Gergely</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Thu, 09 Dec 2010 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kétirányú utca]]></title>
+   <link>http://mno.hu/migr_1834/ketiranyu_utca-197041?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Egedy Gergely</author>
+   <description><![CDATA[„Azt gondolom, túl messzire ment, méghozzá a rossz irányban” – e szavakkal foglalta össze David Cameron az európai integrációról alkotott véleményét abban az önálló kötetté összeállított interjúsorozatban, amelyet a befutott újságíró, Dylan Jones készített vele. Véleménye jól tükrözi a brit konzervatívok hagyományosan erős fenntartásait a brit szuverenitást fenyegető európai egységtörekvésekkel szemben. Hogyan gondolkodnak az idén májusban a legtöbb voksot elnyerő s Cameron személyében miniszterelnököt is adó, bár a liberális demokratákkal koalícióra kényszerülő toryk Európáról?]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 19 Oct 2010 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[David Cameron konzervativizmusa]]></title>
+   <link>http://mno.hu/migr_1834/david_cameron_konzervativizmusa-237008?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Egedy Gergely</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Sat, 22 May 2010 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Konzervativizmus kontra fasizmus]]></title>
+   <link>http://mno.hu/migr_1834/konzervativizmus_kontra_fasizmus-292447?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Egedy Gergely</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 11 Aug 2009 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hipnotizálva]]></title>
+   <link>http://mno.hu/migr_1834/hipnotizalva-359123?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Egedy Gergely</author>
+   <description><![CDATA[A második világháborút követő három év a nagy remények és a keserű csalódások időszaka volt hazánk történetében. Az utóbbihoz nem kis mértékben járult hozzá a nyugati hatalmak közömbössége régiónk sorsa iránt. A világpolitikai játszmában Nagy-Britannia és az Egyesült Államok végül is magukra hagyta Közép-Európa nemzeteit, azzal a következménnyel, hogy – Szekfű Gyula akkori kifejezésével – az újabb „török hódoltság” korszaka köszöntött rájuk az orosz megszállás formájában.]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 23 Dec 2008 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Demokráciát – konzervatív keretben]]></title>
+   <link>http://mno.hu/migr_1834/demokraciat-–-konzervativ-keretben-384931?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Egedy Gergely</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 29 Apr 2008 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Továbbra is célpontban a nemzeti identitás]]></title>
+   <link>http://mno.hu/velemeny/tovabbra-is-celpontban-a-nemzeti-identitas-433161?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Egedy Gergely</author>
+   <description><![CDATA[]]></description>
+   <category>Vélemény</category>
+   <pubDate>Sat, 28 Jul 2007 01:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A posztkommunizmus bélyege a közéleten]]></title>
+   <link>http://mno.hu/velemeny/a-posztkommunizmus-belyege-a-kozeleten-558374?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Egedy Gergely</author>
+   <description><![CDATA[]]></description>
+   <category>Vélemény</category>
+   <pubDate>Wed, 17 Aug 2005 01:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A konzervatív alternatíva]]></title>
+   <link>http://mno.hu/migr/a-konzervativ-alternativa-868194?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Egedy Gergely</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum</category>
+   <pubDate>Sat, 02 Oct 1999 00:00:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

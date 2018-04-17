@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Dr Ákoshegyi Imre]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/dr-akoshegyi-imre-20379</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Sun, 15 Apr 2018 04:28:44 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[...korán mentek el]]></title>
+   <link>http://mno.hu/civil_ujsagiras/koran-mentek-el-1184857?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Dr Ákoshegyi Imre</author>
+   <description><![CDATA[Ha egyszer húszévenként csak néhány nappal kevesebbet háborúzna a világ, akkor sokkal kevesebben születnének és mennének el korán.]]></description>
+   <category>Civil újságírás</category>
+   <pubDate>Thu, 19 Sep 2013 16:13:10 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

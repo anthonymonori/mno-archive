@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: B. Kovács Gergely]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/b-kovacs-gergely-23187</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Wed, 11 Apr 2018 10:10:47 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Best of migráns nappal próbált lázba hozni az M1]]></title>
+   <link>http://mno.hu/belfold/best-of-migrans-nappal-probal-lazba-hozni-az-m1-2458810?utm_source=feed&amp;utm_medium=rss</link>
+   <author>B. Kovács Gergely</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24588/cikk-2458810/migrans_1.jpg" length="727618" type="image/jpeg"/>
+   <description><![CDATA[Szó sem esik az úgynevezett választásról, mintha nem egy ilyen zajlana épp az országban.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sun, 08 Apr 2018 18:52:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Másfél évtized után így lett ismét kampányeszköz a határon túliakból]]></title>
+   <link>http://mno.hu/hatarontul/masfel-evtized-utan-igy-lett-ismet-kampanyeszkoz-a-hataron-tuliakbol-2458086?utm_source=feed&amp;utm_medium=rss</link>
+   <author>B. Kovács Gergely</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24580/cikk-2458086/180403_Belo07.jpg" length="320727" type="image/jpeg"/>
+   <description><![CDATA[Megvizsgálták, miként hat az online térben a DK határon túliak ellenében felépített kampánya.]]></description>
+   <category>Határon túl</category>
+   <pubDate>Sat, 07 Apr 2018 13:22:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ízes családtörténet az egyházfőről]]></title>
+   <link>http://mno.hu/hetvegimagazin/izes-csaladtortenet-az-egyhazforol-2456833?utm_source=feed&amp;utm_medium=rss</link>
+   <author>B. Kovács Gergely</author>
+   <enclosure url="http://mno.hu/data/cikkek/2456/24568/cikk-2456833/000_Mvd6550878.jpg" length="511720" type="image/jpeg"/>
+   <description><![CDATA[A Ferenc pápa asztalánál című kötet kiváló gasztronómiai életrajz hívőknek és nem hívőknek.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Mon, 02 Apr 2018 14:32:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Harmadnapra legyőzte a halált]]></title>
+   <link>http://mno.hu/velemeny/harmadnapra-legyozte-a-halalt-2457164?utm_source=feed&amp;utm_medium=rss</link>
+   <author>B. Kovács Gergely</author>
+   <enclosure url="http://mno.hu/data/cikkek/2457/24571/cikk-2457164/D_KOS20170402003_896_504_1522506097.jpg" length="58928" type="image/jpeg"/>
+   <description><![CDATA[Az igazságnak nem látványosan, hanem lassan és hit által kell nyilvánvalóvá válnia.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Sun, 01 Apr 2018 00:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Photoshop és lemondás a Vatikánban]]></title>
+   <link>http://mno.hu/kulfold/photoshop-es-lemondas-a-vatikanban-2457013?utm_source=feed&amp;utm_medium=rss</link>
+   <author>B. Kovács Gergely</author>
+   <enclosure url="http://mno.hu/data/cikkek/2457/24570/cikk-2457013/000_ZX4Y4.jpg" length="305283" type="image/jpeg"/>
+   <description><![CDATA[Ferenc pápával kapcsolatban él egy téves előítélet, hogy nincs meg a kellő teológiai és filozófiai képzettsége.]]></description>
+   <category>Külföld</category>
+   <pubDate>Sat, 31 Mar 2018 12:20:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A hatvanezer fedél nélkül maradt fővárosi és a mentőcsónakos báró]]></title>
+   <link>http://mno.hu/tortenelem/a-hatvanezer-fedel-nelkul-maradt-fovarosi-es-a-mentocsonakos-baro-2453368?utm_source=feed&amp;utm_medium=rss</link>
+   <author>B. Kovács Gergely</author>
+   <enclosure url="http://mno.hu/data/cikkek/2453/24533/cikk-2453368/1838.JPG" length="376694" type="image/jpeg"/>
+   <description><![CDATA[Száznyolcvan évvel ezelőtt pusztító jeges ár döntötte romba Pest háromnegyedét.]]></description>
+   <category>Múlt idő</category>
+   <pubDate>Wed, 14 Mar 2018 10:18:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ha azt hitte, klasszikusokat nem lehet előadni pumpán, nagyot téved!]]></title>
+   <link>http://mno.hu/hetvegimagazin/ha-azt-hitte-klasszikusokat-nem-lehet-eloadni-pumpan-nagyot-teved-2452607?utm_source=feed&amp;utm_medium=rss</link>
+   <author>B. Kovács Gergely</author>
+   <enclosure url="http://mno.hu/data/cikkek/2452/24526/cikk-2452607/VL20180228_7928.jpg" length="293476" type="image/jpeg"/>
+   <description><![CDATA[Mankófuvola, dallampumpa, palackorgona, népi partvis. Kovács Gábor unortodox hangszerkészítőnél jártunk.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Sun, 11 Mar 2018 13:04:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Leégett épület a Soroksári úton – Jórészt a malmainkat is Széchenyinek köszönhettük]]></title>
+   <link>http://mno.hu/tortenelem/leegett-epulet-a-soroksari-uton-joreszt-a-malmainkat-is-szechenyinek-koszonhettuk-2452005?utm_source=feed&amp;utm_medium=rss</link>
+   <author>B. Kovács Gergely</author>
+   <enclosure url="http://mno.hu/data/cikkek/2452/24520/cikk-2452005/fortepan_82383.jpg" length="408849" type="image/jpeg"/>
+   <description><![CDATA[A hajnalban leégett Soroksári úti malomépület a világ második legvirágzóbb malomkultúrájának része volt.]]></description>
+   <category>Múlt idő</category>
+   <pubDate>Wed, 07 Mar 2018 21:30:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Levelet írt Kádárnak, brutális gyilkosság áldozata lett a plébános]]></title>
+   <link>http://mno.hu/belfold/levelet-irt-kadarnak-brutalis-gyilkossag-aldozata-lett-a-plebanos-2451516?utm_source=feed&amp;utm_medium=rss</link>
+   <author>B. Kovács Gergely</author>
+   <enclosure url="http://mno.hu/data/cikkek/2451/24515/cikk-2451516/KenyeresLajos_896_504_1520263761.jpg" length="167159" type="image/jpeg"/>
+   <description><![CDATA[Kenyeres Lajos tiszavárkonyi pap bátor kiállásával haragította magára a kommunista rezsimet az 1956-os forradalom utáni megtorlás időszakában. ]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 05 Mar 2018 18:08:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Facebookozással szeretne megszabadulni a problémáitól? Ez veszélyes!]]></title>
+   <link>http://mno.hu/media/facebookozassal-szeretne-megszabadulni-a-problemaitol-ez-veszelyes-2450125?utm_source=feed&amp;utm_medium=rss</link>
+   <author>B. Kovács Gergely</author>
+   <enclosure url="http://mno.hu/data/cikkek/2450/24501/cikk-2450125/49202174_l.jpg" length="203592" type="image/jpeg"/>
+   <description><![CDATA[Ha túl sokat használjuk a közösségi oldalakat, kialvatlanok és depressziósak leszünk. De ki fog akkor ezentúl tündöklő szelfiket posztolni?]]></description>
+   <category>Média</category>
+   <pubDate>Tue, 27 Feb 2018 21:31:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A készülő harang olyan, mint egy matrjoskababa]]></title>
+   <link>http://mno.hu/hetvegimagazin/a-keszulo-harang-olyan-mint-egy-matrjoskababa-2449377?utm_source=feed&amp;utm_medium=rss</link>
+   <author>B. Kovács Gergely</author>
+   <enclosure url="http://mno.hu/data/cikkek/2449/24493/cikk-2449377/szb20180212_0327_ez.jpg" length="618608" type="image/jpeg"/>
+   <description><![CDATA[Ahol tojásból, cukorból, mosott agyagból és emberi hajból készül a köpeny – az ország egyetlen öntödéjében jártunk.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Sun, 25 Feb 2018 12:15:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Akár az ön hangján is megszólalhat a Trónok harca]]></title>
+   <link>http://mno.hu/grund/akar-az-on-hangjan-is-megszolalhat-a-tronok-harca-2449462?utm_source=feed&amp;utm_medium=rss</link>
+   <author>B. Kovács Gergely</author>
+   <enclosure url="http://mno.hu/data/cikkek/2449/24494/cikk-2449462/fortepan_106843_896_504_1519472689.jpg" length="77030" type="image/jpeg"/>
+   <description><![CDATA[A Bodor Tibor Kulturális Egyesület mindenkit hív a hangoskönyvtár gyarapítására.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Sat, 24 Feb 2018 12:48:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A magyar falu, ami kis túlzással a fél világnak készít fakanalat]]></title>
+   <link>http://mno.hu/hetvegimagazin/a-magyar-falu-ami-kis-tulzassal-a-fel-vilagnak-keszit-fakanalat-2447304?utm_source=feed&amp;utm_medium=rss</link>
+   <author>B. Kovács Gergely</author>
+   <enclosure url="http://mno.hu/data/cikkek/2447/24473/cikk-2447304/VL20180205_6320.jpg" length="843750" type="image/jpeg"/>
+   <description><![CDATA[Pedagógiai fenyítőeszköz, konyhai alapfelszerelés és a nemzeti minimum. Egy nógrádikum nyomában.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Fri, 23 Feb 2018 09:30:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szentté avatják VI. Pált, aki Kádárnál kijárta a hittanoktatás engedélyezését]]></title>
+   <link>http://mno.hu/kulfold/szentte-avatjak-vi-palt-aki-kadarnal-kijarta-a-hittanoktatas-engedelyezeset-2448865?utm_source=feed&amp;utm_medium=rss</link>
+   <author>B. Kovács Gergely</author>
+   <enclosure url="http://mno.hu/data/cikkek/2448/24488/cikk-2448865/K_UPI19651213005_896_504_1519330059.jpg" length="111161" type="image/jpeg"/>
+   <description><![CDATA[A nagyböjt alkalmából találkozott Ferenc pápa Róma papjaival, és bejelentette VI. Pál szentté avatását.]]></description>
+   <category>Külföld</category>
+   <pubDate>Thu, 22 Feb 2018 21:05:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Analóg élet a digitális korban]]></title>
+   <link>http://mno.hu/velemeny/analog-elet-a-digitalis-korban-2447745?utm_source=feed&amp;utm_medium=rss</link>
+   <author>B. Kovács Gergely</author>
+   <enclosure url="http://mno.hu/data/cikkek/2447/24477/cikk-2447745/IMG_0210.jpg" length="1025265" type="image/jpeg"/>
+   <description><![CDATA[Nem volt a világ mindig ennyire élmény- és kommunikációorientált.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Fri, 16 Feb 2018 17:29:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A MÁV-nak vissza kell szereznie az utasok bizalmát]]></title>
+   <link>http://mno.hu/gazdasag/a-mav-nak-vissza-kell-szereznie-az-utasok-bizalmat-2446414?utm_source=feed&amp;utm_medium=rss</link>
+   <author>B. Kovács Gergely</author>
+   <enclosure url="http://mno.hu/data/cikkek/2446/24464/cikk-2446414/10-1szb.jpg" length="418508" type="image/jpeg"/>
+   <description><![CDATA[Az utóbbi napokban gyakran felborult a menetrend a szobi vonalon. A szakszervezetek szerint jobb szervezésre lenne szükség.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Sun, 11 Feb 2018 15:37:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[És akkor a Fületlen Bögre kávézóból átsétáltunk a templomba]]></title>
+   <link>http://mno.hu/hetvegimagazin/es-akkor-a-fuletlen-bogre-kavezobol-atsetaltunk-a-templomba-2446204?utm_source=feed&amp;utm_medium=rss</link>
+   <author>B. Kovács Gergely</author>
+   <enclosure url="http://mno.hu/data/cikkek/2446/24462/cikk-2446204/VL20180115_4917.jpg" length="539014" type="image/jpeg"/>
+   <description><![CDATA[Veresegyházra látogattunk, és arra kerestük a választ, milyen elvek alapján épülnek a XXI. századi templomok.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Sun, 11 Feb 2018 10:19:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Teljes volt a tanácstalanság a MÁV szobi vonalán kedd reggel]]></title>
+   <link>http://mno.hu/belfold/teljes-a-tanacstalansag-a-mav-szobi-vonalan-kedd-reggel-2445313?utm_source=feed&amp;utm_medium=rss</link>
+   <author>B. Kovács Gergely</author>
+   <enclosure url="http://mno.hu/data/cikkek/2445/24453/cikk-2445313/D_MTZ20140110001.jpg" length="338742" type="image/jpeg"/>
+   <description><![CDATA[Vác irányából ma is komoly vállalkozás lett a bejutás a fővárosba a reggeli órákban.]]></description>
+   <category>Belföld</category>
+   <pubDate>Tue, 06 Feb 2018 08:35:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ön milyen színű autókat tiltana be, ha Türkmenisztán diktátora lenne?]]></title>
+   <link>http://mno.hu/hetvegimagazin/on-milyen-szinu-autokat-tiltana-be-ha-turkmenisztan-diktatora-lenne-2444564?utm_source=feed&amp;utm_medium=rss</link>
+   <author>B. Kovács Gergely</author>
+   <enclosure url="http://mno.hu/data/cikkek/2444/24445/cikk-2444564/000_Par7364983_896_504_1517578427.jpg" length="81100" type="image/jpeg"/>
+   <description><![CDATA[Márvány, gitár, szőnyeg és BMW – Türkmenisztán fehérforradalma mindenhová elér.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Sun, 04 Feb 2018 09:30:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kasza Tibi kiakadt a sürgősségi ellátáson]]></title>
+   <link>http://mno.hu/belfold/kasza-tibi-kiakadt-a-surgossegi-ellatason-2444817?utm_source=feed&amp;utm_medium=rss</link>
+   <author>B. Kovács Gergely</author>
+   <enclosure url="http://mno.hu/data/cikkek/2444/24448/cikk-2444817/HM20110603_0190_896_504_1497017203.jpg" length="53073" type="image/jpeg"/>
+   <description><![CDATA[Videóban számolt be trombózisgyanúval kórházba szállított édesanyja 6-7 órás kórházi várakozásáról.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sat, 03 Feb 2018 18:17:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A rendőrség szedte le 49 éve a Beatlest a háztetőről]]></title>
+   <link>http://mno.hu/grund/a-rendorseg-szedte-le-49-eve-a-beatlest-a-haztetorol-2443764?utm_source=feed&amp;utm_medium=rss</link>
+   <author>B. Kovács Gergely</author>
+   <enclosure url="http://mno.hu/data/cikkek/2443/24437/cikk-2443764/cdc1bf76b52cc253803be34f865fb6e2.jpg" length="145452" type="image/jpeg"/>
+   <description><![CDATA[1969. január 30-án zenélt egy londoni háztetőn a Beatles. Ez volt a zenekar utolsó közös fellépése.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Tue, 30 Jan 2018 19:03:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A kék keret, amely átformálta az emberi gondolkodást]]></title>
+   <link>http://mno.hu/tudomany/a-kek-keret-amely-atformalta-az-emberi-gondolkodast-2439446?utm_source=feed&amp;utm_medium=rss</link>
+   <author>B. Kovács Gergely</author>
+   <enclosure url="http://mno.hu/data/cikkek/2439/24394/cikk-2439446/000_Par7075192.jpg" length="335274" type="image/jpeg"/>
+   <description><![CDATA[A tudomány igyekszik feltárni a közösségi média életünkre gyakorolt hatásait, de a technika gyorsabb nála.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Wed, 24 Jan 2018 20:44:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Obama kedvenc rappere és Pronyófalva kapitánya is fellép az idei Szigeten]]></title>
+   <link>http://mno.hu/grund/obama-kedvenc-rappere-es-pronyofalva-kapitanya-is-fellep-az-idei-szigeten-2442061?utm_source=feed&amp;utm_medium=rss</link>
+   <author>B. Kovács Gergely</author>
+   <enclosure url="http://mno.hu/data/cikkek/2442/24420/cikk-2442061/063_672125478.jpg" length="206945" type="image/jpeg"/>
+   <description><![CDATA[Nyilvánosságra hozták a 26. Sziget fesztivál első nagy neveit.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Mon, 22 Jan 2018 21:24:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Petike fülfolyása és állandó pittyegésterror a vonatokon]]></title>
+   <link>http://mno.hu/eletmod/petike-fulfolyasa-es-allando-pittyegesterror-a-vonatokon-2440559?utm_source=feed&amp;utm_medium=rss</link>
+   <author>B. Kovács Gergely</author>
+   <enclosure url="http://mno.hu/data/cikkek/2440/24405/cikk-2440559/acela_quiet_car.jpg" length="126720" type="image/jpeg"/>
+   <description><![CDATA[A csend manapság luxuscikk, de a MÁV tájékoztatása szerint 2019-től itthon is üzembe helyezik a csendes kocsikat.]]></description>
+   <category>Életmód</category>
+   <pubDate>Thu, 18 Jan 2018 21:07:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Pápai vizit Dél-Amerikában, mégsem hazai pályán]]></title>
+   <link>http://mno.hu/kulfold/papai-vizit-del-amerikaban-megsem-hazai-palyan-2440640?utm_source=feed&amp;utm_medium=rss</link>
+   <author>B. Kovács Gergely</author>
+   <enclosure url="http://mno.hu/data/cikkek/2440/24406/cikk-2440640/000_WT209.jpg" length="319624" type="image/jpeg"/>
+   <description><![CDATA[Megérkezett Chilébe a katolikus egyházfő, de korántsem örült mindenki a jövetelének.]]></description>
+   <category>Külföld</category>
+   <pubDate>Tue, 16 Jan 2018 22:37:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az ír népmese vége – Dolores O’Riordan halálára]]></title>
+   <link>http://mno.hu/grund/az-ir-nepmese-vege-dolores-oriordan-halalara-2440554?utm_source=feed&amp;utm_medium=rss</link>
+   <author>B. Kovács Gergely</author>
+   <enclosure url="http://mno.hu/data/cikkek/2440/24405/cikk-2440554/000_WQ1WN.jpg" length="164762" type="image/jpeg"/>
+   <description><![CDATA[Szép és szerethető történet, egészen különleges, felejthetetlen hang távozott. Nekrológ.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Tue, 16 Jan 2018 14:14:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A fáradhatatlan Attenborough maga is a természet csodája]]></title>
+   <link>http://mno.hu/tudomany/a-faradhatatlan-attenborough-maga-is-a-termeszet-csodaja-2437829?utm_source=feed&amp;utm_medium=rss</link>
+   <author>B. Kovács Gergely</author>
+   <enclosure url="http://mno.hu/data/cikkek/2437/24378/cikk-2437829/mezzanine_164.png" length="2237073" type="image/png"/>
+   <description><![CDATA[Hangyászsünfajtát neveztek el róla, lovaggá ütötték, és a BBC programigazgatója is volt.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Thu, 04 Jan 2018 20:34:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Egy négylábú kell csak, és szinte kutya bajunk]]></title>
+   <link>http://mno.hu/tudomany/egy-negylabu-kell-csak-es-szinte-kutya-bajunk-2437046?utm_source=feed&amp;utm_medium=rss</link>
+   <author>B. Kovács Gergely</author>
+   <enclosure url="http://mno.hu/data/cikkek/2437/24370/cikk-2437046/4_2szb.jpg" length="383195" type="image/jpeg"/>
+   <description><![CDATA[A kutya nem helyettesíti az emberi társat, de sok mindenben épülésünkre és egészségünkre lehet.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Thu, 04 Jan 2018 05:55:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az elmaradt újévi meccs]]></title>
+   <link>http://mno.hu/hetvegimagazin/az-elmaradt-ujevi-meccs-2436767?utm_source=feed&amp;utm_medium=rss</link>
+   <author>B. Kovács Gergely</author>
+   <enclosure url="http://mno.hu/data/cikkek/2436/24367/cikk-2436767/fortepan_23879_1.jpg" length="401714" type="image/jpeg"/>
+   <description><![CDATA[Barátkozás a fronton: ellenállási tevékenység következményekkel.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Mon, 01 Jan 2018 06:06:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Mindjárt ott vagyok! – Betegség-e a krónikus késés?]]></title>
+   <link>http://mno.hu/eletmod/mindjart-ott-vagyok-betegseg-e-a-kronikus-keses-2434904?utm_source=feed&amp;utm_medium=rss</link>
+   <author>B. Kovács Gergely</author>
+   <enclosure url="http://mno.hu/data/cikkek/2434/24349/cikk-2434904/71339322_l.jpg" length="577265" type="image/jpeg"/>
+   <description><![CDATA[A késés rossz annak, aki elköveti, de annak is kellemetlen, aki elszenvedi. Vajon fejleszthető-e a pontosság?]]></description>
+   <category>Életmód</category>
+   <pubDate>Tue, 26 Dec 2017 21:15:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

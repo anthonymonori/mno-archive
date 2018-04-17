@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Borsodi Attila–Szabó Zsolt]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/borsodi-attilaszabo-zsolt-21518</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Sat, 14 Apr 2018 07:14:05 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Elsöprő kormánypárti fölény]]></title>
+   <link>http://mno.hu/belfold/elsopro-kormanyparti-foleny-1246956?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Borsodi Attila–Szabó Zsolt</author>
+   <description><![CDATA[A polgári oldal minden megyei jogú városban és budapesti kerületben indul.]]></description>
+   <category>Belföld</category>
+   <pubDate>Wed, 10 Sep 2014 06:26:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

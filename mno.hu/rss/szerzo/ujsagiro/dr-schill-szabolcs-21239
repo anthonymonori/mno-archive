@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: dr. Schill Szabolcs]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/dr-schill-szabolcs-21239</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 19:28:58 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Hogyan írathatom át a jelzáloghitellel terhelt ingatlanomat?]]></title>
+   <link>http://mno.hu/korabbipartnereink/hogyan-irathatom-at-a-jelzaloghitellel-terhelt-ingatlanomat-1275007?utm_source=feed&amp;utm_medium=rss</link>
+   <author>dr. Schill Szabolcs</author>
+   <description><![CDATA[A párom nem a férjem, és nem élünk bejegyzett élettársi kapcsolatban, de a hitel fennmaradó részét ő fizetné ki.]]></description>
+   <category>Korábbi partnereink</category>
+   <pubDate>Sat, 28 Feb 2015 13:23:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Egy kft. pecsétje kiválthatja az orvosi bélyegzőt?]]></title>
+   <link>http://mno.hu/korabbipartnereink/egy-kft-pecsetje-kivalthatja-az-orvosi-belyegzot-1251291?utm_source=feed&amp;utm_medium=rss</link>
+   <author>dr. Schill Szabolcs</author>
+   <description><![CDATA[Aggódom, hogy fogorvosi műtétemet elvégző személy nem is orvos volt.]]></description>
+   <category>Korábbi partnereink</category>
+   <pubDate>Sun, 05 Oct 2014 09:27:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A szomszéd szélesíteni kívánja a szolgalmi utat]]></title>
+   <link>http://mno.hu/korabbipartnereink/a-szomszed-szelesiteni-kivanja-a-szolgalmi-utat-1242606?utm_source=feed&amp;utm_medium=rss</link>
+   <author>dr. Schill Szabolcs</author>
+   <description><![CDATA[A telki szolgalom alapján mit kell biztosítani a telek tulajdonosának? És meddig mehet el a szomszéd a szolgalmi úttal?]]></description>
+   <category>Korábbi partnereink</category>
+   <pubDate>Sat, 16 Aug 2014 09:31:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Vége a haszonélvezetnek – ezt kell tenni]]></title>
+   <link>http://mno.hu/korabbipartnereink/kell-e-fizetni-amikor-lejar-a-haszonelvezet-1233202?utm_source=feed&amp;utm_medium=rss</link>
+   <author>dr. Schill Szabolcs</author>
+   <description><![CDATA[A haszonélvezet is biztosítható határozott időre. Mi történik, ha lejár?]]></description>
+   <category>Korábbi partnereink</category>
+   <pubDate>Sun, 22 Jun 2014 14:25:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A börtönbüntetést házi őrizetre kellene váltani]]></title>
+   <link>http://mno.hu/korabbipartnereink/a-bortonbuntetest-hazi-orizetre-kellene-valtani-1231867?utm_source=feed&amp;utm_medium=rss</link>
+   <author>dr. Schill Szabolcs</author>
+   <description><![CDATA[A hat hónapos börtönbüntetés hogyan és mennyiért váltható át házi őrizetre?]]></description>
+   <category>Korábbi partnereink</category>
+   <pubDate>Sat, 14 Jun 2014 06:33:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

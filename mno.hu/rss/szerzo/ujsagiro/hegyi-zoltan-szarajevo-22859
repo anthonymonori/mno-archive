@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Hegyi Zoltán (Szarajevó)]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/hegyi-zoltan-szarajevo-22859</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 02:58:54 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Mindannyiunk Travise Szarajevóban]]></title>
+   <link>http://mno.hu/film/mindannyiunk-travise-szarajevoban-1357186?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hegyi Zoltán (Szarajevó)</author>
+   <description><![CDATA[A volt Jugoszlávia tagországainak filmművészete és a Nyugat találkozik.]]></description>
+   <category>Szuperplán</category>
+   <pubDate>Tue, 16 Aug 2016 19:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Keresztül-kasul Bosznia-Hercegovinán (2.)]]></title>
+   <link>http://mno.hu/hetvegimagazin/keresztul-kasul-bosznia-hercegovinan-2-1306938?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hegyi Zoltán (Szarajevó)</author>
+   <enclosure url="http://mno.hu/data/cikkek/1306/13069/cikk-1306938/IMG_1198_grid2_fekvo_lead.jpg" length="74695" type="image/jpeg"/>
+   <description><![CDATA[Boldogtalan sorsú Rudolf trónörökös léptein haladva, a magyar emlékek nyomában a Balkánon.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Sun, 13 Sep 2015 14:23:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Csontváry nyomában a Balkánon]]></title>
+   <link>http://mno.hu/hetvegimagazin/keresztul-kasul-bosznia-hercegovinan-1-1306925?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hegyi Zoltán (Szarajevó)</author>
+   <enclosure url="http://mno.hu/data/cikkek/1306/13069/cikk-1306925/IMG_1183_grid2_fekvo_lead.jpg" length="98926" type="image/jpeg"/>
+   <description><![CDATA[Rendhagyó kalandtúra Bosznia-Hercegovinában. Svejk, Csontváry és a Google fordító.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Mon, 07 Sep 2015 10:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Két díjat is elhoztunk Szarajevóból]]></title>
+   <link>http://mno.hu/grund/ket-dijat-is-elhoztunk-szarajevobol-1301249?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hegyi Zoltán (Szarajevó)</author>
+   <description><![CDATA[A játékfilmek között a Saul fia, a dokumentumfilmek között Almási Tamás Tititája söpörte be a zsűri különdíját.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Sun, 23 Aug 2015 12:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hagyomány vs. modern idők]]></title>
+   <link>http://mno.hu/grund/hagyomany-vs-modern-idok-1301105?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hegyi Zoltán (Szarajevó)</author>
+   <description><![CDATA[Deniz Gamze Ergüven filmje egy Isten háta mögötti faluban játszódik, az iráni Dzsafar Panahié egy taxiban.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Sat, 22 Aug 2015 09:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Auschwitz után]]></title>
+   <link>http://mno.hu/grund/auschwitz-utan-1300972?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hegyi Zoltán (Szarajevó)</author>
+   <description><![CDATA[Nemes Jeles László Saul fia című filmjét Szarajevóban megnézni különös érzés.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Fri, 21 Aug 2015 09:07:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A négyes számú polgártárs és Robin Hood]]></title>
+   <link>http://mno.hu/grund/a-negyes-szamu-polgartars-es-robin-hood-szarajevoi-filmfesztival-1300644?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hegyi Zoltán (Szarajevó)</author>
+   <description><![CDATA[A tipikus fesztiválfilmek általában nem az iróniáról, a humorról híresek. Szarajevóban mégis akadt ilyen.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Wed, 19 Aug 2015 13:44:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Amy Winehouse és egy török love story Szarajevóban]]></title>
+   <link>http://mno.hu/grund/amy-winehouse-es-egy-torok-love-story-szarajevoban-1300470?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hegyi Zoltán (Szarajevó)</author>
+   <description><![CDATA[A Szarajevói Filmfesztivál versenyprogramja egy nagy, kerek török erdőbe jutott.  De itt van Amy Winehouse is.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Tue, 18 Aug 2015 09:49:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Rómeó és Júlia Jugoszláviában]]></title>
+   <link>http://mno.hu/grund/romeo-es-julia-jugoszlaviaban-1300345?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hegyi Zoltán (Szarajevó)</author>
+   <description><![CDATA[Vörös szőnyeggel, szép színésznők bevonulásával és brazil filmmel megkezdődött a szarajevói filmfesztivál.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Mon, 17 Aug 2015 09:23:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

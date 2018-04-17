@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Horváth Csaba]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/horvath-csaba-20759</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Fri, 13 Apr 2018 02:37:17 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Józsefvárosi parkolóóra-rengeteg]]></title>
+   <link>http://mno.hu/belfold/jozsefvarosi-parkoloora-rengeteg-1353410?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Horváth Csaba, Szabó Zsolt</author>
+   <enclosure url="http://mno.hu/data/cikkek/1353/13534/cikk-1353410/szb20110203_8013.jpg" length="159498" type="image/jpeg"/>
+   <description><![CDATA[Szinte az egész VIII. kerület fizetőssé válik az autósoknak.]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 25 Jul 2016 08:08:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ezzel még tartoznak Orbánék]]></title>
+   <link>http://mno.hu/belfold/takareklangon-pislakolo-nyomozasok-1344622?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Horváth Csaba, Szabó Zsolt</author>
+   <enclosure url="http://mno.hu/data/cikkek/1344/13446/cikk-1344622/NBB_20150302_9272_-pap.jpg" length="261499" type="image/jpeg"/>
+   <description><![CDATA[Elszámoltatás: több korrupciós ügyben már hat éve zajlik a vizsgálat, eredmény nincs.]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 30 May 2016 10:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Költöznek a szcientológusok]]></title>
+   <link>http://mno.hu/belfold/koltoznek-a-szcientologusok-1342132?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Horváth Csaba, Buzna Viktor</author>
+   <enclosure url="http://mno.hu/data/cikkek/1342/13421/cikk-1342132/MNO_szb20160512_~25.jpg" length="97869" type="image/jpeg"/>
+   <description><![CDATA[Több ezer külföldi és hazai hívét várja a szervezet a közelgő székházmegnyitóra.]]></description>
+   <category>Belföld</category>
+   <pubDate>Fri, 13 May 2016 06:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Matolcsy-exkluzív: „Miért is kellene lemondanom?”]]></title>
+   <link>http://mno.hu/belfold/sakk-es-poker-allami-jatek-1340996?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Horváth Csaba, Hajdú Péter</author>
+   <enclosure url="http://mno.hu/data/cikkek/1340/13409/cikk-1340996/TT201600504_012_grid2_fekvo_lead.jpg" length="52343" type="image/jpeg"/>
+   <description><![CDATA[A jegybankelnök leszögezte: nem mond le. Exkluzív interjú Matolcsy Györggyel.]]></description>
+   <category>Belföld</category>
+   <pubDate>Fri, 06 May 2016 00:05:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A biztonságról is tárgyal a Fidesz]]></title>
+   <link>http://mno.hu/belfold/a-biztonsagrol-is-targyal-a-fidesz-1327956?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Horváth Csaba, Markotay Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/1327/13279/cikk-1327956/Download.aspx_grid2_fekvo_lead.jpeg" length="20471" type="image/jpeg"/>
+   <description><![CDATA[Orbán Viktor értékelőjével kezdődik ma este Lillafüreden a Fidesz–KDNP háromnapos kihelyezett frakcióülése.]]></description>
+   <category>Belföld</category>
+   <pubDate>Wed, 10 Feb 2016 06:30:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Amerikai ellenfele lehet a Századvégnek]]></title>
+   <link>http://mno.hu/belfold/amerikai-ellenfele-lehet-a-szazadvegnek-1312262?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Zord Gábor László, Horváth Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/1312/13122/cikk-1312262/Szazadveg_MNO_SZB20150626_8970.jpg" length="153405" type="image/jpeg"/>
+   <description><![CDATA[A Ronald Reagan egykori amerikai elnök szövegírójához köthető Policy Impact állami tendereken indulna.]]></description>
+   <category>Belföld</category>
+   <pubDate>Wed, 04 Nov 2015 06:04:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nyomozás az ügyvédi kamaránál]]></title>
+   <link>http://mno.hu/belfold/nyomozas-az-ugyvedi-kamaranal-1307063?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Horváth Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/1307/13070/cikk-1307063/birosag_uj_fekvo_lead.jpg" length="67746" type="image/jpeg"/>
+   <description><![CDATA[Hűtlen kezelés gyanúja miatt folytatnak nyomozást a Budapesti Ügyvédi Kamaránál.]]></description>
+   <category>Belföld</category>
+   <pubDate>Fri, 02 Oct 2015 08:37:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Adósokra vadásznak a behajtók]]></title>
+   <link>http://mno.hu/belfold/adosokra-vadasznak-a-behajtok-1288698?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Horváth Csaba</author>
+   <description><![CDATA[Hiába született bírósági ítélet, egyes bankok megbízást adnak a zaklatásra.]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 01 Jun 2015 12:53:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kertész Ákos újra gyalázkodik]]></title>
+   <link>http://mno.hu/belfold/kertesz-akos-ujra-gyalazkodik-1214548?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Horváth Csaba</author>
+   <description><![CDATA[A magyarok jelentős része jobboldali, antiszemita, rasszista, horthysta beállítottságú – erről beszélt Kertész Ákos.]]></description>
+   <category>Belföld</category>
+   <pubDate>Fri, 07 Mar 2014 06:14:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

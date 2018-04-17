@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: eve]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/eve-19572</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Fri, 13 Apr 2018 02:10:13 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Prostik a vásznon – a filmtörténet 10 sarokköve]]></title>
+   <link>http://mno.hu/grund/prostik-a-vasznon-a-filmtortenet-10-sarokkove-1056656?utm_source=feed&amp;utm_medium=rss</link>
+   <author>kgy, eve</author>
+   <description><![CDATA[A Szex felsőfokon friss premierje kapcsán utánanéztünk azoknak a művészi igényű filmeknek, amelyekben pénzért kínálnak szexuális szolgáltatást a gyengébbik nem képviselői. ]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Sat, 03 Mar 2012 13:50:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ezek a gyerekek nem kegyelmeztek]]></title>
+   <link>http://mno.hu/grund/ezek-a-gyerekek-nem-kegyelmeztek-1050762?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Son, kgy, thy, eve</author>
+   <description><![CDATA[A mozikban éppen Kevin borzolja a kedélyeket, róla már beszéltünk, de akadnak még ördögi kölykök a filmvásznon. Íme az aktuális válogatás.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Sat, 11 Feb 2012 16:52:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

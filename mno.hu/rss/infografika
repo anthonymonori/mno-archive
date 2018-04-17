@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - rovat: Infografika]]></title>
+  <link>http://mno.hu/infografika</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Wed, 11 Apr 2018 07:58:15 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Térképeken és grafikonokon a 2018-as országgyűlési választás]]></title>
+   <link>http://mno.hu/infografika/terkepeken-es-grafikonokon-a-2018-as-orszaggyulesi-valasztas-2458575?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24585/cikk-2458575/20180408_NBB3102.jpg" length="283011" type="image/jpeg"/>
+   <description><![CDATA[Választókörzetek, jelöltek, részvételi adatok, pártlisták és egyéni eredmények, vagyis minden adat egy helyen.]]></description>
+   <category>Infografika</category>
+   <pubDate>Sun, 08 Apr 2018 14:40:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az adókedvezmény jó, de rövidebb munkaidőt és több bölcsődét is szeretnének a kismamák]]></title>
+   <link>http://mno.hu/infografika/az-adokedvezmeny-jo-de-rovidebb-munkaidot-es-tobb-bolcsodet-is-szeretnenek-a-kismamak-2448622?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kovács Áron</author>
+   <enclosure url="http://mno.hu/data/cikkek/2448/24486/cikk-2448622/SZB20170608_4923.jpg" length="567462" type="image/jpeg"/>
+   <description><![CDATA[A magyar közélet központi témája a családtámogatás. De megkérdezték-e magukat az érintetteket? Tettünk rá egy kísérletet.]]></description>
+   <category>Infografika</category>
+   <pubDate>Wed, 28 Feb 2018 20:32:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Negyvenöt éve zárult le az űrhajózás aranykora]]></title>
+   <link>http://mno.hu/infografika/negyvenot-eve-zarult-le-az-urhajozas-aranykora-2434661?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Csécsi László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2434/24346/cikk-2434661/apollo_17_online_lead_kep.jpg" length="158977" type="image/jpeg"/>
+   <description><![CDATA[Nem valószínű, hogy a közeljövőben lesz még olyan bő évtizedre terjedő időszak, amikor az űrhajózás ekkora fejlődésen megy át.]]></description>
+   <category>Infografika</category>
+   <pubDate>Tue, 19 Dec 2017 11:10:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Későn ébredt a politika: lassan, de biztosan elfogy a magyar?]]></title>
+   <link>http://mno.hu/infografika/keson-ebredt-a-politika-lassan-de-biztosan-elfogy-a-magyar-2432073?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kovács Áron</author>
+   <enclosure url="http://mno.hu/data/cikkek/2432/24320/cikk-2432073/HM20110711_0206.jpg" length="308441" type="image/jpeg"/>
+   <description><![CDATA[Egyelőre túllendültünk a demográfiai mélyponton, de így is egyre kevesebb nő van szülőképes korban.]]></description>
+   <category>Infografika</category>
+   <pubDate>Mon, 11 Dec 2017 19:40:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ez a találmány valósította meg Kodály Zoltán álmát]]></title>
+   <link>http://mno.hu/infografika/ez-a-talalmany-valositotta-meg-kodaly-zoltan-almat-2426794?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vass Norbert</author>
+   <enclosure url="http://mno.hu/data/cikkek/2426/24267/cikk-2426794/His_Master_s_Voice_focuspoint_926x504.jpg" length="151165" type="image/jpeg"/>
+   <description><![CDATA[Százharminc éve szabadalmaztatta a zenehallgatást forradalmasító gramofont Emile Berliner.]]></description>
+   <category>Infografika</category>
+   <pubDate>Sun, 12 Nov 2017 12:37:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hatvan éve lőtték ki Lajka kutyát az űrbe]]></title>
+   <link>http://mno.hu/infografika/hatvan-eve-lottek-ki-lajka-kutyat-az-urbe-2425471?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2425/24254/cikk-2425471/000_TW6IL.jpg" length="430905" type="image/jpeg"/>
+   <description><![CDATA[A keverék jószág volt az első élőlény, aki Föld körüli pályára állt. Alig pár órával élte túl. ]]></description>
+   <category>Infografika</category>
+   <pubDate>Fri, 03 Nov 2017 21:36:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Híd Jenő]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/hid-jeno-28705</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 12:04:43 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Plakátvagány, avagy visszaüt a barkácsesztétika]]></title>
+   <link>http://mno.hu/grund/plakatvagany-avagy-visszaut-a-barkacsesztetika-2441337?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Híd Jenő</author>
+   <enclosure url="http://mno.hu/data/cikkek/2441/24413/cikk-2441337/MNO_BD_3310.jpg" length="381777" type="image/jpeg"/>
+   <description><![CDATA[Ki vesz vajon ingatlant egy olyan ügynök segítségével, aki a megfelelő grafikuson is spórol?]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Fri, 19 Jan 2018 16:46:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Vérpezsdítő lepedőakrobatika hatvannégy mezőn]]></title>
+   <link>http://mno.hu/grund/verpezsdito-lepedoakrobatika-hatvannegy-mezon-2435667?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Híd Jenő</author>
+   <enclosure url="http://mno.hu/data/cikkek/2435/24356/cikk-2435667/World_London_Chess_Championships.jpg" length="144225" type="image/jpeg"/>
+   <description><![CDATA[A 2018-as, londoni sakkvilágbajnokság logója új megvilágításba helyezi az eddig visszafogott észjátékot.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Fri, 22 Dec 2017 15:54:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Mégis mi szükség volt a Vágányemberre?]]></title>
+   <link>http://mno.hu/grund/megis-mi-szukseg-volt-a-vaganyemberre-2413961?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Híd Jenő</author>
+   <enclosure url="http://mno.hu/data/cikkek/2413/24139/cikk-2413961/12_1.jpg" length="414375" type="image/jpeg"/>
+   <description><![CDATA[Valamiféle nemzetkarakterológiai vakfoltnak köszönhetően születnek rendre vizuálisan terhelt kabalafigurák Magyarországon?]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Thu, 24 Aug 2017 14:25:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

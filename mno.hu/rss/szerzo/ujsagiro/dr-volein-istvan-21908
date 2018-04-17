@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: dr. Volein István]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/dr-volein-istvan-21908</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 19:28:47 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Hogyan védhetném meg a 30 éves jubileumi díjazásomat?]]></title>
+   <link>http://mno.hu/korabbipartnereink/hogyan-vedhetnem-meg-a-30-eves-jubileumi-dijazasomat-1269438?utm_source=feed&amp;utm_medium=rss</link>
+   <author>dr. Volein István</author>
+   <description><![CDATA[Pedagógusként fenntartóváltás miatt veszítettem el közalkalmazotti jogviszonyomat.]]></description>
+   <category>Korábbi partnereink</category>
+   <pubDate>Sun, 25 Jan 2015 08:27:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A cég átszervezése elegendő ok a felmondáshoz?]]></title>
+   <link>http://mno.hu/korabbipartnereink/a-ceg-atszervezese-elegendo-ok-a-felmondashoz-1266936?utm_source=feed&amp;utm_medium=rss</link>
+   <author>dr. Volein István</author>
+   <description><![CDATA[Ezzel az indokkal akarják munkaviszonyomat 38 év után megszüntetni.]]></description>
+   <category>Korábbi partnereink</category>
+   <pubDate>Sun, 11 Jan 2015 09:27:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

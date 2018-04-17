@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Sitkei Levente]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/sitkei-levente-13325</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Sat, 14 Apr 2018 01:34:15 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Atomházasság ]]></title>
+   <link>http://mno.hu/vezercikk/atomhazassag-1279299?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sitkei Levente</author>
+   <description><![CDATA[Ha valaki nem cáfol és nem erősít meg, az szinte biztosan izraeli, a kérdés pedig az atombombára vonatkozik]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Sat, 28 Mar 2015 00:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Bibi király]]></title>
+   <link>http://mno.hu/vezercikk/bibi-kiraly-1277900?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sitkei Levente</author>
+   <description><![CDATA[Mivel Izraelben átlagosan kétévente urnákhoz járulnak a polgárok, a politikai csatatér folyamatosan hangos.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Thu, 19 Mar 2015 00:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A hálózat]]></title>
+   <link>http://mno.hu/vezercikk/a-halozat-1276448?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sitkei Levente</author>
+   <description><![CDATA[Milyen telefonod van, Nokia? Nyilván, hiszen az egy magyar cég! – mondta egy kedélyes arab a jordániai sivatagban.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Tue, 10 Mar 2015 00:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hollywoodi propagandával támad az IÁ]]></title>
+   <link>http://mno.hu/kulfold/hollywoodi-propagandaval-tamad-az-ia-1275684?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sitkei Levente</author>
+   <description><![CDATA[Tökéletesen értik a dolgukat az Iszlám Állam filmes stábjának tagjai. Nem újdonság a szervezet Frankenstein jellege.]]></description>
+   <category>Külföld</category>
+   <pubDate>Thu, 05 Mar 2015 05:05:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hisztérikus hurrá]]></title>
+   <link>http://mno.hu/vezercikk/hiszterikus-hurra-1275686?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sitkei Levente</author>
+   <description><![CDATA[Ha innen nézzük, Netanjáhú ügyes kampánystratégiát választott, megmutatta szavazóinak, milyen áldozatokra képes a hazáért. Ha onnan, legfontosabb szövetségese arcába köpött.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Thu, 05 Mar 2015 00:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Párizs, újra]]></title>
+   <link>http://mno.hu/velemeny/parizs-ujra-1273031?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sitkei Levente</author>
+   <description><![CDATA[Ha már minden sarkon rendőr áll, minden telefont lehallgatnak, s útlevél kell a városrészek közötti utazáshoz, akkor mondhatjuk, hogy győztünk?]]></description>
+   <category>Vélemény</category>
+   <pubDate>Mon, 16 Feb 2015 00:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az élet értéke ]]></title>
+   <link>http://mno.hu/vezercikk/az-elet-erteke-1268167?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sitkei Levente</author>
+   <description><![CDATA[Vajon kevesebbet ér-e egy afrikai ember élete, mint egy európaié? Isten színe előtt nyilván nem. ]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Sat, 17 Jan 2015 00:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szekértolók]]></title>
+   <link>http://mno.hu/vezercikk/szekertolok-1265110?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sitkei Levente</author>
+   <description><![CDATA[Krisztus születése magában hordozza a megváltást, de mintha épp az ő szerepe vált volna jelentéktelenné a nyugati civilizációban.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Sat, 27 Dec 2014 00:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Bársonyba csavart kés                   ]]></title>
+   <link>http://mno.hu/vezercikk/barsonyba-csavart-kes-1262718?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sitkei Levente</author>
+   <description><![CDATA[De a kés csak kés marad. Ha azt írják a jelentésben, hogy „kihallgatási technikák”, az nem különbözik a lefogott gyanús személy agyba-főbe verésétől. ]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Thu, 11 Dec 2014 00:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Pápai látogatás az egyházak közeledéséért]]></title>
+   <link>http://mno.hu/kulfold/papai-latogatas-az-egyhazak-kozeledeseert-1261177?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sitkei Levente</author>
+   <description><![CDATA[Ferenc pápa és I. Bartholomaiosz konstantinápolyi pátriárka találkozása során arra koncentrált a Szentatya, hogy mi a közös bennünk.]]></description>
+   <category>Külföld</category>
+   <pubDate>Mon, 01 Dec 2014 19:32:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A két Róma]]></title>
+   <link>http://mno.hu/vezercikk/a-ket-roma-1261011?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sitkei Levente</author>
+   <description><![CDATA[Békét és kiegyezést akar a régi Róma és az új Róma egyaránt.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Mon, 01 Dec 2014 00:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Repülő Galamb]]></title>
+   <link>http://mno.hu/vezercikk/repulo-galamb-1257922?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sitkei Levente</author>
+   <description><![CDATA[ Az út szövevényes, s az a nagy kérdés, vajon merre vezet, s ki jelöli ki a sávokat. ]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Wed, 12 Nov 2014 00:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Énközpontúság]]></title>
+   <link>http://mno.hu/kulfold/enkozpontusag-1251563?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sitkei Levente</author>
+   <description><![CDATA[Hajlandóságot mutatunk arra, hogy életünk középpontjába önmagunkat és céljainkat tegyük. Ez nagyon emberi, de nem keresztény gondolkodás – írta a világ legmodernebb 78 éves embere, Ferenc pápa Twitter-oldalán. ]]></description>
+   <category>Külföld</category>
+   <pubDate>Mon, 06 Oct 2014 00:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hajdúvilág a sivatagban]]></title>
+   <link>http://mno.hu/vezercikk/hajduvilag-a-sivatagban-1247957?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sitkei Levente</author>
+   <description><![CDATA[A Közel-Kelet úgyszólván hajdúvidék, főleg Szaddám Huszein bukása óta egy teljes nemzedék abból él, hogy harcol.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Tue, 16 Sep 2014 00:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Halászni a zavarosban]]></title>
+   <link>http://mno.hu/vezercikk/halaszni-a-zavarosban-1247138?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sitkei Levente</author>
+   <description><![CDATA[Nem hazájukat, hanem az Európai Bizottságot képviselik a biztosok, így teljesen mindegy, hogy melyik ország jelöltje melyik posztot kapja.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Thu, 11 Sep 2014 00:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Pokolkutyák]]></title>
+   <link>http://mno.hu/vezercikk/pokolkutyak-1243623?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sitkei Levente</author>
+   <description><![CDATA[A terror voltaképp a félelemkeltés gyakorlata, a terrorista pedig akkor éri el a célját, ha a társadalom retteg.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Fri, 22 Aug 2014 00:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Emberek Gázában]]></title>
+   <link>http://mno.hu/vezercikk/emberek-gazaban-1238609?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sitkei Levente</author>
+   <description><![CDATA[A háború a Szentföldön gyakorlatilag bármikor kitörhet, ha van rá politikai akarat. ]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Wed, 23 Jul 2014 00:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A gloire fakuló fénye]]></title>
+   <link>http://mno.hu/vezercikk/a-gloire-fakulo-fenye-1235344?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sitkei Levente</author>
+   <description><![CDATA[Megrengeti a jogállam alapját, ha kiderül, hogy az ország egykori vezetője gyakorlatilag első kézből értesült a róla szóló perek állásáról?]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Thu, 03 Jul 2014 00:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Fekete sereg]]></title>
+   <link>http://mno.hu/vezercikk/fekete-sereg-1233685?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sitkei Levente</author>
+   <description><![CDATA[Öt embert ítéltek el Szaúd-Arábiában a nemzeti lobogó megsértéséért.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Tue, 24 Jun 2014 00:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Csak pápa van                           ]]></title>
+   <link>http://mno.hu/vezercikk/csak-papa-van-1223587?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sitkei Levente</author>
+   <description><![CDATA[A XX. század vérzivatart hozott, miközben az egyház megújulását is eredményezte, s olyan emberek kerültek a formálódó közösség élére, akik méltán jutottak most a szentek közé. ]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Mon, 28 Apr 2014 00:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szakállasok dicsérete]]></title>
+   <link>http://mno.hu/vezercikk/szakallasok-dicserete-1207080?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sitkei Levente</author>
+   <description><![CDATA[Mindenképpen új Szíria fog születni, a rossz szellemet már nem lehet visszagyömöszölni a palackba.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Fri, 24 Jan 2014 00:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Káin bélyege]]></title>
+   <link>http://mno.hu/vezercikk/kain-belyege-1203138?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sitkei Levente</author>
+   <description><![CDATA[A globalizáció szomszédokká tesz minket, de nem testvérekké, idézte elődjét, XVI. Benedek pápát tegnap a katolikus egyházfő.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Thu, 02 Jan 2014 00:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A béke művészete                         ]]></title>
+   <link>http://mno.hu/vezercikk/a-beke-muveszete-1202434?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sitkei Levente</author>
+   <description><![CDATA[A béke nem a háború hiánya. Nem kiegyezés. Nem tolerancia. A béke szándéka mögött nincs erőszak, s nincs számítás. ]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Fri, 27 Dec 2013 00:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A fekete springbok]]></title>
+   <link>http://mno.hu/vezercikk/a-fekete-springbok-1199389?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sitkei Levente</author>
+   <description><![CDATA[„A negyvenes évektől kezdve folyamatosan járta a bíróságokat.”]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Sat, 07 Dec 2013 00:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Tajvani hegedű a black metalban]]></title>
+   <link>http://mno.hu/grund/tajvani-hegedu-a-black-metalban-1199165?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sitkei Levente</author>
+   <description><![CDATA[Az A38-on lépett fel a Chthonic nevű tajvani metálzenekar. A frontemberrel politizáltunk is, ahogy belefért.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Fri, 06 Dec 2013 09:38:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az új Róma új eleste]]></title>
+   <link>http://mno.hu/vezercikk/az-uj-roma-uj-eleste-1198981?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sitkei Levente</author>
+   <description><![CDATA[Csúnyán elbánt a történelem velünk, keresztényekkel, és velük, mozlimokkal is.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Thu, 05 Dec 2013 00:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Törökország bízik Magyarországban]]></title>
+   <link>http://mno.hu/kulfold/torokorszag-bizik-magyarorszagban-1197929?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sitkei Levente</author>
+   <description><![CDATA[„A török és a magyar azon ritka nemzetek egyike, amelyek sikerrel alakították tartós barátsággá a történelmi tapasztalataikat.”]]></description>
+   <category>Külföld</category>
+   <pubDate>Fri, 29 Nov 2013 06:15:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Gazdag és szép]]></title>
+   <link>http://mno.hu/vezercikk/gazdag-es-szep-1194444?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sitkei Levente</author>
+   <description><![CDATA[A világ egy picikét megváltozott diplomáciai téren, mégpedig az amerikaiak kárára.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Sat, 09 Nov 2013 00:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Koreai filmhét az Urániában]]></title>
+   <link>http://mno.hu/grund/koreai-filmhet-az-uraniaban-1193202?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sitkei Levente</author>
+   <description><![CDATA[Egy héten át, november 4-től 8-ig koreai filmeket fognak vetíteni az Uránia Nemzeti Filmszínházban.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Sat, 02 Nov 2013 15:28:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ki tudja a választ?]]></title>
+   <link>http://mno.hu//noi-foci-1054017?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sitkei Levente</author>
+   <description><![CDATA[Ez erről szól, áll egy reklámplakáton, amelyet úton-útfélen lehet látni manapság.]]></description>
+   <category/>
+   <pubDate>Wed, 22 Feb 2012 15:11:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

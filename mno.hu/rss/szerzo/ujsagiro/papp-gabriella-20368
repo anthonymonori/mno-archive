@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Papp Gabriella]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/papp-gabriella-20368</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Sat, 14 Apr 2018 20:59:31 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Viharkeresztelő pár száz euróért]]></title>
+   <link>http://mno.hu/tudomany/nevezzen-el-egy-vihart-ketszaz-euroert-1192831?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Papp Gabriella</author>
+   <description><![CDATA[További száz euróért pedig anticiklont és időszakot is elneveznek rólunk.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Wed, 30 Oct 2013 14:56:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Válasz van, de csak 2020-ban lépne hatályba]]></title>
+   <link>http://mno.hu/tudomany/megallapodas-a-szen-dioxid-kibocsatasrol-1189119?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Papp Gabriella</author>
+   <description><![CDATA[Megállapodás született a légiközlekedés szén-dioxid kibocsátásáról.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Wed, 09 Oct 2013 18:23:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hogyan stabilizálta az emberiség az ózonlyukat?]]></title>
+   <link>http://mno.hu/tudomany/hogyan-stabilizalta-az-emberiseg-az-ozonlyukat-1183593?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Papp Gabriella</author>
+   <description><![CDATA[A klímaváltozás előtt a világ tudósai az ózonrétegen kialakuló lyuk veszélyeire figyelmeztettek.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Wed, 11 Sep 2013 15:53:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

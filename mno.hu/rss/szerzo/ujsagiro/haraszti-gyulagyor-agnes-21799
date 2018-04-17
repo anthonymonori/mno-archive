@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Haraszti Gyula–Győr Ágnes]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/haraszti-gyulagyor-agnes-21799</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Fri, 13 Apr 2018 12:32:13 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Merkelhez küldenék Sorosék Obamát hazánk ellen]]></title>
+   <link>http://mno.hu/belfold/merkelt-is-befolyasolnak-1262551?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Haraszti Gyula–Győr Ágnes</author>
+   <description><![CDATA[Sorosék azt javasolták, hogy Obama egyeztessen hazánkról a német kancellárral.]]></description>
+   <category>Belföld</category>
+   <pubDate>Wed, 10 Dec 2014 05:29:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A CIA-t és Sorost is beveti Amerika? ]]></title>
+   <link>http://mno.hu/belfold/a-cia-t-es-sorost-is-beveti-amerika-1261967?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Haraszti Gyula–Győr Ágnes</author>
+   <description><![CDATA[Az Obama-adminisztráció volt tisztviselőinek szervezete tett javaslatot a magyarországi beavatkozásra.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sat, 06 Dec 2014 06:00:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Karácsony Zita]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/karacsony-zita-30097</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Wed, 11 Apr 2018 13:14:48 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[A magyar lakosság jelentős része funkcionális analfabéta]]></title>
+   <link>http://mno.hu/belfold/a-magyar-lakossag-jelentos-resze-funkcionalis-analfabeta-2458131?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Karácsony Zita</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24581/cikk-2458131/SZB20170207_1195_1.jpg" length="340551" type="image/jpeg"/>
+   <description><![CDATA[Nem sokkal a választás előtt Csaba Lászlóval, Lányi Andrással, Nagy Attila Tiborral és Reichert Jánossal helyeztük mérlegre az eltelt nyolc év kormányzását a Magyar Nemzet Szalonon.]]></description>
+   <category>Belföld</category>
+   <pubDate>Thu, 05 Apr 2018 16:04:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az igazi sváb hurka nyomában]]></title>
+   <link>http://mno.hu/etelesital/az-igazi-svab-hurka-nyomaban-2453584?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Karácsony Zita</author>
+   <enclosure url="http://mno.hu/data/cikkek/2453/24535/cikk-2453584/20180215_NBB9161.JPG" length="350074" type="image/jpeg"/>
+   <description><![CDATA[A tavasz beköszöntével nem ér véget a szezon. Zsemléset vagy rizseset? Boltból vagy piacról? ]]></description>
+   <category>Étel és ital</category>
+   <pubDate>Mon, 02 Apr 2018 12:41:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A kutya híd ember és ember között]]></title>
+   <link>http://mno.hu/eletmod/a-kutya-hid-ember-es-ember-kozott-2455061?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Karácsony Zita</author>
+   <enclosure url="http://mno.hu/data/cikkek/2455/24550/cikk-2455061/20_03_BA.jpg" length="206294" type="image/jpeg"/>
+   <description><![CDATA[A kerekesszékesek által űzött kutyás sport, a paraagility Magyarországról indult világhódító útjára.]]></description>
+   <category>Életmód</category>
+   <pubDate>Sat, 31 Mar 2018 14:33:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

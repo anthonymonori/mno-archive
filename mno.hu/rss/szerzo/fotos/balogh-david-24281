@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Balogh Dávid]]></title>
+  <link>http://mno.hu/szerzo/fotos/balogh-david-24281</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 16:06:39 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Ilyen szilveszterre egy migráns sem vágyott]]></title>
+   <link>http://mno.hu/f22/ilyen-szilveszterre-egy-migrans-sem-vagyott-1379109?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Balogh Dávid, Majláth Ronald</author>
+   <enclosure url="http://mno.hu/data/cikkek/1379/13791/cikk-1379109/_D_4152.jpg" length="570684" type="image/jpeg"/>
+   <description><![CDATA[Belgrádba látogatott a fotósunk, hogy megörökítse, hogyan „ünnepeltek” a menekültek.]]></description>
+   <category>Fotó (f22)</category>
+   <pubDate>Mon, 02 Jan 2017 16:06:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

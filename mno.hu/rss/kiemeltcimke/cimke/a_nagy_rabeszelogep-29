@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - kiemelt címke: A nagy rábeszélőgép]]></title>
+  <link>http://mno.hu/kiemeltcimke/cimke/a_nagy_rabeszelogep-29</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Wed, 11 Apr 2018 09:37:35 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Amíg van független sajtó, a Fidesz nem nyugszik]]></title>
+   <link>http://mno.hu/media/amig-van-fuggetlen-sajto-a-fidesz-nem-nyugszik-2458139?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lakner Dávid</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24581/cikk-2458139/B_RKL20150810028.jpg" length="407069" type="image/jpeg"/>
+   <description><![CDATA[Így tarolta le az elmúlt években a kormány a magyar médipiacot.]]></description>
+   <category>Média</category>
+   <pubDate>Thu, 05 Apr 2018 22:07:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Tényellenőrző körúton voltunk Brüsszelben: hiába kerestük a kormánymédia migránshordáit]]></title>
+   <link>http://mno.hu/kulfold/tenyellenorzo-koruton-voltunk-brusszelben-hiaba-kerestuk-a-kormanymedia-migranshordait-2454239?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Arató László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2454/24542/cikk-2454239/080_HL_VNGUYEN_500447.jpg" length="632037" type="image/jpeg"/>
+   <description><![CDATA[Utánajártunk, hogy mennyi a valóságtartalmuk a migránsellenes riportjaiknak.]]></description>
+   <category>Külföld</category>
+   <pubDate>Sun, 18 Mar 2018 21:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Menetelők kérték]]></title>
+   <link>http://mno.hu/atutazo/menetelok-kertek-2454142?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Tóth Szabolcs Töhötöm</author>
+   <enclosure url="http://mno.hu/data/cikkek/2454/24541/cikk-2454142/CM9R4511.jpg" length="178540" type="image/jpeg"/>
+   <description><![CDATA[A pszichózis, amelyet a propaganda gerjeszt, kívül esik még a szimbolikus vagy érzelmi politizálás világán is.]]></description>
+   <category>Átutazó</category>
+   <pubDate>Sat, 17 Mar 2018 15:59:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Inkább leszerelte a kamerát az MTI]]></title>
+   <link>http://mno.hu/belfold/inkabb-leszerelte-a-kamerat-az-mti-2454135?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Fokasz Oresztész</author>
+   <enclosure url="http://mno.hu/data/cikkek/2454/24541/cikk-2454135/DBELO20110301031.jpg" length="409228" type="image/jpeg"/>
+   <description><![CDATA[Állítólag félreértés történt, és egyébként sem üzemelték be az eszközt.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sat, 17 Mar 2018 14:02:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Propaganda a csúcson, fővárosi milliók menekülteknek]]></title>
+   <link>http://mno.hu/belfold/propaganda-a-csucson-fovarosi-milliok-menekulteknek-2451691?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabó Zsolt</author>
+   <enclosure url="http://mno.hu/data/cikkek/2451/24516/cikk-2451691/DBOGI20150911007_896_504_1520323609.jpg" length="50316" type="image/jpeg"/>
+   <description><![CDATA[A budapesti önkormányzat intézménye napjainkban is együttműködik a Soros-féle civilekkel.]]></description>
+   <category>Belföld</category>
+   <pubDate>Tue, 06 Mar 2018 09:09:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A kormánypárti sajtó szerint nem történt semmi érdekes Vásárhelyen]]></title>
+   <link>http://mno.hu/belfold/a-kormanyparti-sajto-szerint-nem-tortent-semmi-erdekes-vasarhelyen-2449844?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Bittner Levente</author>
+   <enclosure url="http://mno.hu/data/cikkek/2449/24498/cikk-2449844/BA_05164.JPG" length="321730" type="image/jpeg"/>
+   <description><![CDATA[Ne szólj szám, nem fáj fejem?]]></description>
+   <category>Belföld</category>
+   <pubDate>Sun, 25 Feb 2018 23:47:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Al-Dzsazíra: Kézi vezérlésű a magyar állami média]]></title>
+   <link>http://mno.hu/media/al-dzsazira-kezi-vezerlesu-a-magyar-kormanymedia-2449600?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2449/24496/cikk-2449600/D_AS20170922003.jpg" length="357235" type="image/jpeg"/>
+   <description><![CDATA[Az MTVA-s dolgozók szerint politikailag kényes témáknál mindig kapnak instrukciót, hogyan nyúljanak a témához.]]></description>
+   <category>Média</category>
+   <pubDate>Sat, 24 Feb 2018 12:42:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kövér elismerte, hogy elfogult a közmédia, de hát ilyen az élet]]></title>
+   <link>http://mno.hu/belfold/kover-elismerte-hogy-elfogult-a-kormanymedia-de-hat-ilyen-az-elet-2447738?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2447/24477/cikk-2447738/NBB_20151213_7259.jpg" length="235835" type="image/jpeg"/>
+   <description><![CDATA[A zárt körben készült hangfelvételen a házelnök mossa kezeit, mondván, a játékszabályokat nem ő találta ki.]]></description>
+   <category>Belföld</category>
+   <pubDate>Fri, 16 Feb 2018 11:37:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Fővárosi Ítélőtábla: Hárommillió forint jár Vona Gábornak az Allah-ügyben]]></title>
+   <link>http://mno.hu/belfold/fovarosi-itelotabla-harommillio-forint-jar-vona-gabornak-az-allah-ugyben-2445626?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2445/24456/cikk-2445626/BA20160803_4955.jpg" length="225107" type="image/jpeg"/>
+   <description><![CDATA[A Jobbik közleménye szerint a „fideszes lakájmédiának” nyilvános levélben kell bocsánatot kérnie. ]]></description>
+   <category>Belföld</category>
+   <pubDate>Wed, 07 Feb 2018 12:38:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Fideszbácsi hazudik]]></title>
+   <link>http://mno.hu/vezercikk/fideszbacsi-hazudik-2444733?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Gazda Albert</author>
+   <enclosure url="http://mno.hu/data/cikkek/2444/24447/cikk-2444733/NBB_20170315_4047.jpg" length="721681" type="image/jpeg"/>
+   <description><![CDATA[Egyre több választónak lesz elege abból, hogy könnyen megvezethető-átverhető hülyének nézik.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Sat, 03 Feb 2018 00:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Jogerős: 3,5 milliót fizet a Ripost Gulyás Mártonnak]]></title>
+   <link>http://mno.hu/belfold/jogeros-35-milliot-fizet-a-ripost-gulyas-martonnak-2442461?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lándori Tamás</author>
+   <enclosure url="http://mno.hu/data/cikkek/2442/24424/cikk-2442461/IMG_20180124_110649.jpg" length="229894" type="image/jpeg"/>
+   <description><![CDATA[Az aktivista azt mondja, akkor sem festékezte volna össze a bíróság falát, ha nem a javára döntenek. ]]></description>
+   <category>Belföld</category>
+   <pubDate>Wed, 24 Jan 2018 14:09:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Csaknem 70 milliárdot szórtak el Rogánék kommunikációra]]></title>
+   <link>http://mno.hu/gazdasag/csaknem-70-milliardot-szortak-el-roganek-kommunikaciora-2438269?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hava Nikita</author>
+   <enclosure url="http://mno.hu/data/cikkek/2438/24382/cikk-2438269/MNO_BA20180104_0423.jpg" length="376012" type="image/jpeg"/>
+   <description><![CDATA[Egy év alatt költött majdnem annyit a kormány, mint korábban négy esztendő alatt, miközben tarolnak a Fidesz-közeli cégek.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Sat, 06 Jan 2018 10:30:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Majdnem ötvenmilliárdot költöttek Rogánék]]></title>
+   <link>http://mno.hu/gazdasag/majdnem-otvenmilliardot-koltottek-roganek-2437782?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hava Nikita</author>
+   <enclosure url="http://mno.hu/data/cikkek/2437/24377/cikk-2437782/_BA_8567x.jpg" length="384992" type="image/jpeg"/>
+   <description><![CDATA[Három jól bevált cégcsoportnál landolt a kommunikációra szánt pénz. Balásy Gyula az új kedvezményezett.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Thu, 04 Jan 2018 09:42:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A Kuruc.infó volt szerzője az Echo TV egyik állandó vendége]]></title>
+   <link>http://mno.hu/media/vaskosan-zsidozott-az-echo-tv-egyik-allando-vendege-2437605?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2437/24376/cikk-2437605/76UgQQhDSGk9I4AJs.jpeg" length="63457" type="image/jpeg"/>
+   <description><![CDATA[Varga-Bíró Tamás 2011-ben még a Magyar Szigeten adta elő Kohn bácsi walzerja című dalát.]]></description>
+   <category>Média</category>
+   <pubDate>Wed, 03 Jan 2018 15:15:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Elhallgatni, kigúnyolni: a kormánymédia a Jobbik tüntetéséről]]></title>
+   <link>http://mno.hu/media/elhallgatni-kigunyolni-a-kormanymedia-a-jobbik-tuntetesrol-2434292?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Koncz Tamás</author>
+   <enclosure url="http://mno.hu/data/cikkek/2434/24342/cikk-2434292/_NBB5470.jpg" length="385423" type="image/jpeg"/>
+   <description><![CDATA[A cinizmus és a tettetett süketség is járható út, ha a legnagyobb ellenzéki párt demonstrációjáról kell beszámolni.]]></description>
+   <category>Média</category>
+   <pubDate>Fri, 15 Dec 2017 21:25:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Addig jó, míg Soros él]]></title>
+   <link>http://mno.hu/velemeny/addig-jo-mig-soros-el-2433832?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Farkas Attila Márton</author>
+   <enclosure url="http://mno.hu/data/cikkek/2433/24338/cikk-2433832/MNO_SZB20170704_9840.jpg" length="320286" type="image/jpeg"/>
+   <description><![CDATA[A Fidesz örökké hatalmon akar maradni, és Goldstein nélkül aligha lesz könnyű dolga.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Thu, 14 Dec 2017 16:42:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Sztárság: egy este, amikor Kövér László lenyomta Varga Mihályt]]></title>
+   <link>http://mno.hu/belfold/sztarsag-egy-este-amikor-kover-laszlo-lenyomta-varga-mihalyt-2428914?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hutter Marianna</author>
+   <enclosure url="http://mno.hu/data/cikkek/2428/24289/cikk-2428914/D_MTZ20171120024.jpg" length="273842" type="image/jpeg"/>
+   <description><![CDATA[A Fidesz az eredeti tervek szerint múlt héten zárta volna fórumsorozatát, hétfőre és keddre végül még hirdettek további eseményeket.]]></description>
+   <category>Belföld</category>
+   <pubDate>Tue, 21 Nov 2017 09:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ripost: Bulvárlap a törvények felett]]></title>
+   <link>http://mno.hu/belfold/bulvarlap-a-torvenyek-felett-2428039?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabó Emese</author>
+   <enclosure url="http://mno.hu/data/cikkek/2428/24280/cikk-2428039/B_RKL20150810028.jpg" length="407069" type="image/jpeg"/>
+   <description><![CDATA[A Ripostot nem igazán érdekli, ki és mi miatt nyer ellene pert, helyreigazítást nem közöl. ]]></description>
+   <category>Belföld</category>
+   <pubDate>Fri, 17 Nov 2017 06:03:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Félretájékoztatási hivatal]]></title>
+   <link>http://mno.hu/vezercikk/felretajekoztatasi-hivatal-2428144?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Tóth Szabolcs Töhötöm</author>
+   <enclosure url="http://mno.hu/data/cikkek/2428/24281/cikk-2428144/043_dpa_pa_1233_88368011.jpg" length="325447" type="image/jpeg"/>
+   <description><![CDATA[Sajtónak látszó fegyver egy túszul ejtett államban: egészen úgy tűnik, mintha ezeket a „cikkeket” a Miniszterelnöki Hivatalban írnák.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Fri, 17 Nov 2017 00:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hatalmas pénzek mennek el kommunikációra]]></title>
+   <link>http://mno.hu/gazdasag/hatalmas-penzek-mennek-el-kommunikaciora-2427943?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hava Nikita</author>
+   <enclosure url="http://mno.hu/data/cikkek/2427/24279/cikk-2427943/szb20160909_2047.jpg" length="385640" type="image/jpeg"/>
+   <description><![CDATA[A Miniszterelnöki Kabinetiroda csak a vonatkozó szerződések egy részét tette közzé.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Thu, 16 Nov 2017 10:14:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Eltitkolták Rogán Antal lakossági fórumát]]></title>
+   <link>http://mno.hu/belfold/eltitkoltak-rogan-antal-lakossagi-forumat-2427910?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hutter Marianna</author>
+   <enclosure url="http://mno.hu/data/cikkek/2427/24279/cikk-2427910/CM9R2266.jpg" length="329671" type="image/jpeg"/>
+   <description><![CDATA[A Fidesz sajtóosztálya „elfelejtette” a nyilvánosság előtt meghirdetni, hogy Rogán Antal is tart nemzeti konzultációs fórumot.]]></description>
+   <category>Belföld</category>
+   <pubDate>Thu, 16 Nov 2017 06:02:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[„Undorító módon a Habony-féle média ellenzéki politikusokat is megaláz”]]></title>
+   <link>http://mno.hu/belfold/undorito-modon-a-habony-fele-media-ellenzeki-politikusokat-is-megalaz-2426975?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <description><![CDATA[Azt állította a Szegedma.hu, hogy az MSZP-s Szabó Sándor migránsok befogadásáról kötött egyezséget.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sat, 11 Nov 2017 13:22:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A megperzselt Nyugat]]></title>
+   <link>http://mno.hu/atutazo/a-megperzselt-nyugat-2425802?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Tóth Szabolcs Töhötöm</author>
+   <enclosure url="http://mno.hu/data/cikkek/2425/24258/cikk-2425802/K_EPA20160701096.jpg" length="356659" type="image/jpeg"/>
+   <description><![CDATA[Semmi sem olyan kelendő termék a közösségi médiában, mint a düh és a felháborodás.]]></description>
+   <category>Átutazó</category>
+   <pubDate>Mon, 06 Nov 2017 18:42:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Tarlós kirúgja a tilalmát megszegő Földi Lászlót]]></title>
+   <link>http://mno.hu/belfold/tarlos-kirugja-a-tilalmat-megszego-foldi-laszlot-2425841?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2425/24258/cikk-2425841/foldi_laszlo.jpg" length="235272" type="image/jpeg"/>
+   <description><![CDATA[Földi a figyelmeztetés ellenére is migránsozott, a főpolgármester elbúcsúzott tőle.]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 06 Nov 2017 14:15:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Súlyos százezreket fizethet a „hazug kormánysajtó" a Jobbiknak]]></title>
+   <link>http://mno.hu/belfold/sulyos-szazezreket-fizethet-a-hazug-kormanysajto-a-jobbiknak-2425799?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <description><![CDATA[Már több mint hetven sajtópert nyertek a jobbikosok a „Fidesz hazug lakájmédiájával” szemben, közölte a párt.]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 06 Nov 2017 11:15:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Földi László migránsozó interjúban mondott fel Tarlósnak]]></title>
+   <link>http://mno.hu/belfold/foldi-laszlo-migransozo-interjuban-mondott-fel-tarlosnak-2425772?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Koncz Tamás</author>
+   <enclosure url="http://mno.hu/data/cikkek/2425/24257/cikk-2425772/foldi_laszlo.jpg" length="68214" type="image/jpeg"/>
+   <description><![CDATA[Bár Tarlós István megtiltotta neki, a fővárosi tanácsadó a Magyar Időknek is nyilatkozott migrációs témában.]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 06 Nov 2017 09:45:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A bulvárpápa nagy riposztja: Ómolnár Miklós, a kormánysajtó új helytartója]]></title>
+   <link>http://mno.hu/media/a-bulvarpapa-nagy-riposztja-omolnar-miklos-a-kormanysajto-uj-helytartoja-2419608?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabó Emese</author>
+   <enclosure url="http://mno.hu/data/cikkek/2419/24196/cikk-2419608/146223_SCS_20150429x.jpg" length="178979" type="image/jpeg"/>
+   <description><![CDATA[Olyan médiát épít, amely módszereiben egyedülálló Magyarországon. És ezt a párt ellenségei a bőrükön érezhetik. ]]></description>
+   <category>Média</category>
+   <pubDate>Thu, 02 Nov 2017 19:06:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Rétegműsor]]></title>
+   <link>http://mno.hu/marabu/retegmusor-2425053?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Marabu</author>
+   <enclosure url="http://mno.hu/data/cikkek/2425/24250/cikk-2425053/retegmusor.jpg" length="290373" type="image/jpeg"/>
+   <description><![CDATA[Igaz. Nem igaz. Kicsit igaz. Kicsit nem igaz. Nem igaz, hogy kicsit igaz. Kicsit sem igaz, hogy nagyon igaz.]]></description>
+   <category>Marabu</category>
+   <pubDate>Thu, 02 Nov 2017 09:33:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szamizdat lapokkal küzdenek a kormánypárti médiatúlsúly ellen]]></title>
+   <link>http://mno.hu/belfold/szamizdat-lapokkal-kuzdenek-a-kormanyparti-mediatulsuly-ellen-2423962?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabó Zs. László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2423/24239/cikk-2423962/BJASZ20130513013.jpg" length="542746" type="image/jpeg"/>
+   <description><![CDATA[Egyre több helyre jut el a Nyomtass te is! kezdeményezés szórólapja. Szemlézik a vidéki független portálokat.]]></description>
+   <category>Belföld</category>
+   <pubDate>Fri, 27 Oct 2017 16:39:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Tovább pörög a gépezet, még több pénz megy kormányzati kommunikációra]]></title>
+   <link>http://mno.hu/gazdasag/pluszmilliardok-kormanyzati-kommunikaciora-2422454?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hava Nikita</author>
+   <enclosure url="http://mno.hu/data/cikkek/2422/24224/cikk-2422454/1_1.jpg" length="421287" type="image/jpeg"/>
+   <description><![CDATA[Egy kiskaput kihasználva már 13 milliárddal lépi túl az eredetileg 25 milliárdosra tervezett keretet a kabinet.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Thu, 19 Oct 2017 20:12:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

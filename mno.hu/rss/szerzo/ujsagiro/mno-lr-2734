@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: MNO-LR]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/mno-lr-2734</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Sat, 14 Apr 2018 12:26:24 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Nyolc másodpercenként kopogtat a halál]]></title>
+   <link>http://mno.hu/tudomany/nyolc-masodpercenkent-kopogtat-a-halal-900329?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MNO-LR</author>
+   <description><![CDATA[Többen halnak meg cukorbetegségben, mint gondolnánk. Közeledik a világnap is. ]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Mon, 24 Oct 2011 18:15:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Aratott a halál]]></title>
+   <link>http://mno.hu/kulfold/aratott-a-halal-900305?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MNO-LR</author>
+   <description><![CDATA[Mintegy 200 lázadóval végeztek, illetve fogtak el az afgán és a NATO-erők Afganisztán keleti részén az egyik legveszélyesebb lázadó csoport, a Hakkani-hálózat ellen indított két műveletükben – közölte hétfőn Carsten Jacobson német tábornok, az afganisztáni nemzetközi biztonsági erő (ISAF) szóvivője. ]]></description>
+   <category>Külföld</category>
+   <pubDate>Mon, 24 Oct 2011 16:26:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Közel 20 milliárdos a szeptemberi többlet]]></title>
+   <link>http://mno.hu/gazdasag/kozel-20-milliardos-a-szeptemberi-tobblet-900297?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MNO-LR</author>
+   <description><![CDATA[A központi költségvetés 18,6 milliárd forintos többlettel zárt szeptemberben.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Mon, 24 Oct 2011 15:46:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Orbánnal indul a hétfői nagyüzem]]></title>
+   <link>http://mno.hu/belfold/orbannal-indult-a-hetfoi-nagyuzem-900041?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MNO-LR</author>
+   <description><![CDATA[A T. Ház az elkövetkező nyolc munkanap mindegyikén összeül. Egy kis ízelítő: adótörvények, jövő évi büdzsé. ]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 24 Oct 2011 06:10:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szívják a fogukat a bankárok]]></title>
+   <link>http://mno.hu/gazdasag/szivjak-a-fogukat-a-bankarok-900044?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MNO-LR</author>
+   <description><![CDATA[Újabb négy bank ment csődbe a héten az Egyesült Államokban. Immár 84 bank húzta le a rolót az idén.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Sun, 23 Oct 2011 09:08:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Több BKV-járat menetrendje is változik]]></title>
+   <link>http://mno.hu/belfold/tobb-bkv-jarat-menetrendje-is-valtozik-900037?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MNO-LR</author>
+   <description><![CDATA[Az 1956-os forradalom és szabadságharc 55. évfordulóján tartandó megemlékezések, illetve a Nemzetközi Félmaraton és Szabadság Futam futóverseny miatt több BKV-járat menetrendje is módosul vasárnap. ]]></description>
+   <category>Belföld</category>
+   <pubDate>Sun, 23 Oct 2011 08:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Rosszul végződött az éjszaka]]></title>
+   <link>http://mno.hu/bunugy_baleset/rosszul-vegzodott-az-ejszaka-900036?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MNO-LR</author>
+   <description><![CDATA[Autóbusz elé hajtott egy autó, amelyben fiatalok utaztak vasárnap hajnalban Szegeden; az egyik női utast a mentőknek újra kell éleszteniük – közölte a Csongrád Megyei Rendőr-főkapitányság sajtószóvivője az MTI-vel. ]]></description>
+   <category>Bűnügy és baleset</category>
+   <pubDate>Sun, 23 Oct 2011 08:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Mesterházy erőtől duzzadó MSZP-t lát]]></title>
+   <link>http://mno.hu/belfold/mesterhazy-erotol-duzzado-mszp-t-lat-6234?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MNO-LR</author>
+   <description><![CDATA[Az MSZP elnöke szerint pártja erősebb lesz Gyurcsányék kiválásával, mert nem a belső vitákkal foglalkoznak majd.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sat, 22 Oct 2011 15:38:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ezek a javaslatok mindent megváltoztathatnak]]></title>
+   <link>http://mno.hu/belfold/ezek-a-javaslatok-mindent-megvaltoztathatnak-5778?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MNO-LR</author>
+   <description><![CDATA[A kormány szerdán elfogadta az új munka törvénykönyve tervezetét, valamint a bíróságok és az ügyészségek szervezetéről és igazgatásáról, a bírák és az ügyészek jogállásáról és javadalmazásáról szóló sarkalatos törvények tervezetét.]]></description>
+   <category>Belföld</category>
+   <pubDate>Thu, 20 Oct 2011 10:33:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Bécsbe megy az államfő]]></title>
+   <link>http://mno.hu/kulfold/becsbe-megy-az-allamfo-5807?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MNO-LR</author>
+   <description><![CDATA[Bécsben tesz egynapos látogatást csütörtökön Schmitt Pál köztársasági elnök.]]></description>
+   <category>Külföld</category>
+   <pubDate>Thu, 20 Oct 2011 10:17:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nehezen állt le az új vírus]]></title>
+   <link>http://mno.hu/tudomany/nehezen-allt-le-az-uj-virus-5799?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MNO-LR</author>
+   <description><![CDATA[Nagyobb volt a kockázata a csecsemők halvaszületésének azoknál a brit kismamáknál, akik megfertőződtek az újinfluenza-vírussal 2009-ben – állapította meg egy tanulmány. A fertőzött kismamák csecsemőinek halálozási aránya ötször magasabb volt a normálisnál, és esetükben a koraszülés kockázata is nagyobb volt.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Thu, 20 Oct 2011 09:40:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Itt az újabb megszorítás]]></title>
+   <link>http://mno.hu/gazdasag/itt-az-ujabb-megszoritas-5770?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MNO-LR</author>
+   <description><![CDATA[A görög parlament szerda este első olvasatban megszavazta a kormány újabb megszorítócsomagját, ami ellen erőszakba torkolló tüntetéseket tartottak szerdán a görög fővárosban.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Wed, 19 Oct 2011 23:56:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Bezárnák a „kiskaput”]]></title>
+   <link>http://mno.hu/gazdasag/bezarnak-a-kiskaput-5766?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MNO-LR</author>
+   <description><![CDATA[Levélben fordult Rogán Antalhoz, a parlament gazdasági bizottságának fideszes elnökéhez a végtörlesztési törvény módosítását kezdeményezve Horváth Zsolt (Fidesz) veszprémi országgyűlési képviselő, mivel - mint szerdán az MTI-nek elmondta - több devizaadós kérelmét a jogszabály értelmező rendelkezésének hiányossága miatt utasították el a bankok.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Wed, 19 Oct 2011 22:31:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ötszáz embert bírt megmozgatni az MSZP]]></title>
+   <link>http://mno.hu/belfold/otszaz-embert-birt-megmozgatni-az-mszp-5753?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MNO-LR</author>
+   <description><![CDATA[A kormány gazdaságpolitikai intézkedései ellen tüntettek mintegy félezren az MSZP szervezésében szerda este Budapesten, a Nemzetgazdasági Minisztérium épületénél.]]></description>
+   <category>Belföld</category>
+   <pubDate>Wed, 19 Oct 2011 21:12:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Újabb uzsorásokat kapcsoltak le]]></title>
+   <link>http://mno.hu/bunugy_baleset/ujabb-uzsorasokat-kapcsoltak-le-5728?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MNO-LR</author>
+   <description><![CDATA[Három gyanúsított ellen folyik nyomozás a keszthelyi rendőrkapitányságon uzsorabűntett, zsarolás és más bűncselekmények miatt, ezekkel kapcsolatban a bíróság két embert előzetes letartóztatásba helyezett – közölte a Zala Megyei Rendőr-főkapitányság szerdán az MTI-vel.]]></description>
+   <category>Bűnügy és baleset</category>
+   <pubDate>Wed, 19 Oct 2011 18:11:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Később derülnek ki a fontos dolgok a norvég mészárosról]]></title>
+   <link>http://mno.hu/kulfold/kesobb-derulnek-ki-a-fontos-dolgok-a-norveg-meszarosrol-5634?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MNO-LR</author>
+   <description><![CDATA[Újabb határidőt kaptak a 77 ember meggyilkolásával vádolt szélsőjobboldali norvég Anders Behring Breivik büntethetőségének megállapításával megbízott pszichiáter szakértők.]]></description>
+   <category>Külföld</category>
+   <pubDate>Wed, 19 Oct 2011 14:40:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kis kört futott a BUX]]></title>
+   <link>http://mno.hu/gazdasag/kis-kort-futott-a-bux-5438?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MNO-LR</author>
+   <description><![CDATA[Csökkenéssel zárt a BUX.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Tue, 18 Oct 2011 17:16:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hátsó gondolatok? Nincs támogatás az LMP-s javaslat mögött]]></title>
+   <link>http://mno.hu/belfold/hatso-gondolatok-nincs-tamogatas-az-lmp-s-javaslat-mogott-5002?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MNO-LR</author>
+   <description><![CDATA[Miért gondolják, hogy kell egy harmadik fórum is?]]></description>
+   <category>Belföld</category>
+   <pubDate>Sun, 16 Oct 2011 16:25:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Főleg Budapesten sok a csalás, a lebukottakra börtön várhat]]></title>
+   <link>http://mno.hu/belfold/foleg-budapesten-sok-a-csalas-a-lebukottakra-borton-varhat-5004?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MNO-LR</author>
+   <description><![CDATA[Több száz eljárás fut, időszerű lenne a kártyák ellenőrzése is. ]]></description>
+   <category>Belföld</category>
+   <pubDate>Sun, 16 Oct 2011 15:25:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Adóztatnák a pornográf tartalmakat]]></title>
+   <link>http://mno.hu/belfold/adoztatnak-a-pornograf-tartalmakat-4989?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MNO-LR</author>
+   <description><![CDATA[25 százalékos adóval sújtanák a pornográf tartalmakat és az internetes szolgáltatókat egy fideszes törvényjavaslat szerint. A tervezetet L. Simon László nyújtotta be.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sun, 16 Oct 2011 13:11:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Meghozták a döntést, a végleges csapatkivonás kész tény?]]></title>
+   <link>http://mno.hu/kulfold/meghoztak-a-dontest-a-vegleges-csapatkivonas-kesz-teny-4960?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MNO-LR</author>
+   <description><![CDATA[Washington és Bagdad állítólag megegyezett az amerikai csapatok teljes kivonásáról. Közben érkezett a cáfolat is. ]]></description>
+   <category>Külföld</category>
+   <pubDate>Sun, 16 Oct 2011 11:21:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[„Össze kell gyűjteni az erdélyi magyarság maradékát”]]></title>
+   <link>http://mno.hu/hatarontul/ossze-kell-gyujteni-az-erdelyi-magyarsag-maradekat-4915?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MNO-LR</author>
+   <description><![CDATA[Tőkés László arra biztatja az erdélyi magyarságot, hogy vállalják identitásukat a romániai népszámláláson.]]></description>
+   <category>Határon túl</category>
+   <pubDate>Sun, 16 Oct 2011 04:16:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Új alkotmány lesz?]]></title>
+   <link>http://mno.hu/kulfold/uj-alkotmany-lesz-4913?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MNO-LR</author>
+   <description><![CDATA[Bassár el-Aszad szíriai elnök szombaton kilátásba helyezte, hogy az ország négy hónapon belül új alkotmányt kap.
+]]></description>
+   <category>Külföld</category>
+   <pubDate>Sun, 16 Oct 2011 03:19:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kemény mínuszok jönnek]]></title>
+   <link>http://mno.hu/belfold/kemeny-minuszok-jonnek-4912?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MNO-LR</author>
+   <description><![CDATA[Éjszaka -5 foknál is hidegebb lehet, nappal 10, 11 fok várható.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sun, 16 Oct 2011 02:11:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Jövőre 500 milliárd eurós védőháló áll rendelkezésre? ]]></title>
+   <link>http://mno.hu/gazdasag/jovore-500-milliard-euros-vedohalo-all-rendelkezesre-4890?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MNO-LR</author>
+   <description><![CDATA[Egyre nagyobb a nyomás az euróövezeti vezetőkön. ]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Sat, 15 Oct 2011 17:52:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Horváthnak pokoli látomásai vannak és nagyon félti a fővárost]]></title>
+   <link>http://mno.hu/belfold/horvathnak-pokoli-latomasai-vannak-es-nagyon-felti-a-fovarost-4875?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MNO-LR</author>
+   <description><![CDATA[A szocialista párt szerint a fideszes városvezetés alatt a főváros tönkremehet.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sat, 15 Oct 2011 14:50:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[„Az állam váljon a polgárok barátjává”]]></title>
+   <link>http://mno.hu/belfold/az-allam-valjon-a-polgarok-baratjava-4850?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MNO-LR</author>
+   <description><![CDATA[Még jó két évig átalakítás alatt lesz a magyar közigazgatás – mondta Navracsics Tibor szombaton.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sat, 15 Oct 2011 12:45:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Emléknappá vált a tragédia: öt éve verték agyon a tanárt]]></title>
+   <link>http://mno.hu/belfold/emleknappa-valt-a-tragedia-ot-eve-vertek-agyon-a-tanart-5013?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MNO-LR</author>
+   <description><![CDATA[Emléknappá nyilvánította az olaszliszkai önkormányzat október 15-ét, Szögi Lajos agyonverésének napját.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sat, 15 Oct 2011 12:40:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Obama katonákat küld a kegyetlen hadúr ellen]]></title>
+   <link>http://mno.hu/kulfold/obama-katonakat-kuld-a-kegyetlen-hadur-ellen-4869?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MNO-LR</author>
+   <description><![CDATA[Barack Obama amerikai elnök elrendelte, hogy egy mintegy 100 fős katonai alakulat induljon Közép-Afrikába, hogy ott segítséget nyújtson a Joseph Kony vezette, Az Úr Ellenállási Hadserege nevű, s különös kegyetlenségéről hírhedt gerillacsoportosulás felszámolásában.
+]]></description>
+   <category>Külföld</category>
+   <pubDate>Sat, 15 Oct 2011 12:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Erősítik a katonai együttműködést]]></title>
+   <link>http://mno.hu/kulfold/erositik-a-katonai-egyuttmukodest-4859?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MNO-LR</author>
+   <description><![CDATA[A katonai kapcsolatok bővítését célzó megállapodás született Kína és Vietnam között – jelentette szombaton a kínai hírügynökség.]]></description>
+   <category>Külföld</category>
+   <pubDate>Sat, 15 Oct 2011 11:00:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

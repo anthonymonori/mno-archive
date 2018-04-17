@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - kiemelt címke: Csíki és Heineken]]></title>
+  <link>http://mno.hu/kiemeltcimke/cimke/csiki_es_heineken-11</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Wed, 11 Apr 2018 13:35:38 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Nem jogsértő a Heineken vörös csillaga]]></title>
+   <link>http://mno.hu/belfold/nem-jogserto-a-heineken-voros-csillaga-2459046?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <description><![CDATA[A törvényszék szerint a vörös csillag használata sörösdobozokon nem hozható összefüggésbe az önkényuralmi jelképpel.]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 09 Apr 2018 17:12:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Igazi, tiltott, csempészett]]></title>
+   <link>http://mno.hu/velemeny/igazi-tiltott-csempeszett-2439653?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lukács Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2439/24396/cikk-2439653/20160506_18Belo.jpg" length="146452" type="image/jpeg"/>
+   <description><![CDATA[Az első számú Csíki Sör-ös kérdés, meddig juthat egy blöffre épített vállalkozás.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Fri, 12 Jan 2018 19:14:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ízekre szedték a Csíki Sör tulajdonosának magyarázkodását]]></title>
+   <link>http://mno.hu/hatarontul/izekre-szedtek-a-csiki-sor-tulajdonosanak-magyarazkodasat-2438077?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2438/24380/cikk-2438077/DNAND20170324012_.jpg" length="274368" type="image/jpeg"/>
+   <description><![CDATA[Az Erdélyi Átlátszó pontokba szedve elemezte ki azt a csütörtöki videót, amelyen a Csíki Sör tulajdonosa magyarázkodik.]]></description>
+   <category>Határon túl</category>
+   <pubDate>Fri, 05 Jan 2018 13:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Embercsempészet: magyarázkodik a Csíki Sör tulajdonosa, de nem mond igazat]]></title>
+   <link>http://mno.hu/belfold/embercsempeszet-magyarazkodik-a-csiki-sor-tulajdonosa-de-nem-mond-igazat-2437865?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2437/24378/cikk-2437865/DNAND20170324011.jpg" length="239418" type="image/jpeg"/>
+   <description><![CDATA[Lénárd András állítja: mindössze illegális tartózkodásért vonták felelősségre Amerikában. Pedig nem.]]></description>
+   <category>Belföld</category>
+   <pubDate>Thu, 04 Jan 2018 16:15:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Embert csempészett a Csíki Sör tulajdonosa]]></title>
+   <link>http://mno.hu/belfold/embert-csempeszett-a-csiki-sor-tulajdonosa-2437498?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Munkatársainktól</author>
+   <enclosure url="http://mno.hu/data/cikkek/2437/24374/cikk-2437498/DNAND20170324011.jpg" length="239418" type="image/jpeg"/>
+   <description><![CDATA[Lénárd Andrást az Egyesült Államokban le is tartóztatták. Három táncoslányt akart illegálisan az országba juttatni.]]></description>
+   <category>Belföld</category>
+   <pubDate>Wed, 03 Jan 2018 05:47:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Sörös terv: felvásárolná a Heineken üzemeit a Csíki gyártója]]></title>
+   <link>http://mno.hu/gazdasag/soros-terv-felvasarolna-a-heineken-uzemeit-a-csiki-gyartoja-2423408?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2423/24234/cikk-2423408/szb20160610_0133.jpg" length="317441" type="image/jpeg"/>
+   <description><![CDATA[Vásárlással vetnének véget a Heinekennel folytatott harcnak, az Igazi Csíki Sör gyártója megvenné a holland multi erdélyi és magyar gyárait.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Wed, 25 Oct 2017 09:27:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Mindent egy lapra tett fel a Csíki Sör gyártója]]></title>
+   <link>http://mno.hu/gazdasag/mindent-egy-lapra-tett-fel-a-csiki-sort-gyartoja-2421190?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2421/24211/cikk-2421190/DNAND20170324011.jpg" length="239418" type="image/jpeg"/>
+   <description><![CDATA[Elzálogosították a cég teljes vagyonát – írja az Átlátszó erdélyi különítménye.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Thu, 12 Oct 2017 12:36:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A magyar állam segítheti ki a Csíki Sör eladósodott gyártóját]]></title>
+   <link>http://mno.hu/gazdasag/a-magyar-allam-segitheti-ki-a-csiki-sor-eladosodott-gyartojat-2421157?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2421/24211/cikk-2421157/D_HS20150317036.jpg" length="298222" type="image/jpeg"/>
+   <description><![CDATA[Csődközeli helyzetbe került a székelyföldi sörgyár, miután nem sikerült a terjeszkedés a magyar piacon.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Thu, 12 Oct 2017 06:12:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Már jövő héten eldőlhet a lex Heineken sorsa]]></title>
+   <link>http://mno.hu/gazdasag/mar-jovo-heten-eldolhet-a-lex-heineken-sorsa-2416521?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <description><![CDATA[Szeptember 15-e után a parlament elé kerülhet a törvényjavaslat.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Mon, 11 Sep 2017 07:52:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nincs szabadságharc, Kubatov Fradija mostantól a Heinekenre esküszik]]></title>
+   <link>http://mno.hu/belfold/nincs-szabadsagharc-kubatov-fradija-mostantol-a-heinekenre-eskuszik-2410654?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Gabay Balázs</author>
+   <enclosure url="http://mno.hu/data/cikkek/2410/24106/cikk-2410654/xD_AS20160421026.jpg" length="230748" type="image/jpeg"/>
+   <description><![CDATA[Immár a vörös csillagos holland cég gyártja a zöld-fehér klub sörét.]]></description>
+   <category>Belföld</category>
+   <pubDate>Wed, 02 Aug 2017 08:27:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Lázár János: Szeptemberben újra előveszik a lex Heinekent]]></title>
+   <link>http://mno.hu/belfold/lazar-janos-szeptemberben-ujra-eloveszik-a-lex-heinekent-2404212?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <enclosure url="http://mno.hu/data/cikkek/2404/24042/cikk-2404212/BA20141029_0707.jpg" length="233008" type="image/jpeg"/>
+   <description><![CDATA[Bár a Heineken és a Csíki Sör vitája lezárult, a kormány továbbra is betiltaná a vörös csillagos termékeket.]]></description>
+   <category>Belföld</category>
+   <pubDate>Tue, 20 Jun 2017 17:55:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Sörcseppben a tenger]]></title>
+   <link>http://mno.hu/magazinpublicisztika/sorcseppben-a-tenger-2392957?utm_source=feed&amp;utm_medium=rss</link>
+   <author>György Zsombor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2392/23929/cikk-2392957/csiki_sor_2.jpg" length="722560" type="image/jpeg"/>
+   <description><![CDATA[Amibe a kormány lavírozta magát, az egyértelműen csapdahelyzet. Merthogy a vörös csillag elleni harcot illene végigvinni.]]></description>
+   <category>Publicisztika a Magazinban</category>
+   <pubDate>Sun, 02 Apr 2017 20:06:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nem vásik a veres csillag]]></title>
+   <link>http://mno.hu/vezercikk/nem-vasik-a-veres-csillag-2392300?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Gazda Albert</author>
+   <enclosure url="http://mno.hu/data/cikkek/2392/23923/cikk-2392300/DNAND20170324013.jpg" length="199754" type="image/jpeg"/>
+   <description><![CDATA[Egy tökéletesen fölösleges jogszabállyal kevesebb. Ezt is megköszönhetjük a Heineken–Csíki Sör-duónak. ]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Wed, 29 Mar 2017 00:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Lekeverték a lex Heinekent]]></title>
+   <link>http://mno.hu/belfold/lekevertek-a-lex-heinekent-2392173?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Markotay Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2392/23921/cikk-2392173/BA20170326_6031.jpg" length="211266" type="image/jpeg"/>
+   <description><![CDATA[Bár a részletes vitáig sem jutott el a lex Heineken, a Fidesz mégsem akarja visszavonni az előterjesztést.]]></description>
+   <category>Belföld</category>
+   <pubDate>Tue, 28 Mar 2017 12:26:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Megadta magát a Heineken, szabad a vörös csillag]]></title>
+   <link>http://mno.hu/gazdasag/sorhaboru-megadta-magat-a-heineken-2392004?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2392/23920/cikk-2392004/D_HS20150317036_1__896_504_1490613499.jpg" length="53941" type="image/jpeg"/>
+   <description><![CDATA[Megegyeztek a márkanév használatáról a Csíki Sörrel. A felek nem pereskednek, a kormány pedig megengedi a vörös csillag használatát. ]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Mon, 27 Mar 2017 13:19:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Koccintás]]></title>
+   <link>http://mno.hu/lephaft/koccintas-2391785?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Léphaft Pál</author>
+   <enclosure url="http://mno.hu/data/cikkek/2391/23917/cikk-2391785/heinek2.jpg" length="150754" type="image/jpeg"/>
+   <description><![CDATA[Amikor magyar ember, sörrel.]]></description>
+   <category>Léphaft</category>
+   <pubDate>Sat, 25 Mar 2017 15:59:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Erdélyi voksokért menne a harc?]]></title>
+   <link>http://mno.hu/belfold/erdelyi-voksokert-menne-a-harc-2391755?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Katona Mariann</author>
+   <enclosure url="http://mno.hu/data/cikkek/2391/23917/cikk-2391755/DNAND20170324014.jpg" length="254393" type="image/jpeg"/>
+   <description><![CDATA[Lázár János, a Miniszterelnökséget vezető miniszter szerint a kormánynak vannak még eszközei a Heineken ellen.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sat, 25 Mar 2017 07:07:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Lázár Csíkszentsimonban: Az élni és élni hagyni ]]></title>
+   <link>http://mno.hu/belfold/lazar-csikszentsimonban-az-elni-es-elni-hagyni-2391646?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2391/23916/cikk-2391646/Lazar_sorozik.jpg" length="199754" type="image/jpeg"/>
+   <description><![CDATA[Lázár János tárgyalásra hívja a Heinekent, de egyúttal figyelmezteti is „a kormány eszközeire”.]]></description>
+   <category>Belföld</category>
+   <pubDate>Fri, 24 Mar 2017 13:31:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Lázár nem bírja az alkoholt, de este Igazi Csíki Sört fog inni]]></title>
+   <link>http://mno.hu/belfold/unios-milliardok-es-vizes-vebe-johet-a-lazar-showban-2391467?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2391/23914/cikk-2391467/D_TT20170223039.jpg" length="260338" type="image/jpeg"/>
+   <description><![CDATA[Délután Csíkszeredára utazik, hogy találkozzon a cég tulajdonosával.]]></description>
+   <category>Belföld</category>
+   <pubDate>Thu, 23 Mar 2017 13:47:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Lex Heineken: Kósa szerint blöff, hogy visszalépnének]]></title>
+   <link>http://mno.hu/belfold/lex-heineken-kosa-szerint-bloff-hogy-visszalepnenek-2391233?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <description><![CDATA[A kérdés bonyolult, inkább a célokat szerették volna kijelölni – közölte.]]></description>
+   <category>Belföld</category>
+   <pubDate>Wed, 22 Mar 2017 08:59:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Palackozó]]></title>
+   <link>http://mno.hu/marabu/palackozo-2391107?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Marabu</author>
+   <enclosure url="http://mno.hu/data/cikkek/2391/23911/cikk-2391107/palackozo.jpg" length="410355" type="image/jpeg"/>
+   <description><![CDATA[Magyar ember addig nem koccint sörrel, amíg nem lesz kizárólagos magyar tulajdonban minden sörgyár!]]></description>
+   <category>Marabu</category>
+   <pubDate>Tue, 21 Mar 2017 15:45:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A hidegháború mint fő kormányzati érv]]></title>
+   <link>http://mno.hu/belfold/a-hideghaboru-mint-fo-kormanyzati-erv-2391088?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Markotay Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2391/23910/cikk-2391088/D_NOE20170321021.jpg" length="291199" type="image/jpeg"/>
+   <description><![CDATA[Nincs szó a lex Heineken visszavonásáról, de módosítani kell rajta – mondta Kósa Lajos frakcióvezető.]]></description>
+   <category>Belföld</category>
+   <pubDate>Tue, 21 Mar 2017 13:35:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Igazi Heineken–Igazi Csíki 1-0]]></title>
+   <link>http://mno.hu/gkozep/igazi-heinekenigazi-csiki-1-0-2391046?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Gazda Albert</author>
+   <enclosure url="http://mno.hu/data/cikkek/2391/23910/cikk-2391046/sorom.JPG" length="1084094" type="image/jpeg"/>
+   <description><![CDATA[A prekoncepcióm csúfosan megbukott. A Heineken kiütéssel győzött.]]></description>
+   <category>G-Közép</category>
+   <pubDate>Tue, 21 Mar 2017 07:41:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Másokat is eltalál a lex Heineken]]></title>
+   <link>http://mno.hu/belfold/masokat-is-eltalal-a-lex-heineken-2391027?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Markotay Csaba, Lőrincz Tamás</author>
+   <enclosure url="http://mno.hu/data/cikkek/2391/23910/cikk-2391027/homebg.jpg" length="375868" type="image/jpeg"/>
+   <description><![CDATA[Óriási kártérítést fizethet az állam az alkotmányjogász szerint, ha az érintett vállalatok perre mennek a gazdasági károk miatt.]]></description>
+   <category>Belföld</category>
+   <pubDate>Tue, 21 Mar 2017 07:11:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Sem vörös csillag, sem horogkereszt]]></title>
+   <link>http://mno.hu/belfold/sem-voros-csillag-sem-horogkereszt-2391021?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Markotay Csaba, Lőrincz Tamás</author>
+   <enclosure url="http://mno.hu/data/cikkek/2391/23910/cikk-2391021/BA20141029_0707.jpg" length="233008" type="image/jpeg"/>
+   <description><![CDATA[Terítéken a lex Heineken, ami az ellenzék szerint nem felel meg a nemzetközi jognak. Ha az érintett cégek perelnek, komoly kártérítést kell fizetnünk?]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 20 Mar 2017 19:41:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Vette az első akadályt a lex Heineken]]></title>
+   <link>http://mno.hu/belfold/vette-az-elso-akadalyt-a-lex-heineken-2390892?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Markotay Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2390/23908/cikk-2390892/DKRCS20150623011.jpg" length="397461" type="image/jpeg"/>
+   <description><![CDATA[Délután tárgyalhat a parlament az önkényuralmi jelképek kereskedelmi célú hasznosításának tilalmáról.]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 20 Mar 2017 12:23:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Napirenden a lex Heineken]]></title>
+   <link>http://mno.hu/belfold/napirenden-a-lex-heineken-2390845?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Markotay Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2390/23908/cikk-2390845/DKRCS20150623011_896_504_1489955525.jpg" length="66334" type="image/jpeg"/>
+   <description><![CDATA[Nem a vörös csillag, hanem üzleti érdekek állhatnak a Heineken elleni lépések mögött.]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 20 Mar 2017 06:21:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A birodalom visszavág]]></title>
+   <link>http://mno.hu/vezercikk/a-birodalom-visszavag-2390840?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Facsinay Kinga</author>
+   <enclosure url="http://mno.hu/data/cikkek/2390/23908/cikk-2390840/BA20141029_0707.jpg" length="233008" type="image/jpeg"/>
+   <description><![CDATA[A Fidesz a „nemzeti érzelmekre” és a multiellenességre rájátszva próbál támogatókat szerezni.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Mon, 20 Mar 2017 00:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Sörös csillag]]></title>
+   <link>http://mno.hu/velemeny/soros-csillag-2390588?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Póla Gergely</author>
+   <enclosure url="http://mno.hu/data/cikkek/2390/23905/cikk-2390588/BA20141029_0707.jpg" length="233008" type="image/jpeg"/>
+   <description><![CDATA[Nem az a kérdés, hogy a kommunizmusra utal-e a címke, de tény: a tapintat olykor nem független a piac nagyságától.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Fri, 17 Mar 2017 19:32:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Heineken-védjegy-gate: nem bír magával a törvénygyár]]></title>
+   <link>http://mno.hu/exlex/heineken-vedjegy-gate-nem-bir-magaval-a-torvenygyar-2390381?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Bakó Beáta</author>
+   <enclosure url="http://mno.hu/data/cikkek/2390/23903/cikk-2390381/heineke_csiki_kombo_001.jpg" length="326807" type="image/jpeg"/>
+   <description><![CDATA[Bár már megszokhattuk a személyre szabott jogalkotást, a Heinekennel kitolni hivatott törvényjavaslat mindent überel.]]></description>
+   <category>Ex lex</category>
+   <pubDate>Thu, 16 Mar 2017 19:13:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

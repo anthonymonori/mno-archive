@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: matahari]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/matahari-20475</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Sat, 14 Apr 2018 23:36:36 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Fejbe rúglak – mondta a szoci sajtós]]></title>
+   <link>http://mno.hu/celpontblog/fejbe-ruglak-mondta-a-szoci-sajtos-1212668?utm_source=feed&amp;utm_medium=rss</link>
+   <author>matahari</author>
+   <description><![CDATA[Mondtam én, hogy lesz még idő, amikor visszasírjuk Déri Balázs kommunikációs igazgatót.]]></description>
+   <category>Célpont blog</category>
+   <pubDate>Mon, 24 Feb 2014 19:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Dobrev Klára lemérte]]></title>
+   <link>http://mno.hu/celpontblog/dobrev-klara-lemerte-1211888?utm_source=feed&amp;utm_medium=rss</link>
+   <author>matahari</author>
+   <description><![CDATA[Dobrev Klára, az Altus Zrt. ügyvezető igazgatója már napok óta levelezik a sajtóval családi cégük paksi tanácsadói szerződése miatt.]]></description>
+   <category>Célpont blog</category>
+   <pubDate>Wed, 19 Feb 2014 18:40:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ferenc, a házőrző]]></title>
+   <link>http://mno.hu/celpontblog/ferenc-a-hazorzo-1205239?utm_source=feed&amp;utm_medium=rss</link>
+   <author>matahari</author>
+   <description><![CDATA[Minden udvarban egy vagy két házőrzőt tartanak Sárbogárdon. Sajátos védelmi rendszer ez.]]></description>
+   <category>Célpont blog</category>
+   <pubDate>Tue, 14 Jan 2014 09:59:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Lopnak a jogvédők]]></title>
+   <link>http://mno.hu/celpontblog/lopnak-a-jogvedok-1199913?utm_source=feed&amp;utm_medium=rss</link>
+   <author>matahari</author>
+   <description><![CDATA[Egy filmben épp azok a TASZ-os csávók lopnak tévés anyagokat, akik arról készítettek egyoldalú doksifilmet, hogy nincs cigánybűnözés.]]></description>
+   <category>Célpont blog</category>
+   <pubDate>Tue, 10 Dec 2013 15:28:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Portikék]]></title>
+   <link>http://mno.hu/celpontblog/portikek-1198011?utm_source=feed&amp;utm_medium=rss</link>
+   <author>matahari</author>
+   <description><![CDATA[Tény, nem illik egy tárgyaláson kuncogni, amikor emberek sorsáról döntenek. De a Portik-ügy mégis más.]]></description>
+   <category>Célpont blog</category>
+   <pubDate>Fri, 29 Nov 2013 11:27:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kishantosi paranoia]]></title>
+   <link>http://mno.hu/celpontblog/kishantosi-paranoia-1196441?utm_source=feed&amp;utm_medium=rss</link>
+   <author>matahari</author>
+   <description><![CDATA[Nagy a pörgés az álmos Kishantosi Ökogazdaságban. Elvégre csak meg kell akadályozni...]]></description>
+   <category>Célpont blog</category>
+   <pubDate>Wed, 20 Nov 2013 15:35:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Bajnai testőre]]></title>
+   <link>http://mno.hu/celpontblog/bajnai-testore-1195192?utm_source=feed&amp;utm_medium=rss</link>
+   <author>matahari</author>
+   <description><![CDATA[Mit is mondott Bajnai október 23-án testőrei társaságában?]]></description>
+   <category>Célpont blog</category>
+   <pubDate>Wed, 13 Nov 2013 17:39:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

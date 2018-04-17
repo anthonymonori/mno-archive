@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Fábián Titusz]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/fabian-titusz-24360</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Wed, 11 Apr 2018 17:29:29 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Pap temette el a Felszabadulási emlékmű modelljét – a Szabadság-szobor története (3.)]]></title>
+   <link>http://mno.hu/tortenelem/pap-temette-el-a-felszabadulasi-emlekmu-modelljet-2409340?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Fábián Titusz</author>
+   <enclosure url="http://mno.hu/data/cikkek/2409/24093/cikk-2409340/3.kadarteve_vagott.jpg" length="142770" type="image/jpeg"/>
+   <description><![CDATA[Húsz évvel a felavatás után váratlanul előkerült a szovjet zászlótartó modellje. De mi történt a pálmaágas nővel?]]></description>
+   <category>Múlt idő</category>
+   <pubDate>Sat, 12 Aug 2017 19:19:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Tizenhat mázsás pálmaág a város felett · A Szabadság-szobor története (2.)]]></title>
+   <link>http://mno.hu/tortenelem/tizenhat-mazsas-palmaag-a-varos-felett-2409316?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Fábián Titusz</author>
+   <enclosure url="http://mno.hu/data/cikkek/2409/24093/cikk-2409316/VL20170714_9189.jpg" length="338586" type="image/jpeg"/>
+   <description><![CDATA[Sokáig bizonytalan volt, hol áll majd a Felszabadulási emlékmű. A Gellért-hegy kifejezetten az oroszok kérése volt.]]></description>
+   <category>Múlt idő</category>
+   <pubDate>Thu, 10 Aug 2017 20:08:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Egy korszak jelképe volt, Budapest jelképe lett – A Szabadság-szobor története (1.)]]></title>
+   <link>http://mno.hu/tortenelem/egy-korszak-jelkepe-volt-budapest-jelkepe-lett-2409310?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Fábián Titusz</author>
+   <enclosure url="http://mno.hu/data/cikkek/2409/24093/cikk-2409310/F_SN_3703006.jpg" length="192885" type="image/jpeg"/>
+   <description><![CDATA[A Szabadság-szobor idén hetvenéves. Legendák, meglepő, de igaz történetek a pálmaágas nőről – három részben.]]></description>
+   <category>Múlt idő</category>
+   <pubDate>Wed, 09 Aug 2017 20:17:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[„Kirúgni, fasiszta!” – Major Tamás története]]></title>
+   <link>http://mno.hu/halalostavasz/kirugni-fasiszta-major-tamas-tortenete-1339780?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Fábián Titusz</author>
+   <enclosure url="http://mno.hu/data/cikkek/1339/13397/cikk-1339780/major3_ok.jpg" length="220389" type="image/jpeg"/>
+   <description><![CDATA[Mi köze volt egymáshoz Kádár János műszerésznek és Major Tamás színésznek? Befejező rész.]]></description>
+   <category>Halálos tavasz</category>
+   <pubDate>Sun, 08 May 2016 19:02:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[„Gratulálni bárki jöhet” – Páger Antal története]]></title>
+   <link>http://mno.hu/halalostavasz/gratulalni-barki-johet-pager-antal-tortenete-1339777?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Fábián Titusz</author>
+   <enclosure url="http://mno.hu/data/cikkek/1339/13397/cikk-1339777/pager.7._ok.jpg" length="129196" type="image/jpeg"/>
+   <description><![CDATA[Itt is van a Halálos tavasz 4. része: Páger Antal történeténél fordulatosabb nemigen létezhet.]]></description>
+   <category>Halálos tavasz</category>
+   <pubDate>Sat, 07 May 2016 18:30:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A bujdosó lány – Mezey Mária története]]></title>
+   <link>http://mno.hu/halalostavasz/a-bujdoso-lany-mezey-maria-tortenete-1339776?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Fábián Titusz</author>
+   <enclosure url="http://mno.hu/data/cikkek/1339/13397/cikk-1339776/mezey.fortepan.2.jpg" length="273624" type="image/jpeg"/>
+   <description><![CDATA[Egy katartikus történet a színésznőről, aki hozott valamit a hegyek közül. Halálos tavasz, 3. rész.]]></description>
+   <category>Halálos tavasz</category>
+   <pubDate>Thu, 05 May 2016 18:26:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[„Maga volt a színészek Hitlere!”]]></title>
+   <link>http://mno.hu/halalostavasz/a-meltosagos-ur-kiss-ferenc-tortenete-1339773?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Fábián Titusz</author>
+   <enclosure url="http://mno.hu/data/cikkek/1339/13397/cikk-1339773/kiss.otthon.jpg" length="63098" type="image/jpeg"/>
+   <description><![CDATA[Sorozatunk folytatódik: a második részben a színészkirály sorsán keresztül mesélünk a negyvenes évekről.]]></description>
+   <category>Halálos tavasz</category>
+   <pubDate>Tue, 03 May 2016 20:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A matrózblúzos naiva – Turay Ida története]]></title>
+   <link>http://mno.hu/halalostavasz/turay-ida-tortenete-1339770?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Fábián Titusz</author>
+   <enclosure url="http://mno.hu/data/cikkek/1339/13397/cikk-1339770/turay.2..jpg" length="110537" type="image/jpeg"/>
+   <description><![CDATA[Halálos tavasz: öt csodás művész sorsán keresztül mutatjuk be a hét évtizeddel ezelőtti Magyarországot.]]></description>
+   <category>Halálos tavasz</category>
+   <pubDate>Mon, 02 May 2016 20:00:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

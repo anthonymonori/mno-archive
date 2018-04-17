@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Kiss László]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/kiss-laszlo-14009</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Sat, 14 Apr 2018 13:46:46 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Egzotikus jelenségre lettek figyelmesek a csillagászok]]></title>
+   <link>http://mno.hu/urkutatas/erdekes-jelenseget-talalt-a-kepler-1271598?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kiss László</author>
+   <description><![CDATA[Egzotikus hármas bolygórendszert fedeztek fel a Kepler-űrtávcső meghosszabbított programja során. ]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Fri, 06 Feb 2015 20:25:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Így fog majd a mi Napunk is rezegni ötmilliárd év múlva]]></title>
+   <link>http://mno.hu/urkutatas/igy-fog-majd-a-mi-napunk-is-rezegni-otmilliard-ev-mulva-1231995?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kiss László</author>
+   <description><![CDATA[A vörös óriások legbelsőbb titkait fedte fel a Kepler-űrtávcső.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Sat, 14 Jun 2014 20:38:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Megtalálták a közeli univerzum legfurcsább csillagát]]></title>
+   <link>http://mno.hu/urkutatas/megtalaltak-a-kozeli-univerzum-legfurcsabb-csillagat-1231132?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kiss László</author>
+   <description><![CDATA[Az asztrofizikai elméletek egyik legfurább jóslatának eddigi legbiztosabb jelöltjét fedezték fel.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Mon, 09 Jun 2014 20:28:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Meglepő felfedezést jelentettek be]]></title>
+   <link>http://mno.hu/urkutatas/erdekes-eszrevetelt-tettek-a-nagy-tomegu-csillagokrol-1230574?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kiss László</author>
+   <description><![CDATA[Meglepő felfedezést jelentettek be a nagy tömegű csillagok röntgensugárzásának területéről.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Thu, 05 Jun 2014 21:09:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A Kulin kisbolygó]]></title>
+   <link>http://mno.hu/urkutatas/a-kulin-kisbolygo-1222489?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kiss László, Sárneczky Krisztián</author>
+   <description><![CDATA[A hét csillagászati képével, a Magyar Csillagászati Egyesület  alapítójára emlékeznek.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Tue, 22 Apr 2014 21:12:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Takács Péter]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/takacs-peter-15322</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 05:16:58 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Forradalmárok és államférfiak]]></title>
+   <link>http://mno.hu/velemeny/forradalmarok-es-allamferfiak-1333052?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Takács Péter</author>
+   <enclosure url="http://mno.hu/data/cikkek/1333/13330/cikk-1333052/MNO_144755_g.jpg" length="288954" type="image/jpeg"/>
+   <description><![CDATA[A polgári magyar nemzet törvényes kereteit a pozsonyi országgyűlés alkotta meg.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Tue, 15 Mar 2016 08:54:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A Parabellum-lőszer üzenete]]></title>
+   <link>http://mno.hu/velemeny/a-parabellumloszer-uzenete-765701?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Takács Péter</author>
+   <description><![CDATA[]]></description>
+   <category>Vélemény</category>
+   <pubDate>Mon, 19 Aug 2002 01:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Könnygázgránát-demokrácia]]></title>
+   <link>http://mno.hu/velemeny/konnygazgranatdemokracia-758901?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Takács Péter</author>
+   <description><![CDATA[]]></description>
+   <category>Vélemény</category>
+   <pubDate>Wed, 17 Jul 2002 01:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kémelhárítás és nemzeti érdek]]></title>
+   <link>http://mno.hu/velemeny/kemelharitas-es-nemzeti-erdek-755749?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Takács Péter</author>
+   <description><![CDATA[]]></description>
+   <category>Vélemény</category>
+   <pubDate>Wed, 03 Jul 2002 01:00:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

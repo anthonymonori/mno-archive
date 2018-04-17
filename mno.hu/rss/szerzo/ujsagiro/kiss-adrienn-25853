@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Kiss Adrienn]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/kiss-adrienn-25853</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Sat, 14 Apr 2018 06:53:03 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Mit hozott az államosított tankönyvpiac?]]></title>
+   <link>http://mno.hu/hetvegimagazin/mit-hozott-az-allamositott-tankonyvpiac-1381377?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kiss Adrienn</author>
+   <enclosure url="http://mno.hu/data/cikkek/1381/13813/cikk-1381377/BD20160803_8367.JPG" length="688653" type="image/jpeg"/>
+   <description><![CDATA[Jobb és olcsóbb tankönyveket ígért az állam. Egyik célt sem sikerült maradéktalanul megvalósítani.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Mon, 16 Jan 2017 15:44:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

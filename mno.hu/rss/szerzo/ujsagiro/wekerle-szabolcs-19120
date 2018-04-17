@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Wekerle Szabolcs]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/wekerle-szabolcs-19120</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Wed, 11 Apr 2018 10:28:54 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[A romáktól is féljetek!]]></title>
+   <link>http://mno.hu/velemeny/a-romaktol-is-feljetek-2457808?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Wekerle Szabolcs</author>
+   <enclosure url="http://mno.hu/data/cikkek/2457/24578/cikk-2457808/VL20160325_4057_896_504_1522835451.jpg" length="97201" type="image/jpeg"/>
+   <description><![CDATA[Míg a migránsoktól rettegni országos program, a cigányozást lokálisan alkalmazzák.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Wed, 04 Apr 2018 17:31:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az alezredes állhatatossága]]></title>
+   <link>http://mno.hu/hetvegimagazin/az-alezredes-allhatatossaga-2457284?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Wekerle Szabolcs</author>
+   <enclosure url="http://mno.hu/data/cikkek/2457/24572/cikk-2457284/K_EPA20160325058.jpg" length="313257" type="image/jpeg"/>
+   <description><![CDATA[Amikor édesanyja hírül vette, hogy egy csendőr életét áldozta ártatlan polgártársaiért, azonnal – még nem tudván, ki vitte véghez a hősi tettet – azt mondta: ez a fiára vall.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Mon, 02 Apr 2018 00:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[„Új, vidám Nemzeti dal” született – önnek a régi vagy ez tetszik jobban?]]></title>
+   <link>http://mno.hu/grund/uj-vidam-nemzeti-dal-szuletett-onnek-a-regi-vagy-ez-tetszik-jobban-2452073?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Wekerle Szabolcs</author>
+   <enclosure url="http://mno.hu/data/cikkek/2452/24520/cikk-2452073/DBZOL20180221008.jpg" length="448198" type="image/jpeg"/>
+   <description><![CDATA[A Talpra, magyar! című rockoperában új feldolgozásban szerepel a Tolcsvay-trió által is előadott mű.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Wed, 07 Mar 2018 18:45:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A Dankó olyan töménységben önti ránk a nótát, ami egy zenetudósnak is elviselhetetlen]]></title>
+   <link>http://mno.hu/grund/a-piacon-a-fokhagyma-kiloja-ma-110-forint-2445872?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Wekerle Szabolcs, Lakner Dávid</author>
+   <enclosure url="http://mno.hu/data/cikkek/2445/24458/cikk-2445872/DMOHA20171222038.jpg" length="553548" type="image/jpeg"/>
+   <description><![CDATA[Új frekvenciákat kap a Dankó Rádió, így lassan az ország minden zugában fogható.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Thu, 08 Feb 2018 12:40:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Írjunk-e tollal e-mailt a kupongenerációnak?]]></title>
+   <link>http://mno.hu/grund/irjunk-e-tollal-e-mailt-a-kupongeneracionak-2444266?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Wekerle Szabolcs</author>
+   <description><![CDATA[Szakmai műhelyt és kerekasztal-beszélgetést rendeztek a kultúra eladhatóságáról.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Thu, 01 Feb 2018 16:33:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A legügyetlenebb címfestő is jobb, mint a nyomtató]]></title>
+   <link>http://mno.hu/grund/a-legugyetlenebb-cimfesto-is-jobb-mint-a-nyomtato-2442930?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Wekerle Szabolcs</author>
+   <enclosure url="http://mno.hu/data/cikkek/2442/24429/cikk-2442930/IMG_5423.jpg" length="393060" type="image/jpeg"/>
+   <description><![CDATA[A tulajdonosok manapság silány minőségű vizuális szemfogókkal hirdetik üzleteiket.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Fri, 26 Jan 2018 20:14:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Négy magazin az egész családnak]]></title>
+   <link>http://mno.hu/grund/negy-magazin-az-egesz-csaladnak-2441962?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Makrai Sonja, Sashegyi Zsófia, Wekerle Szabolcs, Ficsor Benedek</author>
+   <enclosure url="http://mno.hu/data/cikkek/2441/24419/cikk-2441962/49228351_l.jpg" length="233328" type="image/jpeg"/>
+   <description><![CDATA[Mit gondolnak a családtagjainkról a magazinok? Családi lapokat olvastunk.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Tue, 23 Jan 2018 09:04:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A portás bácsi és a múzeumi bizottság]]></title>
+   <link>http://mno.hu/velemeny/a-portas-bacsi-es-a-muzeumi-bizottsag-2440243?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Wekerle Szabolcs</author>
+   <enclosure url="http://mno.hu/data/cikkek/2440/24402/cikk-2440243/000_QA4VJ.jpg" length="89776" type="image/jpeg"/>
+   <description><![CDATA[Mivel életem egy részét a szocialista Magyarországon töltöttem, egyetlen dolog van, ami máig reflexszerű feszültséget kelt bennem.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Tue, 16 Jan 2018 08:13:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Uram, irgalmazz!]]></title>
+   <link>http://mno.hu/magazinpublicisztika/uram-irgalmazz-2439343?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Wekerle Szabolcs</author>
+   <enclosure url="http://mno.hu/data/cikkek/2439/24393/cikk-2439343/PB20041105_018.jpg" length="325186" type="image/jpeg"/>
+   <description><![CDATA[Év végén a svédek dobtak egy akkorát, hogy a politikai korrektség feltalálója – akárki volt is – alighanem belesárgult az irigységbe.]]></description>
+   <category>Publicisztika a Magazinban</category>
+   <pubDate>Thu, 11 Jan 2018 11:10:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A marokkói gyökerű polgármester is támogatja a „Rolex-vadászatot”]]></title>
+   <link>http://mno.hu/kulfold/a-marokkoi-gyokeru-polgarmester-is-tamogatja-a-rolex-vadaszatot-2438588?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Wekerle Szabolcs</author>
+   <enclosure url="http://mno.hu/data/cikkek/2438/24385/cikk-2438588/000_Par2504476.jpg" length="383379" type="image/jpeg"/>
+   <description><![CDATA[Szúrópróbaszerűen ellenőrizhetik Rotterdamban a feltűnően drága órákat, ruhákat viselő embereket.]]></description>
+   <category>Külföld</category>
+   <pubDate>Mon, 08 Jan 2018 16:09:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Amikor rátaláltak Jaksity Borivoje kisvárosi nőimitátorra]]></title>
+   <link>http://mno.hu/konyveshaz/amikor-ratalaltak-jaksity-borivoje-kisvarosi-noimitatorra-2435664?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Wekerle Szabolcs</author>
+   <enclosure url="http://mno.hu/data/cikkek/2435/24356/cikk-2435664/MNO_D_CIM20110605018.jpg" length="312203" type="image/jpeg"/>
+   <description><![CDATA[Hász Róbert új regénye egy agilis és modern rendőrnyomozó tizenhárom napját írja le a múlt század elején.]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Mon, 25 Dec 2017 18:35:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A tükék úgyis maradnak]]></title>
+   <link>http://mno.hu/velemeny/a-tukek-ugyis-maradnak-2435873?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Wekerle Szabolcs</author>
+   <enclosure url="http://mno.hu/data/cikkek/2435/24358/cikk-2435873/VL20140623_0464.jpg" length="288416" type="image/jpeg"/>
+   <description><![CDATA[Ma sokan inkább meg sem fogalmazzák a véleményüket, mert tartanak a retorzióktól.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Sat, 23 Dec 2017 15:27:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Közösségi hazugságok]]></title>
+   <link>http://mno.hu/magazinpublicisztika/kozossegi-hazugsagok-2430504?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Wekerle Szabolcs</author>
+   <enclosure url="http://mno.hu/data/cikkek/2430/24305/cikk-2430504/_SouthLoneStar.jpg" length="909176" type="image/jpeg"/>
+   <description><![CDATA[A közösségi oldalak, az internet működésének ellenőrzése a legközelebbi jövő kulcskérdése kellene hogy legyen.]]></description>
+   <category>Publicisztika a Magazinban</category>
+   <pubDate>Thu, 30 Nov 2017 07:53:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Trill Zsolt: Nyugodtan lehet támadni azért, mert határon túli vagyok]]></title>
+   <link>http://mno.hu/nagyinterju_magazinban/trill-zsolt-nyugodtan-lehet-tamadni-azert-mert-hataron-tuli-vagyok-2429766?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Wekerle Szabolcs, Gazda Albert</author>
+   <enclosure url="http://mno.hu/data/cikkek/2429/24297/cikk-2429766/VL20171108_1079.jpg" length="390596" type="image/jpeg"/>
+   <description><![CDATA[Vidnyánszky Attilával eltöltött 30 évéről, a kárpátaljai magyarok helyzetéről és a „nehéz” színházról. Interjú.]]></description>
+   <category>Nagyinterjú a Magazinban</category>
+   <pubDate>Sun, 26 Nov 2017 11:24:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ne uszíts, Harisnyás!]]></title>
+   <link>http://mno.hu/velemeny/ne-uszits-harisnyas-2427957?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Wekerle Szabolcs</author>
+   <enclosure url="http://mno.hu/data/cikkek/2427/24279/cikk-2427957/076_Fifi_braindacier_1969_008.jpg" length="201666" type="image/jpeg"/>
+   <description><![CDATA[Helyes-e kigyomlálni régi irodalmi művekből ma már nem szalonképes kifejezéseket?]]></description>
+   <category>Vélemény</category>
+   <pubDate>Thu, 16 Nov 2017 15:27:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Édes Munkács, itt vagyunk!]]></title>
+   <link>http://mno.hu/velemeny/edes-munkacs-itt-vagyunk-2425070?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Wekerle Szabolcs</author>
+   <enclosure url="http://mno.hu/data/cikkek/2425/24250/cikk-2425070/DSC_6506.jpg" length="312539" type="image/jpeg"/>
+   <description><![CDATA[Trianonhoz fűződő viszonyunkat a rendszerváltás után is a közöny határozta meg.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Thu, 02 Nov 2017 16:46:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ez megy az éterben: három betelefonálós műsort hallgattunk meg]]></title>
+   <link>http://mno.hu/grund/ez-megy-az-eterben-harom-betelefonalos-musort-hallgattunk-meg-2419506?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Wekerle Szabolcs, Tompos Ádám, Lakner Dávid</author>
+   <enclosure url="http://mno.hu/data/cikkek/2419/24195/cikk-2419506/mng_896_504_1506875887.jpg" length="52945" type="image/jpeg"/>
+   <description><![CDATA[Szélsőkormánypárti és vadellenzéki toposzok: amikor a telefon felé indul a kezünk.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Sun, 01 Oct 2017 19:27:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Bödőcs: Nem hiszem, hogy Charlie Hebdo vagyok egy Orbán-paródiától]]></title>
+   <link>http://mno.hu/nagyinterju_magazinban/bodocs-nem-hiszem-hogy-charlie-hebdo-vagyok-egy-orban-parodiatol-2419262?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Wekerle Szabolcs</author>
+   <enclosure url="http://mno.hu/data/cikkek/2419/24192/cikk-2419262/szb20170918_0345_896_504_1506893030.jpg" length="47756" type="image/jpeg"/>
+   <description><![CDATA[Volt-e híve valaha politikusnak? Többek között erről beszélgettünk az egyik legsikeresebb magyar humoristával.]]></description>
+   <category>Nagyinterjú a Magazinban</category>
+   <pubDate>Sat, 30 Sep 2017 14:25:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Bőven elég lenne az is, ha jó]]></title>
+   <link>http://mno.hu/magazinpublicisztika/boven-eleg-lenne-az-is-ha-jo-2418237?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Wekerle Szabolcs</author>
+   <enclosure url="http://mno.hu/data/cikkek/2418/24182/cikk-2418237/D_YT20170920021.jpg" length="372969" type="image/jpeg"/>
+   <description><![CDATA[A magyar élelmiszernek ugyanis, bármit állítson is az Agrármarketing-centrum, igenis van párja.]]></description>
+   <category>Publicisztika a Magazinban</category>
+   <pubDate>Sun, 24 Sep 2017 07:25:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hatvan év]]></title>
+   <link>http://mno.hu/velemeny/hatvan-ev-2418341?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Wekerle Szabolcs</author>
+   <enclosure url="http://mno.hu/data/cikkek/2418/24183/cikk-2418341/fortepan_16060.jpg" length="418802" type="image/jpeg"/>
+   <description><![CDATA[A rendszerváltás óta majd harminc év telt el, de a furcsa öngyűlölet egy darabig még velünk marad.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Sat, 23 Sep 2017 14:41:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Holland „menekültek” az Alföldön]]></title>
+   <link>http://mno.hu/belfold/holland-menekultek-az-alfoldon-2416277?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Wekerle Szabolcs</author>
+   <enclosure url="http://mno.hu/data/cikkek/2416/24162/cikk-2416277/IMG_9819.jpg" length="965906" type="image/jpeg"/>
+   <description><![CDATA[Egy nap Csemő tanyavilágának hollandjai között, és máris furcsa tapasztalatokkal lettünk gazdagabbak.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sun, 10 Sep 2017 16:07:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A hős kocsivigyázó]]></title>
+   <link>http://mno.hu/magazinpublicisztika/a-hos-kocsivigyazo-2413919?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Wekerle Szabolcs</author>
+   <enclosure url="http://mno.hu/data/cikkek/2413/24139/cikk-2413919/puczi_bela_youtube.jpg" length="192262" type="image/jpeg"/>
+   <description><![CDATA[Puczi Béla története sok szempontból visszafogottságra, gondolkodásra és óvatosságra int.]]></description>
+   <category>Publicisztika a Magazinban</category>
+   <pubDate>Sat, 26 Aug 2017 17:18:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Jönnek a holland migránsok, mert nem bírják a muszlim migránsokat]]></title>
+   <link>http://mno.hu/belfold/jonnek-a-holland-migransok-mert-nem-birjak-a-muszlim-migransokat-2412986?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Wekerle Szabolcs</author>
+   <enclosure url="http://mno.hu/data/cikkek/2412/24129/cikk-2412986/istvan_kiraly_n.jpg" length="509161" type="image/jpeg"/>
+   <description><![CDATA[A hazánkban házat vásároló hollandokat a bevándorlómentes környezet is motiválja.]]></description>
+   <category>Belföld</category>
+   <pubDate>Thu, 17 Aug 2017 16:57:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A legrosszabb lángos]]></title>
+   <link>http://mno.hu/vezercikk/a-legrosszabb-langos-2412711?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Wekerle Szabolcs</author>
+   <enclosure url="http://mno.hu/data/cikkek/2412/24127/cikk-2412711/BA20140421_8999.jpg" length="254395" type="image/jpeg"/>
+   <description><![CDATA[A miniszterelnök és köre ugyanazt csinálja legvonzóbb és legpiacképesebb turisztikai „termékünk”, a Balaton környékén, amit máshol.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Wed, 16 Aug 2017 00:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Na helló, röfik!]]></title>
+   <link>http://mno.hu/velemeny/na-hello-rofik-2408507?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Wekerle Szabolcs</author>
+   <enclosure url="http://mno.hu/data/cikkek/2408/24085/cikk-2408507/SZB20130405_5001.jpg" length="548188" type="image/jpeg"/>
+   <description><![CDATA[Nem ez az első eset a 2010 utáni Orbán-kormányok történetében, hogy a nagy szavakat kioltják a makacs tények.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Wed, 19 Jul 2017 20:05:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Metróretró]]></title>
+   <link>http://mno.hu/velemeny/metroretro-2408140?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Wekerle Szabolcs</author>
+   <enclosure url="http://mno.hu/data/cikkek/2408/24081/cikk-2408140/SZB20170327_8139.jpg" length="465459" type="image/jpeg"/>
+   <description><![CDATA[A magyar polgárok maguk is mintha leragadtak volna valahol a múlt század első harmadánál.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Mon, 17 Jul 2017 09:27:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Európa hátsó udvarában]]></title>
+   <link>http://mno.hu/vezercikk/europa-hatso-udvaraban-2397996?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Wekerle Szabolcs</author>
+   <enclosure url="http://mno.hu/data/cikkek/2397/23979/cikk-2397996/vezercikk_1000px_2.jpg" length="184848" type="image/jpeg"/>
+   <description><![CDATA[Az EU-n belüli mostani folyamatok már nemcsak Orbán, hanem az egész ország számára rendkívül aggasztók.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Tue, 09 May 2017 00:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Török Gábor: Az ellenzék megnyerhetné a választást, ha...]]></title>
+   <link>http://mno.hu/nagyinterju_magazinban/torok-gabor-az-ellenzek-megnyerhetne-a-valasztast-ha-2396579?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Wekerle Szabolcs, György Zsombor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2396/23965/cikk-2396579/VL20170425_0229.jpg" length="388134" type="image/jpeg"/>
+   <description><![CDATA[A legfontosabb kérdés a magyar politikában jelenleg az Oroszországhoz fűződő viszony – állítja a politológus.]]></description>
+   <category>Nagyinterjú a Magazinban</category>
+   <pubDate>Sun, 30 Apr 2017 07:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[„Egy migránsot elfogtam”]]></title>
+   <link>http://mno.hu/velemeny/egy-migransot-elfogtam-2394961?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Wekerle Szabolcs</author>
+   <enclosure url="http://mno.hu/data/cikkek/2394/23949/cikk-2394961/BA20170406_9549.jpg" length="340550" type="image/jpeg"/>
+   <description><![CDATA[Közbeszédünk régóta nem volt olyan gyermeteg és leegyszerűsítő, mint manapság.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Tue, 18 Apr 2017 08:49:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A hollandok azt mondták, hó! (a mi szekerünk csendben döcög tovább)]]></title>
+   <link>http://mno.hu/magazinpublicisztika/a-hollandok-azt-mondtak-ho-a-mi-szekerunk-csendben-docog-tovabb-2390668?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Wekerle Szabolcs</author>
+   <enclosure url="http://mno.hu/data/cikkek/2390/23906/cikk-2390668/bojcsuk0318.jpg" length="158577" type="image/jpeg"/>
+   <description><![CDATA[A ’48-as szelek nem süvítettek Amszterdamig.]]></description>
+   <category>Publicisztika a Magazinban</category>
+   <pubDate>Sat, 18 Mar 2017 10:12:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

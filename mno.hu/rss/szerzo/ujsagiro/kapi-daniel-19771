@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Kapi Dániel]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/kapi-daniel-19771</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 16:24:33 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Lapozgató fiatalság]]></title>
+   <link>http://mno.hu/csaladhalo/lapozgato-fiatalsag-1082346?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kapi Dániel</author>
+   <description><![CDATA[A mai fiatalokra valósággal tapadnak a technikai jellegű információk, és fényévekkel előzik meg szüleiket pl. internet-felhasználás terén is. ]]></description>
+   <category>Családháló</category>
+   <pubDate>Sat, 09 Jun 2012 12:43:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

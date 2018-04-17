@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: KÉ]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/ke-21810</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 23:05:00 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Auschwitzra emlékezik Európa]]></title>
+   <link>http://mno.hu/kulfold/auschwitzra-emlekezik-europa-1269817?utm_source=feed&amp;utm_medium=rss</link>
+   <author>KÉ</author>
+   <description><![CDATA[Auschwitz nélkül nincs német identitás, ezért emlékezni kell rá – jelentette ki Joachim Gauck német államfő.]]></description>
+   <category>Külföld</category>
+   <pubDate>Tue, 27 Jan 2015 12:33:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Még nem döntöttek a Baumax dolgozóiról]]></title>
+   <link>http://mno.hu/gazdasag/meg-nem-dontottek-a-baumax-dolgozoirol-1269667?utm_source=feed&amp;utm_medium=rss</link>
+   <author>KÉ</author>
+   <description><![CDATA[Tavasszal dőlhet el a munkavállalók sorsa.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Mon, 26 Jan 2015 23:44:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Öt új légi járat a nyári menetrendben]]></title>
+   <link>http://mno.hu/gazdasag/ot-uj-legi-jarat-a-nyari-menetrendben-1269316?utm_source=feed&amp;utm_medium=rss</link>
+   <author>KÉ</author>
+   <description><![CDATA[Március végétől újra lesz közvetlen légi összeköttetés Észak-Amerikával.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Fri, 23 Jan 2015 22:40:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Dinamikusan fejlődhet az agrárium]]></title>
+   <link>http://mno.hu/gazdasag/dinamikusan-fejlodhet-az-agrarium-1269264?utm_source=feed&amp;utm_medium=rss</link>
+   <author>KÉ</author>
+   <description><![CDATA[Czerván György államtitkár elmondta: az őszi vetések állapota kedvező, 55-60 százalékban kimondottan jó.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Fri, 23 Jan 2015 17:04:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Idén is elindulnak a zarándokvonatok]]></title>
+   <link>http://mno.hu/hatarontul/iden-is-elindulnak-a-zarandokvonatok-1269120?utm_source=feed&amp;utm_medium=rss</link>
+   <author>KÉ</author>
+   <description><![CDATA[Csíksomlyóra és Lengyelországba is indít szerelvényt a MÁV-Start Zrt. és a Misszió Tours.]]></description>
+   <category>Határon túl</category>
+   <pubDate>Thu, 22 Jan 2015 23:30:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nyugtalottóval fehérítenék a gazdaságot]]></title>
+   <link>http://mno.hu/gazdasag/nyugtalottoval-feheritenek-a-gazdasagot-1269100?utm_source=feed&amp;utm_medium=rss</link>
+   <author>KÉ</author>
+   <description><![CDATA[Románia is követné a szlovák példát és pénztári blokkokkal hirdetne nyereményjátékot.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Thu, 22 Jan 2015 21:17:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Feltételezett dzsihadistákat vettek őrizetbe Németországban]]></title>
+   <link>http://mno.hu/kulfold/feltetelezett-dzsihadistakat-vettek-orizetbe-nemetorszagban-1269146?utm_source=feed&amp;utm_medium=rss</link>
+   <author>KÉ</author>
+   <description><![CDATA[A hatóságok arra utaló jelet nem találtak, hogy merényletre készültek a gyanúsítottak.]]></description>
+   <category>Külföld</category>
+   <pubDate>Thu, 22 Jan 2015 18:55:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Márciusig próbaüzemben az Ekáer]]></title>
+   <link>http://mno.hu/gazdasag/marciusig-probauzemben-az-ekaer-1269088?utm_source=feed&amp;utm_medium=rss</link>
+   <author>KÉ</author>
+   <description><![CDATA[Az adóhatóság munkatársai a mulasztókat figyelmeztetik, de március 1-jéig nem szabhatnak ki mulasztási bírságot.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Thu, 22 Jan 2015 17:30:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Páva Zsolt: Pécs lesz az egyik legolcsóbb város]]></title>
+   <link>http://mno.hu/belfold/pava-zsolt-pecs-lesz-az-egyik-legolcsobb-varos-1269068?utm_source=feed&amp;utm_medium=rss</link>
+   <author>KÉ</author>
+   <description><![CDATA[2010-ben a három legdrágább közszolgáltatást nyújtó város között volt Pécs, ma már a középmezőny alján áll.]]></description>
+   <category>Belföld</category>
+   <pubDate>Thu, 22 Jan 2015 14:11:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Felsorakoztak a traktorok a városháza előtt]]></title>
+   <link>http://mno.hu/belfold/uj-helyi-ado-ellen-tiltakoznak-balmazujvarosban-1269077?utm_source=feed&amp;utm_medium=rss</link>
+   <author>KÉ</author>
+   <description><![CDATA[A munkagépekkel érkező gazdák a földadó bevezetése ellen tiltakoznak.]]></description>
+   <category>Belföld</category>
+   <pubDate>Thu, 22 Jan 2015 13:17:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Korrupció miatt őrizetben a volt belügyminiszter]]></title>
+   <link>http://mno.hu/kulfold/korrupcio-miatt-orizetben-a-volt-belugyminiszter-1268898?utm_source=feed&amp;utm_medium=rss</link>
+   <author>KÉ</author>
+   <description><![CDATA[A gyanú szerint félmillió euró kenőpénzt vett át egy telek-visszaszolgáltatási ügyben.]]></description>
+   <category>Külföld</category>
+   <pubDate>Wed, 21 Jan 2015 17:20:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Több ezer hamis festékpatront találtak Rajkánál]]></title>
+   <link>http://mno.hu/bunugy_baleset/tobbezer-hamis-festekpatront-talaltak-rajkanal-1268824?utm_source=feed&amp;utm_medium=rss</link>
+   <author>KÉ</author>
+   <description><![CDATA[Iparvédelmi jogok megsértése miatt büntetőfeljelentést tettek a pénzügyőrök.]]></description>
+   <category>Bűnügy és baleset</category>
+   <pubDate>Wed, 21 Jan 2015 13:41:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Trézéguet visszavonul]]></title>
+   <link>http://mno.hu/foci/trezeguet-visszavonul-1268816?utm_source=feed&amp;utm_medium=rss</link>
+   <author>KÉ</author>
+   <description><![CDATA[A franciák világ- és Európa-bajnok csatára a Juventus tanácsadója lesz.]]></description>
+   <category>90 perc</category>
+   <pubDate>Wed, 21 Jan 2015 10:29:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[235 900 forint volt a bruttó átlagkereset]]></title>
+   <link>http://mno.hu/gazdasag/235-900-forint-volt-a-brutto-atlagkereset-1268809?utm_source=feed&amp;utm_medium=rss</link>
+   <author>KÉ</author>
+   <description><![CDATA[A legjobban a pénzügyi, biztosítási területen dolgozók kerestek tavaly január és november között, bruttó 481 ezer forinttal.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Wed, 21 Jan 2015 10:06:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Sóbányában sorsolnak a kézi-Eb-re]]></title>
+   <link>http://mno.hu/sport/sobanyaban-sorsolnak-a-kezi-eb-re-1268727?utm_source=feed&amp;utm_medium=rss</link>
+   <author>KÉ</author>
+   <description><![CDATA[Az UNESCO világörökségi helyszínén dől el a világverseny csoportbeosztása.]]></description>
+   <category>Sport</category>
+   <pubDate>Tue, 20 Jan 2015 23:51:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Fogyasztói csoportokat bírságolt a GVH]]></title>
+   <link>http://mno.hu/gazdasag/fogyasztoi-csoportokat-birsagolt-a-gvh-1268723?utm_source=feed&amp;utm_medium=rss</link>
+   <author>KÉ</author>
+   <description><![CDATA[Tisztességtelen kereskedelmi gyakorlatot folytatott a CL Brokers Group Kft.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Tue, 20 Jan 2015 22:35:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[NGM: az előző ciklusból még 2100 milliárdot kell lehívnunk]]></title>
+   <link>http://mno.hu/gazdasag/ngm-az-elozo-ciklusbol-meg-2100-milliardot-kell-lehivnunk-1268704?utm_source=feed&amp;utm_medium=rss</link>
+   <author>KÉ</author>
+   <description><![CDATA[Rákossy Balázs, az NGM államtitkára hangsúlyozta: az operatív programok kifizetése ütemterv szerint zajlik.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Tue, 20 Jan 2015 20:52:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hónapokig gyűjtik az illegális fegyvereket Kínában]]></title>
+   <link>http://mno.hu/kulfold/honapokig-gyujtik-az-illegalis-fegyvereket-kinaban-1268666?utm_source=feed&amp;utm_medium=rss</link>
+   <author>KÉ</author>
+   <description><![CDATA[Magánszemélyeknek tilos lőfegyvert tartani, ennek ellenére tavaly több tízezret foglaltak le a hatóságok.]]></description>
+   <category>Külföld</category>
+   <pubDate>Tue, 20 Jan 2015 20:40:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Seszták: A kkv-kból épül versenyképes nemzetgazdaság]]></title>
+   <link>http://mno.hu/gazdasag/sesztak-a-kkv-kbol-epul-versenykepes-nemzetgazdasag-1268670?utm_source=feed&amp;utm_medium=rss</link>
+   <author>KÉ</author>
+   <description><![CDATA[A miniszter szerint ezek a vállalkozások oroszlánrészt vállalnak a munkaalapú társadalom építésében.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Tue, 20 Jan 2015 16:19:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Vádat emeltek a barátnőjét lebetonozó férfi ellen]]></title>
+   <link>http://mno.hu/bunugy_baleset/vadat-emeltek-a-baratnojet-lebetonozo-ferfi-ellen-1268634?utm_source=feed&amp;utm_medium=rss</link>
+   <author>KÉ</author>
+   <description><![CDATA[A tárnoki férfi először eltüntette a gyilkosság nyomait. Később lebuktatta a nő autója.]]></description>
+   <category>Bűnügy és baleset</category>
+   <pubDate>Tue, 20 Jan 2015 13:03:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Vádemelés a lakiteleki kettős gyilkosság ügyében]]></title>
+   <link>http://mno.hu/bunugy_baleset/vademeles-a-lakiteleki-kettos-gyilkossag-ugyeben-1268619?utm_source=feed&amp;utm_medium=rss</link>
+   <author>KÉ</author>
+   <description><![CDATA[Emberöléssel vádolják az élettársát és annak anyját megölő nőt.]]></description>
+   <category>Bűnügy és baleset</category>
+   <pubDate>Tue, 20 Jan 2015 12:12:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Sikerült leszámolni a szocialisták örökségével]]></title>
+   <link>http://mno.hu/kulfold/sikerult-leszamolni-a-szocialistak-oroksegevel-1268498?utm_source=feed&amp;utm_medium=rss</link>
+   <author>KÉ</author>
+   <description><![CDATA[Sikeresek voltak a malajziai magyar nagykövetség újranyitására irányuló kormányzati erőfeszítések.]]></description>
+   <category>Külföld</category>
+   <pubDate>Mon, 19 Jan 2015 21:11:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A Mohamed-karikatúrák ellen tiltakoznak Groznijban]]></title>
+   <link>http://mno.hu/kulfold/a-mohamed-karikaturak-ellen-tiltakoznak-groznijban-1268445?utm_source=feed&amp;utm_medium=rss</link>
+   <author>KÉ</author>
+   <description><![CDATA[Több tízezren tüntetnek a vallásos emberek sértegetése ellen.]]></description>
+   <category>Külföld</category>
+   <pubDate>Mon, 19 Jan 2015 12:43:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Átadták Hajdú-Bihar legnagyobb naperőművét]]></title>
+   <link>http://mno.hu/gazdasag/atadtak-hajdu-bihar-legnagyobb-naperomuvet-1268447?utm_source=feed&amp;utm_medium=rss</link>
+   <author>KÉ</author>
+   <description><![CDATA[Egy év alatt 240 háztartás energiaszükségletét elégíti ki az új létesítmény.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Mon, 19 Jan 2015 12:13:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kizárták a gólyatábori erőszakoló ügyvédjét]]></title>
+   <link>http://mno.hu/belfold/kizartak-a-golyatabor-eroszakolo-ugyvedjet-1268417?utm_source=feed&amp;utm_medium=rss</link>
+   <author>KÉ</author>
+   <description><![CDATA[Bűnpártolással gyanúsítják a fonyódligeti ügy védőjét.]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 19 Jan 2015 11:13:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Magyarul is megjelenik a sztármagazin]]></title>
+   <link>http://mno.hu/media/magyarul-is-megjelenik-a-sztarmagazin-1268055?utm_source=feed&amp;utm_medium=rss</link>
+   <author>KÉ</author>
+   <description><![CDATA[A Hello! magazin magyar kiadása harminc-negyven százalékban hazai tartalmat kínál.]]></description>
+   <category>Média</category>
+   <pubDate>Fri, 16 Jan 2015 18:10:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Több százan búcsúztatták a Charlie Hebdo igazgatóját]]></title>
+   <link>http://mno.hu/kulfold/tobb-szazan-bucsuztattak-a-charlie-hebdo-igazgatojat-1268067?utm_source=feed&amp;utm_medium=rss</link>
+   <author>KÉ</author>
+   <description><![CDATA[A lap munkatársain kívül a francia kormány több tagja is megjelent a temetésen. ]]></description>
+   <category>Külföld</category>
+   <pubDate>Fri, 16 Jan 2015 14:31:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Őrizetben az állambiztonsági tárca helyettes vezetője]]></title>
+   <link>http://mno.hu/kulfold/orizetben-az-allambiztonsagi-tarca-helyettes-vezetoje-1268027?utm_source=feed&amp;utm_medium=rss</link>
+   <author>KÉ</author>
+   <description><![CDATA[Ma Csien ügyében „súlyos fegyelem- és jogsértés” miatt nyomoznak. ]]></description>
+   <category>Külföld</category>
+   <pubDate>Fri, 16 Jan 2015 14:06:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Jelentősen nőtt az építőipari termelés]]></title>
+   <link>http://mno.hu/gazdasag/tobb-mint-nyolc-szazalekkal-nott-az-epitoipari-termeles-1268023?utm_source=feed&amp;utm_medium=rss</link>
+   <author>KÉ</author>
+   <description><![CDATA[Január–novemberben a termelés 16,7 százalékkal bővült 2013 azonos időszakához mérten.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Fri, 16 Jan 2015 10:30:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Újszülöttet találtak a hatvani kórház inkubátorában]]></title>
+   <link>http://mno.hu/bunugy_baleset/ujszulottet-talaltak-a-hatvani-korhaz-inkubatoraban-1268018?utm_source=feed&amp;utm_medium=rss</link>
+   <author>KÉ</author>
+   <description><![CDATA[Az egészséges kislányt Jázminnak nevezték el.]]></description>
+   <category>Bűnügy és baleset</category>
+   <pubDate>Fri, 16 Jan 2015 09:46:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

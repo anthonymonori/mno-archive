@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Radnóti Zoltán]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/radnoti-zoltan-28789</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 22:30:06 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Kik a zsidók partnerei?]]></title>
+   <link>http://mno.hu/velemeny/kik-a-zsidok-partnerei-2447481?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Radnóti Zoltán</author>
+   <enclosure url="http://mno.hu/data/cikkek/2447/24474/cikk-2447481/NBB_20140324_6603.jpg" length="202443" type="image/jpeg"/>
+   <description><![CDATA[A vallási közösséget, a valódi partnereket nem helyettesítheti a politika világa.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Thu, 15 Feb 2018 17:13:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nyílt levélben fordul Köves Slomóhoz Radnóti Zoltán]]></title>
+   <link>http://mno.hu/velemeny/nyilt-level-koves-slomo-rabbihoz-2445291?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Radnóti Zoltán</author>
+   <enclosure url="http://mno.hu/data/cikkek/2445/24452/cikk-2445291/MNO_szb20160922_3000.jpg" length="302188" type="image/jpeg"/>
+   <description><![CDATA[A Mazsihisz rabbitestületének elnöke arra reagált, hogy Köves Slomó a fideszes Hollik István választási szórólapján szólalt fel a politikus mellett.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Tue, 06 Feb 2018 06:03:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Gyermekgyógyítás és vallási párbeszéd]]></title>
+   <link>http://mno.hu/velemeny/gyermekgyogyitas-es-vallasi-parbeszed-2435703?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Radnóti Zoltán</author>
+   <enclosure url="http://mno.hu/data/cikkek/2435/24357/cikk-2435703/MNO_HM20111109_03.jpg" length="466712" type="image/jpeg"/>
+   <description><![CDATA[Milyen a katolikus, református, zsidó műtét vagy diagnózis az összes többihez képest?]]></description>
+   <category>Vélemény</category>
+   <pubDate>Fri, 22 Dec 2017 19:53:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A magyar zsidóság jövőjéről]]></title>
+   <link>http://mno.hu/velemeny/a-magyar-zsidosag-jovojerol-2430228?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Radnóti Zoltán</author>
+   <enclosure url="http://mno.hu/data/cikkek/2430/24302/cikk-2430228/MP20090906_2453.jpg" length="287801" type="image/jpeg"/>
+   <description><![CDATA[Ez a közösség régóta – minden fájdalom ellenére – a magyar nemzettest szerves része.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Mon, 27 Nov 2017 19:25:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Két zsidó találmány: az állampolgári hűség és a polgári engedetlenség]]></title>
+   <link>http://mno.hu/magazinpublicisztika/ket-zsido-talalmany-az-allampolgari-huseg-es-a-polgari-engedetlenseg-2415526?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Radnóti Zoltán</author>
+   <enclosure url="http://mno.hu/data/cikkek/2415/24155/cikk-2415526/NBB_20140209_6777x.jpg" length="537970" type="image/jpeg"/>
+   <description><![CDATA[Miért nem baj, hogy a Mazsihisz kiment a politikai divatból?]]></description>
+   <category>Publicisztika a Magazinban</category>
+   <pubDate>Mon, 04 Sep 2017 21:07:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Körömi Attila]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/koromi-attila-14687</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 04:02:19 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Csak a választók győzhetik le a Fideszt]]></title>
+   <link>http://mno.hu/velemeny/csak-a-valasztok-gyozhetik-le-a-fideszt-2444882?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Körömi Attila</author>
+   <enclosure url="http://mno.hu/data/cikkek/2444/24448/cikk-2444882/MNO_szb20170918_0262.jpg" length="492937" type="image/jpeg"/>
+   <description><![CDATA[A hatalom bukását a társadalmi érzület, a politikai-erkölcsi kereszthuzat hozza el.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Sun, 04 Feb 2018 13:25:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Sir Robin és a pécsi hiány históriája]]></title>
+   <link>http://mno.hu/velemeny/sir-robin-es-a-pecsi-hiany-historiaja-2419227?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Körömi Attila</author>
+   <enclosure url="http://mno.hu/data/cikkek/2419/24192/cikk-2419227/DPECS20101003016.jpg" length="439521" type="image/jpeg"/>
+   <description><![CDATA[Páva Zsoltnak ki kell állnia az emberek elé, és el kell mondania, mi zajlik a városban.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Fri, 29 Sep 2017 16:25:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Polgári társadalom vagy Kádár-rendszer]]></title>
+   <link>http://mno.hu/velemeny/polgari-tarsadalom-vagy-kadar-rendszer-2394943?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Körömi Attila</author>
+   <enclosure url="http://mno.hu/data/cikkek/2394/23949/cikk-2394943/D_VG20130915019.jpg" length="379482" type="image/jpeg"/>
+   <description><![CDATA[A Fidesz volt országgyűlési képviselője a frakcióülésről, ahol kimondták: győzött a Kádár-rendszer.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Tue, 18 Apr 2017 06:14:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A Kárpát-medencei magyarság alvó státusa]]></title>
+   <link>http://mno.hu/velemeny/a-karpatmedencei-magyarsag-alvo-statusa-577295?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Dr. Gaudi-Nagy Tamás, Körömi Attila</author>
+   <description><![CDATA[]]></description>
+   <category>Vélemény</category>
+   <pubDate>Fri, 27 May 2005 01:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nem halasztható a Fidesz megújítása]]></title>
+   <link>http://mno.hu/velemeny/nem-halaszthato-a-fidesz-megujitasa-707878?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Körömi Attila</author>
+   <description><![CDATA[]]></description>
+   <category>Vélemény</category>
+   <pubDate>Wed, 23 Apr 2003 01:00:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

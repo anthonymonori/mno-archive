@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Rakusz Lajos]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/rakusz-lajos-15420</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Wed, 11 Apr 2018 12:11:44 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Ennyi elég volt a centrális erőtérből]]></title>
+   <link>http://mno.hu/velemeny/ennyi-eleg-volt-a-centralis-eroterbol-2457551?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Rakusz Lajos</author>
+   <enclosure url="http://mno.hu/data/cikkek/2457/24575/cikk-2457551/NBB_20170508_6097.jpg" length="349744" type="image/jpeg"/>
+   <description><![CDATA[A hatalmi-pénzügyi rezsim összeomlása látótávolságba került, történelmi választás közeleg.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Tue, 03 Apr 2018 13:31:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Történelmi esélyt kínál a választás]]></title>
+   <link>http://mno.hu/velemeny/tortenelmi-eselyt-kinal-a-valasztas-2452253?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Rakusz Lajos</author>
+   <enclosure url="http://mno.hu/data/cikkek/2452/24522/cikk-2452253/szb20180301_1398.jpg" length="620267" type="image/jpeg"/>
+   <description><![CDATA[Hódmezővásárhelyen kiderült, hogy van egy határ, amit tiszteletben kell tartani.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Thu, 08 Mar 2018 14:34:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az idő elfogyott, tettek kellenek]]></title>
+   <link>http://mno.hu/velemeny/az-ido-elfogyott-tettek-kellenek-2443208?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Rakusz Lajos</author>
+   <enclosure url="http://mno.hu/data/cikkek/2443/24432/cikk-2443208/Szekely_deak_896_504_1517062331.jpg" length="72942" type="image/jpeg"/>
+   <description><![CDATA[A kölcsönös érdekek feltárása és tudomásulvétele vezethet az új kiegyezéshez. ]]></description>
+   <category>Vélemény</category>
+   <pubDate>Sat, 27 Jan 2018 18:39:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az időnél ma semmi sem fontosabb]]></title>
+   <link>http://mno.hu/velemeny/az-idonel-ma-semmi-sem-fontosabb-2436319?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Rakusz Lajos</author>
+   <enclosure url="http://mno.hu/data/cikkek/2436/24363/cikk-2436319/MNO_DBELO20100715008.jpg" length="272750" type="image/jpeg"/>
+   <description><![CDATA[Egymás helyett a választókkal és az ország jövőjével kellene foglalkozniuk a pártoknak.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Wed, 27 Dec 2017 20:49:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Infrastruktúra és ipari parkok]]></title>
+   <link>http://mno.hu/migr/infrastruktura-es-ipari-parkok-777930?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Rakusz Lajos</author>
+   <description><![CDATA[                           ]]></description>
+   <category>Archívum</category>
+   <pubDate>Fri, 19 Apr 2002 01:02:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Infrastruktúra és ipari parkok]]></title>
+   <link>http://mno.hu/migr_1834/infrastruktura-es-ipari-parkok-777862?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Rakusz Lajos</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Fri, 19 Apr 2002 01:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[IPARI PARKOK &#8211; HOGYAN TOVÁBB?]]></title>
+   <link>http://mno.hu/migr/ipari-parkok--hogyan-tovabb-808453?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Rakusz Lajos</author>
+   <description><![CDATA[                             ]]></description>
+   <category>Archívum</category>
+   <pubDate>Fri, 08 Mar 2002 01:02:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ipari parkok &#8211; Hogyan tovább?]]></title>
+   <link>http://mno.hu/migr_1834/ipari-parkok--hogyan-tovabb-808352?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Rakusz Lajos</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Fri, 08 Mar 2002 01:00:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

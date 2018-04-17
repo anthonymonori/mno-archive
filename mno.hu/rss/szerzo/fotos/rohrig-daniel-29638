@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Röhrig Dániel]]></title>
+  <link>http://mno.hu/szerzo/fotos/rohrig-daniel-29638</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Wed, 11 Apr 2018 10:37:05 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Állítólag puskalövéssel indult a választás a somogyi faluban]]></title>
+   <link>http://mno.hu/belfold/allitolag-puskalovessel-indult-a-valasztas-a-somogyi-faluban-2458727?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Röhrig Dániel</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24587/cikk-2458727/rinyabesenyo_rohrigRD3_3481.jpg" length="124192" type="image/jpeg"/>
+   <description><![CDATA[Terepjárót és durranást emlegetnek, de a rendőrség nem talált semmilyen nyomot. Kisriport. ]]></description>
+   <category>Belföld</category>
+   <pubDate>Sun, 08 Apr 2018 16:49:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[„Ha Orbán marad, én megyek”]]></title>
+   <link>http://mno.hu/f22/ha-orban-marad-en-megyek-2457340?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Röhrig Dániel</author>
+   <enclosure url="http://mno.hu/data/cikkek/2457/24573/cikk-2457340/15_pinterjudit_rohrig002_0866.jpg" length="96170" type="image/jpeg"/>
+   <description><![CDATA[Négy év után bezár szegényeknek ruhát és meleg ételt osztó kaposvári Szeretetkapu.]]></description>
+   <category>Fotó (f22)</category>
+   <pubDate>Mon, 02 Apr 2018 20:23:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A bűnös – három hónap Mátéval, aki a fél életét börtönben töltötte]]></title>
+   <link>http://mno.hu/f22/a-bunos-harom-honap-mateval-aki-a-fel-eletet-bortonben-toltotte-2442513?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Röhrig Dániel</author>
+   <enclosure url="http://mno.hu/data/cikkek/2442/24425/cikk-2442513/20.jpg" length="1178315" type="image/jpeg"/>
+   <description><![CDATA[Tizennégy évesen került először be. Már 32, és most is ül. Legutóbb feleségének és gyermekének lopott. A baba már nem él. Képriport. ]]></description>
+   <category>Fotó (f22)</category>
+   <pubDate>Thu, 29 Mar 2018 17:30:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Lehet-e ketten havi 78 ezer forintból élni?]]></title>
+   <link>http://mno.hu/f22/lehet-e-ketten-havi-78-ezer-forintbol-elni-2438923?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Röhrig Dániel</author>
+   <enclosure url="http://mno.hu/data/cikkek/2438/24389/cikk-2438923/28_Franciska_Sandor_rohrig2017.jpg" length="638240" type="image/jpeg"/>
+   <description><![CDATA[Röhrig Dániel hat hónapon át követte egy nikotinista házaspár mindennapjait.]]></description>
+   <category>Fotó (f22)</category>
+   <pubDate>Sun, 14 Jan 2018 07:53:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: son]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/son-20670</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Sun, 15 Apr 2018 03:17:01 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Újra lehet nevezni a Gombold újra! pályázatra]]></title>
+   <link>http://mno.hu/grund/ujra-lehet-nevezni-a-gombold-ujra-palyazatra-1351224?utm_source=feed&amp;utm_medium=rss</link>
+   <author>son</author>
+   <enclosure url="http://mno.hu/data/cikkek/1351/13512/cikk-1351224/gombold_ujra_nagy_bela_grid2_fekvo_lead.jpg" length="86609" type="image/jpeg"/>
+   <description><![CDATA[Idén környezettudatos öltözékkel nevezhetnek a közép-európai tervezők.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Sun, 10 Jul 2016 12:30:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Február közepén derül ki, ki vezetheti a nyíregyházi színházat]]></title>
+   <link>http://mno.hu/grund/februar-kozepen-derul-ki-ki-vezetheti-a-nyiregyhazi-szinhazat-1272165?utm_source=feed&amp;utm_medium=rss</link>
+   <author>son</author>
+   <description><![CDATA[Heten pályáztak a nyírhegyházi színház vezetésére. ]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Tue, 10 Feb 2015 13:52:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Újabb világraszóló magyar dizájnsiker]]></title>
+   <link>http://mno.hu/grund/ujabb-vilagraszolo-magyar-dizajnsiker-1245775?utm_source=feed&amp;utm_medium=rss</link>
+   <author>son</author>
+   <description><![CDATA[A világ egyik legrangosabb szakmai elismerésének számító Red Dot dizájndíjat nyerte a Zeneakadémia arculata.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Wed, 03 Sep 2014 13:22:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Új pályázat a nyíregyházi színház vezetésére]]></title>
+   <link>http://mno.hu/grund/uj-palyazat-a-nyiregyhazi-szinhaz-vezetesere-1212062?utm_source=feed&amp;utm_medium=rss</link>
+   <author>son</author>
+   <description><![CDATA[Eredménytelennek nyilvánították a nyíregyházi színház igazgatói pályázatát, ezért újra kiírják.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Thu, 20 Feb 2014 16:32:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

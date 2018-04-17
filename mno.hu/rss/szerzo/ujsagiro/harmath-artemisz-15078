@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Harmath Artemisz]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/harmath-artemisz-15078</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Wed, 11 Apr 2018 13:00:52 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Aki Kádár elől kilövi a vadkant]]></title>
+   <link>http://mno.hu/konyveshaz/aki-kadar-elol-kilovi-a-vadkant-2455571?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Harmath Artemisz</author>
+   <enclosure url="http://mno.hu/data/cikkek/2455/24555/cikk-2455571/F_FRI19681031005.jpg" length="229617" type="image/jpeg"/>
+   <description><![CDATA[Hogyan alakulhatott ki és hogyan szilárdulhatott meg a kommunista diktatúra? A Tankom erre is választ ad.]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Mon, 02 Apr 2018 12:35:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Elborzaszt és empátiát ébreszt – könyv a nárcizmusról]]></title>
+   <link>http://mno.hu/konyveshaz/elborzaszt-es-empatiat-ebreszt-konyv-a-a-narcizmusrol-2406341?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Harmath Artemisz</author>
+   <enclosure url="http://mno.hu/data/cikkek/2406/24063/cikk-2406341/ekho_es_narkisszosz.jpg" length="482654" type="image/jpeg"/>
+   <description><![CDATA[Extrém viselkedés, az őrültség egy új formája, avagy népbetegség? Mit tudunk a nárcizmusról, és mit kezdjünk vele?]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Sun, 09 Jul 2017 06:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Búcsúpóz]]></title>
+   <link>http://mno.hu/konyveshaz/bucsupoz-1351565?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Harmath Artemisz</author>
+   <enclosure url="http://mno.hu/data/cikkek/1351/13515/cikk-1351565/3231974_5_grid2_fekvo_lead.jpg" length="26826" type="image/jpeg"/>
+   <description><![CDATA[A magára hagyott élő körbenéz és fogódzót keres az elmúlás vákuumában Tóth Krisztina új verseskötetében.]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Sat, 16 Jul 2016 21:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kismamakalauz]]></title>
+   <link>http://mno.hu/konyveshaz/kismamakalauz-1342677?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Harmath Artemisz</author>
+   <enclosure url="http://mno.hu/data/cikkek/1342/13426/cikk-1342677/12jonas-kicsivel-konnyebben-d00020e8462c36054aa4d2-d000210E0c7a5742a5782a.jpg" length="203796" type="image/jpeg"/>
+   <description><![CDATA[Jónás Anna könyve az anyák szempontjából mondja újra a világot.]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Wed, 18 May 2016 19:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Köldökzsinórmérték]]></title>
+   <link>http://mno.hu/konyveshaz/koldokzsinormertek-1340583?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Harmath Artemisz</author>
+   <enclosure url="http://mno.hu/data/cikkek/1340/13405/cikk-1340583/magzatkortol_grid2_fekvo_lead.jpg" length="51183" type="image/jpeg"/>
+   <description><![CDATA[Vollner Judit Magzatkortól kamaszkorig című könyvéről.]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Sun, 08 May 2016 15:28:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A Kaláka nyitó koncertje Miskolcon]]></title>
+   <link>http://mno.hu/grund/a-kalaka-nyito-koncertje-miskolcon-686460?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Harmath Artemisz</author>
+   <description><![CDATA[]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Sat, 12 Jul 2003 00:00:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

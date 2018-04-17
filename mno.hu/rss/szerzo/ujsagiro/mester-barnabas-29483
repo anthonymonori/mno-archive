@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Mester Barnabás]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/mester-barnabas-29483</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 00:48:19 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Közös listák a közös Európáért]]></title>
+   <link>http://mno.hu/velemeny/kozos-listak-a-kozos-europaert-2453560?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Mester Barnabás</author>
+   <enclosure url="http://mno.hu/data/cikkek/2453/24535/cikk-2453560/000_12F9XZ.jpg" length="233803" type="image/jpeg"/>
+   <description><![CDATA[A transznacionális listák lehetővé tennék a bizottság elnökének közvetlen választását.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Thu, 15 Mar 2018 07:13:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Magyar sorvezető a brit válóperhez]]></title>
+   <link>http://mno.hu/velemeny/magyar-sorvezeto-a-brit-valoperhez-2434628?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Mester Barnabás</author>
+   <enclosure url="http://mno.hu/data/cikkek/2434/24346/cikk-2434628/000_DV1885266.jpg" length="328935" type="image/jpeg"/>
+   <description><![CDATA[Hiába látszik pehelysúlyúnak az EU, ha az állóképessége meghaladja az ellene harcolókét.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Mon, 18 Dec 2017 16:03:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

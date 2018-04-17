@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Ablonczy Balázs]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/ablonczy-balazs-14666</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Fri, 13 Apr 2018 02:16:17 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Trianon-vita: A történelem nem társasjáték]]></title>
+   <link>http://mno.hu/magazinpublicisztika/trianon-vita-a-tortenelem-nem-tarsasjatek-1351001?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ablonczy Balázs, Révész Tamás</author>
+   <enclosure url="http://mno.hu/data/cikkek/1351/13510/cikk-1351001/trianon.jpg" length="105305" type="image/jpeg"/>
+   <description><![CDATA[Ablonczy Balázs és Révész Tamás válasza az Elkerülhető lett volna Trianon című cikkre.]]></description>
+   <category>Publicisztika a Magazinban</category>
+   <pubDate>Sun, 10 Jul 2016 18:03:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Trianon: a vadszőlő palást]]></title>
+   <link>http://mno.hu/hetvegimagazin/trianon-a-vadszolo-palast-1345383?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ablonczy Balázs</author>
+   <enclosure url="http://mno.hu/data/cikkek/1345/13453/cikk-1345383/DBELO20080606016_grid2_fekvo_lead.jpg" length="45660" type="image/jpeg"/>
+   <description><![CDATA[Problémák, kultuszok és dühök a békeszerződés évfordulóján. Ablonczy Balázs esszéje.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Sat, 04 Jun 2016 10:06:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Egy sűrű év sodra]]></title>
+   <link>http://mno.hu/migr_1834/egy-suru-ev-sodra-569690?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ablonczy Balázs</author>
+   <description><![CDATA[P r e m i e r   e l ő t t]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Sat, 16 Apr 2005 01:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A Teleki-kérdés a magyar történetírásban]]></title>
+   <link>http://mno.hu/grund/a-telekikerdes-a-magyar-tortenetirasban-845952?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ablonczy Balázs</author>
+   <description><![CDATA[]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Sat, 31 Mar 2001 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szent István és a biciklialkatrészek]]></title>
+   <link>http://mno.hu/migr_1834/szent-istvan-es-a-biciklialkatreszek-854598?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ablonczy Balázs</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Sat, 19 Aug 2000 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Dünnyögj új mesét]]></title>
+   <link>http://mno.hu/migr_1834/dunnyogj-uj-meset-861980?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ablonczy Balázs</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Sat, 10 Jun 2000 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Legendák helyett tények a szerződésről]]></title>
+   <link>http://mno.hu/migr_1834/legendak-helyett-tenyek-a-szerzodesrol-861489?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ablonczy Balázs</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Sat, 03 Jun 2000 00:00:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

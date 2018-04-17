@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Jakubász Tamás–Kulcsár Anna]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/jakubasz-tamaskulcsar-anna-20469</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Fri, 13 Apr 2018 23:12:41 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Devizahitel: döntött az EU bírósága     ]]></title>
+   <link>http://mno.hu/gazdasag/devizahitel-dontott-az-eu-birosaga-1223591?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Jakubász Tamás–Kulcsár Anna</author>
+   <description><![CDATA[A vitatott szerződés ügyében a magyar törvényszéknek kell határoznia a tisztességtelenségről.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Mon, 28 Apr 2014 10:15:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Módosíthatják a tartós hitelszerződéseket]]></title>
+   <link>http://mno.hu/belfold/modosithatjak-a-tartos-hitelszerzodeseket-1210894?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Jakubász Tamás–Kulcsár Anna</author>
+   <description><![CDATA[Az Alkotmánybíróság jelölheti ki a törvényi változtatások határait.]]></description>
+   <category>Belföld</category>
+   <pubDate>Fri, 14 Feb 2014 06:24:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Dönthet az AB a devizaügyben]]></title>
+   <link>http://mno.hu/belfold/donthet-az-ab-a-devizaugyben-1210071?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Jakubász Tamás–Kulcsár Anna</author>
+   <description><![CDATA[A Magyar Nemzet úgy tudja, az Alkotmánybíróság (AB) akár már kedden állást foglalhat a kabinet beadványáról.]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 10 Feb 2014 06:12:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Még hozhat meglepetést a devizaügy]]></title>
+   <link>http://mno.hu/gazdasag/meg-hozhat-meglepetest-a-devizaugy-1209837?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Jakubász Tamás–Kulcsár Anna</author>
+   <description><![CDATA[Jövő szerdán hozzák nyilvánosságra az Európai Bíróságon a főtanácsnok véleményét a Kásler-ügyben.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Sat, 08 Feb 2014 07:05:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ezt tudomásul kell venniük a bankoknak]]></title>
+   <link>http://mno.hu/belfold/jogertelmezes-utan-jogalkotas-1197922?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Jakubász Tamás–Kulcsár Anna</author>
+   <description><![CDATA[Rétvári Bence a Magyar Nemzetnek azt mondta, ha a bankok profitáltak a devizahitelekből, a veszteségekből is ki kell venniük a részüket.]]></description>
+   <category>Belföld</category>
+   <pubDate>Fri, 29 Nov 2013 05:27:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Gyógyír az összes adósnak?]]></title>
+   <link>http://mno.hu/gazdasag/devizaugy-gyogyir-az-osszes-adosnak-1194657?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Jakubász Tamás–Kulcsár Anna</author>
+   <description><![CDATA[Devizaügyekben bírósági úton nehéz lenne olyan megoldást találni, amely az összes adós gondjait orvosolja.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Mon, 11 Nov 2013 05:53:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Pokol Béla]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/pokol-bela-13640</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 10:56:17 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Így tűnhet el az akadémiai bárók hatalma]]></title>
+   <link>http://mno.hu/velemeny/igy-tunhet-el-az-akademiai-barok-hatalma-2442151?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pokol Béla</author>
+   <enclosure url="http://mno.hu/data/cikkek/2442/24421/cikk-2442151/91298294_l.jpg" length="391669" type="image/jpeg"/>
+   <description><![CDATA[A blockchain szerveződés képes lehet az oligarchikus-hierarchikus berendezkedés megtörésére.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Tue, 23 Jan 2018 13:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Posztnemzeti alkotmányosság?]]></title>
+   <link>http://mno.hu/velemeny/posztnemzeti-alkotmanyossag-2393467?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pokol Béla</author>
+   <enclosure url="http://mno.hu/data/cikkek/2393/23934/cikk-2393467/BA.jpg" length="437918" type="image/jpeg"/>
+   <description><![CDATA[Az akadémiai szféra viszi tovább a politikában kudarcot vallott törekvést.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Wed, 05 Apr 2017 19:54:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A jövő taláros kérdései]]></title>
+   <link>http://mno.hu/velemeny/a-jovo-talaros-kerdesei-1344456?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pokol Béla</author>
+   <enclosure url="http://mno.hu/data/cikkek/1344/13444/cikk-1344456/MNO_000_8O9HW.jpg" length="204414" type="image/jpeg"/>
+   <description><![CDATA[Pozitív hozadéka is lehet az új lengyel kormány és az alkotmánybíróság konfliktusának.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Sun, 29 May 2016 18:30:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A valóság látszata]]></title>
+   <link>http://mno.hu/velemeny/a-valosag-latszata-1310442?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pokol Béla</author>
+   <enclosure url="http://mno.hu/data/cikkek/1310/13104/cikk-1310442/menekultek_roszke_szb20150907_2_~34_uj_fekvo_lead_grid2_fekvo_lead.jpg" length="99294" type="image/jpeg"/>
+   <description><![CDATA[A migránsok közt mozgó európaiak mögött ott vannak haldokló közösségeik árnyai.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Sun, 25 Oct 2015 12:10:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kettős hatalom Antall idején]]></title>
+   <link>http://mno.hu/velemeny/kettos-hatalom-antall-idejen-1288077?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pokol Béla</author>
+   <description><![CDATA[Nem az alkotmány adta korlátok miatt vált lehetetlenné a rendszerváltás következetesebb megvalósítása.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Sun, 31 May 2015 10:16:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Esküdtbíráskodás: egy régi vita felelevenítése]]></title>
+   <link>http://mno.hu/migr_1834/eskudtbiraskodas_egy_regi_vita_felelevenitese-174896?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pokol Béla</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Sun, 24 Apr 2011 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Elismerés és kritika]]></title>
+   <link>http://mno.hu/migr_1834/elismeres_es_kritika-169689?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pokol Béla</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Thu, 24 Mar 2011 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Törvényszékek, törvénykezés, törvényhozás]]></title>
+   <link>http://mno.hu/migr_1834/torvenyszekek_torvenykezes_torvenyhozas-167087?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pokol Béla</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Thu, 17 Mar 2011 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A jogállam kijátszása  a demokráciával szemben]]></title>
+   <link>http://mno.hu/migr_1834/a_jogallam_kijatszasa__a_demokraciaval_szemben-168355?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pokol Béla</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Sat, 12 Mar 2011 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A migrációs szivattyú]]></title>
+   <link>http://mno.hu/migr_1834/a_migracios_szivattyu-157385?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pokol Béla</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Mon, 31 Jan 2011 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[„Magalkotmány” és sarkalatos törvények]]></title>
+   <link>http://mno.hu/migr_1834/magalkotmany_es_sarkalatos_torvenyek-209249?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pokol Béla</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Sat, 18 Dec 2010 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Multikulticsőd Európában]]></title>
+   <link>http://mno.hu/migr_1834/multikulticsod_europaban-194482?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pokol Béla</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Mon, 01 Nov 2010 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ne söpörjük a szőnyeg alá!]]></title>
+   <link>http://mno.hu/migr_1834/ne_soporjuk_a_szonyeg_ala-195680?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pokol Béla</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 26 Oct 2010 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hiteltelenek a rasszistázó jogvédők]]></title>
+   <link>http://mno.hu/migr_1834/hiteltelenek_a_rasszistazo_jogvedok-221988?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pokol Béla</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Sat, 09 Oct 2010 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A rasszizmusbélyeg bénítja a rendőrség munkáját]]></title>
+   <link>http://mno.hu/migr_1834/a_rasszizmusbelyeg_benitja_a_rendorseg_munkajat-227105?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pokol Béla</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Fri, 17 Sep 2010 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Magánszféra és egyenlő bánásmód]]></title>
+   <link>http://mno.hu/migr_1834/maganszfera_es_egyenlo_banasmod-218754?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pokol Béla</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Fri, 27 Aug 2010 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az alkotmányozási munka előkészületei]]></title>
+   <link>http://mno.hu/migr_1834/az_alkotmanyozasi_munka_elokeszuletei-220680?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pokol Béla</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Mon, 16 Aug 2010 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A tapasztalat nem előítélet]]></title>
+   <link>http://mno.hu/migr_1834/a_tapasztalat_nem_eloitelet-211236?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pokol Béla</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Sat, 07 Aug 2010 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Radikális nemzeti oldal és a liberálisok]]></title>
+   <link>http://mno.hu/migr_1834/radikalis_nemzeti_oldal_es_a_liberalisok-319987?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pokol Béla</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Sun, 28 Jun 2009 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Gondolatok a kapitalizmus reformjához]]></title>
+   <link>http://mno.hu/migr_1834/gondolatok_a_kapitalizmus_reformjahoz-344302?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pokol Béla</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 04 Nov 2008 18:56:31 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A polgári jog alkotmányjogiasítása]]></title>
+   <link>http://mno.hu/migr_1834/a_polgari_jog_alkotmanyjogiasitasa-347326?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pokol Béla</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Mon, 20 Oct 2008 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Úriemberek, szakértők, agytrösztök]]></title>
+   <link>http://mno.hu/migr_1834/uriemberek-szakertok-agytrosztok-406085?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pokol Béla</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Sun, 24 Aug 2008 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Taláros stílusok]]></title>
+   <link>http://mno.hu/migr_1834/talaros-stilusok-397903?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pokol Béla</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Sat, 05 Jul 2008 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az államfő marginalizálódásának veszélye]]></title>
+   <link>http://mno.hu/velemeny/az-allamfo-marginalizalodasanak-veszelye-485568?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pokol Béla</author>
+   <description><![CDATA[]]></description>
+   <category>Vélemény</category>
+   <pubDate>Fri, 07 Jul 2006 01:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Egy divatos ideológia kétfajta értelmezése]]></title>
+   <link>http://mno.hu/velemeny/egy-divatos-ideologia-ketfajta-ertelmezese-572654?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pokol Béla</author>
+   <description><![CDATA[]]></description>
+   <category>Vélemény</category>
+   <pubDate>Mon, 02 May 2005 01:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az integrációs vita margójára]]></title>
+   <link>http://mno.hu/velemeny/az-integracios-vita-margojara-593578?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pokol Béla</author>
+   <description><![CDATA[]]></description>
+   <category>Vélemény</category>
+   <pubDate>Wed, 23 Feb 2005 01:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Amerikai geopolitika]]></title>
+   <link>http://mno.hu/velemeny/amerikai-geopolitika-615533?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pokol Béla</author>
+   <description><![CDATA[Zbigniew Brzezinski A nagy sakktábla című könyvében 1997-ben írta meg geopolitikai elemzését, amikor az Egyesült Államok korlátlan egyedüli világhatalma már vitathatatlanná vált, és ő ebből a perspektívából nézte át a globális világhatalomból következő tennivalókat Amerika számára. Hogy az elemzéseket megfelelően tudjuk értékelni, jelezni kell, hogy Brzezinski nemcsak egy az ismert amerikai geopolitikai szakértők közül, hanem a CFR (Council on Foreign Relations) tagjaként annak a több évtizede működő stábnak is a tagja &#8211; közvetlenül a legnagyobb amerikai bankárcsoportok finanszírozásával és támogatásával &#8211;, amely, függetlenül az éppen kormányzó elnöktől és párttól, meghatározza az amerikai világpolitikai stratégiát. Így elemzése ritka nyíltsággal mutatja meg az amerikai világhatalmi irányító elit céljait, motivációit és félelmeit.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Mon, 27 Dec 2004 01:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Globalizáció és globális uralmi rend]]></title>
+   <link>http://mno.hu/migr_1834/globalizacio-es-globalis-uralmi-rend-614789?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pokol Béla</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 21 Dec 2004 01:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Pártok a globális politikai arénában]]></title>
+   <link>http://mno.hu/velemeny/partok-a-globalis-politikai-arenaban-626176?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pokol Béla</author>
+   <description><![CDATA[]]></description>
+   <category>Vélemény</category>
+   <pubDate>Fri, 27 Aug 2004 01:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az új uralmi rend]]></title>
+   <link>http://mno.hu/migr_1834/az-uj-uralmi-rend-621473?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pokol Béla</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Fri, 30 Jul 2004 21:02:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Böcskei Balázs]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/bocskei-balazs-24299</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 10:31:34 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Németország ősszel, választás után]]></title>
+   <link>http://mno.hu/velemeny/nemetorszag-osszel-valasztas-utan-2418903?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Böcskei Balázs</author>
+   <enclosure url="http://mno.hu/data/cikkek/2418/24189/cikk-2418903/MNO_000_SO9KK.jpg" length="356310" type="image/jpeg"/>
+   <description><![CDATA[A német kontextus német maradt, az ország nem esett el, csak a politika tért vissza.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Wed, 27 Sep 2017 19:26:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Lesz-e választási költségvetés?]]></title>
+   <link>http://mno.hu/velemeny/lesz-e-valasztasi-koltsegvetes-2401362?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Böcskei Balázs</author>
+   <enclosure url="http://mno.hu/data/cikkek/2401/24013/cikk-2401362/MP20090911_3724.jpg" length="263406" type="image/jpeg"/>
+   <description><![CDATA[A kormányzatnak elegendő mozgástere van ahhoz, hogy javítsa a népszerűségét.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Wed, 31 May 2017 17:15:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Európa és a politika alapkérdései]]></title>
+   <link>http://mno.hu/velemeny/europa-es-a-politika-alapkerdesei-2393249?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Böcskei Balázs</author>
+   <enclosure url="http://mno.hu/data/cikkek/2393/23932/cikk-2393249/000_MZ8F5.jpg" length="388092" type="image/jpeg"/>
+   <description><![CDATA[Az unió válsága szükségessé teszi a képviselet fogalmának újragondolását.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Tue, 04 Apr 2017 18:40:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A schiffertelenített LMP]]></title>
+   <link>http://mno.hu/velemeny/a-schiffertelenitett-lmp-2391994?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Böcskei Balázs</author>
+   <enclosure url="http://mno.hu/data/cikkek/2391/23919/cikk-2391994/8_1hm.jpg" length="207247" type="image/jpeg"/>
+   <description><![CDATA[A sok külön induló párt versenyében ki lehet majd „a legnagyobb kicsi”?]]></description>
+   <category>Vélemény</category>
+   <pubDate>Mon, 27 Mar 2017 20:15:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az antipolitika korlátai]]></title>
+   <link>http://mno.hu/velemeny/az-antipolitika-korlatai-1383503?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Böcskei Balázs</author>
+   <enclosure url="http://mno.hu/data/cikkek/1383/13835/cikk-1383503/8_1nbb.jpg" length="269575" type="image/jpeg"/>
+   <description><![CDATA[A Tanítanék mozgalom pályaíve a 2010 utáni rendszerbontó kísérletekét idézi.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Mon, 30 Jan 2017 19:42:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[1956 és a morális cselekvés emlékezete]]></title>
+   <link>http://mno.hu/velemeny/1956-es-a-moralis-cselekves-emlekezete-1367514?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Böcskei Balázs</author>
+   <enclosure url="http://mno.hu/data/cikkek/1367/13675/cikk-1367514/fortepan_40249.jpg" length="583505" type="image/jpeg"/>
+   <description><![CDATA[A mindenki számára egyetlen haza nem épülhet fel „egyedüllétben”.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Sun, 23 Oct 2016 10:15:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A baloldal esete Paks II-vel és az uniós üzletpolitikával]]></title>
+   <link>http://mno.hu/velemeny/a-baloldal-esete-paks-ii-vel-es-az-unios-uzletpolitikaval-1363773?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Böcskei Balázs</author>
+   <enclosure url="http://mno.hu/data/cikkek/1363/13637/cikk-1363773/MNO_NBB_20140623_5537.jpg" length="346666" type="image/jpeg"/>
+   <description><![CDATA[Nemcsak Oroszország, de a Nyugat érdekei is megelőzik a magyar emberek érdekeit.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Wed, 28 Sep 2016 16:02:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A politika kétfarkú infantilizálása]]></title>
+   <link>http://mno.hu/velemeny/a-politika-ketfarku-infantilizalasa-1359632?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Böcskei Balázs</author>
+   <enclosure url="http://mno.hu/data/cikkek/1359/13596/cikk-1359632/ketfarku_nepszavazas_01.jpg" length="89155" type="image/jpeg"/>
+   <description><![CDATA[A viccpárt kampánya nyomán feleslegesnek és abszurdnak tűnhet a közéleti aktivitás.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Thu, 01 Sep 2016 19:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Párizs, Nizza, Köln… és a baloldal]]></title>
+   <link>http://mno.hu/velemeny/parizs-nizza-koln-es-a-baloldal-1354101?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Böcskei Balázs</author>
+   <enclosure url="http://mno.hu/data/cikkek/1354/13541/cikk-1354101/000_DC7BQ.jpg" length="319283" type="image/jpeg"/>
+   <description><![CDATA[Fontos kérdések felvetése híján a baloldal nem szólíthatja meg elforduló választóit. ]]></description>
+   <category>Vélemény</category>
+   <pubDate>Fri, 29 Jul 2016 11:59:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Összefogás helyett vetélkedtek egymással]]></title>
+   <link>http://mno.hu/velemeny/osszefogas-helyett-vetelkedtek-egymassal-1351967?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Böcskei Balázs</author>
+   <enclosure url="http://mno.hu/data/cikkek/1351/13519/cikk-1351967/D__AS20141122005.jpg" length="355004" type="image/jpeg"/>
+   <description><![CDATA[A pedagógus-szakszervezetek lassúak a döntéshozatalban, és túlszervezik önmagukat.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Thu, 14 Jul 2016 21:02:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Miért lehetetlenült el Schiffer András az LMP-ben?]]></title>
+   <link>http://mno.hu/hetvegimagazin/szetesesben-1346934?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Böcskei Balázs</author>
+   <enclosure url="http://mno.hu/data/cikkek/1346/13469/cikk-1346934/NBB_20140125_8334.jpg" length="272742" type="image/jpeg"/>
+   <description><![CDATA[Helyzetkép Schiffer András háttérbe vonulása után.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Mon, 13 Jun 2016 18:50:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Brexit, avagy amit nem akarhattok]]></title>
+   <link>http://mno.hu/velemeny/brexit-avagy-amit-nem-akarhattok-1336728?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Böcskei Balázs</author>
+   <enclosure url="http://mno.hu/data/cikkek/1336/13367/cikk-1336728/MNO_000_8A7AN.jpg" length="454009" type="image/jpeg"/>
+   <description><![CDATA[A britek politikájukkal a saját képükre formálják a közösségi szabályozást.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Sun, 10 Apr 2016 17:35:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Wallenstein Róbert]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/wallenstein-robert-29826</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Fri, 13 Apr 2018 10:15:12 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Szatmári haszidok alapítják az Egyesült Államok első ultraortodox zsidó városát]]></title>
+   <link>http://mno.hu/hetvegimagazin/szatmari-haszidok-alapitjak-az-egyesult-allamok-elso-ultraortodox-zsido-varosat-2446168?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Wallenstein Róbert</author>
+   <enclosure url="http://mno.hu/data/cikkek/2446/24461/cikk-2446168/000_OE8X5.jpg" length="181018" type="image/jpeg"/>
+   <description><![CDATA[A magyar nem hangzik rosszul, ha ételről van szó – állítja a helyi pékség ortodox zsidó tulajdonosa.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Sun, 11 Feb 2018 06:03:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

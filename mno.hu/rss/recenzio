@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - rovat: Recenzió]]></title>
+  <link>http://mno.hu/recenzio</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Wed, 11 Apr 2018 08:43:13 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Az égből jött macska]]></title>
+   <link>http://mno.hu/recenzio/az-egbol-jott-macska-1380008?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Dominka Ede Harald</author>
+   <enclosure url="http://mno.hu/data/cikkek/1380/13800/cikk-1380008/the_guest_cat_896_504_1483786717.jpg" length="21417" type="image/jpeg"/>
+   <description><![CDATA[Hiraide Takasi regénye nem az események, hanem a szimbólumok gazdagságától lett ragyogó.]]></description>
+   <category>Recenzió</category>
+   <pubDate>Sun, 08 Jan 2017 20:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Mindent a Tata-jelenségről]]></title>
+   <link>http://mno.hu/recenzio/mindent-a-tata-jelensegrol-1336776?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kiss Eszter Veronika</author>
+   <enclosure url="http://mno.hu/data/cikkek/1336/13367/cikk-1336776/Novak_Tata_MN_Archiv_grid2_fekvo_lead.jpg" length="49183" type="image/jpeg"/>
+   <description><![CDATA[Egy példakép üzenetei: Novák Ferenc „Tata”, a legendás koreográfus könyvben vall saját életútjáról. ]]></description>
+   <category>Recenzió</category>
+   <pubDate>Sun, 10 Apr 2016 14:25:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Új nyelvet teremt az internet törmelékéből]]></title>
+   <link>http://mno.hu/recenzio/uj-nyelvet-teremt-az-internet-tormelekebol-1335308?utm_source=feed&amp;utm_medium=rss</link>
+   <author>fib</author>
+   <description><![CDATA[Szaniszló Judit első kötete, a Beenged a mindennapokból alkot ellenállhatatlan költészetet. ]]></description>
+   <category>Recenzió</category>
+   <pubDate>Fri, 01 Apr 2016 16:48:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A szelíd emlékezés és az építkezés költészete]]></title>
+   <link>http://mno.hu/recenzio/a-szelid-emlekezes-es-az-epitkezes-kolteszete-1334946?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pion István</author>
+   <enclosure url="http://mno.hu/data/cikkek/1334/13349/cikk-1334946/000_ARP3756978_grid2_fekvo_lead.jpg" length="58477" type="image/jpeg"/>
+   <description><![CDATA[Megjelent magyarul az irodalmi Nobel-díjas Seamus Heaney utolsó verseskötete, az Élőlánc. Otthonos.]]></description>
+   <category>Recenzió</category>
+   <pubDate>Mon, 28 Mar 2016 14:53:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ringató módszer: mesék, zenék tiszta forrásból]]></title>
+   <link>http://mno.hu/recenzio/ringato-modszer-mesek-zenek-tiszta-forrasbol-1333657?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sashegyi Zsófia</author>
+   <enclosure url="http://mno.hu/data/cikkek/1333/13336/cikk-1333657/11568_grid2_fekvo_lead.jpg" length="111649" type="image/jpeg"/>
+   <description><![CDATA[Minden gyerek fantáziáját izgatják a hangszerek. Ha játszhatnak is velük, az maga a boldogság.]]></description>
+   <category>Recenzió</category>
+   <pubDate>Sun, 20 Mar 2016 12:55:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Roby Lakatos, a csárdásreformer]]></title>
+   <link>http://mno.hu/recenzio/roby-lakatos-a-csardasreformer-1332784?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Varga Attila</author>
+   <enclosure url="http://mno.hu/data/cikkek/1332/13327/cikk-1332784/_DSC0261-3_grid2_fekvo_lead.jpg" length="41542" type="image/jpeg"/>
+   <description><![CDATA[Roby Lakatos példaértékű pályaképe: hogyan lett Budapest legkövérebb gyereke világhírű prímás.]]></description>
+   <category>Recenzió</category>
+   <pubDate>Sat, 12 Mar 2016 16:05:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Egy kulturált vadász]]></title>
+   <link>http://mno.hu/recenzio/egy-kulturalt-vadasz-1332604?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Varga Attila</author>
+   <description><![CDATA[A vadászoknak is van lelkük, nem is akármekkora – állapíthatja meg, aki kezébe veszi Bors Richárd Lélekpatron című könyvét.]]></description>
+   <category>Recenzió</category>
+   <pubDate>Thu, 10 Mar 2016 18:29:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Festők a lövészárokban]]></title>
+   <link>http://mno.hu/recenzio/festok-a-loveszarokban-1332603?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pethő Tibor</author>
+   <enclosure url="http://mno.hu/data/cikkek/1332/13326/cikk-1332603/vilaghaboru_fortepan_uj_fekvo_lead.jpg" length="149014" type="image/jpeg"/>
+   <description><![CDATA[Az alkotásokon jól nyomon követhető a változás, ahogy a modern háború borzalmaira a fronton szolgálatot teljesítő minden katona ráébredt.]]></description>
+   <category>Recenzió</category>
+   <pubDate>Wed, 09 Mar 2016 18:19:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Sorsforduló a szőlőhegyen]]></title>
+   <link>http://mno.hu/recenzio/sorsfordulo-a-szolohegyen-1332206?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Nagy Boglárka</author>
+   <enclosure url="http://mno.hu/data/cikkek/1332/13322/cikk-1332206/F__ME19850619107_grid2_fekvo_lead.jpg" length="61486" type="image/jpeg"/>
+   <description><![CDATA[A tavaly elhunyt néprajztudós, Erdélyi Zsuzsanna monumentális gyűjteményes kötete páratlan olvasmány.]]></description>
+   <category>Recenzió</category>
+   <pubDate>Wed, 09 Mar 2016 15:15:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A baloldal iránytűi]]></title>
+   <link>http://mno.hu/recenzio/a-baloldal-iranytui-1326622?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Majláth Ronald</author>
+   <enclosure url="http://mno.hu/data/cikkek/1326/13266/cikk-1326622/HM20140120_5.jpg" length="274185" type="image/jpeg"/>
+   <description><![CDATA[Ha megismerjük mások ideológiáját, sokkal több közös vonást találunk egymásban, mint gondolnánk.]]></description>
+   <category>Recenzió</category>
+   <pubDate>Mon, 01 Feb 2016 21:56:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

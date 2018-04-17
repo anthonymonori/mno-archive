@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: T.P.]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/tp-20584</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Sun, 15 Apr 2018 01:56:58 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Utálja a szolfézst? Majd most megszereti!]]></title>
+   <link>http://mno.hu/csaladhalo/utalja-a-szolfezst-majd-most-megszereti-1217898?utm_source=feed&amp;utm_medium=rss</link>
+   <author>T.P.</author>
+   <description><![CDATA[Magyar fejlesztésű applikáció a könnyebb zenetanulásért.]]></description>
+   <category>Családháló</category>
+   <pubDate>Sat, 29 Mar 2014 10:33:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A drognál is veszedelmesebb gyerekekre és felnőttekre]]></title>
+   <link>http://mno.hu/csaladhalo/drognal-is-veszedelmesebb-ii-resz-1214628?utm_source=feed&amp;utm_medium=rss</link>
+   <author>T.P.</author>
+   <description><![CDATA[Sokan a létezését sem ismerik el, mások viszont a drognál is veszélyesebbnek tartják. Mi ez?]]></description>
+   <category>Családháló</category>
+   <pubDate>Sun, 09 Mar 2014 10:43:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Drognál is veszedelmesebb]]></title>
+   <link>http://mno.hu/csaladhalo/drognal-is-veszedelmesebb-1213141?utm_source=feed&amp;utm_medium=rss</link>
+   <author>T.P.</author>
+   <description><![CDATA[Sokan a létezését sem ismerik el, mások a drognál is veszélyesebbnek tartják az internetfüggőséget.]]></description>
+   <category>Családháló</category>
+   <pubDate>Sun, 02 Mar 2014 09:41:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A képekkel gyógyító terápia]]></title>
+   <link>http://mno.hu/csaladhalo/a-kepekkel-gyogyito-terapia-1211264?utm_source=feed&amp;utm_medium=rss</link>
+   <author>T.P.</author>
+   <description><![CDATA[A módszer viszonylag új, egyelőre még kevés a képzett terapeuták száma. De mi is ez pontosan?]]></description>
+   <category>Családháló</category>
+   <pubDate>Sun, 23 Feb 2014 14:48:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Miért jobb az egyházi esküvő?]]></title>
+   <link>http://mno.hu/csaladhalo/miert-jobb-az-egyhazi-eskuvo-1211267?utm_source=feed&amp;utm_medium=rss</link>
+   <author>T.P.</author>
+   <description><![CDATA[A fiatalok nagy része egyházi esküvőben gondolkodik. Miért lehet ez?]]></description>
+   <category>Családháló</category>
+   <pubDate>Sat, 22 Feb 2014 10:45:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Csodagép a gyermeket váróknak]]></title>
+   <link>http://mno.hu/csaladhalo/csodagep-a-gyermeket-varoknak-1209230?utm_source=feed&amp;utm_medium=rss</link>
+   <author>T.P.</author>
+   <description><![CDATA[Párizsi debütálása után két hónappal hazánkban is bemutatták, mit tud egy 5D ultrahangkészülék.]]></description>
+   <category>Családháló</category>
+   <pubDate>Wed, 05 Feb 2014 14:19:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Székely László]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/szekely-laszlo-15443</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 22:36:08 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[A robottechnika és az emberi szabadság]]></title>
+   <link>http://mno.hu/velemeny/a-robottechnika-es-az-emberi-szabadsag-2420116?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Székely László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2420/24201/cikk-2420116/000_SD2PH.jpg" length="272108" type="image/jpeg"/>
+   <description><![CDATA[A társadalom tagjainak jólétére hivatkozva éppen e jólét lehetőségeit korlátoznák.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Thu, 05 Oct 2017 18:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A filozófia védelmében]]></title>
+   <link>http://mno.hu/velemeny/a-filozofia-vedelmeben-1381553?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Székely László</author>
+   <enclosure url="http://mno.hu/data/cikkek/1381/13815/cikk-1381553/Homonnai_Jozsef_Attila_896_504_1484672548.jpg" length="37740" type="image/jpeg"/>
+   <description><![CDATA[Megjegyzések a József Attila Eszmélet című költeményéről szóló vitához.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Tue, 17 Jan 2017 21:08:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szaktudomány és GMO-mentesség]]></title>
+   <link>http://mno.hu/velemeny/szaktudomany-es-gmo-mentesseg-1355720?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Székely László</author>
+   <enclosure url="http://mno.hu/data/cikkek/1355/13557/cikk-1355720/MNO_043_dpa-pa_160718-99-724336_dpai.jpg" length="294951" type="image/jpeg"/>
+   <description><![CDATA[Néhány érv a hagyományos mezőgazdasági növény- és állatkultúra védelmében.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Mon, 08 Aug 2016 20:31:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hamis dilemmák fogságában]]></title>
+   <link>http://mno.hu/velemeny/hamis-dilemmak-fogsagaban-1331301?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Székely László</author>
+   <enclosure url="http://mno.hu/data/cikkek/1331/13313/cikk-1331301/KO062929.jpg" length="341650" type="image/jpeg"/>
+   <description><![CDATA[Az emberi jogi eszmék agresszív érvényesítése ezeket az ideákat önmaguk ellentétébe fordítja át.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Sat, 05 Mar 2016 19:50:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Barabbás]]></title>
+   <link>http://mno.hu/sport/barabbas-786737?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Székely László</author>
+   <description><![CDATA[]]></description>
+   <category>Sport</category>
+   <pubDate>Thu, 30 May 2002 01:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ronaldo könnyei]]></title>
+   <link>http://mno.hu/sport/ronaldo-konnyei-782110?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Székely László</author>
+   <description><![CDATA[]]></description>
+   <category>Sport</category>
+   <pubDate>Thu, 09 May 2002 01:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Rozi, a hátország]]></title>
+   <link>http://mno.hu/sport/rozi-a-hatorszag-807927?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Székely László</author>
+   <description><![CDATA[]]></description>
+   <category>Sport</category>
+   <pubDate>Wed, 06 Mar 2002 09:35:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

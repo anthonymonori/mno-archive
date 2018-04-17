@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Lajos P. János]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/lajos-p-janos-29646</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 14:54:34 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Szlovákia születése: a nemszeretem függetlenség]]></title>
+   <link>http://mno.hu/hetvegimagazin/szlovakia-szuletese-a-nemszeretem-fuggetlenseg-2439766?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lajos P. János</author>
+   <enclosure url="http://mno.hu/data/cikkek/2439/24397/cikk-2439766/C_OS19930101043.jpg" length="342091" type="image/jpeg"/>
+   <description><![CDATA[A demokratikus és független Szlovákia létrejöttét érdemesebb lenne 1998-tól számítani.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Sun, 14 Jan 2018 22:02:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

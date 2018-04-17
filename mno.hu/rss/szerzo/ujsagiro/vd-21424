@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: VD]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/vd-21424</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Fri, 13 Apr 2018 02:05:23 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Hétköznapi gyógyszerek taszítanak közelebb az Alzheimerhez]]></title>
+   <link>http://mno.hu/tudomany/az-altato-novelheti-az-alzheimer-kor-kockazatat-1247067?utm_source=feed&amp;utm_medium=rss</link>
+   <author>VD</author>
+   <description><![CDATA[Világszerte 35 millió embert sújt a betegség, most újabb kiváltó okot találtak a kutatók.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Mon, 15 Sep 2014 19:19:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Mi mindent kell még lenyelnünk?]]></title>
+   <link>http://mno.hu/tudomany/mi-mindent-kell-meg-lenyelnunk-1243001?utm_source=feed&amp;utm_medium=rss</link>
+   <author>VD</author>
+   <description><![CDATA[Ön tudja, hogy mit tartalmaz az étel, ami az asztalára kerül? Jobb, ha odafigyel, hisz az egészsége bánhatja!]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Sun, 14 Sep 2014 15:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Így veszélyeztetik a gyerekek a saját életüket]]></title>
+   <link>http://mno.hu/eletmod/tul-sok-sot-fogyasztanak-a-gyermekek-1247086?utm_source=feed&amp;utm_medium=rss</link>
+   <author>VD</author>
+   <description><![CDATA[A 6-18 éves amerikai gyerekek 90 százaléka az egészséges mennyiségnél jóval több sót eszik.]]></description>
+   <category>Életmód</category>
+   <pubDate>Sun, 14 Sep 2014 06:13:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[5000 literes bográcsban fő majd a halászlé]]></title>
+   <link>http://mno.hu/etelesital/hal-es-vadfesztival-lesz-vajdahunyad-varanal-1247098?utm_source=feed&amp;utm_medium=rss</link>
+   <author>VD</author>
+   <description><![CDATA[Mindenféle finomságot kóstolhatnak a látogatók szeptember 19. és 21. között Budapesten.]]></description>
+   <category>Étel és ital</category>
+   <pubDate>Sun, 14 Sep 2014 04:45:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hölgyeim, irány a Szív- és Érgyógyászati Klinika!]]></title>
+   <link>http://mno.hu/eletmod/ingyenes-kardiologiai-felmerest-tartanak-a-noknek-1247049?utm_source=feed&amp;utm_medium=rss</link>
+   <author>VD</author>
+   <description><![CDATA[Terheléses EKG, szívultrahang és vérvizsgálat is várja a hölgyeket a Kutatók éjszakáján.]]></description>
+   <category>Életmód</category>
+   <pubDate>Sat, 13 Sep 2014 06:13:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Továbbra is imádunk az Adrián nyaralni]]></title>
+   <link>http://mno.hu/eletmod/ismet-rekordot-dontottek-a-magyarok-horvatorszagban-1247028?utm_source=feed&amp;utm_medium=rss</link>
+   <author>VD</author>
+   <description><![CDATA[Többen, több éjszakát töltöttünk Horvátországban, mint tavaly.]]></description>
+   <category>Életmód</category>
+   <pubDate>Sat, 13 Sep 2014 05:23:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[60 év rekordjait gyűjtötték össze]]></title>
+   <link>http://mno.hu/eletmod/ime-a-legismertebb-guinness-rekordok-1247038?utm_source=feed&amp;utm_medium=rss</link>
+   <author>VD</author>
+   <description><![CDATA[A Guinness-rekordok könyvének születésnapi kiadásában összegyűjtötték a legérdekesebb teljesítményeket.]]></description>
+   <category>Életmód</category>
+   <pubDate>Thu, 11 Sep 2014 09:36:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Haluskafesztivál Vanyarcon]]></title>
+   <link>http://mno.hu/etelesital/haluskafesztival-vanyarcon-1246849?utm_source=feed&amp;utm_medium=rss</link>
+   <author>VD</author>
+   <description><![CDATA[Haluskafesztivált rendeznek a Nógrád megyei Vanyarcon szombaton.]]></description>
+   <category>Étel és ital</category>
+   <pubDate>Thu, 11 Sep 2014 08:13:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Új dinoszauruszfajt fedeztek fel]]></title>
+   <link>http://mno.hu/tudomany/uj-dinoszauruszfajt-fedeztek-fel-1247017?utm_source=feed&amp;utm_medium=rss</link>
+   <author>VD</author>
+   <description><![CDATA[Eddig ismeretlen, százmillió éve élt dinoszauruszfajt fedeztek fel amerikai kutatók Tanzániában.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Wed, 10 Sep 2014 22:46:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Autójuk „otthonát” keresték húszezer kilométeren át]]></title>
+   <link>http://mno.hu/eletmod/fura-celert-autozott-kinabol-angliaba-egy-par-1246856?utm_source=feed&amp;utm_medium=rss</link>
+   <author>VD</author>
+   <description><![CDATA[Mongólián, Oroszországon keresztül vezetett az út Európába.]]></description>
+   <category>Életmód</category>
+   <pubDate>Wed, 10 Sep 2014 19:49:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Rengeteg eső eshet ma]]></title>
+   <link>http://mno.hu/idojaras_rovat/ket-megyeben-masodfoku-a-figyelmeztetes-az-eso-miatt-1247032?utm_source=feed&amp;utm_medium=rss</link>
+   <author>VD</author>
+   <description><![CDATA[Győr-Moson-Sopron és Vas megye kivételével mindenhol lecsaphat az eső.]]></description>
+   <category>Időjárás</category>
+   <pubDate>Wed, 10 Sep 2014 14:26:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Egyedi bélyegek veterán motorokról]]></title>
+   <link>http://mno.hu/eletmod/3d-s-belyegeket-jelentetett-meg-a-magyar-posta-1246866?utm_source=feed&amp;utm_medium=rss</link>
+   <author>VD</author>
+   <description><![CDATA[Magyar veterán motorkerékpárok elnevezéssel alkalmi bélyegkisívet bocsátott forgalomba a Magyar Posta.]]></description>
+   <category>Életmód</category>
+   <pubDate>Wed, 10 Sep 2014 08:10:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Óriási mennyiségű gáz van a légkörben]]></title>
+   <link>http://mno.hu/tudomany/oriasi-mennyisegu-gaz-van-a-legkorben-1246869?utm_source=feed&amp;utm_medium=rss</link>
+   <author>VD</author>
+   <description><![CDATA[Tavaly újabb csúcsra emelkedett a légkörbe került üvegházhatású gázok koncentrációja]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Wed, 10 Sep 2014 06:11:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Furcsa mozgások egy holdon]]></title>
+   <link>http://mno.hu/urkutatas/lemeztektonikai-mozgas-a-jupiter-holdjan-1246860?utm_source=feed&amp;utm_medium=rss</link>
+   <author>VD</author>
+   <description><![CDATA[Amerikai kutatók lemeztektonikai aktivitást fedeztek fel a Jupiter Európé holdján.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Wed, 10 Sep 2014 04:09:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Páratlan tárgy bukkant elő a folyóból]]></title>
+   <link>http://mno.hu/eletmod/tobb-ezer-eves-kardot-talalt-egy-kisfiu-1246819?utm_source=feed&amp;utm_medium=rss</link>
+   <author>VD</author>
+   <description><![CDATA[Háromezer éves bronzkardra lelt egy folyóban játszadozó 11 éves gyerek a kelet-kínai Csiangszu tartományban.]]></description>
+   <category>Életmód</category>
+   <pubDate>Tue, 09 Sep 2014 23:19:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kiskorú veszélyeztetése vagy jogos szülői reakció?]]></title>
+   <link>http://mno.hu/eletmod/fel-europat-atutazta-vegul-pragaban-kezelik-a-rakos-kisfiut-1246812?utm_source=feed&amp;utm_medium=rss</link>
+   <author>VD</author>
+   <description><![CDATA[Egy Nagy-Britanniában nem elérhető kezelést kap Prágában az ötéves rákbeteg fiú.]]></description>
+   <category>Életmód</category>
+   <pubDate>Tue, 09 Sep 2014 20:32:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Igazán romantikus helyen veszi el menyasszonyát a népszerű színész]]></title>
+   <link>http://mno.hu/eletmod/velenceben-lesz-clooney-eskuvoje-1246839?utm_source=feed&amp;utm_medium=rss</link>
+   <author>VD</author>
+   <description><![CDATA[George Clooney bejelentette, hogy Velencében veszi feleségül menyasszonyát. ]]></description>
+   <category>Életmód</category>
+   <pubDate>Tue, 09 Sep 2014 15:24:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A világhírű fizikus szerint világvégét hozhat a Higgs-bozon]]></title>
+   <link>http://mno.hu/tudomany/itt-az-ujabb-vilagvege-joslat-1246835?utm_source=feed&amp;utm_medium=rss</link>
+   <author>VD</author>
+   <description><![CDATA[Stephen Hawking, világhírű elméleti fizikus szerint a Higgs-bozon elpusztíthatja a világot. ]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Tue, 09 Sep 2014 13:32:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Sok a szabad préda az országban]]></title>
+   <link>http://mno.hu/tudomany/megkezdodott-a-vadaszati-ideny-a-somogyi-erdokben-1246659?utm_source=feed&amp;utm_medium=rss</link>
+   <author>VD</author>
+   <description><![CDATA[Kezdetét vette a vadászidény az ország legnagyobb vadgazdálkodójánál.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Tue, 09 Sep 2014 07:15:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[126 évvel szörnyű tettei után végre azonosították az angol sorozatgyilkost]]></title>
+   <link>http://mno.hu/eletmod/lelepleztek-hasfelmetszo-jack-legendas-alakjat-1246668?utm_source=feed&amp;utm_medium=rss</link>
+   <author>VD</author>
+   <description><![CDATA[Hasfelmetsző Jack személyazonosságát 126 évvel a szörnyű gyilkosságok után derítette ki Russel Edwards amatőr nyomozó.]]></description>
+   <category>Életmód</category>
+   <pubDate>Mon, 08 Sep 2014 17:13:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Újra terhes, de súlyos rosszullétek gyötrik Katalin hercegnét]]></title>
+   <link>http://mno.hu/eletmod/katalin-es-vilmos-masodik-gyermekuket-varjak-1246639?utm_source=feed&amp;utm_medium=rss</link>
+   <author>VD</author>
+   <description><![CDATA[Cambridge hercegnéje újra állapotos. Katalin Hyperemesis gravidarum betegségben szenved.]]></description>
+   <category>Életmód</category>
+   <pubDate>Mon, 08 Sep 2014 13:29:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A magyar turistákat is várják Mauritiusra]]></title>
+   <link>http://mno.hu/eletmod/a-magyar-turistakat-is-varjak-mauritiusra-1246157?utm_source=feed&amp;utm_medium=rss</link>
+   <author>VD</author>
+   <description><![CDATA[A mauritiusi kormány azt szeretné, ha hazánkból is minél több turista érkezne az egzotikus országba. ]]></description>
+   <category>Életmód</category>
+   <pubDate>Mon, 08 Sep 2014 06:34:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A hosszú élet titka egyszerűbb, mint gondolnánk]]></title>
+   <link>http://mno.hu/eletmod/a-hosszu-elet-titka-egyszerubb-mint-gondolnank-1246231?utm_source=feed&amp;utm_medium=rss</link>
+   <author>VD</author>
+   <description><![CDATA[Egy svéd kutatás szerint többet állva hosszabb lehetne az életünk. ]]></description>
+   <category>Életmód</category>
+   <pubDate>Mon, 08 Sep 2014 05:55:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A magyar borok mellett számtalan olasz fajtát is kóstolhatnak az érdeklődők]]></title>
+   <link>http://mno.hu/etelesital/olaszorszag-a-budavari-borfesztival-diszvendege-1246166?utm_source=feed&amp;utm_medium=rss</link>
+   <author>VD</author>
+   <description><![CDATA[Olaszország lesz a díszvendég a több mint kétszáz pincészet borait felvonultató 23. Budavári Borfesztiválon.]]></description>
+   <category>Étel és ital</category>
+   <pubDate>Sun, 07 Sep 2014 21:31:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[18 milliárdot fizethet az olajcég]]></title>
+   <link>http://mno.hu/fogyasztovedelem/ujra-megbuntettek-a-bp-t-1246153?utm_source=feed&amp;utm_medium=rss</link>
+   <author>VD</author>
+   <description><![CDATA[További 18 milliárd dollárnyi büntetést kell fizetnie a BP-nek a olajömlés miatt. ]]></description>
+   <category>Fogyasztóvédelem</category>
+   <pubDate>Sun, 07 Sep 2014 07:39:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Sose együnk Trapp Pistát!]]></title>
+   <link>http://mno.hu/eletmod/ime-a-7-legmegtevesztobb-etel-1246183?utm_source=feed&amp;utm_medium=rss</link>
+   <author>VD</author>
+   <description><![CDATA[Olcsóbbak, mint az eredeti, de számos káros alapanyagot tartalmaznak az utánzat-élelmiszerek. ]]></description>
+   <category>Életmód</category>
+   <pubDate>Sat, 06 Sep 2014 21:32:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Tíz felnőttből három: A testi fenyítés hozzátartozik a neveléshez]]></title>
+   <link>http://mno.hu/eletmod/unicef-megoldatlan-problema-a-gyermekek-elleni-eroszak-1246168?utm_source=feed&amp;utm_medium=rss</link>
+   <author>VD</author>
+   <description><![CDATA[A gyermekek és fiatalok ijesztő mértékben vannak kitéve erőszaknak.]]></description>
+   <category>Életmód</category>
+   <pubDate>Sat, 06 Sep 2014 18:36:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Elménk megtanítható az egészséges táplálkozásra]]></title>
+   <link>http://mno.hu/eletmod/a-fogyas-is-az-agyban-dol-el-1245573?utm_source=feed&amp;utm_medium=rss</link>
+   <author>VD</author>
+   <description><![CDATA[Megtanítható az agyunk arra, hogy az egészséges ételeket válassza a magas kalóriájú egészségtelenek helyett.]]></description>
+   <category>Életmód</category>
+   <pubDate>Sat, 06 Sep 2014 17:25:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A meleg a fehércápákat is zavarja ]]></title>
+   <link>http://mno.hu/tudomany/nagy-fehercapat-fogtak-az-orosz-partoknal-1246015?utm_source=feed&amp;utm_medium=rss</link>
+   <author>VD</author>
+   <description><![CDATA[Ötméteres, egytonnás nagy fehércápa akadt orosz halászok hálójába a Távol-Keleten, Szahalin sziget partjainál.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Sat, 06 Sep 2014 10:35:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hatásos lehet az új AIDS elleni oltóanyag]]></title>
+   <link>http://mno.hu/eletmod/a-gates-alapitvany-segiti-a-hiv-virus-elleni-harcot-1246131?utm_source=feed&amp;utm_medium=rss</link>
+   <author>VD</author>
+   <description><![CDATA[Huszonötmillió dollárral támogatják a HIV-vírus elleni vakcina fejlesztését.]]></description>
+   <category>Életmód</category>
+   <pubDate>Sat, 06 Sep 2014 05:29:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

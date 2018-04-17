@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Rozsonits Tamás]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/rozsonits-tamas-28860</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Fri, 13 Apr 2018 11:51:16 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Bencsik Sándor, aki „angolul gitározott, de magyarul halt meg”]]></title>
+   <link>http://mno.hu/grund/bencsik-sandor-aki-angolul-gitarozott-de-magyarul-halt-meg-2416704?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Rozsonits Tamás</author>
+   <enclosure url="http://mno.hu/data/cikkek/2416/24167/cikk-2416704/F_BN19851226012.jpg" length="336158" type="image/jpeg"/>
+   <description><![CDATA[Ma lenne hatvanöt éves a magyar rockzene egyik legmeghatározóbb gitáros egyénisége, zeneszerzője.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Fri, 15 Sep 2017 15:44:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

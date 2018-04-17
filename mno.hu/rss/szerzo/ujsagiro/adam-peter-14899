@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Ádám Péter]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/adam-peter-14899</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 05:59:54 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Kinek az elnöke Emmanuel Macron?]]></title>
+   <link>http://mno.hu/velemeny/kinek-az-elnoke-emmanuel-macron-2456834?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ádám Péter</author>
+   <enclosure url="http://mno.hu/data/cikkek/2456/24568/cikk-2456834/000_PG1FN.jpg" length="375317" type="image/jpeg"/>
+   <description><![CDATA[Van valami halvány analógia a francia államfő és a Fidesz szavazóbázisa között.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Fri, 30 Mar 2018 14:20:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Reformdömping rohamléptekkel]]></title>
+   <link>http://mno.hu/velemeny/reformdomping-rohamleptekkel-2428976?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ádám Péter</author>
+   <enclosure url="http://mno.hu/data/cikkek/2428/24289/cikk-2428976/K_EPA20170921129.jpg" length="233270" type="image/jpeg"/>
+   <description><![CDATA[Emmanuel Macron meg van róla győződve, hogy rajta kívül senki sem tudja, mi a jó.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Tue, 21 Nov 2017 20:38:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Macron, a republikánus uralkodó]]></title>
+   <link>http://mno.hu/velemeny/macron-a-republikanus-uralkodo-2412227?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ádám Péter</author>
+   <enclosure url="http://mno.hu/data/cikkek/2412/24122/cikk-2412227/macron.jpg" length="303672" type="image/jpeg"/>
+   <description><![CDATA[A sorozatos véletlenek sem rejthetik el, hogy az elnök megválasztása maga is tünet.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Sat, 12 Aug 2017 18:45:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Vannak-e szülői jogaink?]]></title>
+   <link>http://mno.hu/velemeny/vannake-szuloi-jogaink-628301?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ádám Péter</author>
+   <description><![CDATA[]]></description>
+   <category>Vélemény</category>
+   <pubDate>Wed, 08 Sep 2004 19:51:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A jogállamiság eszméje és a gyámhivatal]]></title>
+   <link>http://mno.hu/velemeny/a-jogallamisag-eszmeje-es-a-gyamhivatal-701448?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ádám Péter</author>
+   <description><![CDATA[]]></description>
+   <category>Vélemény</category>
+   <pubDate>Tue, 23 Sep 2003 00:00:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

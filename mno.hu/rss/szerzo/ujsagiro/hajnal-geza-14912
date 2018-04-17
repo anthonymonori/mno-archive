@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Hajnal Géza]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/hajnal-geza-14912</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Fri, 13 Apr 2018 14:48:11 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[A gombától a legyezőig, avagy a Gödörtől a Széll Kálmán térig]]></title>
+   <link>http://mno.hu/hetvegimagazin/a-gombatol-a-legyezoig-avagy-a-godortol-a-szell-kalman-terig-2418276?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hajnal Géza</author>
+   <enclosure url="http://mno.hu/data/cikkek/2418/24182/cikk-2418276/VL20170913_3581.jpg" length="385305" type="image/jpeg"/>
+   <description><![CDATA[Megnéztük, mi maradt a régi Moszkva térből, hogyan alakult át az egykor galeriknek helyet adó valamikori agyagbánya.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Sun, 01 Oct 2017 20:11:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Harisnya]]></title>
+   <link>http://mno.hu/migr_1834/harisnya-641734?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hajnal Géza</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Sun, 30 May 2004 12:50:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Slicc]]></title>
+   <link>http://mno.hu/migr_1834/slicc-632654?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hajnal Géza</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Sat, 03 Apr 2004 00:00:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

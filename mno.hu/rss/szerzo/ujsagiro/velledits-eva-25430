@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Velledits Éva]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/velledits-eva-25430</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 03:15:31 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[A magyar tenger elválaszthatatlan részem]]></title>
+   <link>http://mno.hu/f22/a-magyar-tenger-elvalaszthatatlan-reszem-2408873?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Velledits Éva</author>
+   <enclosure url="http://mno.hu/data/cikkek/2408/24088/cikk-2408873/1940_Csontos_Peter.jpg" length="461928" type="image/jpeg"/>
+   <description><![CDATA[A cseles tó és környezete ügyes fortéllyal ejt rabul mindenkit, aki a közelébe kerül.]]></description>
+   <category>Fotó (f22)</category>
+   <pubDate>Tue, 25 Jul 2017 18:45:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hillary Clinton nem jut vissza az Ovális Irodába]]></title>
+   <link>http://mno.hu/f22/hillary-clinton-kampanya-kepekben-1370542?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Velledits Éva</author>
+   <enclosure url="http://mno.hu/data/cikkek/1370/13705/cikk-1370542/4_000_HR5E1x.jpg" length="325687" type="image/jpeg"/>
+   <description><![CDATA[Íme a kampányidőszak legjobb fotói.]]></description>
+   <category>Fotó (f22)</category>
+   <pubDate>Wed, 09 Nov 2016 11:30:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Íme Donald Trump útja az elnöki székig]]></title>
+   <link>http://mno.hu/f22/gyozelmet-unnepli-donald-trump-1370532?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Velledits Éva</author>
+   <enclosure url="http://mno.hu/data/cikkek/1370/13705/cikk-1370532/4_000_833I2x.jpg" length="299437" type="image/jpeg"/>
+   <description><![CDATA[Megtörtént az, amire csak kevesen számítottak.]]></description>
+   <category>Fotó (f22)</category>
+   <pubDate>Wed, 09 Nov 2016 10:36:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

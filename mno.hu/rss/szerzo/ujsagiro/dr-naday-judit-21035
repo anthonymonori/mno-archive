@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: dr. Náday Judit]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/dr-naday-judit-21035</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Sat, 14 Apr 2018 07:56:03 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Hat hónapos felmondási időt ajánlanak. Hol ebben a csapda?]]></title>
+   <link>http://mno.hu/korabbipartnereink/hat-honapos-felmondasi-idot-ajanlanak-hol-ebben-a-csapda-1257041?utm_source=feed&amp;utm_medium=rss</link>
+   <author>dr. Náday Judit</author>
+   <description><![CDATA[Ha aláírta a munkaszerződést, akkor a felmondási idő lejárta előtti távozás szerződésszegést jelent, következményekkel.]]></description>
+   <category>Korábbi partnereink</category>
+   <pubDate>Sun, 09 Nov 2014 09:38:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Várandós nő fizetéséből le lehet vonni tartozás címén?]]></title>
+   <link>http://mno.hu/korabbipartnereink/varandos-no-fizetesebol-le-lehet-vonni-tartozas-cimen-1257037?utm_source=feed&amp;utm_medium=rss</link>
+   <author>dr. Náday Judit</author>
+   <description><![CDATA[A levonás teljesítésének lehetőségét a bevétel jogcíme és a tartozás jellege határozza meg.]]></description>
+   <category>Korábbi partnereink</category>
+   <pubDate>Sat, 08 Nov 2014 09:27:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A munkaviszony megszűnése után jár a táppénz?]]></title>
+   <link>http://mno.hu/korabbipartnereink/a-munkaviszony-megszunese-utan-jar-a-tappenz-1241424?utm_source=feed&amp;utm_medium=rss</link>
+   <author>dr. Náday Judit</author>
+   <description><![CDATA[A táppénz szempontjából sem mindegy, hogy miként szűnik meg a munkaviszony.]]></description>
+   <category>Korábbi partnereink</category>
+   <pubDate>Sun, 10 Aug 2014 09:26:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A közalkalmazotti jogviszony és a nyugdíj]]></title>
+   <link>http://mno.hu/korabbipartnereink/a-kozalkalmazotti-jogviszony-es-a-nyugdij-1240305?utm_source=feed&amp;utm_medium=rss</link>
+   <author>dr. Náday Judit</author>
+   <description><![CDATA[Hogyan érinti a nyugdíj előtt álló pedagógusokat a szeptemberi béremelés?]]></description>
+   <category>Korábbi partnereink</category>
+   <pubDate>Sun, 03 Aug 2014 16:10:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Így örökölhet az élettársa és annak gyerekei a közös vagyonból]]></title>
+   <link>http://mno.hu/korabbipartnereink/igy-orokolhet-az-elettarsa-es-annak-gyerekei-a-kozos-vagyonbol-1230763?utm_source=feed&amp;utm_medium=rss</link>
+   <author>dr. Náday Judit</author>
+   <description><![CDATA[Halálom esetén az élettársam lakhat tovább a házamban? Ő és a gyerekei örökölhetik azt?]]></description>
+   <category>Korábbi partnereink</category>
+   <pubDate>Fri, 06 Jun 2014 10:53:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Táppénz kontra GYES a gyakorlatban]]></title>
+   <link>http://mno.hu/korabbipartnereink/a-tappenz-mellett-is-jar-a-gyes-1224164?utm_source=feed&amp;utm_medium=rss</link>
+   <author>dr. Náday Judit</author>
+   <description><![CDATA[A Magyar Államkincstár elutasította a gyes iránti igényemet, mivel táppénzen voltam. Mit tegyek?]]></description>
+   <category>Korábbi partnereink</category>
+   <pubDate>Thu, 01 May 2014 11:23:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

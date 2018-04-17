@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Büky László]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/buky-laszlo-13511</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Fri, 13 Apr 2018 04:17:26 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Az ólomkatona szenvedése]]></title>
+   <link>http://mno.hu/konyveshaz/az-olomkatona-szenvedese-2413074?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Büky László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2413/24130/cikk-2413074/hajnoczy_1.jpg" length="168937" type="image/jpeg"/>
+   <description><![CDATA[Az 1981-ben elhunyt Hajnóczy Péter munkásságáról már az ötödik kötet jelent meg az író hagyatékát gondozó műhely jóvoltából.]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Thu, 24 Aug 2017 07:44:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Éljen a király!]]></title>
+   <link>http://mno.hu/konyveshaz/eljen-a-kiraly-1385847?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Büky László</author>
+   <enclosure url="http://mno.hu/data/cikkek/1385/13858/cikk-1385847/fortepan.jpg" length="97800" type="image/jpeg"/>
+   <description><![CDATA[A hatalom jelei hihetetlen bőséggel, más-más módon nyilvánulhattak és nyilvánulhatnak meg máig is.]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Tue, 14 Feb 2017 12:12:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Autógyártás és ördöggyűrű]]></title>
+   <link>http://mno.hu/konyveshaz/autogyartas-es-ordoggyuru-1348289?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Büky László</author>
+   <enclosure url="http://mno.hu/data/cikkek/1348/13482/cikk-1348289/halozatok-page-001a.jpg" length="61053" type="image/jpeg"/>
+   <description><![CDATA[Valóban kicsi a világ, és fontos úgy létezni benne, hogy ne felejtsük, minden mindennel összefügg.]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Sun, 26 Jun 2016 15:05:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A jó modor könyve]]></title>
+   <link>http://mno.hu/konyveshaz/a-jo-modor-konyve-1343723?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Büky László</author>
+   <enclosure url="http://mno.hu/data/cikkek/1343/13437/cikk-1343723/000_B4869.jpg" length="81554" type="image/jpeg"/>
+   <description><![CDATA[Egy könyv, amelyből megtudható, hogy mindennapi életünkben miért is az illem és a jó modor a fő.]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Sat, 28 May 2016 20:55:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Tollas krumpli,  gúzsos prés]]></title>
+   <link>http://mno.hu/konyveshaz/tollas-krumpli-guzsos-pres-1335384?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Büky László</author>
+   <description><![CDATA[Másfél száz játékfajtát szedett össze a bencés szerzetesrend szétszórása után Kiskanizsára került Markó Imre Lehel.]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Fri, 01 Apr 2016 18:29:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Időzavar]]></title>
+   <link>http://mno.hu/migr_1834/idozavar-877106?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Büky László</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 20 Sep 2011 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Népiesch  töpörtyű]]></title>
+   <link>http://mno.hu/migr_1834/nepiesch--toportyu-885121?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Büky László</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 23 Aug 2011 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Sajtónyelvi legendárium]]></title>
+   <link>http://mno.hu/migr_1834/sajtonyelvi-legendarium-889407?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Büky László</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 26 Jul 2011 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Fortélyos dörgés]]></title>
+   <link>http://mno.hu/migr_1834/fortelyos_dorges-190303?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Büky László</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 28 Jun 2011 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A bankolás  illatolása]]></title>
+   <link>http://mno.hu/migr_1834/a_bankolas__illatolasa-182054?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Büky László</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 07 Jun 2011 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Acélos hangstilisztika]]></title>
+   <link>http://mno.hu/migr_1834/acelos_hangstilisztika-177062?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Büky László</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Fri, 29 Apr 2011 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Baráttánc]]></title>
+   <link>http://mno.hu/migr_1834/barattanc-178145?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Büky László</author>
+   <description><![CDATA[A N Y A N Y E L V Ü N K]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 26 Apr 2011 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Saraboló  focisták]]></title>
+   <link>http://mno.hu/migr_1834/sarabolo__focistak-167706?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Büky László</author>
+   <description><![CDATA[A N Y A N Y E L V Ü N K]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 15 Mar 2011 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Bogos cérna]]></title>
+   <link>http://mno.hu/migr_1834/bogos_cerna-165817?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Büky László</author>
+   <description><![CDATA[K Ö N Y V E S H Á Z]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 22 Feb 2011 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Vastag vonal]]></title>
+   <link>http://mno.hu/migr_1834/vastag_vonal-155917?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Büky László</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 08 Feb 2011 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nőies hölgy]]></title>
+   <link>http://mno.hu/migr_1834/noies_holgy-206127?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Büky László</author>
+   <description><![CDATA[A N Y A N Y E L V Ü N K<br />]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Mon, 03 Jan 2011 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Davajgitár, davaj csasz!]]></title>
+   <link>http://mno.hu/migr_1834/davajgitar_davaj_csasz-201386?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Büky László</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 07 Dec 2010 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Sárga kagyló]]></title>
+   <link>http://mno.hu/migr_1834/sarga_kagylo-199175?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Büky László</author>
+   <description><![CDATA[K Ö N Y V E S H Á Z]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 16 Nov 2010 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Gulag és balalajka]]></title>
+   <link>http://mno.hu/migr_1834/gulag_es_balalajka-225799?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Büky László</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 21 Sep 2010 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az emeregy szavak ereje]]></title>
+   <link>http://mno.hu/migr_1834/az_emeregy_szavak_ereje-217834?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Büky László</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Thu, 02 Sep 2010 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Bolond bolsevik]]></title>
+   <link>http://mno.hu/migr_1834/bolond_bolsevik-218113?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Büky László</author>
+   <description><![CDATA[A n y a n y e l v ü n k]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 31 Aug 2010 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Landau Mórné fehérneműi]]></title>
+   <link>http://mno.hu/migr_1834/landau_morne_fehernemui-219282?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Büky László</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 24 Aug 2010 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Napjárás]]></title>
+   <link>http://mno.hu/migr_1834/napjaras-214991?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Büky László</author>
+   <description><![CDATA[K Ö N Y V E S H Á Z]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 20 Jul 2010 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Tájékozatlan anglománok]]></title>
+   <link>http://mno.hu/migr_1834/tajekozatlan_anglomanok-230453?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Büky László</author>
+   <description><![CDATA[A N Y A N Y E L V Ü N K]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 27 Apr 2010 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Latinos keverékek]]></title>
+   <link>http://mno.hu/migr_1834/latinos_keverekek-260130?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Büky László</author>
+   <description><![CDATA[A N Y A N Y E L V Ü N K<br />]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 30 Mar 2010 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Abonyitól Zsolnaiig]]></title>
+   <link>http://mno.hu/migr_1834/abonyitol_zsolnaiig-257009?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Büky László</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 23 Feb 2010 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szia és cuppancs!]]></title>
+   <link>http://mno.hu/migr_1834/szia_es_cuppancs-266527?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Büky László</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 27 Oct 2009 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Bolond apostol?]]></title>
+   <link>http://mno.hu/migr_1834/bolond_apostol-296808?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Büky László</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 29 Sep 2009 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Anyanyelvünk]]></title>
+   <link>http://mno.hu/migr_1834/anyanyelvunk-331462?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Büky László</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 03 Mar 2009 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Mária üzenetei]]></title>
+   <link>http://mno.hu/migr_1834/maria_uzenetei-347139?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Büky László</author>
+   <description><![CDATA[k ö n y v e s h á z]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 21 Oct 2008 15:00:08 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Pogátsa Zoltán]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/pogatsa-zoltan-22223</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 01:35:20 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Mit tudunk a hazai tulajdonú gazdaságról?]]></title>
+   <link>http://mno.hu/gazdasag/mit-tudunk-a-hazai-tulajdonu-gazdasagrol-2442701?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pogátsa Zoltán</author>
+   <enclosure url="http://mno.hu/data/cikkek/2442/24427/cikk-2442701/17_1_1.jpg" length="185924" type="image/jpeg"/>
+   <description><![CDATA[A magyar gazdaság felzárkózásához szükség lenne erős hazai tulajdonú, exportképes cégekre.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Thu, 25 Jan 2018 15:59:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Különb bérek nélkül nem lesz itt semmi]]></title>
+   <link>http://mno.hu/velemeny/kulonb-berek-nelkul-nem-lesz-itt-semmi-2411561?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pogátsa Zoltán</author>
+   <enclosure url="http://mno.hu/data/cikkek/2411/24115/cikk-2411561/MNO_D_MTZ20140919006.jpg" length="510704" type="image/jpeg"/>
+   <description><![CDATA[Az innováció épphogy az alacsony fizetések miatt nem képes elterjedni a gazdaságban.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Tue, 08 Aug 2017 18:12:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az elmúlt nyolc év]]></title>
+   <link>http://mno.hu/hetvegimagazin/az-elmult-nyolc-ev-1381324?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pogátsa Zoltán</author>
+   <enclosure url="http://mno.hu/data/cikkek/1381/13813/cikk-1381324/MNO_000_Was6924975.jpg" length="981221" type="image/jpeg"/>
+   <description><![CDATA[Gazdasági téren is sokat várt a világ Obamától. De a szép szólamok ellenére a társadalmi különbségek nem csökkentek. Pogátsa Zoltán írása. ]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Mon, 16 Jan 2017 11:21:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Brexit: népszavazás a Rorschach-tesztről]]></title>
+   <link>http://mno.hu/velemeny/brexit-nepszavazas-a-rorschach-tesztrol-1348423?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pogátsa Zoltán</author>
+   <enclosure url="http://mno.hu/data/cikkek/1348/13484/cikk-1348423/000_C63X0.jpg" length="1220049" type="image/jpeg"/>
+   <description><![CDATA[Az uniós államok gazdaságának legalább annyi vesztenivalója lenne, mint a britekének.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Wed, 22 Jun 2016 11:45:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Végjáték]]></title>
+   <link>http://mno.hu/hetvegimagazin/vegjatek-1292602?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pogátsa Zoltán</author>
+   <description><![CDATA[A görög végjáték maga csak egy kis epizód egy sokkal nagyobb drámában.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Sat, 27 Jun 2015 09:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Száznyolcvan fokos fordulatra van szükség Magyarországon?]]></title>
+   <link>http://mno.hu/velemeny/a-gazdasagi-felzarkozas-modelljei-es-magyarorszag-1281872?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pogátsa Zoltán</author>
+   <description><![CDATA[Milyen Magyarországot szeretnénk? És miként születhetne meg ez az ország? Pogátsa Zoltán vitaindítója a Magyar Nemzet új sorozatában.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Wed, 15 Apr 2015 15:54:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

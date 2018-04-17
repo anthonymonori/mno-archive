@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Giczy György]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/giczy-gyorgy-29579</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 17:10:38 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Semmi sincsen egészen úgy]]></title>
+   <link>http://mno.hu/velemeny/semmi-sincsen-egeszen-ugy-2457162?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Giczy György</author>
+   <enclosure url="http://mno.hu/data/cikkek/2457/24571/cikk-2457162/8_1nbb.jpg" length="381981" type="image/jpeg"/>
+   <description><![CDATA[Az egyetlen jelöltnek nem csupán az egyetlensége, hanem a minősége is számít.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Sun, 01 Apr 2018 21:46:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Egy igazi kereszténydemokrata polgármester]]></title>
+   <link>http://mno.hu/velemeny/egy-igazi-keresztenydemokrata-polgarmester-2450929?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Giczy György</author>
+   <enclosure url="http://mno.hu/data/cikkek/2450/24509/cikk-2450929/BA_06215.jpg" length="295817" type="image/jpeg"/>
+   <description><![CDATA[Márki-Zay győzelmének az az oka, hogy a Fideszt a legérzékenyebb pontján találta el.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Fri, 02 Mar 2018 17:40:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A KDNP már régóta nincs válaszúton]]></title>
+   <link>http://mno.hu/velemeny/a-kdnp-mar-regota-nincs-valaszuton-2438040?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Giczy György</author>
+   <enclosure url="http://mno.hu/data/cikkek/2438/24380/cikk-2438040/NBB_20140927_6919.jpg" length="834306" type="image/jpeg"/>
+   <description><![CDATA[A párt önállóságáról lemondva mindig a Fidesznek alárendelt magatartást tanúsított.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Fri, 05 Jan 2018 17:26:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

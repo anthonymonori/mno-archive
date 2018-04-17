@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Frey Sándor]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/frey-sandor-21294</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 10:58:40 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Inmarsat műhold Proton rakétával]]></title>
+   <link>http://mno.hu/urkutatas/inmarsat-muhold-proton-raketaval-1270843?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Frey Sándor</author>
+   <description><![CDATA[Az Inmarsat újgenerációs műholdas kommunikációs rendszerének második űreszköze Bajkonurból állt pályára.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Mon, 02 Feb 2015 22:10:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ciklonpár a világűrből fényképezve]]></title>
+   <link>http://mno.hu/urkutatas/ciklonpar-a-vilagurbol-fenykepezve-1270449?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Frey Sándor</author>
+   <description><![CDATA[Ha elegendően közel kerülnek, a ciklonpárok tagjai akár egybe is olvadhatnak.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Mon, 02 Feb 2015 05:45:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Tó, melynek olykor csak medre van]]></title>
+   <link>http://mno.hu/urkutatas/szaraz-tonak-nedves-partjan-1270514?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Frey Sándor</author>
+   <description><![CDATA[A Mackay-tó Ausztrália negyedik legnagyobb tava – amikor éppen van benne víz.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Fri, 30 Jan 2015 21:27:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Furcsa dolgok történtek két különböző Iridium műholddal]]></title>
+   <link>http://mno.hu/urkutatas/arulkodo-urszemet-utkoztek-a-muholdak-vagy-sem-1269594?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Frey Sándor</author>
+   <description><![CDATA[Tavaly furcsa dolgok történtek két különböző Iridium műholddal is.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Mon, 26 Jan 2015 12:02:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Újabb katonai műholdat bocsátott fel az USA]]></title>
+   <link>http://mno.hu/urkutatas/muos-otbol-a-harmadik-muhold-1268868?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Frey Sándor, Szentpéteri László</author>
+   <description><![CDATA[Újabb, immár a harmadik taggal bővült az amerikai katonai mobil távközlési műholdrendszer.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Wed, 21 Jan 2015 21:34:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[2014: két évtizede a legtöbb start]]></title>
+   <link>http://mno.hu/urkutatas/2014-ket-evtizede-a-legtobb-start-1266432?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Frey Sándor</author>
+   <description><![CDATA[2014-ben több sikeres űrindítás volt a világon, mint 1994 óta bármikor.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Thu, 08 Jan 2015 20:08:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Egy falu mellé hullott a rakéta kiégett első fokozata]]></title>
+   <link>http://mno.hu/urkutatas/szilveszteri-meglepetes-az-egbol-1266438?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Frey Sándor</author>
+   <description><![CDATA[Egy kínai falu melletti erdőbe hullott vissza Szilveszter napján egy 3A hordozórakéta kiégett első fokozata.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Wed, 07 Jan 2015 20:43:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Élőlények a világűrben]]></title>
+   <link>http://mno.hu/urkutatas/a-legmostohabb-fold-koruli-ut-1265790?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Frey Sándor</author>
+   <description><![CDATA[Néhány élőlény a nyílt világűrben kering a Föld körül, a Nemzetközi Űrállomás külsején.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Fri, 02 Jan 2015 22:43:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Látszólag a fénynél tízszer gyorsabban]]></title>
+   <link>http://mno.hu/urkutatas/latszolag-a-fenynel-tizszer-gyorsabban-1264617?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Frey Sándor</author>
+   <description><![CDATA[Magyar szakemberek a kvazárkutatásoknál.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Sun, 28 Dec 2014 21:34:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Jamal–401, az új orosz műhold]]></title>
+   <link>http://mno.hu/urkutatas/jamal401-az-uj-orosz-muhold-1264005?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Frey Sándor</author>
+   <description><![CDATA[Az orosz távközlési műhold a Proton hordozórakéta négyszázadik indítása során állt pályára – ezúttal sikerrel.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Sat, 20 Dec 2014 20:26:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Óceáni áramlások az űrből]]></title>
+   <link>http://mno.hu/urkutatas/oceani-aramlasok-az-urbol-1263996?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Frey Sándor</author>
+   <description><![CDATA[Már egy éve „leesett” az európai GOCE (Gravity field and steady-state Ocean Circulation Explorer) műhold, de az adatainak feldolgozásával újabb figyelemre méltó eredményt értek el. ]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Thu, 18 Dec 2014 21:10:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Műholdhármas Kínából]]></title>
+   <link>http://mno.hu/urkutatas/muholdharmas-kinabol-1262982?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Frey Sándor</author>
+   <description><![CDATA[Három kisméretű, az óceáni hajóforgalmat kémlelő műhold indult Csiucsüanból.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Fri, 12 Dec 2014 20:33:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Folyhat tovább a Juice]]></title>
+   <link>http://mno.hu/urkutatas/folyhat-tovabb-a-juice-1262836?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Frey Sándor</author>
+   <description><![CDATA[Az ESA 2022-ben a Jupiter rendszerébe indítandó űrszondája, a Juice a következő fejlesztési fázisba léphet, magyar részvétellel.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Thu, 11 Dec 2014 21:38:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Vége a hibernálásnak, céljához közeledik az űrszonda]]></title>
+   <link>http://mno.hu/urkutatas/kilenc-ev-utan-a-plutohoz-er-az-urszonda-1261690?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Frey Sándor</author>
+   <description><![CDATA[December 6-án vége lesz a Plútó felé száguldó New Horizons űrszonda hibernációjának.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Thu, 04 Dec 2014 19:27:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Tesztelik az új generációs űrhajót]]></title>
+   <link>http://mno.hu/urkutatas/tesztelik-az-uj-generacios-urhajot-1261262?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Frey Sándor</author>
+   <description><![CDATA[A NASA új emberes űrhajójának fejlesztése fontos mérföldkőhöz érkezett, ugyanis tesztrepülés vár rá.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Tue, 02 Dec 2014 13:35:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Így néz ki egy vulkán a világűrből]]></title>
+   <link>http://mno.hu/urkutatas/pavlof-a-felhok-felett-1261143?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Frey Sándor</author>
+   <description><![CDATA[November közepén Alaszka legaktívabb tűzhányója, a Pavlof ismét kitört.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Tue, 02 Dec 2014 00:49:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Már mér a MAVEN]]></title>
+   <link>http://mno.hu/urkutatas/mar-mer-a-maven-1260727?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Frey Sándor</author>
+   <description><![CDATA[A MAVEN, a NASA Mars körüli új űrszondája hivatalosan is megkezdte egyelőre egy évig tartó kutatóprogramját.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Sun, 30 Nov 2014 20:41:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szupernóva, gravitációs lencsén át]]></title>
+   <link>http://mno.hu/urkutatas/szupernova-gravitacios-lencsen-at-1260724?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Frey Sándor</author>
+   <description><![CDATA[Pont 50 éve jósolták meg, a Hubble-űrtávcsővel most sikerült felfedezni az első, gravitációs lencsehatással megtöbbszörözött képű szupernóvát. ]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Sat, 29 Nov 2014 20:38:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Megint Kína, megint kémműhold]]></title>
+   <link>http://mno.hu/urkutatas/megint-kina-megint-kemmuhold-1259470?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Frey Sándor</author>
+   <description><![CDATA[A Jaokan-24 optikai távérzékelő műhold csütörtökön állt pályára Csiucsüanból.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Fri, 21 Nov 2014 22:33:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ritka kozmikus közelséget figyelhettek meg]]></title>
+   <link>http://mno.hu/urkutatas/marsi-ustokos-nagy-tuzijatek-lehetett-1258387?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Frey Sándor</author>
+   <description><![CDATA[A vártnál több, sok tonnányi por jutott a Mars légkörébe a C/2013 A1 (Siding Spring) üstökös közeli elrepülésekor.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Sun, 16 Nov 2014 19:48:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Mini-MRI készülékkel vizsgálnak majd az űrben]]></title>
+   <link>http://mno.hu/urkutatas/mini-mri-keszulek-juthat-ki-a-nemzetkozi-urallomasra-1257246?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Frey Sándor</author>
+   <description><![CDATA[Hamarosan miniatürizált orvosi diagnosztikai eszközök készülhetnek űrbeli, de akár földi alkalmazásra is.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Sun, 09 Nov 2014 21:33:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[ Egy kiszáradó víztározó űrfelvételen – ilyen volt, ilyen lett]]></title>
+   <link>http://mno.hu/urkutatas/szarazsag-braziliaban-1256941?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Frey Sándor</author>
+   <description><![CDATA[ Egy kiszáradó víztározó űrfelvételen – ilyen volt, ilyen lett.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Thu, 06 Nov 2014 22:33:47 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[SpaceShipTwo: mit lehet már tudni?]]></title>
+   <link>http://mno.hu/urkutatas/spaceshiptwo-mit-lehet-mar-tudni-1256704?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Frey Sándor</author>
+   <description><![CDATA[Összefoglaljuk, amit a SpaceShipTwo űrjármű végzetes balesetéről eddig nyilvánosságra hoztak.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Tue, 04 Nov 2014 22:40:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[GPS-holdak, felgyorsult tempóban]]></title>
+   <link>http://mno.hu/urkutatas/gps-holdak-felgyorsult-tempoban-1256130?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Frey Sándor</author>
+   <description><![CDATA[Idén már a negyedik új navigációs műholdat állították pályára Floridából.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Sat, 01 Nov 2014 21:43:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Valami bűzlik a Rosetta üstököse körül]]></title>
+   <link>http://mno.hu/urkutatas/az-ustokos-buze-1255603?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Frey Sándor</author>
+   <description><![CDATA[Milyen lenne a Rosetta kutatási célpontja, a Csurjumov–Geraszimenko-üstökös, ha megszagolhatnánk? Büdös!]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Tue, 28 Oct 2014 22:54:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Lake County a Sentinel-1A műhold szemével]]></title>
+   <link>http://mno.hu/urkutatas/lake-county-a-sentinel-1a-muhold-szemevel-1255380?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Frey Sándor</author>
+   <description><![CDATA[A Sentinel-1A műhold radarképén az USA egyik északnyugati államának viszonylag száraz, magasan fekvő területe látható.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Mon, 27 Oct 2014 21:20:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Rádióhullámok segítségével azonosítják a trópusi viharokat]]></title>
+   <link>http://mno.hu/urkutatas/munkaban-a-rapidscat-radaros-szelsebessegmero-1254517?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Frey Sándor</author>
+   <description><![CDATA[A Nemzetközi Űrállomásra (ISS) nemrég felvitt radaros szélsebességmérő berendezés megkezdte működését.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Sun, 26 Oct 2014 19:43:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A tükröződő napfény haszna a műholdfelvételeken]]></title>
+   <link>http://mno.hu/urkutatas/a-csillogas-tudomanya-igy-nez-a-napfeny-az-urben-1254512?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Frey Sándor</author>
+   <description><![CDATA[Az űrfelvételeken a kutatók számára bosszantó a kamerába tükröződő napfény, de akár hasznos is lehet.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Sat, 25 Oct 2014 20:13:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az űrállomás és a tó]]></title>
+   <link>http://mno.hu/urkutatas/nagy-sosto-utah-1254561?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Frey Sándor</author>
+   <description><![CDATA[A Nemzetközi Űrállomáson (ISS) dolgozó európai űrhajós készítette fotón jól látszik, hogy egy tó is lehet két színű.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Tue, 21 Oct 2014 22:13:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Két műholdat állított pályára az Ariane–5]]></title>
+   <link>http://mno.hu/urkutatas/ket-muholdat-allitott-palyara-az-ariane-5-1253881?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Frey Sándor</author>
+   <description><![CDATA[A start a Francia Guyanában fekvő Kourou űrközpontból történt, október 16-án.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Mon, 20 Oct 2014 02:37:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

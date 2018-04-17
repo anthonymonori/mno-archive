@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Szilágyi Richárd]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/szilagyi-richard-13095</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Wed, 11 Apr 2018 19:15:18 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Kint vagyunk a vízből]]></title>
+   <link>http://mno.hu/vezercikk/kint-vagyunk-a-vizbol-2410286?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szilágyi Richárd</author>
+   <enclosure url="http://mno.hu/data/cikkek/2410/24102/cikk-2410286/hosszu_szb.jpg" length="999976" type="image/jpeg"/>
+   <description><![CDATA[Hosszú Katinka halmozta az érmeket. De le a kalappal a világ második, hatodik vagy éppen tizenötödik legjobb magyar sportolója előtt is.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Mon, 31 Jul 2017 00:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Világszínvonalú hazugság]]></title>
+   <link>http://mno.hu/vezercikk/vilagszinvonalu-hazugsag-2405038?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szilágyi Richárd</author>
+   <enclosure url="http://mno.hu/data/cikkek/2405/24050/cikk-2405038/szb20170223_113.jpg" length="330880" type="image/jpeg"/>
+   <description><![CDATA[Bezárt kórházi osztályok, elvándorló orvosok és ápolók, halálos fertőzések... Ez lenne a világszínvonalú magyar egészségügy?]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Tue, 27 Jun 2017 00:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Pünkösdi terror]]></title>
+   <link>http://mno.hu/vezercikk/punkosdi-terror-2401895?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szilágyi Richárd</author>
+   <enclosure url="http://mno.hu/data/cikkek/2401/24018/cikk-2401895/london.jpg" length="1089231" type="image/jpeg"/>
+   <description><![CDATA[Aligha véletlen, hogy az újabb londoni terrortámadást a harmadik legnagyobb keresztény ünnepre, az egyház születésnapját jelentő pünkösdre időzítették. ]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Tue, 06 Jun 2017 00:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Farkas, a voksszállító]]></title>
+   <link>http://mno.hu/vezercikk/farkas-a-voksszallito-2401101?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szilágyi Richárd</author>
+   <enclosure url="http://mno.hu/data/cikkek/2401/24011/cikk-2401101/szb20141009_3018x.jpg" length="237855" type="image/jpeg"/>
+   <description><![CDATA[A hazai cigányság integrációja mindannyiunk érdeke lenne. Farkas Flórián mosdatása viszont csak a jelenlegi kormánypártoké.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Tue, 30 May 2017 00:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nem kapta meg a menedékjogot Mohácsi Viktória]]></title>
+   <link>http://mno.hu/belfold/nem-kapta-meg-a-menedekjogot-mohacsi-viktoria-2395992?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Győr Ágnes, Szilágyi Richárd</author>
+   <enclosure url="http://mno.hu/data/cikkek/2395/23959/cikk-2395992/000_Par1957569.jpg" length="489690" type="image/jpeg"/>
+   <description><![CDATA[A kanadai hatóságok elutasították a volt SZDSZ-es politikus kérelmét.]]></description>
+   <category>Belföld</category>
+   <pubDate>Tue, 25 Apr 2017 06:06:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A törvények feletti Fidesz]]></title>
+   <link>http://mno.hu/vezercikk/a-torvenyek-feletti-fidesz-2395536?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szilágyi Richárd</author>
+   <enclosure url="http://mno.hu/data/cikkek/2395/23955/cikk-2395536/DBELO20140907006.jpg" length="184101" type="image/jpeg"/>
+   <description><![CDATA[A kötvénybiznisz körüli titkolózás arra is rámutat, hogy a kormány törvények felett állónak hiszi magát.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Sat, 22 Apr 2017 00:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Vége a csendnek?]]></title>
+   <link>http://mno.hu/vezercikk/vege-a-csendnek-2394052?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szilágyi Richárd</author>
+   <enclosure url="http://mno.hu/data/cikkek/2394/23940/cikk-2394052/DSC_0006.jpg" length="251524" type="image/jpeg"/>
+   <description><![CDATA[A legnagyobb csendben akarták benyújtani a civileket megbélyegző törvényjavaslatot. Vasárnap azonban véget ért a csend.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Mon, 10 Apr 2017 00:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Dollár Papa Gyermekeinek orosz kalandja]]></title>
+   <link>http://mno.hu/grund/dollar-papa-gyermekeinek-orosz-kalandja-2393665?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szilágyi Richárd</author>
+   <enclosure url="http://mno.hu/data/cikkek/2393/23936/cikk-2393665/IMG_8325.jpg" length="1203079" type="image/jpeg"/>
+   <description><![CDATA[Für Anikó számos emlékezetes kőszínházi alakítás után most egy független társulat Csehov-előadásában remekel.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Sun, 09 Apr 2017 15:51:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Börtönbe az állatkínzókkal!]]></title>
+   <link>http://mno.hu/velemeny/bortonbe-az-allatkinzokkal-2392350?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szilágyi Richárd</author>
+   <enclosure url="http://mno.hu/data/cikkek/2392/23923/cikk-2392350/HM20100302_0502.jpg" length="372188" type="image/jpeg"/>
+   <description><![CDATA[Hiába szigorú a hazai szabályozás, ha valódi büntetéstől nem kell tartaniuk az elkövetőknek.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Wed, 29 Mar 2017 16:51:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A havi egymillió az új 47 ezer]]></title>
+   <link>http://mno.hu/velemeny/a-havi-egymillio-az-uj-47-ezer-2391783?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szilágyi Richárd</author>
+   <enclosure url="http://mno.hu/data/cikkek/2391/23917/cikk-2391783/20170215_NBB6179.jpg" length="408809" type="image/jpeg"/>
+   <description><![CDATA[Bánki Erik aránytévesztése talán onnan eredeztethető, hogy képviselőként nagyobb összegekhez szokott.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Sat, 25 Mar 2017 15:33:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Budapest, a „bűnös” város]]></title>
+   <link>http://mno.hu/vezercikk/budapest-a-bunos-varos-1387968?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szilágyi Richárd</author>
+   <enclosure url="http://mno.hu/data/cikkek/1387/13879/cikk-1387968/vezercikk_1000px_2.jpg" length="184848" type="image/jpeg"/>
+   <description><![CDATA[Egy kezemen meg tudnám számolni, hogy 2010 óta hány ügyben értett egyet Lázár János és Tarlós István.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Tue, 28 Feb 2017 00:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[2011 után megint az a kérdés, mit fog szólni a kultúrpolitika]]></title>
+   <link>http://mno.hu/grund/2011-utan-megint-az-a-kerdes-mit-fog-szolni-a-kulturpolitika-1380712?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szilágyi Richárd</author>
+   <enclosure url="http://mno.hu/data/cikkek/1380/13807/cikk-1380712/MNO_20170110_NBB8556_2__896_504_1484162264.jpg" length="201563" type="image/jpeg"/>
+   <description><![CDATA[A Trafó vezetői újból pályáznak, a jelenlegi felállásban folytatnák. Az alapító Szabó Györggyel beszélgettünk.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Thu, 12 Jan 2017 09:02:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Árkok az uszodában]]></title>
+   <link>http://mno.hu/vezercikk/arkok-az-uszodaban-1380158?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szilágyi Richárd</author>
+   <enclosure url="http://mno.hu/data/cikkek/1380/13801/cikk-1380158/_D_5762.jpg" length="420977" type="image/jpeg"/>
+   <description><![CDATA[Vasárnap véget ért egy 23 éve tartó korszak, amelyet Gyárfás Tamás neve fémjelzett. ]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Mon, 09 Jan 2017 00:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kodály Zoltán szobra is útban volt]]></title>
+   <link>http://mno.hu/grund/kodaly-zoltan-szobra-is-utban-volt-1376624?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szilágyi Richárd, Ficsor Benedek</author>
+   <enclosure url="http://mno.hu/data/cikkek/1376/13766/cikk-1376624/BJASZ20130416044x.jpg" length="559395" type="image/jpeg"/>
+   <description><![CDATA[A világhírű zenetudósról készült műalkotásnak a kormány költözése miatt kellett mennie a budai Várból.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Thu, 15 Dec 2016 12:48:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Egy windsori víg nő]]></title>
+   <link>http://mno.hu/vezercikk/egy-windsori-vig-no-1375940?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szilágyi Richárd</author>
+   <enclosure url="http://mno.hu/data/cikkek/1375/13759/cikk-1375940/D_MTI20141201100.jpg" length="201435" type="image/jpeg"/>
+   <description><![CDATA[A MÚSZ korifeusai csak a hatalommániás és pénzéhes párost akarták láttatni Hosszú és Tusup személyében.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Mon, 12 Dec 2016 00:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Párizs nem felejt]]></title>
+   <link>http://mno.hu/grund/parizs-nem-felejt-1371210?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szilágyi Richárd</author>
+   <enclosure url="http://mno.hu/data/cikkek/1371/13712/cikk-1371210/IMG_3731_2_1.JPG" length="48690" type="image/jpeg"/>
+   <description><![CDATA[Virágok és mécsesek lepték el a Bataclan környékét a terrortámadás évfordulóján.
+
+]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Sun, 13 Nov 2016 17:32:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kórház(ak) a káosz szélén]]></title>
+   <link>http://mno.hu/vezercikk/korhazak-a-kaosz-szelen-1366691?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szilágyi Richárd</author>
+   <enclosure url="http://mno.hu/data/cikkek/1366/13666/cikk-1366691/vezercikk_1000px_2.jpg" length="184848" type="image/jpeg"/>
+   <description><![CDATA[Egy minap megjelent felmérés szerint a magyarok leginkább az egészségügy helyzete miatt aggódnak. ]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Mon, 17 Oct 2016 00:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ingyenélők]]></title>
+   <link>http://mno.hu/vezercikk/ingyenelok-1365187?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szilágyi Richárd</author>
+   <enclosure url="http://mno.hu/data/cikkek/1365/13651/cikk-1365187/vezercikk_1000px_2.jpg" length="184848" type="image/jpeg"/>
+   <description><![CDATA[Utólag köszönettel tartozom Lázár Jánosnak, amiért a rasszistakártya kijátszásával ötletet adott.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Fri, 07 Oct 2016 00:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Illúziók nélkül]]></title>
+   <link>http://mno.hu/vezercikk/illuziok-nelkul-1364060?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szilágyi Richárd</author>
+   <enclosure url="http://mno.hu/data/cikkek/1364/13640/cikk-1364060/vezercikk_1000px_2.jpg" length="184848" type="image/jpeg"/>
+   <description><![CDATA[Már Orbán Viktor környezetében sem bíznak az érvényes népszavazásban.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Fri, 30 Sep 2016 00:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Távol Afrikától?]]></title>
+   <link>http://mno.hu/vezercikk/tavol-afrikatol-1363132?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szilágyi Richárd</author>
+   <enclosure url="http://mno.hu/data/cikkek/1363/13631/cikk-1363132/vezercikk_1000px_2.jpg" length="184848" type="image/jpeg"/>
+   <description><![CDATA[Fontos lenne a miniszterelnök politikai hitvallásának folyamatos szembesítése a tényekkel.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Sat, 24 Sep 2016 00:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Csalók ideje]]></title>
+   <link>http://mno.hu/vezercikk/csalok-ideje-1357418?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szilágyi Richárd</author>
+   <enclosure url="http://mno.hu/data/cikkek/1357/13574/cikk-1357418/vezercikk_1000px_2.jpg" length="184848" type="image/jpeg"/>
+   <description><![CDATA[Mi, férfiak még ma is nehezen ismerjük be, ha megkönnyezünk valamit.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Thu, 18 Aug 2016 00:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Több mint egy arany]]></title>
+   <link>http://mno.hu/vezercikk/tobb-mint-egy-arany-1355622?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szilágyi Richárd</author>
+   <enclosure url="http://mno.hu/data/cikkek/1355/13556/cikk-1355622/vezercikk_1000px_2.jpg" length="184848" type="image/jpeg"/>
+   <description><![CDATA[Az emberfeletti munka akkor is meghozza a gyümölcsét, ha szinte a teljes rendszer ellenünk dolgozik.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Mon, 08 Aug 2016 00:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Olimpiai jelszócsere]]></title>
+   <link>http://mno.hu/velemeny/olimpiai-jelszocsere-1354855?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szilágyi Richárd</author>
+   <enclosure url="http://mno.hu/data/cikkek/1354/13548/cikk-1354855/000_DK1U6.jpg" length="245292" type="image/jpeg"/>
+   <description><![CDATA[A modern kori olimpiák már rég nem a „Citius, altius, fortius” jelszavának szellemében zajlanak.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Wed, 03 Aug 2016 19:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Álviták a halálbüntetésről]]></title>
+   <link>http://mno.hu/vezercikk/alvitak-a-halalbuntetesrol-1354449?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szilágyi Richárd</author>
+   <enclosure url="http://mno.hu/data/cikkek/1354/13544/cikk-1354449/vezercikk_1000px_2.jpg" length="184848" type="image/jpeg"/>
+   <description><![CDATA[Amikor a magyar kormány tagjai társadalmi vitát ígértek, nem tettek mást, mint most Erdoganék.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Mon, 01 Aug 2016 00:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Árral szemben]]></title>
+   <link>http://mno.hu/vezercikk/arral-szemben-1352747?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szilágyi Richárd</author>
+   <enclosure url="http://mno.hu/data/cikkek/1352/13527/cikk-1352747/vezercikk_1000px_2.jpg" length="184848" type="image/jpeg"/>
+   <description><![CDATA[Kellenek a sportsikerek, az viszont nem mindegy, hogy milyen áron jutunk hozzájuk.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Wed, 20 Jul 2016 00:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Navracsics Tibor nem vár huxitot]]></title>
+   <link>http://mno.hu/kulfold/navracsics-tibor-nem-var-huxitot-1349134?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szilágyi Richárd</author>
+   <enclosure url="http://mno.hu/data/cikkek/1349/13491/cikk-1349134/_BEL1826.jpg" length="257387" type="image/jpeg"/>
+   <description><![CDATA[A magyar biztos szerint a britek akár újra kérhetik felvételüket az Európai Unióba.]]></description>
+   <category>Külföld</category>
+   <pubDate>Mon, 27 Jun 2016 10:15:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Háttérbe szorított közérdek]]></title>
+   <link>http://mno.hu/vezercikk/hatterbe-szoritott-kozerdek-1345511?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szilágyi Richárd</author>
+   <enclosure url="http://mno.hu/data/cikkek/1345/13455/cikk-1345511/vezercikk_1000px_2.jpg" length="184848" type="image/jpeg"/>
+   <description><![CDATA[Akik nem jutnak majd időben a pénzükhöz, nem az állítólagos háttérhatalmakat fogják okolni.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Sat, 04 Jun 2016 00:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ki az aljas valójában?]]></title>
+   <link>http://mno.hu/vezercikk/ki-az-aljas-valojaban-1342939?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szilágyi Richárd</author>
+   <enclosure url="http://mno.hu/data/cikkek/1342/13429/cikk-1342939/vezercikk_1000px_2.jpg" length="184848" type="image/jpeg"/>
+   <description><![CDATA[Szinte lehetetlen lesz megmagyarázni Áder mellőzését. ]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Thu, 19 May 2016 00:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Jegybanki mézesbödönök]]></title>
+   <link>http://mno.hu/vezercikk/jegybanki-mezesbodonok-1339148?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szilágyi Richárd</author>
+   <enclosure url="http://mno.hu/data/cikkek/1339/13391/cikk-1339148/vezercikk_1000px_2.jpg" length="184848" type="image/jpeg"/>
+   <description><![CDATA[Az MNB és annak vezetői még szorult helyzetükben is csak a hasukra gondolnak.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Mon, 25 Apr 2016 00:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kiszámíthatóság és hitelesség]]></title>
+   <link>http://mno.hu/vezercikk/kiszamithatosag-es-hitelesseg-1338181?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szilágyi Richárd</author>
+   <enclosure url="http://mno.hu/data/cikkek/1338/13381/cikk-1338181/vezercikk_1000px_2.jpg" length="184848" type="image/jpeg"/>
+   <description><![CDATA[Két alaptétel, amely jelenleg nagyon hiányzik a hazai egészségügyből.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Tue, 19 Apr 2016 00:01:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

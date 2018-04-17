@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Páll Norbert]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/pall-norbert-25778</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 22:24:35 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Vizes vb-tanulságok: átalakuló ausztrálok, hanyatló németek, franciák]]></title>
+   <link>http://mno.hu/sport/vizes-vb-tanulsagok-atalakulo-ausztralok-hanyatlo-nemetek-franciak-2411127?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Páll Norbert</author>
+   <enclosure url="http://mno.hu/data/cikkek/2411/24111/cikk-2411127/MNO_000_R31UD.jpg" length="822634" type="image/jpeg"/>
+   <description><![CDATA[Az amerikai úszók dominanciája töretlennek látszik, egyre több viszont a feltörekvő ország. Elemzés.]]></description>
+   <category>Sport</category>
+   <pubDate>Thu, 10 Aug 2017 12:20:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Vizes-vb-n jártam, avagy az ausztrál–magyar barátság építése]]></title>
+   <link>http://mno.hu/vizesvb/vizes-vb-n-jartam-avagy-az-ausztralmagyar-baratsag-epitese-2410661?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Páll Norbert</author>
+   <enclosure url="http://mno.hu/data/cikkek/2410/24106/cikk-2410661/D_NOE20170729040.jpg" length="257029" type="image/jpeg"/>
+   <description><![CDATA[Az embernek olykor a szava is eláll, ha összefut az arénában egy világsztárral.]]></description>
+   <category>Vizes vb</category>
+   <pubDate>Wed, 02 Aug 2017 15:37:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Fehér ember ilyet még nem csinált errefelé]]></title>
+   <link>http://mno.hu/sport/feher-ember-ilyet-meg-nem-csinalt-errefele-2390583?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Páll Norbert</author>
+   <enclosure url="http://mno.hu/data/cikkek/2390/23905/cikk-2390583/063_654158296.jpg" length="301032" type="image/jpeg"/>
+   <description><![CDATA[Dirk Nowitzki belépett a „harmincezresek” táborába az NBA-ben. Európai kosarasnak ez még sohasem sikerült. Portré. ]]></description>
+   <category>Sport</category>
+   <pubDate>Fri, 17 Mar 2017 18:04:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Elköszönt az igazi szélső védő prototípusa]]></title>
+   <link>http://mno.hu/foci/elkoszont-az-igazi-szelso-vedo-prototipusa-1386284?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Páll Norbert</author>
+   <enclosure url="http://mno.hu/data/cikkek/1386/13862/cikk-1386284/000_8T8PVHDF.jpg" length="235374" type="image/jpeg"/>
+   <description><![CDATA[A becsúszó szerelések királya, Philipp Lahm búcsúzik. Nála mindig a csapat volt az első, nem a pénz. ]]></description>
+   <category>90 perc</category>
+   <pubDate>Fri, 17 Feb 2017 04:44:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A „nemzet bombázója” hatékonyabb, mint Messi]]></title>
+   <link>http://mno.hu/foci/a-nemzet-bombazoja-hatekonyabb-mint-messi-1385812?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Páll Norbert</author>
+   <enclosure url="http://mno.hu/data/cikkek/1385/13858/cikk-1385812/kombo.jpg" length="1412150" type="image/jpeg"/>
+   <description><![CDATA[Az UEFA érdekes statisztikát közölt a nemzetközi kupamérkőzéseken szereplő gólvadászokról. 
+]]></description>
+   <category>90 perc</category>
+   <pubDate>Tue, 14 Feb 2017 05:44:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Federer–Nadal: visszatért a matuzsálemek kora?]]></title>
+   <link>http://mno.hu/sport/federer-nadal-visszatert-a-matuzsalemek-kora-1383977?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Páll Norbert</author>
+   <enclosure url="http://mno.hu/data/cikkek/1383/13839/cikk-1383977/federer_nada_kombo_gs.jpg" length="283219" type="image/jpeg"/>
+   <description><![CDATA[Az Australian Open két győztese összesen 72 éves. Példátlan, hogy ilyen koros játékosok nyerjenek. ]]></description>
+   <category>Sport</category>
+   <pubDate>Wed, 01 Feb 2017 18:20:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A lipcsei csodatévő veri a Juve nagyágyúját is]]></title>
+   <link>http://mno.hu/foci/a-lipcsei-csodatevo-veri-a-juve-nagyagyujat-is-1382511?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Páll Norbert</author>
+   <enclosure url="http://mno.hu/data/cikkek/1382/13825/cikk-1382511/043_dpa_pa_170103_99_732745_dpai.jpg" length="408073" type="image/jpeg"/>
+   <description><![CDATA[Nem biztos, hogy gondolkodás nélkül rávágja, ki a világ legjobb futball-sportigazgatója jelenleg. ]]></description>
+   <category>90 perc</category>
+   <pubDate>Tue, 24 Jan 2017 05:05:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Miklós Edit: célkeresztben a vb-érem]]></title>
+   <link>http://mno.hu/sport/miklos-edit-celkeresztben-a-vb-erem-1379766?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Páll Norbert</author>
+   <description><![CDATA[Sízőnk a lesiklás mellett a szuperóriás-műlesiklással is kezd megbarátkozni.]]></description>
+   <category>Sport</category>
+   <pubDate>Thu, 05 Jan 2017 21:10:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

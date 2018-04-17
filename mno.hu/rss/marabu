@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - rovat: Marabu]]></title>
+  <link>http://mno.hu/marabu</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Wed, 11 Apr 2018 08:56:54 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Folyt. köv.]]></title>
+   <link>http://mno.hu/marabu/folyt-kov-2459201?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Marabu</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24592/cikk-2459201/folyt_kov.jpg" length="315053" type="image/jpeg"/>
+   <description><![CDATA[A hazaáruló, sorosista-civilista ellenzék választási csalásai és manipulációi miatt sajnos nem lett meg a négyötöd.]]></description>
+   <category>Marabu</category>
+   <pubDate>Tue, 10 Apr 2018 13:18:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hajrá, Magyarország!]]></title>
+   <link>http://mno.hu/marabu/hajra-magyarorszag-2458943?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Marabu</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24589/cikk-2458943/20180409magyar_vandor.jpg" length="323619" type="image/jpeg"/>
+   <description><![CDATA[Mi, magyarok a magyar utat választjuk! Az meg már kit érdekel, hogy a magyar út milyen úti célt választ?]]></description>
+   <category>Marabu</category>
+   <pubDate>Mon, 09 Apr 2018 11:31:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Bizony, bizony]]></title>
+   <link>http://mno.hu/marabu/bizony-bizony-2458681?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Marabu</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24586/cikk-2458681/bizony_bizony.jpg" length="343002" type="image/jpeg"/>
+   <description><![CDATA[Trallala, trallala, valakinek holnap le kell győzni a sötétséget, trallala, trallala, mondd, te kit választanál? Trallala.]]></description>
+   <category>Marabu</category>
+   <pubDate>Sun, 08 Apr 2018 09:43:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Totális együttműködés]]></title>
+   <link>http://mno.hu/marabu/totalis-egyuttmukodes-2458369?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Marabu</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24583/cikk-2458369/totalis_egyuttmukodes.jpg" length="376465" type="image/jpeg"/>
+   <description><![CDATA[Igeragozási tréning: én visszalépek, te visszalépsz, ő visszalép, mi visszalépünk, ti visszaléptek, ők visszalépnek.]]></description>
+   <category>Marabu</category>
+   <pubDate>Fri, 06 Apr 2018 13:38:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Igen, nem, nemigen]]></title>
+   <link>http://mno.hu/marabu/igen-nem-nemigen-2458115?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Marabu</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24581/cikk-2458115/igen_nem_nemigen.jpg" length="349449" type="image/jpeg"/>
+   <description><![CDATA[Mindenkinek van egy iksze. Mindenki oda húzza be azt az ikszet, ahová kedve tartja. Játék indul, start!]]></description>
+   <category>Marabu</category>
+   <pubDate>Thu, 05 Apr 2018 15:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Fullánkok]]></title>
+   <link>http://mno.hu/marabu/fullankok-2457812?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Marabu</author>
+   <enclosure url="http://mno.hu/data/cikkek/2457/24578/cikk-2457812/fullankok.jpg" length="315638" type="image/jpeg"/>
+   <description><![CDATA[A méhcsípésben egyébként az a truváj, hogy a méh nem csíp, hanem szúr, bár a rajz szempontjából ez tök mellékes.]]></description>
+   <category>Marabu</category>
+   <pubDate>Thu, 05 Apr 2018 08:51:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Lyukas a zseb vagy mi?]]></title>
+   <link>http://mno.hu/marabu/lyukas-a-zseb-vagy-mi-2457565?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Marabu</author>
+   <enclosure url="http://mno.hu/data/cikkek/2457/24575/cikk-2457565/lyukas_a_zseb_vagy_mi.jpg" length="319598" type="image/jpeg"/>
+   <description><![CDATA[Csak a tréfa kedvéért képzeljük el, hogy mondjuk nem a sajtó foglalkozik a korrupciós ügyekkel, hanem az ügyészség.]]></description>
+   <category>Marabu</category>
+   <pubDate>Tue, 03 Apr 2018 15:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Húsvét üzenete]]></title>
+   <link>http://mno.hu/marabu/husvet-uzenete-2457160?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Marabu</author>
+   <enclosure url="http://mno.hu/data/cikkek/2457/24571/cikk-2457160/Husvet_uzenete.jpg" length="419926" type="image/jpeg"/>
+   <description><![CDATA[Reméljük, húsvét üzenete mindenkinél célba ér. Hát, ha nem is a tízes körbe, de legalább a hetes-nyolcasba.]]></description>
+   <category>Marabu</category>
+   <pubDate>Sat, 31 Mar 2018 15:48:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Programok]]></title>
+   <link>http://mno.hu/marabu/programok-2456940?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Marabu</author>
+   <enclosure url="http://mno.hu/data/cikkek/2456/24569/cikk-2456940/programok.jpg" length="335095" type="image/jpeg"/>
+   <description><![CDATA[Igyekezni kell a meghívásokkal, a trófeagyűjteményből hiányzik még a koala, az unikornis, a nóplíz és az ítí.]]></description>
+   <category>Marabu</category>
+   <pubDate>Fri, 30 Mar 2018 10:22:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Külgazdaságunk]]></title>
+   <link>http://mno.hu/marabu/kulgazdasagunk-2456335?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Marabu</author>
+   <enclosure url="http://mno.hu/data/cikkek/2456/24563/cikk-2456335/kulgazdasagunk.jpg" length="321314" type="image/jpeg"/>
+   <description><![CDATA[Nehogy már a végén Brüsszel abba is bele akarjon szólni, hogy kinek a magánszámlájára kerülnek az euróik!]]></description>
+   <category>Marabu</category>
+   <pubDate>Wed, 28 Mar 2018 22:27:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kedves Vezető]]></title>
+   <link>http://mno.hu/marabu/kedves-vezeto-2456497?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Marabu</author>
+   <enclosure url="http://mno.hu/data/cikkek/2456/24564/cikk-2456497/Kedves_Vezeto.jpg" length="398785" type="image/jpeg"/>
+   <description><![CDATA[Fejlődünk. Erősödünk. Biztonságosodunk. Megvédődünk. Munkahelyteremtődünk. Pénzügyi stabilizálódunk.]]></description>
+   <category>Marabu</category>
+   <pubDate>Wed, 28 Mar 2018 07:47:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nehéz kiismerni magunkat]]></title>
+   <link>http://mno.hu/marabu/nehez-kiismerni-magunkat-2456028?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Marabu</author>
+   <enclosure url="http://mno.hu/data/cikkek/2456/24560/cikk-2456028/nehez_kiismerni_magunkat.jpg" length="368301" type="image/jpeg"/>
+   <description><![CDATA[Mondja, kérem, az önök országában van az a szokás, hogy ha hazudik a miniszterelnök, kitörnek a zavargások?]]></description>
+   <category>Marabu</category>
+   <pubDate>Mon, 26 Mar 2018 22:02:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Recycling]]></title>
+   <link>http://mno.hu/marabu/recycling-2455721?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Marabu</author>
+   <enclosure url="http://mno.hu/data/cikkek/2455/24557/cikk-2455721/recycling.jpg" length="352486" type="image/jpeg"/>
+   <description><![CDATA[A Soros-zsoldban álló kétezer civil Brüsszel ügynökeként ráront saját nemzetére, hogy lerombolja a… Mit is?]]></description>
+   <category>Marabu</category>
+   <pubDate>Sun, 25 Mar 2018 12:21:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Fuss, fidesznyik, fuss!]]></title>
+   <link>http://mno.hu/marabu/fuss-fidesznyik-fuss-2455524?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Marabu</author>
+   <enclosure url="http://mno.hu/data/cikkek/2455/24555/cikk-2455524/fuss_fidesznyik_fuss.jpg" length="328591" type="image/jpeg"/>
+   <description><![CDATA[Kérdezni valamit eleve hazaárulás, ezt kellene legelőször is megtanítani azokban az újságíró-iskolákban.]]></description>
+   <category>Marabu</category>
+   <pubDate>Fri, 23 Mar 2018 15:49:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Gátszakadás]]></title>
+   <link>http://mno.hu/marabu/gatszakadas-2455268?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Marabu</author>
+   <enclosure url="http://mno.hu/data/cikkek/2455/24552/cikk-2455268/gatszakadas.jpg" length="375922" type="image/jpeg"/>
+   <description><![CDATA[Nagy államférfiak nagy mondásai rovatunkból: „Semmiféle üzleti üggyel nem foglalkozok, nem is fogok”.]]></description>
+   <category>Marabu</category>
+   <pubDate>Thu, 22 Mar 2018 13:44:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Schrödinger doboza üres]]></title>
+   <link>http://mno.hu/marabu/schrodinger-doboza-ures-2455176?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Marabu</author>
+   <enclosure url="http://mno.hu/data/cikkek/2455/24551/cikk-2455176/Schrodinger_doboza_ures.jpg" length="241593" type="image/jpeg"/>
+   <description><![CDATA[A kérdés: milyen állapotban van Schrödinger szavazata a doboz kinyitása előtt? Hasznosuló? Elvesző? Szuperpozíciós?]]></description>
+   <category>Marabu</category>
+   <pubDate>Thu, 22 Mar 2018 07:29:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Jövés-menés]]></title>
+   <link>http://mno.hu/marabu/joves-menes-2454708?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Marabu</author>
+   <enclosure url="http://mno.hu/data/cikkek/2454/24547/cikk-2454708/joves_menes.jpg" length="371783" type="image/jpeg"/>
+   <description><![CDATA[Barátposzáta, bíbic, csilpcsalpfüzike, gólya, füstifecske, lappantyú, sárga billegető, sisegő füzike és bűntársaik.]]></description>
+   <category>Marabu</category>
+   <pubDate>Tue, 20 Mar 2018 16:11:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Öreg néne perselykéje]]></title>
+   <link>http://mno.hu/marabu/oreg-nene-perselykeje-2454426?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Marabu</author>
+   <enclosure url="http://mno.hu/data/cikkek/2454/24544/cikk-2454426/oreg_nene_perselykeje.jpg" length="452747" type="image/jpeg"/>
+   <description><![CDATA[Szamos alján, falu szélén / lakik az én öreg néném, / melegszívű, dolgos, derék, / tőle tudom ezt a mesét.]]></description>
+   <category>Marabu</category>
+   <pubDate>Mon, 19 Mar 2018 12:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Út szélén hagyva]]></title>
+   <link>http://mno.hu/marabu/ut-szelen-hagyva-2454209?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Marabu</author>
+   <enclosure url="http://mno.hu/data/cikkek/2454/24542/cikk-2454209/ut_szelen_hagyva.jpg" length="458416" type="image/jpeg"/>
+   <description><![CDATA[„S a nép, az istenadta nép oly boldog rajta, Sire, hogy a Híradóban ez lesz ma a vezető hír!” (Nem Arany)]]></description>
+   <category>Marabu</category>
+   <pubDate>Sun, 18 Mar 2018 10:32:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Bukszavédők]]></title>
+   <link>http://mno.hu/marabu/bukszavedok-2454137?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Marabu</author>
+   <enclosure url="http://mno.hu/data/cikkek/2454/24541/cikk-2454137/bukszavedok.jpg" length="394324" type="image/jpeg"/>
+   <description><![CDATA[Oktatásra, szociális intézményekre, egészségügyre, bérlakásprogramra költeni milliárdokat?! Hová vezetne ez?!]]></description>
+   <category>Marabu</category>
+   <pubDate>Sat, 17 Mar 2018 14:07:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Márciusi idusoló]]></title>
+   <link>http://mno.hu/marabu/marciusi-idusolo-2453571?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Marabu</author>
+   <enclosure url="http://mno.hu/data/cikkek/2453/24535/cikk-2453571/marciusi_idusolo.jpg" length="366043" type="image/jpeg"/>
+   <description><![CDATA[Rabok legyünk vagy szabadok?… Esetleg kompromisszumos megoldást: ebből is egy kicsit, abból is egy kicsit?]]></description>
+   <category>Marabu</category>
+   <pubDate>Thu, 15 Mar 2018 07:47:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ez elment vadászni]]></title>
+   <link>http://mno.hu/marabu/ez-elment-vadaszni-2453362?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Marabu</author>
+   <enclosure url="http://mno.hu/data/cikkek/2453/24533/cikk-2453362/ez_elment_vadaszni.jpg" length="287390" type="image/jpeg"/>
+   <description><![CDATA[(Molto vivace) „Ez fölséges élet, / Ez férfihez illik, / Ez edzi az izmot / És jókedvet ád.”]]></description>
+   <category>Marabu</category>
+   <pubDate>Tue, 13 Mar 2018 14:31:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szívből jövően]]></title>
+   <link>http://mno.hu/marabu/szivbol-jovoen-2453103?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Marabu</author>
+   <enclosure url="http://mno.hu/data/cikkek/2453/24531/cikk-2453103/szivbol_jovoen.jpg" length="448105" type="image/jpeg"/>
+   <description><![CDATA[Így kampányidőszakban mindig sok átadnivaló akad. Mindegy is, hogy mi, a lényeg, hogy hasznos legyen.]]></description>
+   <category>Marabu</category>
+   <pubDate>Mon, 12 Mar 2018 14:14:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Visszatartók]]></title>
+   <link>http://mno.hu/marabu/visszatartok-2453010?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Marabu</author>
+   <enclosure url="http://mno.hu/data/cikkek/2453/24530/cikk-2453010/visszatartok.jpg" length="341256" type="image/jpeg"/>
+   <description><![CDATA[Honnan és hová? Kikkel? Kik nélkül? Min és kiken keresztül? Miért és mi végre? Na és pláne hogy miért ne?!]]></description>
+   <category>Marabu</category>
+   <pubDate>Mon, 12 Mar 2018 07:45:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Bővülő lista]]></title>
+   <link>http://mno.hu/marabu/bovulo-lista-2452540?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Marabu</author>
+   <enclosure url="http://mno.hu/data/cikkek/2452/24525/cikk-2452540/bovulo_lista.jpg" length="387492" type="image/jpeg"/>
+   <description><![CDATA[A pártok szerepe: társadalmi érdekek artikulációja és aggregálása. Vagy ignorálása. Dogmatizálása. Koncesszionálása?]]></description>
+   <category>Marabu</category>
+   <pubDate>Fri, 09 Mar 2018 13:06:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Budapest vs. Bécs]]></title>
+   <link>http://mno.hu/marabu/budapest-vs-becs-2452265?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Marabu</author>
+   <enclosure url="http://mno.hu/data/cikkek/2452/24522/cikk-2452265/Budapest_vs_Becs.jpg" length="434704" type="image/jpeg"/>
+   <description><![CDATA[Ja, és az utcák is koszosak, de az természetesen a bevándorlók miatt van, tudjuk mi azt jól.]]></description>
+   <category>Marabu</category>
+   <pubDate>Thu, 08 Mar 2018 12:04:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Poltosan így]]></title>
+   <link>http://mno.hu/marabu/poltosan-igy-2452007?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Marabu</author>
+   <enclosure url="http://mno.hu/data/cikkek/2452/24520/cikk-2452007/poltosan_igy.jpg" length="340952" type="image/jpeg"/>
+   <description><![CDATA[Ha én egyszer kinyitom a számat! Ha én egyszer elkezdek beszélni!... Csak vicceltem, dehogy nyitom ki a számat.]]></description>
+   <category>Marabu</category>
+   <pubDate>Wed, 07 Mar 2018 15:59:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az ám, hazám!]]></title>
+   <link>http://mno.hu/marabu/az-am-hazam-2451748?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Marabu</author>
+   <enclosure url="http://mno.hu/data/cikkek/2451/24517/cikk-2451748/az_am_hazam.jpg" length="445933" type="image/jpeg"/>
+   <description><![CDATA[Stróman Hotel, Stróman Wellness, Stróman Borászat, Stróman Casino, Stróman Yachtclub, Stróman Lovaspark.]]></description>
+   <category>Marabu</category>
+   <pubDate>Tue, 06 Mar 2018 15:15:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nyilván tartanak]]></title>
+   <link>http://mno.hu/marabu/nyilvan-tartanak-2451502?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Marabu</author>
+   <enclosure url="http://mno.hu/data/cikkek/2451/24515/cikk-2451502/nyilvan_tartanak.jpg" length="364577" type="image/jpeg"/>
+   <description><![CDATA[Vagyok, mint minden ember: fenség, / Észak-fok, titok, idegenség, / Lidérces, rejtett szavazó, / Lidérces, rejtett szavazó.]]></description>
+   <category>Marabu</category>
+   <pubDate>Mon, 05 Mar 2018 21:59:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Megvilágításban]]></title>
+   <link>http://mno.hu/marabu/megvilagitasban-2451202?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Marabu</author>
+   <enclosure url="http://mno.hu/data/cikkek/2451/24512/cikk-2451202/megvilagitasban.jpg" length="313030" type="image/jpeg"/>
+   <description><![CDATA[És lőn világosság. Na nem pont a fejekben, hanem az utcákon. Na jó, nem pont az utcákon, hanem a búrák közelében.]]></description>
+   <category>Marabu</category>
+   <pubDate>Sat, 03 Mar 2018 15:42:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

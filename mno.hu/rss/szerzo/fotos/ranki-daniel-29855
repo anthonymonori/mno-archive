@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Ránki Dániel]]></title>
+  <link>http://mno.hu/szerzo/fotos/ranki-daniel-29855</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Wed, 11 Apr 2018 10:36:56 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Nincs olyan, hogy esportoló]]></title>
+   <link>http://mno.hu/kepgaleria/nincs-olyan-hogy-esportolo-2456158?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ránki Dániel</author>
+   <enclosure url="http://mno.hu/data/cikkek/2456/24561/cikk-2456158/RD_DSC_5890.jpg" length="279713" type="image/jpeg"/>
+   <description><![CDATA[A vasárnap este zárult V4 Futuresports Fesztiválon szereplő csapatok játékosai közül mutatunk meg párat.]]></description>
+   <category>Képgaléria</category>
+   <pubDate>Mon, 26 Mar 2018 22:33:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Így ünnepelte Budapest a kékcédulás választások előtti március 15-ét]]></title>
+   <link>http://mno.hu/f22/igy-unnepelte-budapest-a-kekcedulas-valasztasok-elotti-marcius-15-et-2453504?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pintér Bence, Ránki Dániel</author>
+   <enclosure url="http://mno.hu/data/cikkek/2453/24535/cikk-2453504/fortepan_79048.jpg" length="560079" type="image/jpeg"/>
+   <description><![CDATA[Az 1947 március idusán felvonuló tömegek még nem sejthették, hogy hamarosan Rákosi diktatúrája következik.]]></description>
+   <category>Fotó (f22)</category>
+   <pubDate>Thu, 15 Mar 2018 20:40:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szanatóriumok: időutazás a sosemvolt szovjet jövőbe és a sztálinista múltba]]></title>
+   <link>http://mno.hu/f22/szanatoriumok-idoutazas-a-sose-volt-szovjet-jovobe-es-a-sztalinista-multba-2445524?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ránki Dániel</author>
+   <enclosure url="http://mno.hu/data/cikkek/2445/24455/cikk-2445524/Salt_mine_Belarus_Egor_Rogalev.jpg" length="1410756" type="image/jpeg"/>
+   <description><![CDATA[Fotóanyaggal gazdagon illusztrált könyv született a sajátos hangulatú, építészeti szempontból is érdekes intézményekről.]]></description>
+   <category>Fotó (f22)</category>
+   <pubDate>Thu, 08 Mar 2018 20:55:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

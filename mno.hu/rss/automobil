@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - rovat: Automobil]]></title>
+  <link>http://mno.hu/automobil</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 22:40:38 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Elektromos kompresszorral sokkol az Audi]]></title>
+   <link>http://mno.hu/automobil/rovidesen-debutal-az-audi-uj-szuperdizele-1233122?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vajda János</author>
+   <description><![CDATA[Az Audi már jó ideje kísérletezget az elektromos rásegítésű feltöltéssel a dízelmotoroknál]]></description>
+   <category>Automobil</category>
+   <pubDate>Sat, 21 Jun 2014 13:55:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hibrid SUV a Volkswagentől]]></title>
+   <link>http://mno.hu/automobil/hibrid-suv-a-volkswagentol-1131640?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Automobil</author>
+   <description><![CDATA[A Detroitban bemutatott CrossBlue tanulmányt a Tiguan és a Touareg közé pozícionálja a Volkswagen.]]></description>
+   <category>Automobil</category>
+   <pubDate>Thu, 17 Jan 2013 07:33:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nem viszik az év autóját Amerikában]]></title>
+   <link>http://mno.hu/automobil/cadillac-az-ev-autoja-amerikaban-1131434?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Automobil</author>
+   <description><![CDATA[Döcögősen alakulnak a Cadillac eladásai, Amerikában mégis a márka egyik modellje lett az év autója.]]></description>
+   <category>Automobil</category>
+   <pubDate>Wed, 16 Jan 2013 13:29:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Dögös lesz az új Toyota Corolla]]></title>
+   <link>http://mno.hu/automobil/dogos-lesz-az-uj-toyota-corolla-1131161?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Automobil</author>
+   <description><![CDATA[A Toyota Detroitban mutatta be a Corolla Furia tanulmányt, amely a kompakt szedán jövőjébe enged bepillantást.]]></description>
+   <category>Automobil</category>
+   <pubDate>Wed, 16 Jan 2013 07:34:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Aerodinamikai mestermű az új magyar Mercedes]]></title>
+   <link>http://mno.hu/automobil/aerodinamikai-mestermu-az-uj-magyar-mercedes-1130952?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Automobil</author>
+   <description><![CDATA[A Kecskeméten készülő új Mercedes–Benz CLA légellenállási együtthatója (0,23) világrekordot jelent a szériagyártású autók között.]]></description>
+   <category>Automobil</category>
+   <pubDate>Tue, 15 Jan 2013 07:44:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Tanulmányként már kész az új Nissan Murano]]></title>
+   <link>http://mno.hu/automobil/tanulmanykent-mar-kesz-az-uj-nissan-murano-1130283?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Automobil</author>
+   <description><![CDATA[A Detroiti Autószalonon mutatja be Resonance névre keresztelt tanulmányát a Nissan.]]></description>
+   <category>Automobil</category>
+   <pubDate>Sun, 13 Jan 2013 07:48:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Sokkol az új Lexus IS]]></title>
+   <link>http://mno.hu/automobil/sokkol-az-uj-lexus-is-1130003?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Automobil</author>
+   <description><![CDATA[A Lexus nyilvánosságra hozta az új IS első fotóit. Meglepő lett a formaterv.]]></description>
+   <category>Automobil</category>
+   <pubDate>Sat, 12 Jan 2013 07:53:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Elkészült a világ legspórolósabb Mercedese]]></title>
+   <link>http://mno.hu/automobil/elkeszult-a-vilag-legsporolosabb-mercedese-1130277?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Automobil</author>
+   <description><![CDATA[Bejelentette eddigi legtakarékosabb modelljét a Mercedes–Benz. 3,6 litert fogyaszt.]]></description>
+   <category>Automobil</category>
+   <pubDate>Fri, 11 Jan 2013 13:18:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Összkerékhajtás a legerősebb Mercedes E osztályban]]></title>
+   <link>http://mno.hu/automobil/osszkerekhajtas-a-legerosebb-mercedes-e-osztalyban-1129806?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Automobil</author>
+   <description><![CDATA[A Detroiti Autószalonon mutatkozik be a frissített Mercedes–Benz E63 AMG.]]></description>
+   <category>Automobil</category>
+   <pubDate>Thu, 10 Jan 2013 07:36:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Luxuskupét mutat be a Hyundai Detroitban]]></title>
+   <link>http://mno.hu/automobil/luxuskupet-mutat-be-a-hyundai-detroitban-1129432?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Automobil</author>
+   <description><![CDATA[A hamarosan kezdődő detroiti autószalonon a HCD–14 tanulmányt mutatja be a Hyundai.]]></description>
+   <category>Automobil</category>
+   <pubDate>Wed, 09 Jan 2013 07:10:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[354 lóerős benzinmotort kap az Audi SQ5]]></title>
+   <link>http://mno.hu/automobil/354-loeros-benzinmotort-kap-az-audi-sq5-1129425?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Automobil</author>
+   <description><![CDATA[A 313 lóerős dízel mellett 354 lóerős benzines verzió is készül az Audi SQ5-ből.]]></description>
+   <category>Automobil</category>
+   <pubDate>Tue, 08 Jan 2013 09:41:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Itt az új Peugeot 2008]]></title>
+   <link>http://mno.hu/automobil/itt-az-uj-peugeot-2008-1129223?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Automobil</author>
+   <description><![CDATA[Kis crossovert faragott a 208-asból a Peugeot. A 2008-as Genfben debütál.]]></description>
+   <category>Automobil</category>
+   <pubDate>Mon, 07 Jan 2013 13:30:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Magyarország kedvenc autója volt 2012-ben]]></title>
+   <link>http://mno.hu/automobil/magyarorszag-kedvence-autoja-volt-2012-ben-1128592?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Automobil</author>
+   <description><![CDATA[A JATO Dynamics összesítése szerint összességében nőtt a magyar autópiac 2012-ben.]]></description>
+   <category>Automobil</category>
+   <pubDate>Fri, 04 Jan 2013 14:10:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nincs ennél gyorsabb kabrió a világon]]></title>
+   <link>http://mno.hu/automobil/nincs-ennel-gyorsabb-kabrio-a-vilagon-1128596?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Automobil</author>
+   <description><![CDATA[Valakinek biztosan szüksége van 625 lóerős, négyüléses kabrióra. A Bentleytől megkapja.]]></description>
+   <category>Automobil</category>
+   <pubDate>Fri, 04 Jan 2013 09:56:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Google Maps a Hyundai-Kia autóiban]]></title>
+   <link>http://mno.hu/automobil/google-maps-a-hyundai-kia-autoiban-1128334?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Automobil</author>
+   <description><![CDATA[A keresőóriás megállapodást kötött a Hyundai–Kia konszernnel.]]></description>
+   <category>Automobil</category>
+   <pubDate>Thu, 03 Jan 2013 12:40:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nem támad fel az Audi A2]]></title>
+   <link>http://mno.hu/automobil/nem-tamad-fel-az-audi-a2-1128149?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Automobil</author>
+   <description><![CDATA[Elektromos kisautóként tért volna vissza az egykor népszerű modell, de nem lesz belőle semmi.]]></description>
+   <category>Automobil</category>
+   <pubDate>Thu, 03 Jan 2013 07:52:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nyolc motorral indul az új Skoda Octavia forgalmazása]]></title>
+   <link>http://mno.hu/automobil/nyolc-motorral-indul-az-uj-skoda-octavia-forgalmazasa-1128120?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Automobil</author>
+   <description><![CDATA[Már nem titok, hogy milyen motorokat kap a Skoda Octavia új generációja.]]></description>
+   <category>Automobil</category>
+   <pubDate>Wed, 02 Jan 2013 12:14:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ilyen lesz az új Corvette hátulja]]></title>
+   <link>http://mno.hu/automobil/ilyen-lesz-az-uj-corvette-hatulja-1127192?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Automobil</author>
+   <description><![CDATA[Újabb grafika szivárgott ki az új Corvette-ről, már a sportkocsi hátulját is láthatjuk.]]></description>
+   <category>Automobil</category>
+   <pubDate>Mon, 31 Dec 2012 08:28:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hivatalos képeken az új magyar Mercedes]]></title>
+   <link>http://mno.hu/automobil/hivatalos-kepeken-az-uj-magyar-mercedes-1127190?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Automobil</author>
+   <description><![CDATA[Karácsonykor szivárgott ki néhány gyári kép a Kecskeméten készülő CLA-ról.]]></description>
+   <category>Automobil</category>
+   <pubDate>Sat, 29 Dec 2012 08:06:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Aki férfi és Audival jár, annak nyert ügye van]]></title>
+   <link>http://mno.hu/automobil/aki-ferfi-es-audival-jar-annak-nyert-ugye-van-1127438?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Automobil</author>
+   <description><![CDATA[Az Audikat vezető férfiakat tartják a legvonzóbbaknak a nők Németországban.]]></description>
+   <category>Automobil</category>
+   <pubDate>Sat, 29 Dec 2012 07:03:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Modellautóként is lebukott az új magyar Mercedes]]></title>
+   <link>http://mno.hu/automobil/modellautokent-is-lebukott-az-uj-magyar-mercedes-1127428?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Automobil</author>
+   <description><![CDATA[Nyugodtan nyilvánosságra hozhatná a Mercedes a CLA hivatalos sajtóanyagát, alig maradt titok.]]></description>
+   <category>Automobil</category>
+   <pubDate>Fri, 28 Dec 2012 15:52:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Elkezdődött az új Skoda Octavia gyártása]]></title>
+   <link>http://mno.hu/automobil/elkezdodott-az-uj-skoda-octavia-gyartasa-1126358?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Automobil</author>
+   <description><![CDATA[A Skoda Mladá Boleslav-i üzemében már napi 1200-as kapacitással zajlik az új Octavia gyártása.]]></description>
+   <category>Automobil</category>
+   <pubDate>Sun, 23 Dec 2012 07:35:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szent Volkswagen a német eladási toplista végén]]></title>
+   <link>http://mno.hu/automobil/szent-volkswagen-is-van-a-nemet-eladasi-toplista-vegen-1126357?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Automobil</author>
+   <description><![CDATA[Olyan nincs, hogy ne a Golf legyen a legnépszerűbb autó Németországban.]]></description>
+   <category>Automobil</category>
+   <pubDate>Fri, 21 Dec 2012 13:55:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Leállt a Citroën C6 gyártása]]></title>
+   <link>http://mno.hu/automobil/leallt-a-citroen-c6-gyartasa-1126110?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Automobil</author>
+   <description><![CDATA[Modellciklusa végéhez ért a Citroën C6-os, a francia márka a gyártás leállításáról döntött.]]></description>
+   <category>Automobil</category>
+   <pubDate>Fri, 21 Dec 2012 07:45:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Újrakeresztelik a luxusautókat]]></title>
+   <link>http://mno.hu/automobil/ujrakeresztelik-a-luxusautokat-1126109?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Automobil</author>
+   <description><![CDATA[A Nissan luxusmárkája szerint eddig nem volt teljesen egyértelmű a különböző modellek elnevezése. ]]></description>
+   <category>Automobil</category>
+   <pubDate>Thu, 20 Dec 2012 12:41:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ráncfelvarrás a BMW Z4-en]]></title>
+   <link>http://mno.hu/automobil/rancfelvarras-a-bmw-z4-en-1125594?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Automobil</author>
+   <description><![CDATA[Z4-tulajdonosnak nagy rajongónak kell lenni ahhoz, hogy feltűnjenek a BMW változtatásai.]]></description>
+   <category>Automobil</category>
+   <pubDate>Wed, 19 Dec 2012 07:15:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nyolc jelölt maradt az Év autója címre]]></title>
+   <link>http://mno.hu/automobil/nyolc-jelolt-maradt-az-ev-autoja-cimre-1125415?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Automobil</author>
+   <description><![CDATA[Megvan az európai Év autója-díj nyolc esélyese. A több mint negyven jármű között portkocsi is van.]]></description>
+   <category>Automobil</category>
+   <pubDate>Tue, 18 Dec 2012 07:54:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Városi terepjáró készül a Honda Jazzből]]></title>
+   <link>http://mno.hu/automobil/varosi-terepjaro-keszul-a-honda-jazzbol-1125385?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Automobil</author>
+   <description><![CDATA[Detroitban mutatja be új kompakt szabadidőautó-tanulmányát a Honda.]]></description>
+   <category>Automobil</category>
+   <pubDate>Mon, 17 Dec 2012 12:37:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Máris itt az új Skoda Octavia sportváltozata]]></title>
+   <link>http://mno.hu/automobil/maris-itt-az-uj-skoda-octavia-sportvaltozata-1124829?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Automobil</author>
+   <description><![CDATA[Pár napja leplezte le az Octavia új generációját a Skoda, s máris itt vannak az első képek az RS-ről.]]></description>
+   <category>Automobil</category>
+   <pubDate>Sat, 15 Dec 2012 06:18:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Baj van a kisbuszok biztonságával]]></title>
+   <link>http://mno.hu/automobil/baj-van-a-kisbuszok-biztonsagaval-1124493?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Automobil</author>
+   <description><![CDATA[Az Euro NCAP legújabb tesztje nem fest túl rózsás képet a személyszállító kisbuszokról.]]></description>
+   <category>Automobil</category>
+   <pubDate>Fri, 14 Dec 2012 08:16:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

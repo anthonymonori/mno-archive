@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Szabó Zoltán Attila]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/szabo-zoltan-attila-25720</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Wed, 11 Apr 2018 12:27:10 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Pénz a semmiért]]></title>
+   <link>http://mno.hu/velemeny/penz-a-semmiert-2455520?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabó Zoltán Attila</author>
+   <enclosure url="http://mno.hu/data/cikkek/2455/24555/cikk-2455520/szb20151204_0673.jpg" length="218507" type="image/jpeg"/>
+   <description><![CDATA[A nagy káoszban „a környezet védelme közös ügyünk, kérjük, ne szemeteljen”, és ne is autózzon.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Fri, 23 Mar 2018 20:15:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Beindulni Csabira]]></title>
+   <link>http://mno.hu/velemeny/beindulni-csabira-2427979?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabó Zoltán Attila</author>
+   <enclosure url="http://mno.hu/data/cikkek/2427/24279/cikk-2427979/8_1ba.jpg" length="373209" type="image/jpeg"/>
+   <description><![CDATA[A művelődési ház ne versengjen a diszkókkal; szórakoztasson, de értékeket is közvetítsen.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Thu, 16 Nov 2017 16:28:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Húsvét – a nyúlon túl]]></title>
+   <link>http://mno.hu/velemeny/husvet-a-nyulon-tul-2394799?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabó Zoltán Attila</author>
+   <enclosure url="http://mno.hu/data/cikkek/2394/23947/cikk-2394799/Perugino_Resurrection.jpg" length="856925" type="image/jpeg"/>
+   <description><![CDATA[A teljesség megéléséhez a sonka, tojás és csokinyuszi mellett egy csepp irodalomra is szükség lehet. ]]></description>
+   <category>Vélemény</category>
+   <pubDate>Sun, 16 Apr 2017 00:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Fejétől a hal]]></title>
+   <link>http://mno.hu/velemeny/fejetol-a-hal-1383381?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabó Zoltán Attila</author>
+   <enclosure url="http://mno.hu/data/cikkek/1383/13833/cikk-1383381/SZB20130717_1903.jpg" length="291371" type="image/jpeg"/>
+   <description><![CDATA[Az élet bármely területére tévedünk, hiánycikk a hozzáértés, az alázat. Csak a mellény XXXL-es.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Sun, 29 Jan 2017 14:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Régi szavak, rejtett kincsek]]></title>
+   <link>http://mno.hu/velemeny/regi-szavak-rejtett-kincsek-1378126?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabó Zoltán Attila</author>
+   <enclosure url="http://mno.hu/data/cikkek/1378/13781/cikk-1378126/MNO_01_Jan_Mostaert_Adoration2.jpg" length="581326" type="image/jpeg"/>
+   <description><![CDATA[Minden ünnep a költészet napja is egyúttal. Ha akarom, a betűvetők diadala.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Sun, 25 Dec 2016 13:20:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

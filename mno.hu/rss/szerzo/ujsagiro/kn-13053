@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: kn]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/kn-13053</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 10:59:40 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Orbán mondta, mi megmagyarázzuk]]></title>
+   <link>http://mno.hu/belfold/orban-mondta-mi-megmagyarazzuk-1361309?utm_source=feed&amp;utm_medium=rss</link>
+   <author>kn</author>
+   <enclosure url="http://mno.hu/data/cikkek/1361/13613/cikk-1361309/D_YT20160912005.jpg" length="392531" type="image/jpeg"/>
+   <description><![CDATA[Orbán Viktor mai parlamenti beszédében említette a hátékázni kifejezést. A katonák értik – és Ön?]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 12 Sep 2016 17:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Tóbiás vesztett, Molnár Gyula lett az MSZP új elnöke]]></title>
+   <link>http://mno.hu/belfold/tobias-vesztett-molnar-gyula-lett-az-mszp-uj-elnoke-1348972?utm_source=feed&amp;utm_medium=rss</link>
+   <author>kn</author>
+   <enclosure url="http://mno.hu/data/cikkek/1348/13489/cikk-1348972/_NBB3236.jpg" length="269276" type="image/jpeg"/>
+   <description><![CDATA[Botka Lászlót pedig Hiller István korábbi pártelnök győzte le, aki így az MSZP választmányi elnöke lett.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sat, 25 Jun 2016 18:15:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Megismételhetik az osztrák elnökválasztást]]></title>
+   <link>http://mno.hu/kulfold/megismetelhetik-az-osztrak-elnokvalasztast-1347473?utm_source=feed&amp;utm_medium=rss</link>
+   <author>kn, VZ</author>
+   <enclosure url="http://mno.hu/data/cikkek/1347/13474/cikk-1347473/K_EPA20160424010.jpg" length="439100" type="image/jpeg"/>
+   <description><![CDATA[Újabb esélyt kaphat a radikális jobbodali jelölt: a körzetek 80 százalékában lehetett valami szabálytalanság.]]></description>
+   <category>Külföld</category>
+   <pubDate>Thu, 16 Jun 2016 12:40:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Még nem nyert a radikáljobbos, de már magyarázkodnak]]></title>
+   <link>http://mno.hu/kulfold/meg-nem-nyert-a-radikaljobbos-de-a-terv-mar-megvan-1343567?utm_source=feed&amp;utm_medium=rss</link>
+   <author>kn</author>
+   <enclosure url="http://mno.hu/data/cikkek/1343/13435/cikk-1343567/000_B36LN.jpg" length="203991" type="image/jpeg"/>
+   <description><![CDATA[Várhatóan öt óra körül tudjuk meg, ki lesz Ausztria elnöke. A bécsi külügy válságtervvel készül.]]></description>
+   <category>Külföld</category>
+   <pubDate>Mon, 23 May 2016 14:57:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Megszavazták: nyitva lehetnek a boltok vasárnap]]></title>
+   <link>http://mno.hu/belfold/igy-hatral-ki-a-kormany-a-vasarnapi-zarva-tartasbol-1337162?utm_source=feed&amp;utm_medium=rss</link>
+   <author>kn, VZ</author>
+   <enclosure url="http://mno.hu/data/cikkek/1337/13371/cikk-1337162/vasarnap_zarva_tartas_tn.jpg" length="246772" type="image/jpeg"/>
+   <description><![CDATA[163 igen, 2 nem, 11 tartózkodás. A KDNP-sek tényleg nem szavazták meg a szabályozás eltörlését.]]></description>
+   <category>Belföld</category>
+   <pubDate>Tue, 12 Apr 2016 10:20:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nagyon sok kis Klik jön majd létre?]]></title>
+   <link>http://mno.hu/belfold/kipukkadt-a-pedagogustuntetes-lufija-1334244?utm_source=feed&amp;utm_medium=rss</link>
+   <author>kn</author>
+   <enclosure url="http://mno.hu/data/cikkek/1334/13342/cikk-1334244/MNO_HM20150417_153.jpg" length="269046" type="image/jpeg"/>
+   <description><![CDATA[Valódi változásról akkor lehetne beszélni, ha a kormány tárgyalna a pedagógusok pontjairól – vallják az érdekképviseletek vezetői.]]></description>
+   <category>Belföld</category>
+   <pubDate>Wed, 23 Mar 2016 11:33:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Megvan, mikor állna le az élet az iskolákban]]></title>
+   <link>http://mno.hu/belfold/megvan-mikor-allna-le-az-elet-az-iskolakban-1334106?utm_source=feed&amp;utm_medium=rss</link>
+   <author>kn</author>
+   <enclosure url="http://mno.hu/data/cikkek/1334/13341/cikk-1334106/HM20160219_5006_aa.jpg" length="262479" type="image/jpeg"/>
+   <description><![CDATA[A Tanítanék mozgalom az ország összes pedagógusát polgári engedetlenségi akcióra hívja fel.]]></description>
+   <category>Belföld</category>
+   <pubDate>Tue, 22 Mar 2016 12:31:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Félelem Brüsszelben, kijárási tilalomról is hallani]]></title>
+   <link>http://mno.hu/kulfold/dobbenet-brusszelben-mar-kijarasi-tilalomrol-is-hallani-1334087?utm_source=feed&amp;utm_medium=rss</link>
+   <author>kn</author>
+   <enclosure url="http://mno.hu/data/cikkek/1334/13340/cikk-1334087/K_EPA20160322055.jpg" length="165509" type="image/jpeg"/>
+   <description><![CDATA[Katonák lepték el a belga fővárost, mindenkinek azt javasolják, maradjon otthon.]]></description>
+   <category>Külföld</category>
+   <pubDate>Tue, 22 Mar 2016 10:24:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Provokáció Seehofer budapesti látogatása?]]></title>
+   <link>http://mno.hu/belfold/provokacio-seehofer-budapesti-latogatasa-1331502?utm_source=feed&amp;utm_medium=rss</link>
+   <author>kn</author>
+   <enclosure url="http://mno.hu/data/cikkek/1331/13315/cikk-1331502/K_EPA20141106051_grid2_fekvo_lead.jpg" length="70384" type="image/jpeg"/>
+   <description><![CDATA[Berlinben újabb provokációnak tekintik Orbán és a bajor miniszterelnök találkozóját – írja a Spiegel Online.]]></description>
+   <category>Belföld</category>
+   <pubDate>Thu, 03 Mar 2016 18:27:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Két vonat frontálisan ütközött, többen meghaltak]]></title>
+   <link>http://mno.hu/kulfold/ket-vonat-frontalisan-utkozott-tobben-meghaltak-1327817?utm_source=feed&amp;utm_medium=rss</link>
+   <author>kn</author>
+   <enclosure url="http://mno.hu/data/cikkek/1327/13278/cikk-1327817/000_7S1MF.jpg" length="592924" type="image/jpeg"/>
+   <description><![CDATA[A balesetben kilencvenen megsérültek, közülük 55-en súlyosan, legalább kilencen meghaltak. ]]></description>
+   <category>Külföld</category>
+   <pubDate>Tue, 09 Feb 2016 09:03:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Eltüntette a Nemes Jeles-interjút a zsidó lap]]></title>
+   <link>http://mno.hu/grund/gyakran-vadoljak-hazankat-a-judische-allgemeineban-1326134?utm_source=feed&amp;utm_medium=rss</link>
+   <author>kn, mr</author>
+   <enclosure url="http://mno.hu/data/cikkek/1326/13261/cikk-1326134/judische_allgemeine.jpg" length="259830" type="image/jpeg"/>
+   <description><![CDATA[Nem először írt keményeket a lap a magyarországi viszonyokról. Utólag jelentősen változott a cikk.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Fri, 29 Jan 2016 11:51:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szemét a kályhákban: ezrek halnak meg évente]]></title>
+   <link>http://mno.hu/eletmod/szemet-a-kalyhakban-ezrek-halnak-meg-evente-1324624?utm_source=feed&amp;utm_medium=rss</link>
+   <author>kn</author>
+   <enclosure url="http://mno.hu/data/cikkek/1324/13246/cikk-1324624/dfcb3e3d-8143-4c81-963b-0752cdb7026e.jpg" length="256855" type="image/jpeg"/>
+   <description><![CDATA[Van olyan része az országnak, ahol a kommunális hulladék egyharmadát elégeti a lakosság. Lázár javaslatcsomagot kapott.]]></description>
+   <category>Életmód</category>
+   <pubDate>Wed, 20 Jan 2016 13:56:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Már az igazságügyi miniszter is szervezett támadásról beszél]]></title>
+   <link>http://mno.hu/kulfold/mar-az-igazsagugyi-miniszter-is-szervezett-tamadasrol-beszel-1322938?utm_source=feed&amp;utm_medium=rss</link>
+   <author>kn</author>
+   <enclosure url="http://mno.hu/data/cikkek/1322/13229/cikk-1322938/heikomass1.jpg" length="185550" type="image/jpeg"/>
+   <description><![CDATA[Mint mondta, sürgősen fel kell deríteni, hogy hogyan történhettek meg ezek az „undorító tettek”.]]></description>
+   <category>Külföld</category>
+   <pubDate>Sun, 10 Jan 2016 12:23:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Megdöbbentő jegyzőkönyv került elő a szexuális támadásokról]]></title>
+   <link>http://mno.hu/kulfold/szexualis-buncselekmenyek-kitoloncolnak-a-nemetek-a-menekulteket-1322435?utm_source=feed&amp;utm_medium=rss</link>
+   <author>kn</author>
+   <enclosure url="http://mno.hu/data/cikkek/1322/13224/cikk-1322435/rendorokkolnben1.jpg" length="435955" type="image/jpeg"/>
+   <description><![CDATA[A politikusok már a menekültek kitoloncolásáról beszélnek.]]></description>
+   <category>Külföld</category>
+   <pubDate>Thu, 07 Jan 2016 09:13:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szilveszteri erőszak: három gyanúsítottat azonosítottak]]></title>
+   <link>http://mno.hu/kulfold/szilveszteri-eroszak-rendorok-szerint-nincs-esely-iteletre-1322265?utm_source=feed&amp;utm_medium=rss</link>
+   <author>kn</author>
+   <enclosure url="http://mno.hu/data/cikkek/1322/13222/cikk-1322265/043_dpa-pa_160105-99-729107_dpai.jpg" length="273228" type="image/jpeg"/>
+   <description><![CDATA[118 feljelentés, akár 1000 elkövető – ez a német városokban történt drámai események szomorú mérlege.]]></description>
+   <category>Külföld</category>
+   <pubDate>Wed, 06 Jan 2016 10:12:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Tömeges szexuális támadás: hallgatás után sajtólavina]]></title>
+   <link>http://mno.hu/kulfold/koln-hamburg-1322080?utm_source=feed&amp;utm_medium=rss</link>
+   <author>kn</author>
+   <enclosure url="http://mno.hu/data/cikkek/1322/13220/cikk-1322080/koln2.jpg" length="155028" type="image/jpeg"/>
+   <description><![CDATA[Ezerfős, arab vagy észak-afrikai térségből származó külföldiek alkotta csoport inzultált nőket.]]></description>
+   <category>Külföld</category>
+   <pubDate>Tue, 05 Jan 2016 11:54:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ezerfős külföldi csoport támadott Kölnben]]></title>
+   <link>http://mno.hu/kulfold/ezerfos-kulfoldi-csoport-garazdalkodott-kolnben-1322043?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MNO, MTI, kn</author>
+   <enclosure url="http://mno.hu/data/cikkek/1322/13220/cikk-1322043/000_Was8991568.jpg" length="361255" type="image/jpeg"/>
+   <description><![CDATA[Tömegesen inzultáltak nőket szilveszter éjszakáján német városokban – számol be erről több német lap is.]]></description>
+   <category>Külföld</category>
+   <pubDate>Tue, 05 Jan 2016 05:55:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Veszélyben van a bankkártyával fizetők 90 százaléka?]]></title>
+   <link>http://mno.hu/gazdasag/veszelyben-van-a-bankkartyaval-fizetok-90-szazaleka-1321224?utm_source=feed&amp;utm_medium=rss</link>
+   <author>kn</author>
+   <enclosure url="http://mno.hu/data/cikkek/1321/13212/cikk-1321224/pin_kod_bankkartya_BA20150718_8082.jpg" length="119804" type="image/jpeg"/>
+   <description><![CDATA[Súlyos hiányosságot fedeztek fel német biztonsági szakértők a bankkártyás fizetések folyamatában.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Tue, 29 Dec 2015 16:12:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Mégsem üzent hadat az iszlamistáknak a drogbáró]]></title>
+   <link>http://mno.hu/kulfold/kitepne-az-iszlamistak-nyelvet-es-szivet-a-drogbaro-1318564?utm_source=feed&amp;utm_medium=rss</link>
+   <author>kn, mr</author>
+   <enclosure url="http://mno.hu/data/cikkek/1318/13185/cikk-1318564/K_EPA20150712036.jpg" length="541498" type="image/jpeg"/>
+   <description><![CDATA[Kacsának bizonyult a hír, hogy megfenyegette az Iszlám Állam vezetőjét a rettegett „El Chapo“.]]></description>
+   <category>Külföld</category>
+   <pubDate>Fri, 11 Dec 2015 11:33:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Elmeszelték az osztrák sajtót a Bicskén készült kép miatt]]></title>
+   <link>http://mno.hu/kulfold/elmeszeltek-az-osztrak-sajtot-a-bicsken-keszult-kep-miatt-1315610?utm_source=feed&amp;utm_medium=rss</link>
+   <author>kn</author>
+   <enclosure url="http://mno.hu/data/cikkek/1315/13156/cikk-1315610/000_DV2117400.jpg" length="251248" type="image/jpeg"/>
+   <description><![CDATA[Megtévesztően tudósított egy szeptemberi, Bicskén történt incidensről az osztrák sajtó.]]></description>
+   <category>Külföld</category>
+   <pubDate>Tue, 24 Nov 2015 16:27:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Százmilliárdokba kerülhetnek a brüsszeli pénzek]]></title>
+   <link>http://mno.hu/belfold/szazmilliardokba-kerulhetnek-a-brusszeli-penzek-1314798?utm_source=feed&amp;utm_medium=rss</link>
+   <author>kn</author>
+   <description><![CDATA[Sokba kerülhet az országnak az uniós támogatások százszázalékos lehívása.]]></description>
+   <category>Belföld</category>
+   <pubDate>Thu, 19 Nov 2015 13:58:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Így drágulhatnak az élelmiszerek a migráció miatt]]></title>
+   <link>http://mno.hu/gazdasag/igy-dragulhatnak-az-elelmiszerek-a-migracio-miatt-1307743?utm_source=feed&amp;utm_medium=rss</link>
+   <author>kn</author>
+   <description><![CDATA[A hosszabb ideig tartó szállítás a termék drágulásához vezethet.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Tue, 06 Oct 2015 14:25:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Pálfordulás nincs, új műsorok és régi-új arcok vannak]]></title>
+   <link>http://mno.hu/media/tarr-1305613?utm_source=feed&amp;utm_medium=rss</link>
+   <author>kn</author>
+   <enclosure url="http://mno.hu/data/cikkek/1305/13056/cikk-1305613/hir_tv_szb20150922_3812_grid2_fekvo_lead.jpg" length="77765" type="image/jpeg"/>
+   <description><![CDATA[A nézői bázis fiatalítása a Hír Televízió új műsorstruktúrájának a legfőbb indoka.]]></description>
+   <category>Média</category>
+   <pubDate>Wed, 23 Sep 2015 13:36:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Prőhle: Mi nem szoktunk ahhoz, hogy erős muszlim közösségünk legyen]]></title>
+   <link>http://mno.hu/belfold/prohle-1302717?utm_source=feed&amp;utm_medium=rss</link>
+   <author>kn</author>
+   <description><![CDATA[Felmérhetetlen civilizációs krízisről, a Keletinél történtekről és a kerítésről is beszélt az államtitkár a Süddeutsche Zeitungnak.]]></description>
+   <category>Belföld</category>
+   <pubDate>Wed, 02 Sep 2015 14:58:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Négy gyermek a 71 halott között, magyar papírja van az egyik csempésznek]]></title>
+   <link>http://mno.hu/kulfold/csempeszdrama-magyar-okmanya-van-a-jarmuvezetonek-1302034?utm_source=feed&amp;utm_medium=rss</link>
+   <author>kn, FB</author>
+   <description><![CDATA[Szíriai beutazók és afrikai menekültek lehetnek az áldozatok között. Burgenland ideiglenes határellenőrzést sürget.]]></description>
+   <category>Külföld</category>
+   <pubDate>Fri, 28 Aug 2015 12:02:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Menekültdráma: 71 halott volt az elhagyott teherautóban]]></title>
+   <link>http://mno.hu/kulfold/menekultdrama-tobb-mint-71-halott-volt-a-magyar-furgonban-1301995?utm_source=feed&amp;utm_medium=rss</link>
+   <author>kn</author>
+   <description><![CDATA[Elfogtak három embert Magyarországon, akik kapcsolatba hozhatók a csütörtökön Ausztriában megtalált járművel.]]></description>
+   <category>Külföld</category>
+   <pubDate>Fri, 28 Aug 2015 08:44:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ki akarja elhallgattatni a fekete ruhás ápolónőt?]]></title>
+   <link>http://mno.hu/belfold/ki-akarja-elhallgattatni-a-fekete-ruhas-apolonot-1299887?utm_source=feed&amp;utm_medium=rss</link>
+   <author>kn</author>
+   <description><![CDATA[Az etikai eljárás sem tartja vissza. „Nem értem, mit vétettem azzal, hogy elmondtam, itt már nincs lejjebb.”]]></description>
+   <category>Belföld</category>
+   <pubDate>Thu, 13 Aug 2015 13:45:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ismét tábort szerveznek a tömegmészárlás helyszínén]]></title>
+   <link>http://mno.hu/kulfold/ismet-tabort-szerveznek-a-tomegmeszarlas-helyszinen-1298675?utm_source=feed&amp;utm_medium=rss</link>
+   <author>kn</author>
+   <description><![CDATA[Fiatalokkal népesül be Norvégia minden idők legtöbb áldozatát követelő terrorista akciójának helyszíne.]]></description>
+   <category>Külföld</category>
+   <pubDate>Sat, 08 Aug 2015 08:21:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Milliárdokat kaszáltak a twitteres álhíren]]></title>
+   <link>http://mno.hu/gazdasag/milliardokat-kaszaltak-a-twitteres-alhiren-1295356?utm_source=feed&amp;utm_medium=rss</link>
+   <author>kn</author>
+   <description><![CDATA[Egy a Bloombergre nagyon hasonlító oldalon jelent meg az álhír, miszerint 31 milliárd dollárért eladó a Twitter. A befektetők rögtön rá is ugrottak.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Wed, 15 Jul 2015 10:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Akadémiai elismerést kapott a Magyar Nemzet újságírója]]></title>
+   <link>http://mno.hu/tudomany/akademiai-elismerest-kapott-a-magyar-nemzet-ujsagiroja-1284734?utm_source=feed&amp;utm_medium=rss</link>
+   <author>kn</author>
+   <description><![CDATA[A Magyar Tudományos Akadémia 186. közgyűlésének hétfői ünnepi ülésén többeket is díjaztak.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Mon, 04 May 2015 14:16:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

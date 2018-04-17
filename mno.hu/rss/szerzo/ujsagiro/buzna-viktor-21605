@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Buzna Viktor]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/buzna-viktor-21605</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Wed, 11 Apr 2018 10:17:48 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Magyarország Huangjai]]></title>
+   <link>http://mno.hu/velemeny/magyarorszag-huangjai-2458331?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Buzna Viktor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24583/cikk-2458331/HM20110625_101.jpg" length="133437" type="image/jpeg"/>
+   <description><![CDATA[A biztonsági kihívásra az Orbán-kormány goebbelsi gyűlöletkampánnyal válaszolt.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Sat, 07 Apr 2018 13:28:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hiába igyekszik a kormány, áll a Budapest–Belgrád-vasút beruházása]]></title>
+   <link>http://mno.hu/kulfold/hiaba-igyekszik-a-kormany-all-a-budapest-belgrad-vasuti-beruhazas-2458511?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Buzna Viktor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24585/cikk-2458511/SZB20111207_0183.jpg" length="402368" type="image/jpeg"/>
+   <description><![CDATA[Brüsszel változatlanul stoppolja a kötelezettségszegési eljárással megakasztott beruházást.]]></description>
+   <category>Külföld</category>
+   <pubDate>Sat, 07 Apr 2018 10:46:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Külpolitika néven futtatták a gazdaságdiplomáciát Szijjártó Péterék]]></title>
+   <link>http://mno.hu/kulfold/kulpolitika-neven-futtattak-a-gazdasagdiplomaciat-szijjarto-peterek-2457654?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Zord Gábor László, Buzna Viktor, Ruzsbaczky Zoltán</author>
+   <enclosure url="http://mno.hu/data/cikkek/2457/24576/cikk-2457654/BA20171013_0962_1.jpg" length="514858" type="image/jpeg"/>
+   <description><![CDATA[Mi az unortodoxia világméretűvé tágítása? Szijjártó Péter külügyminiszter keleti nyitásos uniós kardcsörgetése. Plusz migránsellenesség. ]]></description>
+   <category>Külföld</category>
+   <pubDate>Thu, 05 Apr 2018 09:15:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kereskedelmi háborúval nyit az „ázsiai Davos”]]></title>
+   <link>http://mno.hu/kulfold/kereskedelmi-haboruval-nyit-az-azsiai-davos-2457986?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Buzna Viktor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2457/24579/cikk-2457986/035_pbu777497_08.jpg" length="356214" type="image/jpeg"/>
+   <description><![CDATA[Az Egyesült Államok elszigetelheti magát az egyre szélesedő konfliktus miatt, de még nem lépték át a Rubicont.]]></description>
+   <category>Külföld</category>
+   <pubDate>Wed, 04 Apr 2018 19:28:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kim Dzsongun vagy húga érkezhetett Pekingbe]]></title>
+   <link>http://mno.hu/kulfold/kim-dzsong-un-vagy-huga-erkezhetett-pekingbe-2456400?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Buzna Viktor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2456/24564/cikk-2456400/K_EPA20180327059.jpg" length="151839" type="image/jpeg"/>
+   <description><![CDATA[Az egész világ találgatja, kit szállított a kínai fővárosba befutó titokzatos, zöld, páncélozott monstrum.]]></description>
+   <category>Külföld</category>
+   <pubDate>Tue, 27 Mar 2018 19:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az új Amerika]]></title>
+   <link>http://mno.hu/velemeny/az-uj-amerika-2455718?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Buzna Viktor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2455/24557/cikk-2455718/000_MI12S.jpg" length="368025" type="image/jpeg"/>
+   <description><![CDATA[Ha az ausztrál példát szeretnénk követni, előbb a humán tőkét kell tudnunk értékelni.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Sun, 25 Mar 2018 18:30:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Trump egyelőre inkább tárgyal, mint háborúzik]]></title>
+   <link>http://mno.hu/kulfold/trump-egyelore-inkabb-targyal-mint-haboruzik-2455646?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Buzna Viktor</author>
+   <description><![CDATA[A Boeingre kivetett kínai importvámmal indulhat a kereskedelmi háború. Az EU általános mentességet kér.]]></description>
+   <category>Külföld</category>
+   <pubDate>Fri, 23 Mar 2018 19:52:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Mészárszékre vár a magyar külügy]]></title>
+   <link>http://mno.hu/kulfold/meszarszekre-var-a-magyar-kulugy-2454826?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Buzna Viktor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2454/24548/cikk-2454826/szb20141203_6704.JPG.jpg" length="283883" type="image/jpeg"/>
+   <description><![CDATA[Orbán Viktor folytatná a szabadságharcot. Eközben a diplomaták összebútoroznak a külszolgálaton.]]></description>
+   <category>Külföld</category>
+   <pubDate>Wed, 21 Mar 2018 09:25:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[„Orbán Viktor elsősorban egy ATM-nek tekinti az Európai Uniót”]]></title>
+   <link>http://mno.hu/kulfold/orban-viktor-elsosorban-egy-atm-nek-tekinti-az-europai-uniot-2453451?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Buzna Viktor</author>
+   <description><![CDATA[Atlantista szakértők értékelték a kormány külpolitikáját.]]></description>
+   <category>Külföld</category>
+   <pubDate>Wed, 14 Mar 2018 12:49:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Elrabolva Észak-Koreában: Tokió az elhurcolt japánok hazaengedését kéri ]]></title>
+   <link>http://mno.hu/kulfold/elrabolva-eszak-koreaban-tokio-az-elhurcolt-japanok-hazaengedeset-keri-2453187?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Buzna Viktor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2453/24531/cikk-2453187/000_Hkg2116281.jpg" length="524663" type="image/jpeg"/>
+   <description><![CDATA[Évtizedek óta élnek fogságban észak-koreai ügynökök által elrabolt japán állampolgárok. A diplomáciai enyhülés fordulatot hozhat.]]></description>
+   <category>Külföld</category>
+   <pubDate>Mon, 12 Mar 2018 18:18:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Konfliktusok kísérik a pekingi fordulatot]]></title>
+   <link>http://mno.hu/kulfold/konfliktusok-kiserik-a-pekingi-fordulatot-2452979?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Buzna Viktor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2452/24529/cikk-2452979/MNO_000_12B795.jpg" length="236417" type="image/jpeg"/>
+   <description><![CDATA[A hatalmában megerősödött Hszit a szocialista Kínát megalapító Mao Ce-tunghoz hasonlítoják, nem alaptalanul.]]></description>
+   <category>Külföld</category>
+   <pubDate>Sun, 11 Mar 2018 20:40:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Washington nélkül is van szabadkereskedelem]]></title>
+   <link>http://mno.hu/kulfold/washington-nelkul-is-van-szabadkereskedelem-2452395?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Buzna Viktor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2452/24523/cikk-2452395/000_FU1HP.jpg" length="491211" type="image/jpeg"/>
+   <description><![CDATA[Létrejött az Egyesült Államokat nélkülöző egyezmény, amely Kínát is válaszút elé állítja.]]></description>
+   <category>Külföld</category>
+   <pubDate>Thu, 08 Mar 2018 20:29:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Micimackó lépést vált]]></title>
+   <link>http://mno.hu/velemeny/micimacko-lepest-valt-2451985?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Buzna Viktor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2451/24519/cikk-2451985/K_EPA20180304087.jpg" length="216374" type="image/jpeg"/>
+   <description><![CDATA[Politikai klímaváltozást hoz, hogy Hszi Csin-ping hosszú időre rendezkedik be.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Wed, 07 Mar 2018 20:43:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Vietnam tud profitálni hintapolitikájából]]></title>
+   <link>http://mno.hu/kulfold/vietnam-tud-profitalni-hintapolitikajabol-2451623?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Buzna Viktor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2451/24516/cikk-2451623/000_11Z1BK.jpg" length="229044" type="image/jpeg"/>
+   <description><![CDATA[A vietnami háború óta először kötött ki amerikai repülőgép-hordozó az egykor ellenséges délkelet-ázsiai országban. A USS Carl Vinsonnal Kínának üzennek. ]]></description>
+   <category>Külföld</category>
+   <pubDate>Wed, 07 Mar 2018 14:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Magyarország elsőként veszíthet Trump háborújában]]></title>
+   <link>http://mno.hu/kulfold/magyarorszag-elsokent-veszithet-trump-haborujaban-2451930?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Buzna Viktor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2451/24519/cikk-2451930/063_617614492.jpg" length="234129" type="image/jpeg"/>
+   <description><![CDATA[Miközben a nemzetközi fémpiacon alakul a kereskedelmi háború, Szijjártó Péter alumíniumüzemet avatott.]]></description>
+   <category>Külföld</category>
+   <pubDate>Wed, 07 Mar 2018 12:33:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Próbálják ellehetetleníteni a külüggyel pereskedő egykori diplomatát]]></title>
+   <link>http://mno.hu/kulfold/probaljak-ellehetetleniteni-a-kuluggyel-pereskedo-egykori-diplomatat-2451079?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Buzna Viktor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2451/24510/cikk-2451079/kulugy.jpg" length="365153" type="image/jpeg"/>
+   <description><![CDATA[Sem a rendőrség, sem a titkosszolgálatok nem hajlandók foglalkozni az üzbegisztáni nagykövetségen történteket leleplező diplomatával.]]></description>
+   <category>Külföld</category>
+   <pubDate>Sat, 03 Mar 2018 20:08:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Alkotmánymódosítással a világhatalmi státuszért]]></title>
+   <link>http://mno.hu/kulfold/alkotmanymodositassal-a-vilaghatalmi-statuszert-2450333?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Buzna Viktor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2450/24503/cikk-2450333/000_1170S8.jpg" length="274660" type="image/jpeg"/>
+   <description><![CDATA[Kína új doktrínája az Egyesült Államok pozícióját célozza, de Trump szerint ez az ő belügyük. A szakértők máshogy látják.]]></description>
+   <category>Külföld</category>
+   <pubDate>Wed, 28 Feb 2018 16:28:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Jó kormányzás? Rossz vicc!]]></title>
+   <link>http://mno.hu/velemeny/jo-kormanyzas-rossz-vicc-2449403?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Buzna Viktor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2449/24494/cikk-2449403/20180203_NBB5634.JPG" length="493070" type="image/jpeg"/>
+   <description><![CDATA[A lakosság életminőségét leíró kritériumoknál több ponton is alulteljesítünk.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Sat, 24 Feb 2018 14:05:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ausztrália nem tud arról, hogy harcolna a Soros-terv ellen]]></title>
+   <link>http://mno.hu/kulfold/ausztralia-nem-szovetkezett-a-soros-terv-ellen-2449268?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Buzna Viktor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2449/24492/cikk-2449268/D_YT20180222020.jpg" length="172652" type="image/jpeg"/>
+   <description><![CDATA[Ausztrália büszke a multikulturalizmusra és egyelőre nem tervezi újranyitni budapesti nagykövetségét. ]]></description>
+   <category>Külföld</category>
+   <pubDate>Thu, 22 Feb 2018 20:45:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Budapestre is elérkezett a Kutya éve]]></title>
+   <link>http://mno.hu/kulfold/budapestre-is-elerkezett-a-kutya-eve-2448431?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Buzna Viktor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2448/24484/cikk-2448431/IMG_6412.JPG" length="325339" type="image/jpeg"/>
+   <description><![CDATA[Magyarországon is megünnepelték a kínai újév beköszöntét: főszerepben a gyógyászat, és debütált a kínai sör.]]></description>
+   <category>Külföld</category>
+   <pubDate>Mon, 19 Feb 2018 21:44:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Pekingnek sikerülhet a Dél-kínai-tenger meghódítása]]></title>
+   <link>http://mno.hu/kulfold/pekingnek-sikerulhet-a-del-kinai-tenger-meghoditasa-2447972?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Buzna Viktor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2447/24479/cikk-2447972/000_Hkg7594587.jpg" length="211698" type="image/jpeg"/>
+   <description><![CDATA[Kína hamarosan a Fülöp-szigeteket is bekerítheti, miközben egyre gyűlnek a nyugati hadihajók a Dél-kínai-tengeren.]]></description>
+   <category>Külföld</category>
+   <pubDate>Sat, 17 Feb 2018 20:02:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Így néz ki egy észak-koreai diplomatabuli]]></title>
+   <link>http://mno.hu/kulfold/igy-nez-ki-egy-eszak-koreai-diplomatabuli-2447662?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Buzna Viktor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2447/24476/cikk-2447662/000_Hkg8287237.jpg" length="247610" type="image/jpeg"/>
+   <description><![CDATA[Vetítéssel, koreai ételekkel és VIP-teremmel várták a vendégeket a „ragyogó csillag” napján.]]></description>
+   <category>Külföld</category>
+   <pubDate>Thu, 15 Feb 2018 21:30:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szándékosan lassul tovább a kínai gazdaság]]></title>
+   <link>http://mno.hu/kulfold/szandekosan-lassul-tovabb-a-kinai-gazdasag-2447128?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Buzna Viktor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2447/24471/cikk-2447128/000_Hkg3847076.jpg" length="313448" type="image/jpeg"/>
+   <description><![CDATA[Vezető kínai közgazdászok budapesi előadásából kiderült, hogy tarthatatlan volt a 10 százalékos növekedés, de azért még kár kongatni a vészharangokat.]]></description>
+   <category>Külföld</category>
+   <pubDate>Wed, 14 Feb 2018 20:50:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Faképnél hagyta az észak-koreai diktátor húgát az amerikai alelnök]]></title>
+   <link>http://mno.hu/kulfold/fakepnel-hagyta-az-eszak-koreai-diktator-hugat-az-amerikai-alelnok-2446819?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Buzna Viktor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2446/24468/cikk-2446819/MNO_000_Z77K9.jpg" length="213020" type="image/jpeg"/>
+   <description><![CDATA[Washington hiába próbálta, nem tudta megállítani a két Korea közeledését. Pence sértődötten távozott az olimpiáról.]]></description>
+   <category>Külföld</category>
+   <pubDate>Tue, 13 Feb 2018 13:40:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Indul a Kutya éve: az állatvédők már kampányolnak]]></title>
+   <link>http://mno.hu/kulfold/indul-a-kutya-eve-az-allatvedok-mar-kampanyolnak-2446532?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Buzna Viktor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2446/24465/cikk-2446532/Zhou_Yang_Adoption_Ad_Feb_2018_800x10592.jpg" length="503414" type="image/jpeg"/>
+   <description><![CDATA[Évente kétmillió kutyát és macskát nyúznak meg szőrmekészítő üzemekben – figyelmeztetnek a kínai gyorskorcsolyázók.]]></description>
+   <category>Külföld</category>
+   <pubDate>Mon, 12 Feb 2018 13:13:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az Európai Unió temeti a Budapest–Belgrád vasút tervét]]></title>
+   <link>http://mno.hu/kulfold/az-europai-unio-temeti-a-budapestbelgrad-vasut-tervet-2445758?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Buzna Viktor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2445/24457/cikk-2445758/10_3nbb.jpg" length="552507" type="image/jpeg"/>
+   <description><![CDATA[Az uniós elemzés szerint a kínai nagyprojektek elkerülik térségünket, eközben Szijjártó már a Budapest–Kolozsvár vasútról tárgyalt.]]></description>
+   <category>Külföld</category>
+   <pubDate>Thu, 08 Feb 2018 09:09:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Phjongcshang: a nyugati hatalmak rajthoz álltak]]></title>
+   <link>http://mno.hu/kulfold/pjongcshang-a-nyugati-hatalmak-rajthoz-alltak-2445428?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Buzna Viktor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2445/24454/cikk-2445428/000_YW6XL.jpg" length="230901" type="image/jpeg"/>
+   <description><![CDATA[Észak-Korea-ellenes koalíciót épít az Egyesült Államok és Németország.]]></description>
+   <category>Külföld</category>
+   <pubDate>Wed, 07 Feb 2018 10:11:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Washington szerint Kína fenyegeti a Monroe-doktrínát]]></title>
+   <link>http://mno.hu/kulfold/washington-szerint-kina-fenyegeti-a-monroe-doktrinat-2445235?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Buzna Viktor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2445/24452/cikk-2445235/000_YP3L2.jpg" length="543555" type="image/jpeg"/>
+   <description><![CDATA[Tillerson amerikai külügyminiszter aggályait fejezte ki Peking fokozódó jelenlétével kapcsolatban.]]></description>
+   <category>Külföld</category>
+   <pubDate>Mon, 05 Feb 2018 22:18:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Sportos emlékévvel készül a külügy a japán–magyar évfordulóra]]></title>
+   <link>http://mno.hu/kulfold/japan-kegyeibe-igyekszik-ferkozni-a-kormany-2444680?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Buzna Viktor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2444/24446/cikk-2444680/MNO_000_WQ2H0.jpg" length="278564" type="image/jpeg"/>
+   <description><![CDATA[Jövőre lesz 150 éves a kétoldalú kapcsolatunk. Az alkalmat a kormány a Kína felé eltolódott Ázsia-politika korrekciójára is felhasználná.]]></description>
+   <category>Külföld</category>
+   <pubDate>Sat, 03 Feb 2018 09:25:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ferenc pápa inkább elkerülne egy ázsiai Mindszenty-ügyet ]]></title>
+   <link>http://mno.hu/kulfold/ferenc-papa-inkabb-elkerulne-egy-azsiai-mindszenty-ugyet-2444391?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Buzna Viktor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2444/24443/cikk-2444391/000_JE9OR.jpg" length="211682" type="image/jpeg"/>
+   <description><![CDATA[Áttörés jöhet a Vatikán és Kína kapcsolatában, de vannak, akik megihatják a levét. Tajvan aggódik.]]></description>
+   <category>Külföld</category>
+   <pubDate>Fri, 02 Feb 2018 09:20:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

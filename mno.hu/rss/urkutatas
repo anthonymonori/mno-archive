@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - rovat: Űrkutatás]]></title>
+  <link>http://mno.hu/urkutatas</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Wed, 11 Apr 2018 08:46:36 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Felfedezték az eddig ismert legtávolabbi csillagot]]></title>
+   <link>http://mno.hu/urkutatas/felfedeztek-az-eddig-ismert-legtavolabbi-csillagot-2457514?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <description><![CDATA[Az Ikarus 9 milliárd fényévre található, százszor messzebb, mint az eddig tanulmányozott legtávolabbi csillag.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Tue, 03 Apr 2018 09:26:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Teherűrhajót indított a SpaceX cég a Nemzetközi Űrállomásra]]></title>
+   <link>http://mno.hu/urkutatas/teherurhajot-inditott-a-spacex-ceg-a-nemzetkozi-urallomasra-2457484?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <description><![CDATA[Az ellátmánnyal és berendezésekkel megrakott Dragon űrhajó várhatóan szerdán ér úti céljához.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Tue, 03 Apr 2018 06:26:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hruscsov szenzációjából nekünk is jutott]]></title>
+   <link>http://mno.hu/urkutatas/hruscsov-szenzaciojabol-nekunk-is-jutott-2455675?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Molnár Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2455/24556/cikk-2455675/sputnik2.jpg" length="368453" type="image/jpeg"/>
+   <description><![CDATA[Az első magyar idegen nyelvű űrkutatási szakcikk története.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Sat, 31 Mar 2018 21:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Elszabadult a kínai űrállomás, zuhan a Föld felé]]></title>
+   <link>http://mno.hu/urkutatas/elszabadult-a-kinai-urallomas-2456416?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <description><![CDATA[A becsapódás miatti pánikra azonban nincs ok.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Tue, 27 Mar 2018 17:40:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[2000 napja a Marson a Curiosity]]></title>
+   <link>http://mno.hu/urkutatas/2000-napja-a-marson-a-curiosity-2455731?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Molnár Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2455/24557/cikk-2455731/PIA22207.jpg" length="507453" type="image/jpeg"/>
+   <description><![CDATA[A marsjáró hat éve kutatja a vörös bolygót, és Windows-háttérképek százait küldte már haza.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Sat, 24 Mar 2018 20:13:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az univerzum legkorábbi csillagainak jeleire bukkantak]]></title>
+   <link>http://mno.hu/urkutatas/az-univerzum-legkorabbi-csillagainak-jeleire-bukkantak-2450621?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <description><![CDATA[A rádióhullámok jelezték azt is: a világegyetem valószínűleg kétszer olyan hideg volt, mint gondolták.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Wed, 28 Feb 2018 20:59:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Öt hónap után értek földet az amerikai és orosz űrhajósok]]></title>
+   <link>http://mno.hu/urkutatas/ot-honap-utan-ertek-foldet-az-amerikai-es-orosz-urhajosok-2450373?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <description><![CDATA[Kazahsztánban szálltak ki az űrkapszulából. ]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Wed, 28 Feb 2018 06:24:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Elon Musk a Marson keres magának sírhelyet]]></title>
+   <link>http://mno.hu/urkutatas/elon-musk-a-marson-keres-maganak-sirhelyet-2447797?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pintér Bence</author>
+   <enclosure url="http://mno.hu/data/cikkek/2447/24477/cikk-2447797/starman_896_504_1518790623.jpg" length="232420" type="image/jpeg"/>
+   <description><![CDATA[A Tesla feltalálója gyerekkori olvasmányaiból gyúrja meg a jövőnket. De egyáltalán ki ez az elme?]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Sun, 18 Feb 2018 13:20:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nem volt teljes siker a SpaceX szuperrakétájának tesztje]]></title>
+   <link>http://mno.hu/urkutatas/nem-volt-teljes-siker-a-space-x-szuperraketajanak-tesztje-2445571?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2445/24455/cikk-2445571/40126461411_a6e49a61f2_k.jpg" length="237225" type="image/jpeg"/>
+   <description><![CDATA[A három hordozórakétából egy nem tudott rendben visszatérni – a tengerbe csapódott. ]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Wed, 07 Feb 2018 09:53:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Egy habdarab miatt az űrsikló elveszett]]></title>
+   <link>http://mno.hu/urkutatas/egy-habdarab-miatt-az-ursiklo-elveszett-2443040?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Csécsi László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2443/24430/cikk-2443040/columbia_ursiklo_grafika.jpg" length="516538" type="image/jpeg"/>
+   <description><![CDATA[Felelőtlen döntések sorozata vezetett a Columbia űrsikló tizenöt évvel ezelőtt történt katasztrófájához.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Sun, 28 Jan 2018 14:45:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Titkos amerikai szállítmányt bocsátott fel a SpaceX]]></title>
+   <link>http://mno.hu/urkutatas/titkos-amerikai-szallitmanyt-bocsatott-fel-a-spacex-2438550?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <enclosure url="http://mno.hu/data/cikkek/2438/24385/cikk-2438550/K_AP20180108223.jpg" length="159207" type="image/jpeg"/>
+   <description><![CDATA[Az eszközt a Falcon–9-es típusú hordozórakéta indította útnak.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Mon, 08 Jan 2018 08:44:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A Hold sötét oldalán landolnának idén a kínaiak]]></title>
+   <link>http://mno.hu/urkutatas/a-hold-sotet-oldalan-landolnanak-iden-a-kinaiak-2437815?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <description><![CDATA[A kínaiak lehetnek az elsők, akik leszállnak az égitest túlsó felén.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Thu, 04 Jan 2018 12:35:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Jön az űrbányászat? Magáncégek hódítanák meg a világűrt]]></title>
+   <link>http://mno.hu/urkutatas/jon-az-urbanyaszat-magancegek-hoditanak-meg-a-vilagurt-2434439?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Molnár Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2434/24344/cikk-2434439/MNO_21039121693_eb037c2bd9_o_896_504_1514641795.jpg" length="114664" type="image/jpeg"/>
+   <description><![CDATA[Az állami bürokrácia azonban útjukat állja, hiszen senki sem tud arra válaszolni, hogy ki birtokolja az égitesteket.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Sat, 30 Dec 2017 15:15:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Elindult az űrállomásra egy amerikai, egy japán és egy orosz űrhajós]]></title>
+   <link>http://mno.hu/urkutatas/elindult-az-urallomasra-egy-amerikai-egy-japan-es-egy-orosz-urhajos-2434421?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <description><![CDATA[A Szojuz közép-európai idő szerint röviddel fél kilenc előtt hagyta el a kazahsztáni űrrepülőteret.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Sun, 17 Dec 2017 10:18:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Felfedezték egy távoli csillag nyolcadik bolygóját]]></title>
+   <link>http://mno.hu/urkutatas/felfedeztek-egy-tavoli-csillag-nyolcadik-bolygojat-2434077?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <enclosure url="http://mno.hu/data/cikkek/2434/24340/cikk-2434077/fig5_stacked_90ss_planets_callouts.jpg" length="231869" type="image/jpeg"/>
+   <description><![CDATA[Ezzel a rendszer planétáinak száma annyi, mint a Naprendszeré.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Fri, 15 Dec 2017 08:53:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Trump visszatérne a Holdra, és elindulna a Marsra is]]></title>
+   <link>http://mno.hu/urkutatas/trump-visszaterne-a-holdra-es-elindulna-a-marsra-is-2433280?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <enclosure url="http://mno.hu/data/cikkek/2433/24332/cikk-2433280/000_V30YQ.jpg" length="384744" type="image/jpeg"/>
+   <description><![CDATA[Az elnök által aláírt dokumentum nem említ határidőt a tervek megvalósítására, és a költségekről is hallgat.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Tue, 12 Dec 2017 06:14:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Negyvenöt éve indult utoljára ember a Holdra]]></title>
+   <link>http://mno.hu/urkutatas/negyvenot-eve-indult-utoljara-ember-a-holdra-2432377?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vékony Zsolt</author>
+   <enclosure url="http://mno.hu/data/cikkek/2432/24323/cikk-2432377/000_K18P4_896_504_1512644316.jpg" length="68619" type="image/jpeg"/>
+   <description><![CDATA[A NASA Apollo-programjának utolsó missziója 1972. december 7-én startolt.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Thu, 07 Dec 2017 11:55:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Óriási mázli lenne, de akár a szomszédos csillag körül is találhatunk életet]]></title>
+   <link>http://mno.hu/urkutatas/oriasi-mazli-lenne-de-akar-a-szomszedos-csillag-korul-is-talalhatunk-eletet-2425836?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Csécsi László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2425/24258/cikk-2425836/Artist_s_impression_of_the_planet_orbiting_Proxima_Centauri.jpg" length="307133" type="image/jpeg"/>
+   <description><![CDATA[Egy egész bolygóváros rejtőzködhet a szomszédunkban. Ha nagyon akarnánk, oda is tudnánk menni.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Tue, 07 Nov 2017 11:41:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Megemelték a Nemzetközi Űrállomás pályájának magasságát ]]></title>
+   <link>http://mno.hu/urkutatas/megemeltek-a-nemzetkozi-urallomas-palyajanak-magassagat-2425027?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <enclosure url="http://mno.hu/data/cikkek/2425/24250/cikk-2425027/ocs_iss_0.jpg" length="480215" type="image/jpeg"/>
+   <description><![CDATA[A módosításra a Szojuz MSZ-06 típusú űrhajó visszatérése miatt volt szükség.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Thu, 02 Nov 2017 07:14:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nyakunkba hull a Mennyei palota]]></title>
+   <link>http://mno.hu/urkutatas/nyakunkba-hull-a-mennyei-palota-2421897?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Molnár Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2421/24218/cikk-2421897/K_XIN20110929089.jpg" length="170070" type="image/jpeg"/>
+   <description><![CDATA[Jóval valószínűbb, hogy a hétvégén megnyeri a lottó ötöst, minthogy épp önt kólintja fejbe a Tiangong–1.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Thu, 19 Oct 2017 13:28:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hatalmas barlangot fedeztek fel a Hold felszíne alatt]]></title>
+   <link>http://mno.hu/urkutatas/hatalmas-barlangot-fedeztek-fel-a-hold-felszine-alatt-2422146?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <enclosure url="http://mno.hu/data/cikkek/2422/24221/cikk-2422146/11847h.jpg" length="372326" type="image/jpeg"/>
+   <description><![CDATA[Ez egy csaknem 50 kilométer hosszan futó úgynevezett lávacsatorna lehet. ]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Wed, 18 Oct 2017 15:08:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Biztosan jó ötlet üzeneteket küldeni a földönkívülieknek?]]></title>
+   <link>http://mno.hu/urkutatas/biztosan-jo-otlet-uzeneteket-kuldeni-a-foldonkivulieknek-2419117?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Csécsi László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2419/24191/cikk-2419117/MNO_PIA00233_896_504_1484812724.jpg" length="266839" type="image/jpeg"/>
+   <description><![CDATA[Lehet, hogy „sokkal erősebbek nálunk, és annyit érünk csupán a szemükben, mint egy baktérium”.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Sun, 01 Oct 2017 10:46:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A Földön már jól bírjuk a marsi viszonyokat]]></title>
+   <link>http://mno.hu/urkutatas/a-foldon-mar-jol-birjuk-a-marsi-viszonyokat-2418880?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Csécsi László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2418/24188/cikk-2418880/MNO_firstorionfl.jpg" length="607939" type="image/jpeg"/>
+   <description><![CDATA[Egy vulkán tetején és Moszkva központjában is szimulálták már a vörös bolygó hétköznapjait.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Wed, 27 Sep 2017 17:59:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A Tejútrendszeren kívüli galaxisokból érkezik kozmikus sugárzás ]]></title>
+   <link>http://mno.hu/urkutatas/a-tejutrendszeren-kivuli-galaxisokbol-erkezik-kozmikus-sugarzas-2418296?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <enclosure url="http://mno.hu/data/cikkek/2418/24182/cikk-2418296/151425.jpg" length="442070" type="image/jpeg"/>
+   <description><![CDATA[Eddig úgy hitték, a kozmikus sugárzás a Tejútrendszer központjából érkezve éri a Földet.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Fri, 22 Sep 2017 18:36:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A kínai Mars-misszió tizenháromféle rakományt fog szállítani]]></title>
+   <link>http://mno.hu/urkutatas/a-kinai-mars-misszio-tizenharomfele-rakomanyt-fog-szallitani-2418146?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2418/24181/cikk-2418146/K_AP20160915098.jpg" length="878904" type="image/jpeg"/>
+   <description><![CDATA[Ennek keretében űrszondát is útnak indítanak 2020-ban.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Thu, 21 Sep 2017 20:24:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A Cassini fejest ugrott a Szaturnuszba]]></title>
+   <link>http://mno.hu/urkutatas/a-cassini-fejest-ugrott-a-szaturnuszba-2417225?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Csécsi László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2417/24172/cikk-2417225/pia21439_896_504_1505480090.jpg" length="39022" type="image/jpeg"/>
+   <description><![CDATA[A szonda nélkül fogalmunk sem lenne róla, hogy a Naprendszer külső régióiban is érdemes lehet életet keresni.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Fri, 15 Sep 2017 16:02:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Luna–2: Az első ember alkotta tárgy, amit sikerült hozzávágni a Holdhoz]]></title>
+   <link>http://mno.hu/urkutatas/luna-2-az-elso-ember-alkotta-targy-amit-sikerult-hozzavagni-a-holdhoz-2416677?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Molnár Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2416/24166/cikk-2416677/Luna_2_Soviet_moon_probe.jpg" length="33491" type="image/jpeg"/>
+   <description><![CDATA[Hruscsov a szonda makettjét ajándékozta Eisenhowernek, csak hogy felbosszantsa. ]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Wed, 13 Sep 2017 11:16:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hatszáz éve történt csillagrobbanás hátterét tárták fel]]></title>
+   <link>http://mno.hu/urkutatas/hatszaz-eve-tortent-csillagrobbanas-hatteret-tartak-fel-2414942?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <description><![CDATA[1437. március 11-én figyelték meg a jelenséget a kutatók.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Wed, 30 Aug 2017 21:24:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[„Potenciálisan veszélyes” aszteroida halad el a Föld mellett]]></title>
+   <link>http://mno.hu/urkutatas/potencialisan-veszelyes-aszteroida-halad-el-a-fold-mellett-2414658?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <description><![CDATA[Hétmillió kilométeres „biztonságos távolságban” lesz.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Tue, 29 Aug 2017 13:55:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hóviharok dúlnak éjszakánként a Marson]]></title>
+   <link>http://mno.hu/urkutatas/hoviharok-dulnak-ejszakankent-a-marson-2413674?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <description><![CDATA[Az új felfedezések megváltoztathatják a vörös bolygóról kialakult eddigi elméleteket.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Tue, 22 Aug 2017 17:22:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

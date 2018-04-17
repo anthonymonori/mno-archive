@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Babiczky Tibor]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/babiczky-tibor-22498</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 20:18:24 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Németországban én rögtön nácigyanús vagyok]]></title>
+   <link>http://mno.hu/nagyinterju_magazinban/utvesztok-1319802?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Babiczky Tibor</author>
+   <enclosure url="http://mno.hu/data/cikkek/1319/13198/cikk-1319802/VL20151130_8281_grid2_fekvo_lead.jpg" length="109204" type="image/jpeg"/>
+   <description><![CDATA[Egy Amerikát megjárt író a faluszélen. Oravecz Imre az MMA-ról, magányról és a kivándorlásról.]]></description>
+   <category>Nagyinterjú a Magazinban</category>
+   <pubDate>Sun, 20 Dec 2015 06:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A 23 millió románozással kezdődött]]></title>
+   <link>http://mno.hu/nagyinterju_magazinban/ki-is-vagy-te-1310514?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Babiczky Tibor</author>
+   <enclosure url="http://mno.hu/data/cikkek/1310/13105/cikk-1310514/dragoman1_grid2_fekvo_lead.jpg" length="40501" type="image/jpeg"/>
+   <description><![CDATA[A 23 millió románozással kezdődött, s most is áthatja a politikát a gyűlölet, panaszolja Dragomán György.]]></description>
+   <category>Nagyinterjú a Magazinban</category>
+   <pubDate>Sun, 25 Oct 2015 10:20:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Magyar–cigány együttélés Ácson és Tapolcán]]></title>
+   <link>http://mno.hu/hetvegimagazin/ket-hinta-egy-csuszda-1309456?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Babiczky Tibor</author>
+   <enclosure url="http://mno.hu/data/cikkek/1309/13094/cikk-1309456/VL20150928_4710.jpg" length="2091061" type="image/jpeg"/>
+   <description><![CDATA[A romaintegrációról sokat beszéltek az elmúlt huszonöt évben, történni azonban nem nagyon történt semmi. ]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Sun, 18 Oct 2015 16:56:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Felkészültek-e a fegyveres testületek tagjai a pszichikai megterhelésre?]]></title>
+   <link>http://mno.hu/hetvegimagazin/rend-a-lelke-1304976?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Babiczky Tibor</author>
+   <enclosure url="http://mno.hu/data/cikkek/1304/13049/cikk-1304976/NBB_20150908_1655.jpg" length="377471" type="image/jpeg"/>
+   <description><![CDATA[A déli határnál sok az ütközés, s olykor nem csak a gáz csal könnyet a szemekbe. Alapos-e a fegyveres testületek tagjainak pszichológiai vizsgálata?]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Sun, 20 Sep 2015 17:28:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Sétáltatni a botot]]></title>
+   <link>http://mno.hu/hetvegimagazin/setaltatni-a-botot-1292624?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Babiczky Tibor</author>
+   <description><![CDATA[A tihanyi levendulafesztivál keretében hatodik alkalommal rendezték meg a Magyar Nordic Walking Akadémia országos találkozóját.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Sun, 28 Jun 2015 20:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A szlovák nép egy részének magyargyűlölete irracionális]]></title>
+   <link>http://mno.hu/hetvegimagazin/angolszasz-mitologia-interju-vegel-laszloval-1289401?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Babiczky Tibor</author>
+   <description><![CDATA[A Kossuth- és Márai-díjas íróval a népi-urbánus vitáról, a pozsonyi villamos feliratairól és az olvasók arcára nyomott csókról beszélgettünk.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Sat, 06 Jun 2015 18:08:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

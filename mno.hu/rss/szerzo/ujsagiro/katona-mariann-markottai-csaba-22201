@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Katona Mariann-Markottai Csaba]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/katona-mariann-markottai-csaba-22201</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Fri, 13 Apr 2018 00:14:12 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[A Jobbik jelöltje: Rig Lajos]]></title>
+   <link>http://mno.hu/belfold/a-jobbik-jeloltje-rig-lajos-1281362?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Katona Mariann-Markottai Csaba</author>
+   <description><![CDATA[Egy nemzeti, a tapolcai választókörzetben élő emberek érdekeit megalkuvás nélkül képviselő jelöltnek győznie Rig Lajos szerint.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sat, 11 Apr 2015 03:33:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

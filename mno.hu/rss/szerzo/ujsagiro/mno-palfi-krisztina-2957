@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: MNO-Pálfi Krisztina]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/mno-palfi-krisztina-2957</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Fri, 13 Apr 2018 20:13:03 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Teljesen kiakadt, mert ráborult az ital + Képek]]></title>
+   <link>http://mno.hu/eletmod/teljesen-kiakadt-mert-raborult-az-ital-kep-1058831?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MNO-Pálfi Krisztina</author>
+   <description><![CDATA[Katie Holmes és Tom Cruise ötéves lánya igazi hisztérika. A kis divatbolond pénteken egy étteremben rendezett jelenetet.]]></description>
+   <category>Életmód</category>
+   <pubDate>Sat, 10 Mar 2012 09:16:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Végső összecsapás: Helen Mirren vagy a divatvilág győz? + Képek]]></title>
+   <link>http://mno.hu/eletmod/vegso-osszecsapas-vajon-ki-kerul-ki-gyoztesen-1058225?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MNO-Pálfi Krisztina</author>
+   <description><![CDATA[Vagy divatot teremt, vagy végleg leírják Helen Mirrent Az ajtó című film premierjén elkövetett divatbakija miatt.]]></description>
+   <category>Életmód</category>
+   <pubDate>Thu, 08 Mar 2012 08:57:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Új sziget képződött a Vörös-tengerben + Képek]]></title>
+   <link>http://mno.hu/tudomany/uj-sziget-kepzodott-a-voros-tengerben-kepek-1040204?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MNO-Pálfi Krisztina</author>
+   <description><![CDATA[Új „lakója” van a Vörös-tengernek: egy füstölgő sziget.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Thu, 29 Dec 2011 14:41:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Meteorzápor zúdult ránk + Képek + Videó]]></title>
+   <link>http://mno.hu/tudomany/meteorzapor-zudult-rank-6195?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MNO-Pálfi Krisztina</author>
+   <description><![CDATA[Csodálatos látvány tárulhatott az elé, aki szombaton napkelte előtt az égre nézett. A Halley-üstököst kísérő porréteg haladt el ugyanis a Föld mellett. ]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Sat, 22 Oct 2011 23:57:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Erre még a tudósok sem tudják a választ + Képek + Videó]]></title>
+   <link>http://mno.hu/tudomany/meg-a-tudosok-sem-tudjak-hova-fog-becsapodni-a-muhold-6198?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MNO-Pálfi Krisztina</author>
+   <description><![CDATA[Egy hatalmas német szatellitnek kellene visszaérkeznie a Földre október 22-én. A tudósok azonban eddig nem tudták kiszámolni, pontosan hol is csapódik majd be.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Sat, 22 Oct 2011 23:56:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Barkóczi Balázs]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/barkoczi-balazs-30057</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Fri, 13 Apr 2018 01:00:04 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Az ártatlan háromperkettes és az álhírek]]></title>
+   <link>http://mno.hu/velemeny/az-artatlan-haromperkettes-es-az-alhirek-2455514?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Barkóczi Balázs</author>
+   <enclosure url="http://mno.hu/data/cikkek/2455/24555/cikk-2455514/8_1szb.jpg" length="558229" type="image/jpeg"/>
+   <description><![CDATA[A kormányfő nem hazudik, csupán ferdít saját táborának egyben tartása céljából.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Fri, 23 Mar 2018 14:22:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

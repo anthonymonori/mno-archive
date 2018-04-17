@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Kovács József]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/kovacs-jozsef-15273</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 19:26:32 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Nagypénteki sokaság]]></title>
+   <link>http://mno.hu/hetvegimagazin/nagypenteki-sokasag-2394800?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kovács József</author>
+   <enclosure url="http://mno.hu/data/cikkek/2394/23948/cikk-2394800/Je_zus_keresztu_ton_Pieter_Bruegel.jpg" length="571096" type="image/jpeg"/>
+   <description><![CDATA[A nagypéntek története állásfoglalásra késztet: Jézus mellett vagy ellene. Nincs harmadik opció.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Sat, 15 Apr 2017 13:13:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Isten öntözőcsöve]]></title>
+   <link>http://mno.hu/belfold/isten-ontozocsove-1388412?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kovács József</author>
+   <enclosure url="http://mno.hu/data/cikkek/1388/13884/cikk-1388412/szb20090401_8244_2000_1333_1488453488.jpg" length="146388" type="image/jpeg"/>
+   <description><![CDATA[Az 1939-ben született Cseri Kálmán a XX. század emblematikus magyar református lelkipásztora volt. ]]></description>
+   <category>Belföld</category>
+   <pubDate>Thu, 02 Mar 2017 14:46:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Tovább csökkent az influenzás megbetegedések száma]]></title>
+   <link>http://mno.hu/belfold/tovabb-csokkent-az-influenzas-megbetegedesek-szama-1386240?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kovács József</author>
+   <description><![CDATA[Harminc százalékkal kevesebben fordultak orvoshoz ilyen tünetekkel.]]></description>
+   <category>Belföld</category>
+   <pubDate>Thu, 16 Feb 2017 11:58:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Rabok törték a jeget a Tiszánál]]></title>
+   <link>http://mno.hu/belfold/rabok-tortek-a-jeget-a-tiszanal-1386233?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kovács József</author>
+   <description><![CDATA[A tiszaeszlári szivattyútelepet tisztították meg a fogvatartottak, akik önként jelentkeztek a munkára.]]></description>
+   <category>Belföld</category>
+   <pubDate>Thu, 16 Feb 2017 11:26:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Katasztrófában fog végződni a csillagkeringő]]></title>
+   <link>http://mno.hu/urkutatas/katasztrofaban-fog-vegzodni-a-csillagkeringo-1273133?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kovács József</author>
+   <description><![CDATA[Egy planetáris ködben felfedeztek egy csillagpárt, amelynek tagjai egy szupernóva-robbanásban fognak összeolvadni.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Mon, 16 Feb 2015 21:35:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ultraibolyában sugárzó burok egy haldokló csillag körül]]></title>
+   <link>http://mno.hu/urkutatas/ultraibolyaban-sugarzo-burok-egy-haldoklo-csillag-korul-1272754?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kovács József</author>
+   <description><![CDATA[Újabb felfúvódott vörös óriáscsillag körül fedeztek fel ultraibolyában látszó levált gázburkot.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Fri, 13 Feb 2015 21:25:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Tévedés: eddig teljesen máshogy gondolták a tudósok]]></title>
+   <link>http://mno.hu/urkutatas/szazmillio-evvel-kesobb-szulethettek-a-csillagok-1271986?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kovács József</author>
+   <description><![CDATA[Az univerzum első csillaggenerációja mintegy százmillió évvel később jött létre.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Mon, 09 Feb 2015 20:14:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Érdekes dologra bukkant a magyar csillagász vezette csoport]]></title>
+   <link>http://mno.hu/urkutatas/erdekes-dologra-bukkant-a-magyar-csillagasz-vezette-csoport-1271421?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kovács József</author>
+   <description><![CDATA[Dékány István vezetésével egy nemzetközi kutatócsoport a VISTA infravörös távcsővel „átnézett” a Trifid-ködön.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Thu, 05 Feb 2015 20:27:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Öt Föld-méretű bolygót találtak egy ősi csillag körül]]></title>
+   <link>http://mno.hu/urkutatas/ot-foldmeretu-bolygot-talaltak-egy-osi-csillag-korul-1270291?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kovács József</author>
+   <description><![CDATA[A Kepler-űrtávcső adatai alapján egy ősi, 11,2 milliárd éves csillag körül azonosították a planétákat.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Sat, 31 Jan 2015 20:35:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A kevés plutónium átírja a korábbi elméleteket]]></title>
+   <link>http://mno.hu/urkutatas/oceanfeneki-por-es-a-szupernova-robbanasok-1269104?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kovács József</author>
+   <description><![CDATA[Az óceánfenékre leülepedett csillagközi eredetű por plutóniumtartalma sokkal kisebb, mint amekkorára számítottak.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Thu, 22 Jan 2015 22:56:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Újabb titkok derültek ki a csillagokról]]></title>
+   <link>http://mno.hu/urkutatas/viharos-multja-volt-az-andromeda-kodnek-1267938?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kovács József</author>
+   <description><![CDATA[Az Androméda-köd összeolvadása kicsi galaxisokkal sokkal viharosabb körülmények között zajlott, mint a Tejútrendszer esetében.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Fri, 16 Jan 2015 21:28:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Rejtélyes molekulák galaktikus elhelyezkedését mutatja egy új térkép]]></title>
+   <link>http://mno.hu/urkutatas/rejtelyes-molekulak-galaktikus-elhelyezkedeset-mutatja-egy-uj-terkep-1267520?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kovács József</author>
+   <description><![CDATA[A Johns Hopkins University csillagászai az SDSS égboltfelmérés sok százezer különféle objektumának színképi vizsgálata alapján mindeddig egyedülálló térképet rajzoltak a Tejútrendszer rejtélyes molekuláinak eloszlásáról.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Tue, 13 Jan 2015 20:54:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Fantasztikus felfedezés 7 millió fényévre]]></title>
+   <link>http://mno.hu/urkutatas/uj-torpegalaxist-talaltak-a-lokalis-csoportban-1266583?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kovács József</author>
+   <description><![CDATA[Az izolált törpegalaxis körülbelül 7 millió fényév távolságban helyezkedik el.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Fri, 09 Jan 2015 21:06:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ez a kísérlet közelebb vezethet az anyag-antianyag rejtélyhez]]></title>
+   <link>http://mno.hu/urkutatas/resze-e-a-higgs-bozon-az-anyag-antianyag-rejtelynek-1266163?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kovács József</author>
+   <description><![CDATA[A kísérletből kiderülhet, a Higgs-bozonnak lehet-e szerepe az univerzumunk anyag-antianyag aszimmetriájának magyarázatában.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Mon, 05 Jan 2015 20:43:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nézze meg 2014 legszebb csillagaszati képeit!]]></title>
+   <link>http://mno.hu/urkutatas/nezze-meg-2014-legszebb-csillagaszati-kepeit-1265350?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kovács József</author>
+   <description><![CDATA[A Csillagászat.hu összegyűjtötte az év legszebb fotóit. Gyönyörködjön bennük!]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Mon, 29 Dec 2014 20:30:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Új korszak kezdődik: megfejtették a sötét anyag titkát]]></title>
+   <link>http://mno.hu/urkutatas/uj-korszak-kezdodik-megfejtettek-a-sotet-anyag-titkat-1263566?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kovács József</author>
+   <description><![CDATA[A sötét anyag és nagy testvére, a sötét energia természetének megfejtése a modern asztrofizika egyik nagy problémája.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Thu, 18 Dec 2014 05:23:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Viharos szelek formálják a Titan homokdűnéit]]></title>
+   <link>http://mno.hu/urkutatas/viharos-szelek-formaljak-a-titan-homokduneit-1262984?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kovács József</author>
+   <description><![CDATA[E szelek sebességének legalább ötven százalékkal nagyobbnak kell lenni annál, mint amit a kutatók korábban gondoltak.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Sat, 13 Dec 2014 20:37:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nincs élet a vörös törpék bolygóin?]]></title>
+   <link>http://mno.hu/urkutatas/elet-hordozasara-alkalmatlanok-lehetnek-a-voros-torpek-bolygoi-1262857?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kovács József</author>
+   <description><![CDATA[Egy új szimuláció szerint talán mégsem annyira ígéretesek, mint eddig gondolták.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Fri, 12 Dec 2014 04:17:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Élet a vörös bolygón: érdekes bizonyítékot találtak]]></title>
+   <link>http://mno.hu/urkutatas/biologiai-aktivitas-nyomai-egy-marsi-meteoritban-1261832?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kovács József</author>
+   <description><![CDATA[Megint felfűtheti a régi vitát egy Marsról származó meteorit.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Sat, 06 Dec 2014 20:31:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szauron szemével pontosabb a távolság]]></title>
+   <link>http://mno.hu/urkutatas/szauron-szemevel-pontosabb-a-tavolsag-1261478?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kovács József</author>
+   <description><![CDATA[A Keck teleszkópok interferometrikus üzemmódjában egy új eljárásnak köszönhetően sokkal pontosabban sikerült megmérni a „Szauron szeme” néven is ismert NGC 4151 jelű galaxis távolságát.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Wed, 03 Dec 2014 20:18:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Mi történik a Tejútrendszer magjában?]]></title>
+   <link>http://mno.hu/urkutatas/mi-tortenik-a-tejutrendszer-magjaban-1260296?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kovács József</author>
+   <description><![CDATA[Alaposan meglepődtek a csillagászok a kapott anyagok elemzésén.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Wed, 26 Nov 2014 20:15:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Lefényképezték a korai Naprendszer hasonmását]]></title>
+   <link>http://mno.hu/urkutatas/lefenykepeztek-a-korai-naprendszer-hasonmasat-1258731?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kovács József</author>
+   <description><![CDATA[Így nézhetett ki a Naprendszerünk is közvetlenül a születése után.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Mon, 17 Nov 2014 20:38:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Állatövi fényt detektáltak kilenc közeli csillag körül]]></title>
+   <link>http://mno.hu/urkutatas/allatovi-fenyt-detektaltak-kilenc-kozeli-csillag-korul-1257230?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kovács József</author>
+   <description><![CDATA[Egy nemzetközi kutatócsoport nagy mennyiségű por által tükrözött állatövi fényt detektált.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Sat, 08 Nov 2014 20:32:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Így még biztos nem látta a Marsot]]></title>
+   <link>http://mno.hu/urkutatas/a-mars-ahogy-meg-soha-nem-lattuk-1253855?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kovács József</author>
+   <description><![CDATA[Nem egészen egy hónap után megérkeztek a NASA MAVEN űrszondájának első adatai a Mars felső légköréről.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Sun, 19 Oct 2014 04:11:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Gyilkos ciánfelhő gomolyog a Naprendszerben]]></title>
+   <link>http://mno.hu/urkutatas/mergezo-a-titan-deli-polusa-felett-orvenylo-felho-1251684?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kovács József</author>
+   <description><![CDATA[Tartogat még meglepetéseket a Szaturnusz óriásholdja.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Mon, 06 Oct 2014 20:38:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az életet adó víz nem csak a Földön mutatható ki]]></title>
+   <link>http://mno.hu/urkutatas/a-foldi-viz-idosebb-a-napnal-1251275?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kovács József</author>
+   <description><![CDATA[A földi élet létrejöttében szerepet játszó víz egy része jég formájában került a Naprendszerünk területére.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Sun, 05 Oct 2014 20:40:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hatalmas energiakitörést észleltek a vörös törpén]]></title>
+   <link>http://mno.hu/urkutatas/hatalmas-energiakitorest-eszleltek-a-voros-torpen-1251266?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kovács József</author>
+   <description><![CDATA[A kitörés körülbelül tízezerszer intenzívebb volt, mint a valaha megfigyelt legnagyobb napfler.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Sat, 04 Oct 2014 21:36:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Eddig láthatatlan csillagokat nézegethetünk]]></title>
+   <link>http://mno.hu/urkutatas/a-tejutrendszer-219-millio-csillaga-egyetlen-katalogusban-1249951?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kovács József</author>
+   <description><![CDATA[A kutatók a galaxiskorong egy részének minden eddiginél részletesebb térképét állították össze.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Sun, 28 Sep 2014 21:36:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nem csak a Tejútrendszerben kevés a lítium]]></title>
+   <link>http://mno.hu/urkutatas/nem-csak-a-tejutrendszerben-keves-a-litium-1248702?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kovács József</author>
+   <description><![CDATA[Az elmélet szerint az univerzum jelenlegi lítiumtartalmának túlnyomó része közvetlenül az Ősrobbanás után szintetizálódott.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Sun, 21 Sep 2014 22:34:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Megjósolták, és tényleg ez történt a robbanás során]]></title>
+   <link>http://mno.hu/urkutatas/kimutattak-a-radioaktiv-kobaltot-egy-szupernova-robbanas-utan-1247096?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kovács József</author>
+   <description><![CDATA[Először detektálták a radioaktív kobaltizotópot egy szupernóva, az SN 2014J maradványában.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Thu, 11 Sep 2014 04:23:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: TyD]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/tyd-21259</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Fri, 13 Apr 2018 01:47:05 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Így vészelhetjük át a napot különösebb energiaveszteség nélkül]]></title>
+   <link>http://mno.hu/tudomany/nehany-etel-kihat-az-energiankra-1237785?utm_source=feed&amp;utm_medium=rss</link>
+   <author>TyD</author>
+   <description><![CDATA[Vannak olyan ételek, amik elvonják a szervezetünkből az energiát és megbetegítenek.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Fri, 01 Aug 2014 14:46:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kihalás fenyegeti a gepárdokat]]></title>
+   <link>http://mno.hu/tudomany/veszelyben-van-a-gepardok-jovoje-1237511?utm_source=feed&amp;utm_medium=rss</link>
+   <author>TyD</author>
+   <description><![CDATA[Kihalhatnak a vadon élő gepárdok az illegális vadkereskedelem miatt.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Mon, 21 Jul 2014 05:43:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nem perelhetnek az örökösök]]></title>
+   <link>http://mno.hu/eletmod/sherlock-holmes-nem-kellett-a-legfelso-birosagnak-1237702?utm_source=feed&amp;utm_medium=rss</link>
+   <author>TyD</author>
+   <description><![CDATA[A bírónő nem magyarázta meg döntését.]]></description>
+   <category>Életmód</category>
+   <pubDate>Sun, 20 Jul 2014 15:35:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Titkos fegyver segítheti a demenciában szenvedőket]]></title>
+   <link>http://mno.hu/tudomany/a-keresztrejtveny-segithet-az-alzheimer-betegeken-1237579?utm_source=feed&amp;utm_medium=rss</link>
+   <author>TyD</author>
+   <description><![CDATA[A kutatás szerint azok az emberek, akik fejlesztő játékokkal játszanak, elodázhatják a demencia kialakulását.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Sat, 19 Jul 2014 18:02:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ilyen, amikor a tigris farmert készít]]></title>
+   <link>http://mno.hu/eletmod/allatok-altal-megtepett-farmert-arusitanak-1237504?utm_source=feed&amp;utm_medium=rss</link>
+   <author>TyD</author>
+   <description><![CDATA[Saját márkanévvel ellátott különleges darabokat készíttetett egy japán állatkert. ]]></description>
+   <category>Életmód</category>
+   <pubDate>Thu, 17 Jul 2014 07:04:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kulturális üzenettel bíró bélyegek]]></title>
+   <link>http://mno.hu/eletmod/bemutattak-az-elso-szekely-belyeget-1237594?utm_source=feed&amp;utm_medium=rss</link>
+   <author>TyD</author>
+   <description><![CDATA[A bélyegeknek kulturális jelentőségük és üzenetük van.]]></description>
+   <category>Életmód</category>
+   <pubDate>Wed, 16 Jul 2014 17:43:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A szállodák jobbnak értékelik magukat, mint a vendégek]]></title>
+   <link>http://mno.hu/eletmod/tulertekelik-magukat-a-wellness-szallodak-1237350?utm_source=feed&amp;utm_medium=rss</link>
+   <author>TyD</author>
+   <description><![CDATA[A wellness-szállók nem olyan jók, mint hiszik.]]></description>
+   <category>Életmód</category>
+   <pubDate>Tue, 15 Jul 2014 21:30:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Tarolt a magyar csapat ]]></title>
+   <link>http://mno.hu/eletmod/magyar-siker-a-diakolimpian-1237397?utm_source=feed&amp;utm_medium=rss</link>
+   <author>TyD</author>
+   <description><![CDATA[Tizenötödik helyen végzett a magyar csapat a Nemzetközi Matematikai Diákolimpián.]]></description>
+   <category>Életmód</category>
+   <pubDate>Tue, 15 Jul 2014 20:37:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[döbbenetes módon kommunikálnak a csecsemők]]></title>
+   <link>http://mno.hu/eletmod/a-babak-mar-par-honaposan-probalnak-artikulalni-1237305?utm_source=feed&amp;utm_medium=rss</link>
+   <author>TyD</author>
+   <description><![CDATA[Hét hónaposan próbálnak artikulálni, később pedig felismerik az anyanyelvüket.]]></description>
+   <category>Életmód</category>
+   <pubDate>Tue, 15 Jul 2014 18:02:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Allergiát okoznak a technikai kütyük]]></title>
+   <link>http://mno.hu/tudomany/allergiat-valthat-ki-az-ipad-1237385?utm_source=feed&amp;utm_medium=rss</link>
+   <author>TyD</author>
+   <description><![CDATA[Kórházba került egy amerikai fiú az iPad miatt.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Tue, 15 Jul 2014 15:32:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Megelőzhető az Alzheimer-kór]]></title>
+   <link>http://mno.hu/eletmod/szurkehalyog-mutet-csokkentheti-a-demenciat-1237310?utm_source=feed&amp;utm_medium=rss</link>
+   <author>TyD</author>
+   <description><![CDATA[Még a tünetek jelentkezése előtt megállapíthatják az Alzheimer-kórt egy egyszerű szemvizsgálattal.]]></description>
+   <category>Életmód</category>
+   <pubDate>Tue, 15 Jul 2014 14:43:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az interneten élőben lehet licitálni bárhonnan]]></title>
+   <link>http://mno.hu/eletmod/mar-interneten-is-kozvetitenek-mukincsaukciot-1237340?utm_source=feed&amp;utm_medium=rss</link>
+   <author>TyD</author>
+   <description><![CDATA[Közös árverési felületet hoz létre a Sotheby’s és az eBay az interneten, hogy élőben is lehessen licitálni.]]></description>
+   <category>Életmód</category>
+   <pubDate>Tue, 15 Jul 2014 14:27:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Súlyosan veszélyeztetett állatokat mészároltak le]]></title>
+   <link>http://mno.hu/tudomany/negy-orrszarvut-oltek-meg-kenyaban-1237315?utm_source=feed&amp;utm_medium=rss</link>
+   <author>TyD</author>
+   <description><![CDATA[Súlyosan veszélyeztetett orrszarvúkat öltek meg Kenyában.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Tue, 15 Jul 2014 11:49:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Több millió kattintás a vb alatt ]]></title>
+   <link>http://mno.hu/tudomany/a-foci-vb-az-interneten-is-rekordokat-dont-1237166?utm_source=feed&amp;utm_medium=rss</link>
+   <author>TyD</author>
+   <description><![CDATA[Nézettségi és kattintási rekordok születtek az argentin–német meccs közben világszerte.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Tue, 15 Jul 2014 08:13:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Újabb űrhajót indítottak]]></title>
+   <link>http://mno.hu/urkutatas/ujabb-amerikai-maganurhajot-lottek-fel-1237136?utm_source=feed&amp;utm_medium=rss</link>
+   <author>TyD</author>
+   <description><![CDATA[Elindították a Cygnus elnevezésű teherűrhajót a Nemzetközi Űrállomás felé.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Mon, 14 Jul 2014 11:16:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Aranyozott pekingi kacsa várja a látogatókat]]></title>
+   <link>http://mno.hu/eletmod/muzeumot-kapott-a-pekingi-kacsa-1236764?utm_source=feed&amp;utm_medium=rss</link>
+   <author>TyD</author>
+   <description><![CDATA[A híres Csüancsütö étteremlánc múzeumot nyitott a pekingi kacsának.]]></description>
+   <category>Életmód</category>
+   <pubDate>Mon, 14 Jul 2014 05:37:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Búzával és gabonával nyújtanak segítséget]]></title>
+   <link>http://mno.hu/etelesital/ujra-varjak-a-felajanlasokat-a-magyarok-kenyerere-1236753?utm_source=feed&amp;utm_medium=rss</link>
+   <author>TyD</author>
+   <description><![CDATA[Elkezdődött a gyűjtés a Magyarok kenyere programhoz.]]></description>
+   <category>Étel és ital</category>
+   <pubDate>Sun, 13 Jul 2014 20:35:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Megmérgezték a híres elefántot]]></title>
+   <link>http://mno.hu/eletmod/agyaraiert-mergeztek-meg-az-elefantot-1236803?utm_source=feed&amp;utm_medium=rss</link>
+   <author>TyD</author>
+   <description><![CDATA[Holtan találták az ötvenéves Khlao elefántot, akit az agyaráért öltek meg.]]></description>
+   <category>Életmód</category>
+   <pubDate>Sun, 13 Jul 2014 18:50:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Egyre elterjedtebb a gépek távirányítása]]></title>
+   <link>http://mno.hu/tudomany/vodafone-nepszeru-a-gepek-kozotti-kommunikacio-1236739?utm_source=feed&amp;utm_medium=rss</link>
+   <author>TyD</author>
+   <description><![CDATA[Egyre több iparág használja a gépek közötti kommunikációt, aminek segítségével eszközöket lehet távirányítani.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Sun, 13 Jul 2014 16:34:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Turizmus: a horgászok sokat segítenek ]]></title>
+   <link>http://mno.hu/eletmod/lendit-a-gazdasagon-a-horgaszturizmus-1236818?utm_source=feed&amp;utm_medium=rss</link>
+   <author>TyD</author>
+   <description><![CDATA[Egyre nagyobb tömegeket vonz a horgászat, és igazi turisztikai ponttá válik Vas megye. ]]></description>
+   <category>Életmód</category>
+   <pubDate>Sun, 13 Jul 2014 15:53:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Megválik ruháitól a híres színésznő]]></title>
+   <link>http://mno.hu/eletmod/ruhaival-jotekonykodik-sharon-stone-1236744?utm_source=feed&amp;utm_medium=rss</link>
+   <author>TyD</author>
+   <description><![CDATA[Több száz ruhát és kiegészítőt adományoz el jótékony célokra.]]></description>
+   <category>Életmód</category>
+   <pubDate>Sun, 13 Jul 2014 10:21:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Vegyszer veszélyezteti az állatokat]]></title>
+   <link>http://mno.hu/tudomany/rovarirto-okozhatja-a-tomeges-madarpusztulast-1236775?utm_source=feed&amp;utm_medium=rss</link>
+   <author>TyD</author>
+   <description><![CDATA[Mezőgazdaságban alkalmazott rovarirtó szer okozhatja több madárfaj egyedszámának csökkenését.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Sun, 13 Jul 2014 06:51:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Milyen nevet adna a bolygónak? Most megteheti]]></title>
+   <link>http://mno.hu/urkutatas/most-barki-elnevezhet-tobb-szaz-bolygot-1236729?utm_source=feed&amp;utm_medium=rss</link>
+   <author>TyD</author>
+   <description><![CDATA[Itt a lehetőség, hogy elnevezzen több mint 300 bolygót és anyacsillagot.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Sat, 12 Jul 2014 20:18:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Új és látogatható az ókori templom]]></title>
+   <link>http://mno.hu/eletmod/kinyitotta-kapuit-az-okori-portunus-templom-1236784?utm_source=feed&amp;utm_medium=rss</link>
+   <author>TyD</author>
+   <description><![CDATA[Eredeti állapotban látogatható a Portunus-templom az olasz fővárosban.]]></description>
+   <category>Életmód</category>
+   <pubDate>Sat, 12 Jul 2014 05:33:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ellopta és eldobta a dinó láblenyomatát]]></title>
+   <link>http://mno.hu/eletmod/dinoszaurusz-lablenyomatot-lopott-de-meguszta-1236811?utm_source=feed&amp;utm_medium=rss</link>
+   <author>TyD</author>
+   <description><![CDATA[Egy amerikai építőmunkás ellopott, majd eldobott egy dinoszaurusz-láblenyomatot.]]></description>
+   <category>Életmód</category>
+   <pubDate>Fri, 11 Jul 2014 20:43:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Mindent megtudhat az ikrekről, amit csak akar]]></title>
+   <link>http://mno.hu/eletmod/szombaton-indul-a-nemzetkozi-ikerfesztival-1236733?utm_source=feed&amp;utm_medium=rss</link>
+   <author>TyD</author>
+   <description><![CDATA[Rengeteg programmal, koncerttel és előadással várják az érdeklődőket, akik mindent megtudhatnak az ikrekről.]]></description>
+   <category>Életmód</category>
+   <pubDate>Fri, 11 Jul 2014 13:08:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Új lakó a Veszprémi Állatkertben]]></title>
+   <link>http://mno.hu/eletmod/marabu-erkezett-a-veszpremi-allatkertbe-1236597?utm_source=feed&amp;utm_medium=rss</link>
+   <author>TyD</author>
+   <description><![CDATA[Afrikai marabu érkeztek a Veszprémi Állatkertbe. ]]></description>
+   <category>Életmód</category>
+   <pubDate>Fri, 11 Jul 2014 08:11:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Új makik érkeznek Debrecenbe]]></title>
+   <link>http://mno.hu/eletmod/zaszlos-farku-kolobuszok-jonnek-debrecenbe-1236583?utm_source=feed&amp;utm_medium=rss</link>
+   <author>TyD</author>
+   <description><![CDATA[Különlegesen szép megjelenésű, Közép-Afrikában őshonos majomfaj gazdagítja a Nagyerdei Kultúrpark állatállományát.]]></description>
+   <category>Életmód</category>
+   <pubDate>Thu, 10 Jul 2014 18:07:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Koccintás a magasban: remek programmal vár a Balaton]]></title>
+   <link>http://mno.hu/eletmod/indul-a-vince-balaton-borfesztival-1236607?utm_source=feed&amp;utm_medium=rss</link>
+   <author>TyD</author>
+   <description><![CDATA[Remek borokkal, ingyenes koncertekkel várja a közönséget csütörtöktől vasárnapig a VinCE Balaton borfesztivál.]]></description>
+   <category>Életmód</category>
+   <pubDate>Thu, 10 Jul 2014 17:09:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Milliárdos hírességek perelik bahamai kormányt]]></title>
+   <link>http://mno.hu/eletmod/tobb-szazan-perelnek-a-luxuslakopark-miatt-1236574?utm_source=feed&amp;utm_medium=rss</link>
+   <author>TyD</author>
+   <description><![CDATA[A világ leggazdagabb emberei vitáznak egy lakópark átépítése miatt a Bahama-szigeteken.]]></description>
+   <category>Életmód</category>
+   <pubDate>Thu, 10 Jul 2014 14:33:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

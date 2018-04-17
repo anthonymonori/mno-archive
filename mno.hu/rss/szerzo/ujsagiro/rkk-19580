@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: rkk]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/rkk-19580</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Fri, 13 Apr 2018 02:09:41 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Elhunyt A szarvasvadász rendezője, Michael Cimino]]></title>
+   <link>http://mno.hu/film/meghalt-a-szarvasvadasz-rendezoje-1350146?utm_source=feed&amp;utm_medium=rss</link>
+   <author>rkk</author>
+   <enclosure url="http://mno.hu/data/cikkek/1350/13501/cikk-1350146/20140920zsigmond-vilmos1_grid2_fekvo_lead.jpg" length="91777" type="image/jpeg"/>
+   <description><![CDATA[Filmje öt Oscart kapott, és rasszizmussal is vádolták. A szarvasvadászt Zsigmond Vilmos fényképezte.]]></description>
+   <category>Szuperplán</category>
+   <pubDate>Sun, 03 Jul 2016 16:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Röhrig Géza novellái is megjelentek lengyelül ]]></title>
+   <link>http://mno.hu/grund/rohrig-geza-novellai-is-megjelentek-lengyelul-1342938?utm_source=feed&amp;utm_medium=rss</link>
+   <author>rkk</author>
+   <enclosure url="http://mno.hu/data/cikkek/1342/13429/cikk-1342938/varso_grid2_fekvo_lead.jpg" length="87354" type="image/jpeg"/>
+   <description><![CDATA[Elindult a lengyelországi magyar kulturális évad. Varsóban díszvendég a magyar irodalom. ]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Thu, 19 May 2016 20:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Könyvfesztivál: a filozófiától a norvég Harcomig]]></title>
+   <link>http://mno.hu/konyveshaz/konyvfesztival-a-filozofiatol-a-norveg-harcomig-1338682?utm_source=feed&amp;utm_medium=rss</link>
+   <author>rkk, fib</author>
+   <enclosure url="http://mno.hu/data/cikkek/1338/13386/cikk-1338682/Jostein_MTI_grid2_fekvo_lead.jpg" length="51045" type="image/jpeg"/>
+   <description><![CDATA[Jostein Gaarder norvég író átvette a könyvfesztivál elismerését, a Budapest Nagydíjat.]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Thu, 21 Apr 2016 20:55:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Sirály: antiszemitizmust kreáltak New Yorkban]]></title>
+   <link>http://mno.hu/grund/siraly-antiszemita-dramat-krealtak-new-yorkban-1336631?utm_source=feed&amp;utm_medium=rss</link>
+   <author>rkk</author>
+   <enclosure url="http://mno.hu/data/cikkek/1336/13366/cikk-1336631/siraly_grid2_fekvo_lead.png" length="605154" type="image/png"/>
+   <description><![CDATA[Meglepő módon köszön vissza a budapesti Sirály bezárásának története egy New York-i színházban.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Fri, 08 Apr 2016 14:50:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Idén is félmilliárd jut a kiemelt fesztiváloknak]]></title>
+   <link>http://mno.hu/grund/iden-is-felmilliard-jut-a-kiemelt-fesztivaloknak-1334707?utm_source=feed&amp;utm_medium=rss</link>
+   <author>rkk</author>
+   <enclosure url="http://mno.hu/data/cikkek/1334/13347/cikk-1334707/New_DMOHA20150811129_grid2_fekvo_lead.jpg" length="76597" type="image/jpeg"/>
+   <description><![CDATA[A rendkívüli kormányzati intézkedések keretéből kapnak támogatást a fesztiválok. ]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Fri, 25 Mar 2016 21:35:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Mégsem költözik a könyvhét a Vörösmarty térről?]]></title>
+   <link>http://mno.hu/grund/koltoztetnek-a-konyvhetet-a-vorosmarty-terrol-1334436?utm_source=feed&amp;utm_medium=rss</link>
+   <author>rkk</author>
+   <enclosure url="http://mno.hu/data/cikkek/1334/13344/cikk-1334436/0609-konyvhet-KZ10.jpg" length="99945" type="image/jpeg"/>
+   <description><![CDATA[Cáfol a Fővárosi Önkormányzat. Állítják: lesz könyvhét, nem lesz parkoló. ]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Thu, 24 Mar 2016 15:10:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Minden, amit tudni akart a sárkányokról]]></title>
+   <link>http://mno.hu/grund/minden-amit-tudni-akart-a-sarkanyokrol-1333201?utm_source=feed&amp;utm_medium=rss</link>
+   <author>rkk</author>
+   <enclosure url="http://mno.hu/data/cikkek/1333/13332/cikk-1333201/VL20160315_3096_grid2_fekvo_lead.jpg" length="65552" type="image/jpeg"/>
+   <description><![CDATA[Ha meggyűlik a bajunk egy sárkánnyal, kerítsünk egy elefántot. A Petőfi Irodalmi Múzeum új kiállítása.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Wed, 16 Mar 2016 08:42:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kossuth-díjat kapnak a Saul fia alkotói]]></title>
+   <link>http://mno.hu/grund/marcius-15-muveszeket-dijaztak-1332751?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI, rkk</author>
+   <enclosure url="http://mno.hu/data/cikkek/1332/13327/cikk-1332751/20160302_Belo22_grid2_fekvo_lead.jpg" length="46265" type="image/jpeg"/>
+   <description><![CDATA[A Tv2 adta hírül a Saul fia alkotóinak díjazását, miközben a művészeti középdíjakat már pénteken átadták.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Fri, 11 Mar 2016 17:10:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Beszél angolul? Most megfejtheti Bosch festményét]]></title>
+   <link>http://mno.hu/grund/beszel-angolul-most-megfejtheti-bosch-festmenyet-1328305?utm_source=feed&amp;utm_medium=rss</link>
+   <author>rkk</author>
+   <enclosure url="http://mno.hu/data/cikkek/1328/13283/cikk-1328305/bosch_grid2_fekvo_lead.jpg" length="143954" type="image/jpeg"/>
+   <description><![CDATA[Egyszerű, de nagyszerű kis műelemzés a neten. Dőljön hátra, és fejtse meg Hieronymus Bosch képét.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Thu, 11 Feb 2016 18:05:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Arany János-emlékév következhet]]></title>
+   <link>http://mno.hu/konyveshaz/arany-janos-emlekev-kovetkezhet-1327869?utm_source=feed&amp;utm_medium=rss</link>
+   <author>rkk</author>
+   <enclosure url="http://mno.hu/data/cikkek/1327/13278/cikk-1327869/BJASZ20160118013_grid2_fekvo_lead.jpg" length="65936" type="image/jpeg"/>
+   <description><![CDATA[2017 szólna a költőről, a javaslatot kedden vette tárgysorozatba az Országgyűlés kulturális bizottsága.]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Tue, 09 Feb 2016 18:30:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Meghamisította a német lap a Nemes Jeles-interjút]]></title>
+   <link>http://mno.hu/grund/nemes-jeles-szerint-meghamisitottak-a-szavait-1326179?utm_source=feed&amp;utm_medium=rss</link>
+   <author>rkk</author>
+   <description><![CDATA[A Jüdische Allgemeine eltüntette a Saul fia rendezőjével készült eredeti interjút. Szerintük ez pontosítás.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Fri, 29 Jan 2016 15:25:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[César-díjas lehet a Saul fia, jön a német bemutató]]></title>
+   <link>http://mno.hu/film/cesar-dijra-jeloltek-a-saul-fiat-1325794?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI, kgy, rkk</author>
+   <enclosure url="http://mno.hu/data/cikkek/1325/13257/cikk-1325794/Saul_fia_uj_fekvo_lead_grid2_fekvo_lead.jpeg" length="62969" type="image/jpeg"/>
+   <description><![CDATA[Németországban is a Sony Pictures forgalmazza a filmet, mert német jelentkező nem akadt. ]]></description>
+   <category>Szuperplán</category>
+   <pubDate>Wed, 27 Jan 2016 14:20:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nézettségi rekord felé halad a Saul fia]]></title>
+   <link>http://mno.hu/film/tobb-mint-szazhuszezren-lattak-a-saul-fiat-1325512?utm_source=feed&amp;utm_medium=rss</link>
+   <author>rkk</author>
+   <enclosure url="http://mno.hu/data/cikkek/1325/13255/cikk-1325512/Saul_fia_uj_fekvo_lead_grid2_fekvo_lead.jpeg" length="62813" type="image/jpeg"/>
+   <description><![CDATA[Egyre nő az Oscar-jelölt Saul fia nézőszáma, már átlépte a 120 ezres határt.]]></description>
+   <category>Szuperplán</category>
+   <pubDate>Mon, 25 Jan 2016 21:10:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Művészeket és újságírókat díjaztak]]></title>
+   <link>http://mno.hu/grund/muveszeket-es-ujsagirokat-dijaztak-1277141?utm_source=feed&amp;utm_medium=rss</link>
+   <author>rkk</author>
+   <description><![CDATA[A Magyar Nemzet publicisztika rovatának vezetője, Körmendy Zsuzsanna Táncsics Mihály-díjat kapott.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Fri, 13 Mar 2015 19:32:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hangolódjon klasszikus zenével az ünnepekre!]]></title>
+   <link>http://mno.hu/grund/hangolodjon-klasszikus-zenevel-az-unnepekre-1264068?utm_source=feed&amp;utm_medium=rss</link>
+   <author>rkk</author>
+   <description><![CDATA[Gazdag komolyzenei felhozatalt kínálnak a koncerttermek a karácsony előtti napokban.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Sat, 20 Dec 2014 19:05:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Majdnem megölték egymást Kant miatt]]></title>
+   <link>http://mno.hu/grund/majdnem-megoltek-egymast-kant-miatt-1185076?utm_source=feed&amp;utm_medium=rss</link>
+   <author>rkk</author>
+   <description><![CDATA[Lelőtte vitapartnerét egy orosz fiatalember, mert nem tudtak dűlőre jutni egy, Immanuel Kant filozófiájával kapcsolatos vitában.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Mon, 23 Sep 2013 19:06:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szamárság lenne otthon maradni]]></title>
+   <link>http://mno.hu/grund/szamarsag-lenne-otthon-maradni-1180204?utm_source=feed&amp;utm_medium=rss</link>
+   <author>rkk</author>
+   <description><![CDATA[Pécsett a Zsolnay negyedben ingyenes családi fesztivált rendeznek a hétvégén, ahol garantáltan lesz egy csacsi is: Sanyi szamár.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Sat, 24 Aug 2013 10:34:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A nők mentik meg a japán gazdaságot?]]></title>
+   <link>http://mno.hu/eletmod/a-nok-mentik-meg-a-japan-gazdasagot-1113827?utm_source=feed&amp;utm_medium=rss</link>
+   <author>rkk</author>
+   <description><![CDATA[Hajasi Fumiko ma az egyik legbefolyásosabb nő Japánban, pedig a hatvanas évek közepén ő is csak „egy férfi asszisztenseként” kezdhette a pályáját.]]></description>
+   <category>Életmód</category>
+   <pubDate>Sun, 28 Oct 2012 08:13:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Tudomány: nem nőknek való vidék?]]></title>
+   <link>http://mno.hu/tudomany/tudomany-nem-noknek-valo-videk-1113761?utm_source=feed&amp;utm_medium=rss</link>
+   <author>rkk</author>
+   <description><![CDATA[Női tudósok, műszaki emberek, mérnökök vagy matematikusok – azt gondolnánk, ritkaságszámba mennek, pedig már az 1800-as években is volt példa rájuk.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Fri, 26 Oct 2012 11:53:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ilyen lesz a Harry Potter szerzőjének új könyve]]></title>
+   <link>http://mno.hu/grund/igy-nez-ki-a-harry-potter-szerzojenek-uj-konyve-1088771?utm_source=feed&amp;utm_medium=rss</link>
+   <author>rkk</author>
+   <description><![CDATA[Fokozatosan szivárogtatják ki a Harry Potter szerzője, J. K. Rowling hamarosan megjelenő első felnőttregényéről szóló információkat. A kiadó odáig is elment, hogy külön bemutatót rendezett a kötet borítójának. Most már a széles közönség is tudhatja, milyen köntösben jelenik meg a könyv, amit annyira vár.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Wed, 04 Jul 2012 18:25:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Michelin-ajánlás a magyar borbárnak]]></title>
+   <link>http://mno.hu/grund/michelin-ajanlas-a-magyar-borbarnak-1061979?utm_source=feed&amp;utm_medium=rss</link>
+   <author>rkk</author>
+   <description><![CDATA[A DiVino alig egy éves működésének legjelentősebb mérföldköve, hogy a Michelin 2012-es Main
+Cities of Europe Guide-jában ajánlást kapott.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Thu, 22 Mar 2012 08:30:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Itt az újabb jubileumi Sziget-ízelítő]]></title>
+   <link>http://mno.hu/grund/friss-hangok-a-jublileumi-szigeten-1061913?utm_source=feed&amp;utm_medium=rss</link>
+   <author>rkk</author>
+   <description><![CDATA[Bár a 20. Sziget jó alkalom lenne a visszatekintésre is, a jubileumi fesztivál – eddig úgy tűnik – inkább a friss, aktuális formációkra helyezi a hangsúlyt. ]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Wed, 21 Mar 2012 15:30:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[rövidfilmes alkotás, amelynek célja az olvasás népszerűsítése]]></title>
+   <link>http://mno.hu/grund/itt-az-uj-mufaj-a-konyvfilm-1061551?utm_source=feed&amp;utm_medium=rss</link>
+   <author>rkk</author>
+   <description><![CDATA[Csütörtökön Budapesten, az Erzsébet téri Akvárium Klubban kiderül, milyen is az a könyvfilm, amelyet a szervezők előzetese alapján leginkább olvasást népszerűsítő rövidfilmként lehet meghatározni. ]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Tue, 20 Mar 2012 18:45:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Fesztiválkedvencek jönnek Magyarországra]]></title>
+   <link>http://mno.hu/grund/fesztivalkedvencek-magyarorszagon-1061662?utm_source=feed&amp;utm_medium=rss</link>
+   <author>rkk</author>
+   <description><![CDATA[A Frankofón Hét záróeseménye, a belga kultikus zenekar, a Jaune Toujours fellépése tavaszi táncos kedvet és igazi fesztiválhangulatot hoz az Akvárium Klubba, de egyébként is sűrű lesz az előttünk álló hét az ex-Gödörben.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Tue, 20 Mar 2012 18:25:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Grecsó Krisztiánt díjazták]]></title>
+   <link>http://mno.hu/grund/grecso-krisztiant-dijaztak-1061585?utm_source=feed&amp;utm_medium=rss</link>
+   <author>rkk</author>
+   <description><![CDATA[Grecsó Krisztián veheti át kedden este az AEGON Művészeti Díjat Mellettem elférsz című regényéért, amely a Magvető Könyvkiadónál jelent meg 2011-ben.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Tue, 20 Mar 2012 15:04:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A Facebookon tiltakoznak a fiatal magyar írók]]></title>
+   <link>http://mno.hu/grund/a-facebookon-tiltakoznak-a-fiatal-magyar-irok-1060643?utm_source=feed&amp;utm_medium=rss</link>
+   <author>rkk</author>
+   <description><![CDATA[A Facebookon indítottak tiltakozó akciót irodalmárok és a két magyar fiatal írószervezet elnökei amiatt, hogy az idei József Attila-díjak odaítélésekor Szőcs Géza kultúráért felelős államtitkár ismét változtatásokat tett a díjazottak írószervezetek által javasolt névsorában.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Fri, 16 Mar 2012 17:55:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Megújul a felnőtt bábszínház?]]></title>
+   <link>http://mno.hu/grund/babszinhazrol-maskepp-felnotteknek-1059743?utm_source=feed&amp;utm_medium=rss</link>
+   <author>rkk</author>
+   <description><![CDATA[Felnőtt bábszínházi előadás debütál Budapesten: az Akárki hivatása című produkciót kedden mutatják be a MU Színházban.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Tue, 13 Mar 2012 16:58:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Még a Madonna is hazatér ]]></title>
+   <link>http://mno.hu/grund/marcius-15-a-fertodi-esterhazy-kastelyban-1059655?utm_source=feed&amp;utm_medium=rss</link>
+   <author>rkk</author>
+   <description><![CDATA[Március 15-től nyári nyitva tartással, délelőtt 10-től este 6 óráig várja a látogatókat a jubiláló fertődi Esterházy-kastély, amely különleges programokkal, köztük Raffaello Santi Esterházy Madonnájának bemutatásával lepi meg az ünnepi év alkalmából a közönséget.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Tue, 13 Mar 2012 16:45:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Sanzonokkal ünnepelnek március 15-én]]></title>
+   <link>http://mno.hu/grund/sanzonokkal-is-unnepelhetjuk-marcius-15-et-1059602?utm_source=feed&amp;utm_medium=rss</link>
+   <author>rkk</author>
+   <description><![CDATA[Az Akvárium klub is bekapcsolódik a francia nyelv és kultúra márciusi ünnepébe. A Frankofón hét nyitóestéjén Takáts Eszter és a francia „neo-chanson” legfőbb képviselője, a Karpatt lép fel.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Tue, 13 Mar 2012 12:55:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Bárki megrajzolhatja a saját Lennonját]]></title>
+   <link>http://mno.hu/grund/barki-megrajzolhatja-a-sajat-lennonjat-1059605?utm_source=feed&amp;utm_medium=rss</link>
+   <author>rkk</author>
+   <description><![CDATA[A „Hogyan látod John Lennont?” pályázat részeként bárki monitorra vetheti saját művészi elképzelését a legendás beatzenészről. A szegedi REÖK nagyszabású Lennon-kiállításához kapcsolódó karikatúraverseny a Facebookon indult.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Tue, 13 Mar 2012 12:40:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

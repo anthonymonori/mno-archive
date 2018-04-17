@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Szathmáry]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/szathmary-19652</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Sat, 14 Apr 2018 22:48:35 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Sziget: titkos cigány házasság volt a gyógyír]]></title>
+   <link>http://mno.hu/grund/sziget-titkos-cigany-hazassag-volt-a-gyogyir-1098379?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Tölgyesi, Szathmáry</author>
+   <description><![CDATA[A bossa nova királynőjeként felkonferált Bebel Gilberto súlyos csapást mért szép reményeinkre. A Sziget harmadik napját a cigányok és a Stone Roses mentették meg.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Sat, 11 Aug 2012 17:15:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Mi a magyar? – interjú Fehér Bélával]]></title>
+   <link>http://mno.hu/grund/mi-a-magyar-interju-feher-belaval-1056641?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szathmáry, Pion István</author>
+   <description><![CDATA[Fehér Béla új kalandregénye, a Kossuthkifli a kíméletlen önvizsgálat terhét megengedő és együtt érző humorral édesíti meg. A Magyar Nemzet tárcaírójával beszélgettünk.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Sun, 04 Mar 2012 13:14:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

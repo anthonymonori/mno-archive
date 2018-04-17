@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - rovat: Határon túl]]></title>
+  <link>http://mno.hu/hatarontul</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Wed, 11 Apr 2018 08:04:16 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Pozsony múltjának fanatikus szerelmesei]]></title>
+   <link>http://mno.hu/hatarontul/pozsony-multjanak-fanatikus-szerelmesei-2458985?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kuthi Áron</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24589/cikk-2458985/kifli_03.jpg" length="388717" type="image/jpeg"/>
+   <description><![CDATA[„Ennivaló történelmet” kínál a Pozsonyi Kifli Polgári Társulás.]]></description>
+   <category>Határon túl</category>
+   <pubDate>Tue, 10 Apr 2018 21:20:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Útravaló Erdélyből – Kallós Zoltán]]></title>
+   <link>http://mno.hu/hatarontul/utravalo-erdelybol-kallos-zoltan-2458418?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24584/cikk-2458418/kallos.PNG" length="1893526" type="image/png"/>
+   <description><![CDATA[A Balladák könyvének szerzője nemrég hunyt el. 90 évesen talán az egyik utolsó interjúját adta erdélyi kollégáinknak.]]></description>
+   <category>Határon túl</category>
+   <pubDate>Sun, 08 Apr 2018 10:30:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Másfél évtized után így lett ismét kampányeszköz a határon túliakból]]></title>
+   <link>http://mno.hu/hatarontul/masfel-evtized-utan-igy-lett-ismet-kampanyeszkoz-a-hataron-tuliakbol-2458086?utm_source=feed&amp;utm_medium=rss</link>
+   <author>B. Kovács Gergely</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24580/cikk-2458086/180403_Belo07.jpg" length="320727" type="image/jpeg"/>
+   <description><![CDATA[Megvizsgálták, miként hat az online térben a DK határon túliak ellenében felépített kampánya.]]></description>
+   <category>Határon túl</category>
+   <pubDate>Sat, 07 Apr 2018 13:22:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Útravaló Erdélyből – Széles Anna, egy díva a Ceausescu-diktatúrából]]></title>
+   <link>http://mno.hu/hatarontul/utravalo-erdelybol-szeles-anna-egy-diva-a-ceausescu-diktaturabol-2458383?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24583/cikk-2458383/szeles.PNG" length="788023" type="image/png"/>
+   <description><![CDATA[Még a János vitézt is cenzúrázták Romániában – mesélte el a Kolozsvári Állami Magyar Színház egykori sztárja.]]></description>
+   <category>Határon túl</category>
+   <pubDate>Sat, 07 Apr 2018 10:30:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Útravaló Erdélyből – Kolumbán Gábor boldogságreceptje]]></title>
+   <link>http://mno.hu/hatarontul/utravalo-erdelybol-kolumban-gabor-boldogsagreceptje-2458370?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24583/cikk-2458370/kol.PNG" length="2495979" type="image/png"/>
+   <description><![CDATA[A pályaelhagyó volt politikus szerint falun nem éri annyi atrocitás az embert, mint egy városban, így élni és szeretni is könnyebb.]]></description>
+   <category>Határon túl</category>
+   <pubDate>Fri, 06 Apr 2018 15:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A szavazólapok felét nem vették át az erdélyi magyar konzulátusokon]]></title>
+   <link>http://mno.hu/hatarontul/a-szavazolapok-felet-nem-vettek-at-az-erdelyi-magyar-konzulatusokon-2458256?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24582/cikk-2458256/D_MTI20140324053.jpg" length="259227" type="image/jpeg"/>
+   <description><![CDATA[Erdélyben sokan későn vagy egyáltalán nem kapták meg a szavazólapjaikat, lehet, hogy saját hibájukból.]]></description>
+   <category>Határon túl</category>
+   <pubDate>Thu, 05 Apr 2018 22:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Saját fegyverével szívatják a magyarokat jelentgető románt]]></title>
+   <link>http://mno.hu/hatarontul/sajat-fegyverevel-szivatjak-a-magyarokat-jelentgeto-romant-2458092?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lukács Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24580/cikk-2458092/Dan_Tanasa_Camera_Deputatilor.jpg" length="38375" type="image/jpeg"/>
+   <description><![CDATA[Negyedszer is törölte a Facebook Dan Tanasa blogger hivatalos oldalát.]]></description>
+   <category>Határon túl</category>
+   <pubDate>Thu, 05 Apr 2018 11:38:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hosszú még az út a Minority SafePack sikeréig]]></title>
+   <link>http://mno.hu/hatarontul/hosszu-meg-az-ut-a-minority-safepack-sikereig-2457938?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kuthi Áron</author>
+   <enclosure url="http://mno.hu/data/cikkek/2457/24579/cikk-2457938/MNO_14889883_10210490089107483_8361273932707882501_o.jpg" length="343617" type="image/jpeg"/>
+   <description><![CDATA[A kisebbségvédelmet először lepattintotta magáról az Európai Bizottság. Most majd nem fogja. ]]></description>
+   <category>Határon túl</category>
+   <pubDate>Wed, 04 Apr 2018 18:32:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nem csak a Vajdaságban bonthatják ki a levélszavazatokat az aktivisták ]]></title>
+   <link>http://mno.hu/hatarontul/nemcsak-a-vajdasagban-bonthatjak-ki-a-levelszavazatokat-az-aktivistak-2457919?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2457/24579/cikk-2457919/D_MTI20180326001.jpg" length="236197" type="image/jpeg"/>
+   <description><![CDATA[A Fideszt támogatók ki is töltik a határon túliak helyett a szavazólapot. Romániában még csak gyanúról beszélnek.]]></description>
+   <category>Határon túl</category>
+   <pubDate>Wed, 04 Apr 2018 17:26:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nemzetbiztonsági okból tiltották ki Romániából Dabis Attilát]]></title>
+   <link>http://mno.hu/hatarontul/nemzetbiztonsagi-okbol-tiltottak-ki-romaniabol-dabis-attilat-2457541?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <description><![CDATA[A Székely Nemzeti Tanács külügyi megbízottja három évig nem léphet az ország területére.]]></description>
+   <category>Határon túl</category>
+   <pubDate>Tue, 03 Apr 2018 11:49:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Útravaló Erdélyből – Smaranda Enache, az erdélyiesség nagykövete]]></title>
+   <link>http://mno.hu/hatarontul/utravalo-erdelybol-smaranda-enache-az-erdelyiesseg-nagykovete-2456591?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2456/24565/cikk-2456591/BA20111209_4303.jpg" length="261188" type="image/jpeg"/>
+   <description><![CDATA[„Erdély egy kis Európa” – ez a meggyőződés hajtja a magyar–román párbeszéd kiemelkedő alakját.]]></description>
+   <category>Határon túl</category>
+   <pubDate>Mon, 02 Apr 2018 15:30:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Útravaló Erdélyből – A Lazarenum Alapítvány és Fülöp G. Ilona]]></title>
+   <link>http://mno.hu/hatarontul/utravalo-erdelybol-a-lazarenum-alapitvany-es-fulop-g-ilona-2456583?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2456/24565/cikk-2456583/lazarenus.PNG" length="2673614" type="image/png"/>
+   <description><![CDATA[Hogy a gyerekből ember legyen, ahhoz közösség kell – tartja az alapítvány vezetője, aki több szociális intézményt is alapított Erdélyben.]]></description>
+   <category>Határon túl</category>
+   <pubDate>Sun, 01 Apr 2018 15:30:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Útravaló Erdélyből  – A Szentegyházi Gyermekfilharmónia és Haáz Sándor]]></title>
+   <link>http://mno.hu/hatarontul/utravalo-erdelybol-a-szentegyhazi-gyermekfilharmonia-es-haaz-sandor-2456569?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2456/24565/cikk-2456569/HM20110914_0782.jpg" length="394905" type="image/jpeg"/>
+   <description><![CDATA[A „Fili”, vagyis a Szentegyházi Gyermekfilharmónia, túlzás nélkül, immár bejárta a nagyvilágot.]]></description>
+   <category>Határon túl</category>
+   <pubDate>Sat, 31 Mar 2018 15:30:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Útravaló Erdélyből – Kányádi Sándor]]></title>
+   <link>http://mno.hu/hatarontul/utravalo-erdelybol-kanyadi-sandor-2456550?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2456/24565/cikk-2456550/Kanyadi.PNG" length="2772510" type="image/png"/>
+   <description><![CDATA[A slam poetryről is vall a költő, aki most másképp mondta el egyik versét, mint ahogyan eredetileg megírta. Észreveszi, melyiket?]]></description>
+   <category>Határon túl</category>
+   <pubDate>Fri, 30 Mar 2018 15:30:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Minority SafePack: valószínűleg megvan a szükséges egymillió aláírás]]></title>
+   <link>http://mno.hu/hatarontul/minority-safepack-meglehet-az-egymillio-alairas-2456840?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <enclosure url="http://mno.hu/data/cikkek/2456/24568/cikk-2456840/D_NOE20180302004.jpg" length="264784" type="image/jpeg"/>
+   <description><![CDATA[A szervezők szerint valószínűleg átlépték ezt a számot, de ez még csak becslés.]]></description>
+   <category>Határon túl</category>
+   <pubDate>Thu, 29 Mar 2018 13:56:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Versenyt fut az idővel a Minority SafePack kisebbségvédelmi akció]]></title>
+   <link>http://mno.hu/hatarontul/versenyt-fut-az-idovel-a-minority-safepack-kisebbsegvedelmi-akcio-2455857?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kuthi Áron</author>
+   <enclosure url="http://mno.hu/data/cikkek/2455/24558/cikk-2455857/D_NOE20180324009.jpg" length="284821" type="image/jpeg"/>
+   <description><![CDATA[A biztos sikerhez száztíz százalékra kellene teljesíteni az egymilliós aláírási küszöböt. Kilenc nap van a határidőig. ]]></description>
+   <category>Határon túl</category>
+   <pubDate>Mon, 26 Mar 2018 06:36:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Torokszorító pillanatok, miközben „Romániában megszűnt a jogállam”]]></title>
+   <link>http://mno.hu/hatarontul/torokszorito-pillanatok-mikozben-romaniaban-megszunt-a-jogallam-2455819?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lukács Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2455/24558/cikk-2455819/DEBRE20141003014.jpg" length="245583" type="image/jpeg"/>
+   <description><![CDATA[A Szent Mihály-templomban percekig állva tapsolta a közönség Horváth Anna volt kolozsvári alpolgármestert.]]></description>
+   <category>Határon túl</category>
+   <pubDate>Sun, 25 Mar 2018 14:21:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Küzdelem az asszimiláció ellen: átadták az első kárpátaljai Magyar Házat Rahón]]></title>
+   <link>http://mno.hu/hatarontul/kuzdelem-az-asszimilacio-ellen-atadtak-az-elso-karpataljai-magyar-hazat-rahon-2455723?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <description><![CDATA[A rahói Magyar Ház a Magyar Házak Kárpátalján Program szerves része.]]></description>
+   <category>Határon túl</category>
+   <pubDate>Sat, 24 Mar 2018 16:16:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Letöltendő börtönre ítélték Kolozsvár korábbi, magyar alpolgármesterét]]></title>
+   <link>http://mno.hu/hatarontul/letoltendo-bortonre-iteltek-kolozsvar-korabbi-magyar-alpolgarmesteret-2455449?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <description><![CDATA[Horváth Anna első fokon két év nyolc hónapot kapott befolyással üzérkedés és pénzmosás miatt.]]></description>
+   <category>Határon túl</category>
+   <pubDate>Fri, 23 Mar 2018 08:47:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Erdélyi vállalkozóknak most kezdték el kifizetni Orbánék a magyar támogatást]]></title>
+   <link>http://mno.hu/hatarontul/erdelyi-vallalkozoknak-most-kezdtek-el-kifizetni-orbanek-a-magyar-tamogatast-2455371?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Rostás Szabolcs</author>
+   <enclosure url="http://mno.hu/data/cikkek/2455/24553/cikk-2455371/D_MTI20180322005.jpg" length="197034" type="image/jpeg"/>
+   <description><![CDATA[Szijjártó bízik a marosvásárhelyi iskolakálvária megoldásában. A román közéletet a Cambridge Analytica-ügy ottani szálai foglalkoztatják.]]></description>
+   <category>Határon túl</category>
+   <pubDate>Thu, 22 Mar 2018 19:04:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Pártaktivisták segítik a határon túliaknak a szavazólapok „helyes” kitöltését]]></title>
+   <link>http://mno.hu/hatarontul/partaktivistak-segitik-a-hataron-tuliaknak-a-szavazolapok-helyes-kitolteset-2455331?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2455/24553/cikk-2455331/D_EDY20161002007.jpg" length="217210" type="image/jpeg"/>
+   <description><![CDATA[A Vajdaságban biztosan, de információk szerint Kárpátalján, Erdélyben és Horvátországban is akcióznak a Fidesz érdekében. ]]></description>
+   <category>Határon túl</category>
+   <pubDate>Thu, 22 Mar 2018 17:34:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ukrán külügyi szóvivő: Ukrajna belügye a katonák Kárpátaljára vezénylése]]></title>
+   <link>http://mno.hu/hatarontul/ukran-kulugyi-szovivo-ukrajna-belugye-a-katonak-karpataljara-vezenylese-2454842?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <description><![CDATA[Marjana Beca Szijjártó Péter hétfőn Brüsszelben tett nyilatkozatára reagált.]]></description>
+   <category>Határon túl</category>
+   <pubDate>Tue, 20 Mar 2018 19:28:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Bíróságra mennek a székelyföldi polgármesterek a zászlóügy miatt]]></title>
+   <link>http://mno.hu/hatarontul/birosagra-mennek-a-szekelyfoldi-polgarmesterek-a-zaszlo-ugy-miatt-2454510?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <description><![CDATA[A magyar zászló használata miatt kirótt bírságot szeretnék visszavonatni.]]></description>
+   <category>Határon túl</category>
+   <pubDate>Mon, 19 Mar 2018 15:56:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Marosvásárhelyi iskolaügy: alkotmányellenes az újraalapításról szóló törvény]]></title>
+   <link>http://mno.hu/hatarontul/marosvasarhelyi-iskolaugy-alkotmanyellenes-az-ujraalapitasrol-szolo-torveny-2454471?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2454/24544/cikk-2454471/D_MTI20170911036.jpg" length="758531" type="image/jpeg"/>
+   <description><![CDATA[A román alkotmánybíróság hétfőn minősítette alaptörvénybe ütközőnek a római katolikus gimnázium újraalapításáról szóló törvényt.]]></description>
+   <category>Határon túl</category>
+   <pubDate>Mon, 19 Mar 2018 14:21:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kézigránátot próbált meg eladni Munkács belvárosában]]></title>
+   <link>http://mno.hu/hatarontul/kezigranatot-probalt-meg-eladni-munkacs-belvarosaban-2454140?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <description><![CDATA[A 39 éves helyi férfi azt állította, hogy csak találta az értékesíteni szánt fegyvert.]]></description>
+   <category>Határon túl</category>
+   <pubDate>Sat, 17 Mar 2018 14:28:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Forrong a romániai egészségügy]]></title>
+   <link>http://mno.hu/hatarontul/forrong-a-romaniai-egeszsegugy-2453937?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Rostás Szabolcs</author>
+   <enclosure url="http://mno.hu/data/cikkek/2453/24539/cikk-2453937/K_EPA20171019148.jpg" length="496487" type="image/jpeg"/>
+   <description><![CDATA[A szakszervezetek úgy vélik, csak papíron létezik a fizetések emelésére szánt forrás.]]></description>
+   <category>Határon túl</category>
+   <pubDate>Fri, 16 Mar 2018 14:23:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szijjártó Péter: védjék meg a magyarokat az ukrán hatóságok Kárpátalján]]></title>
+   <link>http://mno.hu/hatarontul/szijjarto-peter-vedjek-meg-a-magyarokat-az-ukran-hatosagok-karpataljan-2453955?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <description><![CDATA[Magyarország ungvári főkonzulja senkinek sem javasolja, hogy a napokban Kárpátaljára utazzon.]]></description>
+   <category>Határon túl</category>
+   <pubDate>Fri, 16 Mar 2018 13:43:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kárpátaljára tartó provokátorokat fogtak el az ukrán biztonságiak ]]></title>
+   <link>http://mno.hu/hatarontul/karpataljara-tarto-provokatorokat-fogtak-el-az-ukran-biztonsagiak-2453738?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <enclosure url="http://mno.hu/data/cikkek/2453/24537/cikk-2453738/D_MTI20180227002.jpg" length="409091" type="image/jpeg"/>
+   <description><![CDATA[Az ismeretleneknél, akik négy járművel tartottak a megyébe, baseballütőket, boxereket, késeket és símaszkokat találtak.]]></description>
+   <category>Határon túl</category>
+   <pubDate>Thu, 15 Mar 2018 13:40:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Aggasztó a kárpátaljai magyarság helyzetének alakulása]]></title>
+   <link>http://mno.hu/hatarontul/aggaszto-a-karpataljai-magyarsag-helyzetenek-alakulasa-2453713?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <description><![CDATA[Az utóbbi időszak eseményei azt mutatják, hogy országos lejáratókampány folyik.]]></description>
+   <category>Határon túl</category>
+   <pubDate>Thu, 15 Mar 2018 11:03:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szijjártó: Ne büntessék a román hatóságok a magyarokat!]]></title>
+   <link>http://mno.hu/hatarontul/szijjarto-ne-buntessek-a-roman-hatosagok-a-magyarokat-2453707?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2453/24537/cikk-2453707/NBB_20170227_9078.jpg" length="297186" type="image/jpeg"/>
+   <description><![CDATA[A magyarok semmit sem ártanak Romániának azzal, hogy ünneplik a hőseiket – szögezte le.]]></description>
+   <category>Határon túl</category>
+   <pubDate>Thu, 15 Mar 2018 10:35:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

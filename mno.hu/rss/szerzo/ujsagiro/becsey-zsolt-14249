@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Becsey Zsolt]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/becsey-zsolt-14249</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 20:56:53 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Európai integráció: utak és tévutak]]></title>
+   <link>http://mno.hu/velemeny/europai-integracio-utak-es-tevutak-2395492?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Becsey Zsolt</author>
+   <enclosure url="http://mno.hu/data/cikkek/2395/23954/cikk-2395492/000_MJ5MP_896_504_1492758598.jpg" length="48733" type="image/jpeg"/>
+   <description><![CDATA[Nem szakmai, hanem politikai szempontok határozták meg az unió bővítését.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Fri, 21 Apr 2017 12:59:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szerbia kaput nyitott]]></title>
+   <link>http://mno.hu/migr_1834/szerbia_kaput_nyitott-277481?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Becsey Zsolt</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Sat, 19 Dec 2009 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[EU-tagság: jobb vele, mint nélküle]]></title>
+   <link>http://mno.hu/velemeny/eutagsag-jobb-vele-mint-nelkule-453261?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Becsey Zsolt</author>
+   <description><![CDATA[]]></description>
+   <category>Vélemény</category>
+   <pubDate>Fri, 08 Jun 2007 01:00:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

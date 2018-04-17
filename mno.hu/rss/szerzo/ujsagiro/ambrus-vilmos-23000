@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Ambrus Vilmos]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/ambrus-vilmos-23000</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 01:25:46 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Egymást érő ünnepi rendezvények]]></title>
+   <link>http://mno.hu/belfold/egymast-ero-unnepi-rendezvenyek-2453568?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ambrus Vilmos</author>
+   <enclosure url="http://mno.hu/data/cikkek/2453/24535/cikk-2453568/NBB_20170315_4028.jpg" length="215826" type="image/jpeg"/>
+   <description><![CDATA[Pártesemények, két békemenet, egy tüntetés – a kormányfő a Kossuth téren mond beszédet.]]></description>
+   <category>Belföld</category>
+   <pubDate>Thu, 15 Mar 2018 07:25:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Deák Dániel: A túlhatalom mindenkit megront]]></title>
+   <link>http://mno.hu/belfold/deak-daniel-a-tulhatalom-mindenkit-megront-2444771?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ambrus Vilmos</author>
+   <enclosure url="http://mno.hu/data/cikkek/2444/24447/cikk-2444771/MNO_20180131_NBB4873.jpg" length="336066" type="image/jpeg"/>
+   <description><![CDATA[Az állam irracionális működése miatt a kormány sem tud hatást gyakorolni az általa elindított folyamatokra – véli a társadalomkutató. Interjú.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sat, 03 Feb 2018 12:14:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ki segít valójában az illegális bevándorlóknak?]]></title>
+   <link>http://mno.hu/belfold/ki-segit-valojaban-az-illegalis-bevandorloknak-2444453?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ambrus Vilmos, Vég Márton</author>
+   <enclosure url="http://mno.hu/data/cikkek/2444/24444/cikk-2444453/MNO_BD20160601_9672.jpg" length="684749" type="image/jpeg"/>
+   <description><![CDATA[A Migration Aid szerint szerbiai táborokban négyezernél is több menedékkérő várakozik, hogy beadhassa a menekültstátus iránti kérelmét.]]></description>
+   <category>Belföld</category>
+   <pubDate>Fri, 02 Feb 2018 06:12:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Miért fontosak a civilek?]]></title>
+   <link>http://mno.hu/velemeny/miert-fontosak-a-civilek-2436502?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ambrus Vilmos</author>
+   <enclosure url="http://mno.hu/data/cikkek/2436/24365/cikk-2436502/szb20140908_3012.jpg" length="334483" type="image/jpeg"/>
+   <description><![CDATA[A sorosistának nevezett szervezeteket sújtó intézkedések a teljes civil szférát gyengítik.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Thu, 28 Dec 2017 18:20:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Keverednek a karácsony régi és új vonásai]]></title>
+   <link>http://mno.hu/eletmod/keverednek-a-karacsony-regi-es-uj-vonasai-2435676?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ambrus Vilmos</author>
+   <enclosure url="http://mno.hu/data/cikkek/2435/24356/cikk-2435676/MNO_DEBRE20171208002.jpg" length="439779" type="image/jpeg"/>
+   <description><![CDATA[Gyermekközösségekben is él az újjászületett betlehemezés. Az ünnep sokak számára elveszíti rituális jellegét.]]></description>
+   <category>Életmód</category>
+   <pubDate>Sun, 24 Dec 2017 06:09:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Leszámolás a stadionban]]></title>
+   <link>http://mno.hu/velemeny/leszamolas-a-stadionban-2426964?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ambrus Vilmos</author>
+   <enclosure url="http://mno.hu/data/cikkek/2426/24269/cikk-2426964/DSZZS20171104320.jpg" length="567771" type="image/jpeg"/>
+   <description><![CDATA[Ahol bűnözőknek privilégiumaik vannak a stadionokban, ott bármi megtörténhet.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Sat, 11 Nov 2017 18:27:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Vatikáni díjat kapott a Corvinus és a Sapientia-főiskola közös képzése]]></title>
+   <link>http://mno.hu/gazdasag/vatikani-dijat-kapott-a-corvinus-es-a-sapientia-foiskola-kozos-kepzese-2422473?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ambrus Vilmos</author>
+   <description><![CDATA[Vatikáni pályázaton futott be elsőként a két magyar felsőoktatási intézmény közös projektje.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Thu, 19 Oct 2017 19:26:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[„Ismeretlen” vértanúk a szabadságharc után]]></title>
+   <link>http://mno.hu/tortenelem/ismeretlen-vertanuk-a-szabadsagharc-utan-2419987?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ambrus Vilmos</author>
+   <enclosure url="http://mno.hu/data/cikkek/2419/24199/cikk-2419987/Emperor_Francis_Josephx.jpg" length="213320" type="image/jpeg"/>
+   <description><![CDATA[Civileket, főtiszteket, politikusokat és nem magyar nemzetiségűeket is kivégeztek a megtorlás során.]]></description>
+   <category>Múlt idő</category>
+   <pubDate>Fri, 06 Oct 2017 06:13:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kiállnak a járatok az 1-es villamos vonalán a reggeli csúcsforgalomban]]></title>
+   <link>http://mno.hu/belfold/kiallnak-a-jaratok-az-1-es-villamos-vonalan-a-reggeli-csucsforgalomban-2418881?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ambrus Vilmos</author>
+   <enclosure url="http://mno.hu/data/cikkek/2418/24188/cikk-2418881/_BA_3989.JPG" length="268515" type="image/jpeg"/>
+   <description><![CDATA[Legalább 15 percet kell várakozniuk az utasoknak, míg tovább tudnak utazni az Etele út/Fehérvári út felé.]]></description>
+   <category>Belföld</category>
+   <pubDate>Wed, 27 Sep 2017 13:05:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A fideszes jelölt lett a paksi polgármester]]></title>
+   <link>http://mno.hu/belfold/a-fideszes-jelolt-lett-a-paksi-polgarmester-2416503?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ambrus Vilmos</author>
+   <description><![CDATA[A választást azért rendezték, mert Süli János összeférhetetlenség miatt lemondott tisztségéről.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sun, 10 Sep 2017 21:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az a jó, ha nincs szurkoló]]></title>
+   <link>http://mno.hu/velemeny/az-a-jo-ha-nincs-szurkolo-2413908?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ambrus Vilmos</author>
+   <enclosure url="http://mno.hu/data/cikkek/2413/24139/cikk-2413908/SZB_5362.jpg" length="347438" type="image/jpeg"/>
+   <description><![CDATA[Az MLSZ-nek minden megvan ahhoz, hogy kiszűrje a rasszista szövegeket kiabáló szurkolókat. Mégsem ezt teszi. Vajon miért?]]></description>
+   <category>Vélemény</category>
+   <pubDate>Wed, 23 Aug 2017 20:55:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Heremarkolás és ököljog]]></title>
+   <link>http://mno.hu/velemeny/heremarkolas-es-okoljog-2409052?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ambrus Vilmos</author>
+   <enclosure url="http://mno.hu/data/cikkek/2409/24090/cikk-2409052/7866544_lx.jpg" length="678803" type="image/jpeg"/>
+   <description><![CDATA[A biztonságunkat leginkább azoktól az emberektől kell féltenünk, akik elvileg arra vigyázni hivatottak.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Sun, 23 Jul 2017 07:20:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A múltat eltörölni]]></title>
+   <link>http://mno.hu/velemeny/a-multat-eltorolni-2405697?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ambrus Vilmos</author>
+   <enclosure url="http://mno.hu/data/cikkek/2405/24056/cikk-2405697/ute_cimer.jpg" length="44718" type="image/jpeg"/>
+   <description><![CDATA[Az abszurd címercsere csak egy újabb példa a dilettáns és koncepciótlan klubirányítás világából.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Fri, 30 Jun 2017 20:45:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Trump klímapolitikája ellen tüntettek Budapesten]]></title>
+   <link>http://mno.hu/belfold/trump-klimapolitikaja-ellen-tuntettek-budapesten-2401978?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ambrus Vilmos</author>
+   <description><![CDATA[Százan tiltakoztak az amerikai nagykövetség előtt.]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 05 Jun 2017 23:07:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Balesetveszélyesek a budapesti megállók]]></title>
+   <link>http://mno.hu/belfold/balesetveszelyesek-a-budapesti-megallok-1383904?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ambrus Vilmos</author>
+   <enclosure url="http://mno.hu/data/cikkek/1383/13839/cikk-1383904/DBZOL20170201006.jpg" length="1465110" type="image/jpeg"/>
+   <description><![CDATA[Választhatnak az utasok: bokáig érő latyakban vagy a csúszós, fagyott havon várják a járműveket.]]></description>
+   <category>Belföld</category>
+   <pubDate>Wed, 01 Feb 2017 12:41:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Még mindig vannak „csúszós” megállók]]></title>
+   <link>http://mno.hu/belfold/meg-mindig-vannak-csuszos-megallok-1381258?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ambrus Vilmos</author>
+   <description><![CDATA[Csütörtöktől folyamatos a busz- és a villamosmegállók síkosságmentesítése, sok helyen mégis áll a hó.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sun, 15 Jan 2017 20:38:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nem takarítják a megállókat Budapesten]]></title>
+   <link>http://mno.hu/belfold/nem-takaritjak-a-megallokat-budapesten-1381120?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ambrus Vilmos</author>
+   <description><![CDATA[Több nagy forgalmú megállóban is az olvadó hó nehezíti a le- és felszállást.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sat, 14 Jan 2017 16:06:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nyolcvanan fagytak meg december végéig]]></title>
+   <link>http://mno.hu/belfold/nyolcvanan-fagytak-meg-december-vegeig-1379676?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ambrus Vilmos</author>
+   <enclosure url="http://mno.hu/data/cikkek/1379/13796/cikk-1379676/szb20100203_0103_1895_1286_1483623791.jpg" length="449507" type="image/jpeg"/>
+   <description><![CDATA[A múlt év őszétől az év végéig csaknem kétszer annyian fagytak meg, mint az előző tél azonos időszakában.]]></description>
+   <category>Belföld</category>
+   <pubDate>Thu, 05 Jan 2017 14:08:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Sok rendőr lesz az utcákon szilveszterkor]]></title>
+   <link>http://mno.hu/belfold/sok-rendor-lesz-az-utcakon-szilveszterkor-1378754?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ambrus Vilmos</author>
+   <enclosure url="http://mno.hu/data/cikkek/1378/13787/cikk-1378754/szb20161025_0968.jpg" length="314867" type="image/jpeg"/>
+   <description><![CDATA[Kiemelt figyelmet fordítanak a tömegrendezvények biztonságára szilveszter éjszakáján.]]></description>
+   <category>Belföld</category>
+   <pubDate>Fri, 30 Dec 2016 11:50:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Már negyvenöten fagytak meg ]]></title>
+   <link>http://mno.hu/belfold/mar-negyvenoten-fagytak-meg-1376206?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ambrus Vilmos, György Zsombor</author>
+   <enclosure url="http://mno.hu/data/cikkek/1376/13762/cikk-1376206/HM_20081126_09101.jpg" length="228218" type="image/jpeg"/>
+   <description><![CDATA[Negyvenöt ember életét oltotta már ki a fagy szeptember óta. Az utcán és fűtetlen otthonokban is történnek tragédiák. ]]></description>
+   <category>Belföld</category>
+   <pubDate>Tue, 13 Dec 2016 12:10:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Bővülő fogyasztás, tartós lemaradás]]></title>
+   <link>http://mno.hu/belfold/bovul-a-fogyasztas-no-a-lemaradas-1369361?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ambrus Vilmos</author>
+   <enclosure url="http://mno.hu/data/cikkek/1369/13693/cikk-1369361/1_1szb.jpg" length="93517" type="image/jpeg"/>
+   <description><![CDATA[A magyar háztartások havonta átlagosan 158 ezer forintot költöttek fogyasztásra.]]></description>
+   <category>Belföld</category>
+   <pubDate>Wed, 02 Nov 2016 06:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Újabb tragédia a pszichiátrián – Ki a hibás?]]></title>
+   <link>http://mno.hu/belfold/ujbol-tragedia-tortent-egy-pszichiatrian-1332003?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ambrus Vilmos</author>
+   <enclosure url="http://mno.hu/data/cikkek/1332/13320/cikk-1332003/pszichiatria.jpg" length="296248" type="image/jpeg"/>
+   <description><![CDATA[A család szerint a kórház nem törődött a gyermekükkel.]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 07 Mar 2016 10:45:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Oltalomra találtak az erdélyi menekültek]]></title>
+   <link>http://mno.hu/belfold/oltalomra-talaltak-az-erdelyi-menekultek-1304025?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ambrus Vilmos</author>
+   <description><![CDATA[A 80-as évek végén veszélyes vállalkozás volt átszökni. A fiatalabb korosztály indult neki a határnak.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sat, 12 Sep 2015 10:00:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

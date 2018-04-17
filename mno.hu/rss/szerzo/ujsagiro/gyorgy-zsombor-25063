@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: György Zsombor]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/gyorgy-zsombor-25063</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Wed, 11 Apr 2018 10:09:41 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Köztévé: fentről jött az utasítás, hogy hazudni kell]]></title>
+   <link>http://mno.hu/belfold/kozteve-fentrol-jott-az-utasitas-hogy-hazudni-kell-2458701?utm_source=feed&amp;utm_medium=rss</link>
+   <author>György Zsombor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24587/cikk-2458701/2_1belo.jpg" length="328380" type="image/jpeg"/>
+   <description><![CDATA[Nagyon sajnálták az állami propagandatévé vezetői, hogy nem migráns a németországi merénylő.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sun, 08 Apr 2018 14:08:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[„Egyedül akarunk kormányt alakítani”]]></title>
+   <link>http://mno.hu/belfold/vona-a-jobbik-egyedul-nyeri-meg-a-valasztast-2458525?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Katona Mariann, György Zsombor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24585/cikk-2458525/BA_06751.jpg" length="178820" type="image/jpeg"/>
+   <description><![CDATA[A Jobbik miniszterelnök-jelöltje kifejtette, ha a matematika úgy kívánja, egy Jobbik–LMP-kormány Magyarország javára válna. Interjú.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sat, 07 Apr 2018 06:17:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Talpra, magyar!]]></title>
+   <link>http://mno.hu/vezercikk/talpra-magyar-2458515?utm_source=feed&amp;utm_medium=rss</link>
+   <author>György Zsombor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24585/cikk-2458515/BD20170415_02.jpg" length="629546" type="image/jpeg"/>
+   <description><![CDATA[A valóságtól teljesen elszakadt propagandavilág lebontása is a választás tétje. Talán az egyik legfontosabb.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Sat, 07 Apr 2018 00:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hol a lé? – Hasznot húznak a Quaestor-bukásból]]></title>
+   <link>http://mno.hu/belfold/hol-a-le-hasznot-huznak-a-quaestor-bukasbol-2456967?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kisberk Szabolcs, György Zsombor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2456/24569/cikk-2456967/BA20160331_3288.jpg" length="225432" type="image/jpeg"/>
+   <description><![CDATA[A brókercég felszámolását egy jól körülhatárolható, több szálon összefonódó csoport végezheti.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sat, 31 Mar 2018 07:13:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Menthetők lettek volna a Quaestor ügyfelei]]></title>
+   <link>http://mno.hu/belfold/menthetok-lettek-volna-a-quaestor-ugyfelei-2456445?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kisberk Szabolcs, György Zsombor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2456/24564/cikk-2456445/1_1ba.jpg" length="541110" type="image/jpeg"/>
+   <description><![CDATA[A brókercég számláin volt elég pénz a kisbefektetők vagyonának megmentésére.]]></description>
+   <category>Belföld</category>
+   <pubDate>Wed, 28 Mar 2018 05:43:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Újabb kormányzati botránnyal indul ez a szép tavaszi nap]]></title>
+   <link>http://mno.hu/koffein/ujabb-kormanyzati-botrannyal-indul-ez-a-szep-tavaszi-nap-2455393?utm_source=feed&amp;utm_medium=rss</link>
+   <author>György Zsombor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2455/24553/cikk-2455393/000_Mvd1420415.jpg" length="216069" type="image/jpeg"/>
+   <description><![CDATA[Titokzatos offshore-biznisz, zár az EU-csúcs, még több gumit gyártunk, mert az kell nekünk. Kezdődik a nap!]]></description>
+   <category>Koffein</category>
+   <pubDate>Fri, 23 Mar 2018 06:34:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Lelkes ügynök volt Szita Károly]]></title>
+   <link>http://mno.hu/belfold/lelkes-ugynok-volt-szita-karoly-2454036?utm_source=feed&amp;utm_medium=rss</link>
+   <author>György Zsombor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2454/24540/cikk-2454036/Szita_Karoly_allambiztonsagi_nyilvantarto_kartonja.jpg" length="910084" type="image/jpeg"/>
+   <description><![CDATA[Kézzelfogható bizonyítékok igazolják, hogy a kaposvári polgármester aktívan szolgálta a Kádár-rendszert.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sat, 17 Mar 2018 05:27:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Miért büntetik a János-kórház betegeit?]]></title>
+   <link>http://mno.hu/eletmod/miert-buntetik-a-janos-korhaz-betegeit-2452567?utm_source=feed&amp;utm_medium=rss</link>
+   <author>György Zsombor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2452/24525/cikk-2452567/IMG_0612.jpg" length="704767" type="image/jpeg"/>
+   <description><![CDATA[A budai intézmény állapota helyenként „brutális és borzalmas”. A szegény és magányos emberek élete pedig könnyen veszélybe kerülhet.]]></description>
+   <category>Életmód</category>
+   <pubDate>Fri, 09 Mar 2018 16:08:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Összehord a miniszter tücsköt-bogarat]]></title>
+   <link>http://mno.hu/koffein/osszehord-a-miniszter-tucskot-bogarat-2450856?utm_source=feed&amp;utm_medium=rss</link>
+   <author>György Zsombor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2450/24508/cikk-2450856/szb20170113_2001.jpg" length="578907" type="image/jpeg"/>
+   <description><![CDATA[Czeglédy Csaba a baloldalon is okozhat gondokat, érkezik Boris Johnson, pörög a kampány. Kezdje velünk a napot! ]]></description>
+   <category>Koffein</category>
+   <pubDate>Fri, 02 Mar 2018 06:20:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Magyar diákok tízezreit fenyegeti a lemorzsolódás]]></title>
+   <link>http://mno.hu/belfold/magyar-diakok-tizezreit-fenyegeti-a-lemorzsolodas-2450665?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hutter Marianna, György Zsombor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2450/24506/cikk-2450665/HM_20090119_1254.jpg" length="270128" type="image/jpeg"/>
+   <description><![CDATA[82 ezernél is több diák eshet ki az iskolából az Oktatási Hivatal szerint.]]></description>
+   <category>Belföld</category>
+   <pubDate>Thu, 01 Mar 2018 09:09:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Miniszter úr, a székely és a német nem eszik rovart, csak Németh Szilárd]]></title>
+   <link>http://mno.hu/velemeny/miniszter-ur-a-szekely-es-a-nemet-nem-eszik-rovart-csak-nemeth-szilard-2448894?utm_source=feed&amp;utm_medium=rss</link>
+   <author>György Zsombor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2448/24488/cikk-2448894/fazekas.jpg" length="175472" type="image/jpeg"/>
+   <description><![CDATA[Tiszteletben tartják a gasztrokultúránkat, túlságosan is. Inkább elvesznek az eredeti ázsiai, afrikai ízek Európában. ]]></description>
+   <category>Vélemény</category>
+   <pubDate>Wed, 21 Feb 2018 14:28:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Orbán pezsgőzik, a konyhás nénik küzdenek, délen meg űzik a törököket]]></title>
+   <link>http://mno.hu/koffein/orban-pezsgozik-a-konyhas-nenik-kuzdenek-delen-meg-uzik-a-torokoket-2446044?utm_source=feed&amp;utm_medium=rss</link>
+   <author>György Zsombor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2446/24460/cikk-2446044/orban_szerb.jpg" length="430999" type="image/jpeg"/>
+   <description><![CDATA[Közös kormányülés Szerbiával, közétkeztetési szakácsverseny és olimpia. Kezdje velünk a napot!]]></description>
+   <category>Koffein</category>
+   <pubDate>Fri, 09 Feb 2018 06:20:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Jó ötletei vannak a magyar professzornak, hogyan fékezhetnénk a migrációt]]></title>
+   <link>http://mno.hu/kulfold/jo-otletei-vannak-a-magyar-professzornak-hogyan-fekezhetnenk-a-migraciot-2445933?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kovacsik Ágnes, György Zsombor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2445/24459/cikk-2445933/K_AP20170616058.jpg" length="356807" type="image/jpeg"/>
+   <description><![CDATA[Az áradatot kiindulási helyén, oktatással lehetne megállítani Kanizsay Endre szerint. Nagyon keveset tudnak a magyarok Afrikáról. ]]></description>
+   <category>Külföld</category>
+   <pubDate>Thu, 08 Feb 2018 15:07:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Búcsú a mérnök politikustól]]></title>
+   <link>http://mno.hu/belfold/bucsu-a-mernok-politikustol-2445065?utm_source=feed&amp;utm_medium=rss</link>
+   <author>György Zsombor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2445/24450/cikk-2445065/D_YT20110419011.jpg" length="396580" type="image/jpeg"/>
+   <description><![CDATA[Barsiné Pataky Etelka elegáns és következetes ember volt, leginkább önmagához igen szigorú. ]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 05 Feb 2018 13:24:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Újabb kokit és sallert oszthatnak ki a pártoknak ]]></title>
+   <link>http://mno.hu/koffein/ujabb-kokit-es-sallert-oszthatnak-ki-a-partoknak-2442868?utm_source=feed&amp;utm_medium=rss</link>
+   <author>György Zsombor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2442/24428/cikk-2442868/szb20160827_3324.jpg" length="442169" type="image/jpeg"/>
+   <description><![CDATA[Nehezebbé tehetik ma a koordinált jelöltindítást, csak hogy még „igazságosabb” legyen a választási rendszer.]]></description>
+   <category>Koffein</category>
+   <pubDate>Fri, 26 Jan 2018 06:20:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Puzsér: Újra polgárháborús hangulatot szítanak]]></title>
+   <link>http://mno.hu/billegokorzet/puzser-ujra-polgarhaborus-hangulatot-szitanak-2442675?utm_source=feed&amp;utm_medium=rss</link>
+   <author>György Zsombor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2442/24426/cikk-2442675/VL20150311_7798.jpg" length="187612" type="image/jpeg"/>
+   <description><![CDATA[Egységes ellenzéki jelöltekre és a választói tudatosság növelésére lenne szükség a publicista szerint.]]></description>
+   <category>Billegő körzet</category>
+   <pubDate>Thu, 25 Jan 2018 12:08:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ne vétkeinket nézd!]]></title>
+   <link>http://mno.hu/vezercikk/ne-vetkeinket-nezd-2440417?utm_source=feed&amp;utm_medium=rss</link>
+   <author>György Zsombor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2440/24404/cikk-2440417/VL20141019_3227_EZ.jpg" length="345844" type="image/jpeg"/>
+   <description><![CDATA[Aligha létezik aljasabb tett annál, mint amikor a világi hatalom az egyházi közösségeket is sarokba akarja szorítani.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Tue, 16 Jan 2018 00:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Áprilisban választás: a lényeg, hogy minél aktívabbak és tudatosabbak legyünk]]></title>
+   <link>http://mno.hu/billegokorzet/aprilisban-valasztas-a-lenyeg-hogy-minel-aktivabbak-es-tudatosabbak-legyunk-2439674?utm_source=feed&amp;utm_medium=rss</link>
+   <author>György Zsombor, Pápay György</author>
+   <enclosure url="http://mno.hu/data/cikkek/2439/24396/cikk-2439674/billego_korzetek_molino.jpg" length="264979" type="image/jpeg"/>
+   <description><![CDATA[Elindult a Magyar Nemzet online választási műsora, a Billegő körzet. Semmi sincs lefutva. ]]></description>
+   <category>Billegő körzet</category>
+   <pubDate>Fri, 12 Jan 2018 11:45:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Lóbálná vagy mindjárt akasztaná a székelyeket a főromán? Talán ma kiderül!]]></title>
+   <link>http://mno.hu/koffein/lobalna-vagy-mindjart-akasztana-a-szekelyeket-a-foroman-talan-ma-kiderul-2439574?utm_source=feed&amp;utm_medium=rss</link>
+   <author>György Zsombor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2439/24395/cikk-2439574/MNO_14889883_10210490089107483_8361273932707882501_o.jpg" length="343617" type="image/jpeg"/>
+   <description><![CDATA[Tudta? Ahmed H. nem is biztos, hogy terrorista, hiába szeretné ezt rábizonyítani az ügyészség. Sűrű nap lesz, kezdje velünk!]]></description>
+   <category>Koffein</category>
+   <pubDate>Fri, 12 Jan 2018 06:20:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[„Ma is váltottam sms-t Kunhalmi Ágnessel” ]]></title>
+   <link>http://mno.hu/belfold/ma-is-valtottam-sms-t-kunhalmi-agnessel-2439464?utm_source=feed&amp;utm_medium=rss</link>
+   <author>György Zsombor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2439/24394/cikk-2439464/NBB_20170118_5020.JPG" length="235333" type="image/jpeg"/>
+   <description><![CDATA[Az együttes Szabó Szabolcs kitart amellett, hogy ő tudja egyedül megverni Németh Szilárdot. ]]></description>
+   <category>Belföld</category>
+   <pubDate>Thu, 11 Jan 2018 14:20:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nyugdíjba mehet Pintér Sándor]]></title>
+   <link>http://mno.hu/belfold/nyugdijba-mehet-pinter-sandor-2438246?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hutter Marianna, György Zsombor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2438/24382/cikk-2438246/DKOKO20120706002.jpg" length="354522" type="image/jpeg"/>
+   <description><![CDATA[A távozó belügyminiszter utódjaként Kocsis Mátét, Józsefváros jelenlegi polgármesterét emlegetik.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sat, 06 Jan 2018 05:51:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kinyílott a repce: megírom!]]></title>
+   <link>http://mno.hu/koffein/kinyilott-a-repce-megirom-2437687?utm_source=feed&amp;utm_medium=rss</link>
+   <author>György Zsombor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2437/24376/cikk-2437687/D_VG20180103007.jpg" length="412525" type="image/jpeg"/>
+   <description><![CDATA[Bérek és egészségügy – ezekkel a témákkal kampányol az ellenzék, miközben Orbán Viktor alamizsnát gyűjt. Kezdje velünk a napot! ]]></description>
+   <category>Koffein</category>
+   <pubDate>Thu, 04 Jan 2018 06:20:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Börtönbe megy a bíboros, Zalában testet ölt a szeretet]]></title>
+   <link>http://mno.hu/koffein/bortonbe-megy-a-biboros-zalaban-testet-olt-a-szeretet-2435573?utm_source=feed&amp;utm_medium=rss</link>
+   <author>György Zsombor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2435/24355/cikk-2435573/000_VB6GL.jpg" length="395849" type="image/jpeg"/>
+   <description><![CDATA[Azért mára is jut egy kis politika: kulminál az ÁSZ-botrány. Túltolhatták, nem kicsit. ]]></description>
+   <category>Koffein</category>
+   <pubDate>Fri, 22 Dec 2017 06:20:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Akinek minden szőlő savanyú]]></title>
+   <link>http://mno.hu/velemeny/akinek-minden-szolo-savanyu-2434898?utm_source=feed&amp;utm_medium=rss</link>
+   <author>György Zsombor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2434/24348/cikk-2434898/D_MTZ20170526007_focuspoint_926x504.jpg" length="240233" type="image/jpeg"/>
+   <description><![CDATA[Kövér László és társai láthatóan mindent megtesznek, hogy ne a XXI. század valós problémáiról beszéljenek.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Tue, 19 Dec 2017 20:31:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Selejtező]]></title>
+   <link>http://mno.hu/vezercikk/selejtezo-2433768?utm_source=feed&amp;utm_medium=rss</link>
+   <author>György Zsombor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2433/24337/cikk-2433768/D_YT20171209008.jpg" length="261711" type="image/jpeg"/>
+   <description><![CDATA[Már csak Gyurcsány hiányzik, hogy az „új” baloldal történetéből tényleg csak szürreális bohózat maradjon.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Thu, 14 Dec 2017 00:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kiderül, valóban a funkcionális analfabéták országa leszünk-e]]></title>
+   <link>http://mno.hu/koffein/kiderul-valoban-a-funkcionalis-analfabetak-orszaga-leszunk-e-2431699?utm_source=feed&amp;utm_medium=rss</link>
+   <author>György Zsombor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2431/24316/cikk-2431699/BA20120118_6071.JPG" length="203005" type="image/jpeg"/>
+   <description><![CDATA[A gyerekek szövegértési képességét vizsgálták, bíróság előtt egy magyar „szabadságharcos” és mindjárt itt a Mikulás.]]></description>
+   <category>Koffein</category>
+   <pubDate>Tue, 05 Dec 2017 06:20:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Egyre kellemetlenebb helyzetbe hozza magát a kormányszócső TV2, és még támad is]]></title>
+   <link>http://mno.hu/velemeny/egyre-kellemetlenebb-helyzetbe-hozza-magat-a-kormanyszocso-tv2-es-meg-tamad-is-2431350?utm_source=feed&amp;utm_medium=rss</link>
+   <author>György Zsombor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2431/24313/cikk-2431350/D_KOM20160526003x.jpg" length="348345" type="image/jpeg"/>
+   <description><![CDATA[Azt kérték tőlünk, hozzuk le közleményüket. Lehozzuk. Az összes helyesírási hibával együtt. ]]></description>
+   <category>Vélemény</category>
+   <pubDate>Fri, 01 Dec 2017 20:51:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szeretnek állatokkal cukiskodni politikusaink, de Semjén kutyába sem vesz minket]]></title>
+   <link>http://mno.hu/belfold/szeretnek-allatokkal-cukiskodni-politikusaink-de-semjen-kutyaba-sem-vesz-minket-2431230?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Marosi Adrienn, Kovacsik Ágnes, György Zsombor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2431/24312/cikk-2431230/20171102_NBB4385.JPG" length="455847" type="image/jpeg"/>
+   <description><![CDATA[A házi kedvencekre világszerte felfigyeltek a politikacsinálók. ]]></description>
+   <category>Belföld</category>
+   <pubDate>Fri, 01 Dec 2017 16:16:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kakas a szemétdombon]]></title>
+   <link>http://mno.hu/vezercikk/kakas-a-szemetdombon-2430856?utm_source=feed&amp;utm_medium=rss</link>
+   <author>György Zsombor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2430/24308/cikk-2430856/NBB_20170304_0349.jpg" length="284000" type="image/jpeg"/>
+   <description><![CDATA[Az MSZP-ben ma nincsenek olyan emberek, akik mögé ez a szétzilált, folyton egymással háborúzó, a Fidesznek és a DK-nak is játszó tagság beállna.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Thu, 30 Nov 2017 00:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ahogy a képviselő urat ismerjük, ezüsttálcán kínálja ma nekünk Soros Györgyöt]]></title>
+   <link>http://mno.hu/koffein/ahogy-a-kepviselo-urat-ismerjuk-ezusttalcan-kinalja-ma-nekunk-soros-gyorgyot-2430379?utm_source=feed&amp;utm_medium=rss</link>
+   <author>György Zsombor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2430/24303/cikk-2430379/BD_2436.jpg" length="1792308" type="image/jpeg"/>
+   <description><![CDATA[Megjelenik a magyar–kínai szótár, türelem kell a dugókhoz, egyeztet az ellenzék a választásról. Ez vár ránk! ]]></description>
+   <category>Koffein</category>
+   <pubDate>Tue, 28 Nov 2017 06:20:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

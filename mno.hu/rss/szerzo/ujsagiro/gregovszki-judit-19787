@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Gregovszki Judit]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/gregovszki-judit-19787</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Sun, 15 Apr 2018 04:28:59 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Újratöltve?]]></title>
+   <link>http://mno.hu/civil_ujsagiras/ujratoltve-1114055?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Gregovszki Judit</author>
+   <description><![CDATA[A 2010-es baloldali választási vereség több szemszögből is értelmezhető.]]></description>
+   <category>Civil újságírás</category>
+   <pubDate>Tue, 30 Oct 2012 15:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A választási regisztráció haszna és költségei]]></title>
+   <link>http://mno.hu/civil_ujsagiras/a-valasztasi-regisztracio-haszna-es-koltsegei-1095389?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Gregovszki Judit</author>
+   <description><![CDATA[A közelmúltban a miniszterelnök úr bejelentette, hogy a Parlament ősszel tárgyalni fogja az előzetes választási regisztrációról szóló javaslatot. ]]></description>
+   <category>Civil újságírás</category>
+   <pubDate>Thu, 02 Aug 2012 17:55:59 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Előzetes választási regisztráció]]></title>
+   <link>http://mno.hu/civil_ujsagiras/elozetes-valasztasi-regisztracio-1082903?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Gregovszki Judit</author>
+   <description><![CDATA[A közelmúltban arról lehetett hallani, hogy a kormány nyilatkoztatni szeretné a választókorú lakosságot arról, el kívánnak-e menni a 2014-es választásokra. ]]></description>
+   <category>Civil újságírás</category>
+   <pubDate>Mon, 11 Jun 2012 20:33:54 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

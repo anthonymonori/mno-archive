@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Ungár Péter]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/ungar-peter-23112</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 14:35:56 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Szenvedélyes igazságbeszédek]]></title>
+   <link>http://mno.hu/velemeny/szenvedelyes-igazsagbeszedek-2404657?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ungár Péter</author>
+   <enclosure url="http://mno.hu/data/cikkek/2404/24046/cikk-2404657/MNO_NBB_20090502_6414.jpg" length="446517" type="image/jpeg"/>
+   <description><![CDATA[A mai Fidesz nem csupán az 1990-essel nem hasonlítható össze, de már a 2009-essel sem.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Fri, 23 Jun 2017 13:13:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A feltáratlan múlt veszélyezteti Magyarország szuverenitását]]></title>
+   <link>http://mno.hu/velemeny/a-feltaratlan-mult-veszelyezteti-magyarorszag-szuverenitasat-2399077?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ungár Péter</author>
+   <enclosure url="http://mno.hu/data/cikkek/2399/23990/cikk-2399077/NBB_20041216_3367.JPG" length="374884" type="image/jpeg"/>
+   <description><![CDATA[A Fidesz – követve szocialista elődeinek hagyományait – mindent megtett azért, hogy a múlt lezáratlan és feltáratlan maradjon.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Tue, 16 May 2017 18:16:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A szuverenitás védelmében]]></title>
+   <link>http://mno.hu/velemeny/a-szuverenitas-vedelmeben-1387847?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ungár Péter</author>
+   <enclosure url="http://mno.hu/data/cikkek/1387/13878/cikk-1387847/MP20071221_072292.jpg" length="556424" type="image/jpeg"/>
+   <description><![CDATA[A győri munkás érdekeit nem képviseli sem Orbán Viktor, sem Jean-Claude Juncker.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Mon, 27 Feb 2017 10:19:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A magunk útját kellene járnunk]]></title>
+   <link>http://mno.hu/velemeny/a-magunk-utjat-kellene-jarnunk-1383726?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ungár Péter</author>
+   <enclosure url="http://mno.hu/data/cikkek/1383/13837/cikk-1383726/8_1nbb.jpg" length="185105" type="image/jpeg"/>
+   <description><![CDATA[Abból nem lesz szuverén külpolitika, hogy Washingtont Moszkvára cseréljük.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Tue, 31 Jan 2017 12:28:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A politika nyelve és a tömegek hangja]]></title>
+   <link>http://mno.hu/velemeny/a-politika-nyelve-es-a-tomegek-hangja-1372153?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ungár Péter</author>
+   <enclosure url="http://mno.hu/data/cikkek/1372/13721/cikk-1372153/000_HC8R8.jpg" length="200680" type="image/jpeg"/>
+   <description><![CDATA[Orbán Viktor a rendszerváltó generáció utolsó jelentős tagja, a magyar jóléti állam legnagyobb ellensége.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Fri, 18 Nov 2016 17:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Mindannyian veszítettünk]]></title>
+   <link>http://mno.hu/velemeny/mindannyian-veszitettunk-1366007?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ungár Péter</author>
+   <enclosure url="http://mno.hu/data/cikkek/1366/13660/cikk-1366007/VL20161002_7451x.jpg" length="563492" type="image/jpeg"/>
+   <description><![CDATA[Azt a polgári ethoszt, amely korábban jellemezte a Fideszt, fölváltották egy Lokál, Ripost és Spöttle képviselte uszítással.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Wed, 12 Oct 2016 17:53:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az ábránd-Európa halála]]></title>
+   <link>http://mno.hu/velemeny/az-abrand-europa-halala-1354298?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ungár Péter</author>
+   <enclosure url="http://mno.hu/data/cikkek/1354/13542/cikk-1354298/000_BT4P2_grid2_fekvo_lead.jpg" length="62973" type="image/jpeg"/>
+   <description><![CDATA[Az unió polgárai nem érzik magukénak saját jóléti államukat és jogrendszerüket.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Sun, 31 Jul 2016 11:11:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szeretkező elefántok]]></title>
+   <link>http://mno.hu/velemeny/szeretkezo-elefantok-1323374?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ungár Péter</author>
+   <enclosure url="http://mno.hu/data/cikkek/1323/13233/cikk-1323374/000_DV1073864.jpg" length="109315" type="image/jpeg"/>
+   <description><![CDATA[Németországnak az utóbbi időben több esetben sem sikerült alapvető értékeit tettekre váltania.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Wed, 13 Jan 2016 15:35:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Apokaliptikus víziók nélkül]]></title>
+   <link>http://mno.hu/velemeny/apokaliptikus-viziok-nelkul-1306693?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ungár Péter</author>
+   <enclosure url="http://mno.hu/data/cikkek/1306/13066/cikk-1306693/000_DV2086878_grid2_fekvo_lead.jpg" length="52048" type="image/jpeg"/>
+   <description><![CDATA[Már évtizedek óta előtérben van az európai politikában a bevándorlás és a multikulturalizmus kérdésköre.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Wed, 30 Sep 2015 16:00:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Katona–Markotay]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/katonamarkotay-23859</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Fri, 13 Apr 2018 11:32:01 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Népszavazás: ingyen sem kell reklám?]]></title>
+   <link>http://mno.hu/belfold/nepszavazas-ingyen-sem-kell-reklam-1355205?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Katona–Markotay</author>
+   <enclosure url="http://mno.hu/data/cikkek/1355/13552/cikk-1355205/D_KOM20160801006.jpg" length="423204" type="image/jpeg"/>
+   <description><![CDATA[Az ellenzéki pártoknak hamarosan dönteniük kell, hogy élnek-e az ingyenes hirdetési lehetőséggel.]]></description>
+   <category>Belföld</category>
+   <pubDate>Fri, 05 Aug 2016 12:22:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Újabb tízmilliárd a határra – közbeszerzés nélkül]]></title>
+   <link>http://mno.hu/belfold/ujabb-tizmilliard-forint-a-hatarorizetre-1338367?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Katona–Markotay</author>
+   <enclosure url="http://mno.hu/data/cikkek/1338/13383/cikk-1338367/k.jpg" length="862260" type="image/jpeg"/>
+   <description><![CDATA[Egy nemrég megjelent kormányhatározat szerint utat és világítást építenek a szerb határ mentén.]]></description>
+   <category>Belföld</category>
+   <pubDate>Wed, 20 Apr 2016 06:02:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kósa Lajos elmondta, fel kell készülni a rosszra]]></title>
+   <link>http://mno.hu/belfold/ujabb-tajekoztato-kampany-1328155?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Katona–Markotay</author>
+   <description><![CDATA[Orbán Viktor helyzetértékelést tartott a Fidesz-frakció lillafüredi tanácskozásán.]]></description>
+   <category>Belföld</category>
+   <pubDate>Thu, 11 Feb 2016 00:55:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

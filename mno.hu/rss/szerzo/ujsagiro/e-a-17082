@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: É. A.]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/e-a-17082</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Fri, 13 Apr 2018 15:48:21 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Bolt: Én vagyok a legnagyobb]]></title>
+   <link>http://mno.hu/rio2016/bolt-en-vagyok-a-legnagyobb-1357663?utm_source=feed&amp;utm_medium=rss</link>
+   <author>É. A., B. M. L.</author>
+   <enclosure url="http://mno.hu/data/cikkek/1357/13576/cikk-1357663/000_FA0FV.jpg" length="263152" type="image/jpeg"/>
+   <description><![CDATA[A villámember elmondása szerint elképzelhető, hogy utoljára futott 200 méteren. ]]></description>
+   <category>Rio 2016</category>
+   <pubDate>Fri, 19 Aug 2016 11:44:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kétszeresére bővülő tb-lista]]></title>
+   <link>http://mno.hu/migr_1834/ketszeresere-bovulo-tblista-857108?utm_source=feed&amp;utm_medium=rss</link>
+   <author>É. A.</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 26 Sep 2000 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Novembertől új gyógyszerárak]]></title>
+   <link>http://mno.hu/migr_1834/novembertol-uj-gyogyszerarak-855939?utm_source=feed&amp;utm_medium=rss</link>
+   <author>É. A.</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Fri, 08 Sep 2000 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[MSZP-kritika]]></title>
+   <link>http://mno.hu/migr_1834/mszpkritika-855866?utm_source=feed&amp;utm_medium=rss</link>
+   <author>É. A.</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Thu, 07 Sep 2000 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Rosszindulatú daganatot okozó vegyi anyagok]]></title>
+   <link>http://mno.hu/migr_1834/rosszindulatu-daganatot-okozo-vegyi-anyagok-854951?utm_source=feed&amp;utm_medium=rss</link>
+   <author>É. A.</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Fri, 25 Aug 2000 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Tetemes területi különbségek]]></title>
+   <link>http://mno.hu/migr_1834/tetemes-teruleti-kulonbsegek-854471?utm_source=feed&amp;utm_medium=rss</link>
+   <author>É. A.</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Thu, 17 Aug 2000 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Pert indít a kisorsolt család]]></title>
+   <link>http://mno.hu/migr_1834/pert-indit-a-kisorsolt-csalad-854476?utm_source=feed&amp;utm_medium=rss</link>
+   <author>É. A.</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Thu, 17 Aug 2000 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A gyógyszerek harmadának csökken a termelői ára]]></title>
+   <link>http://mno.hu/migr_1834/a-gyogyszerek-harmadanak-csokken-a-termeloi-ara-854451?utm_source=feed&amp;utm_medium=rss</link>
+   <author>É. A.</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Wed, 16 Aug 2000 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az állam által megelőlegezett tartásdíj]]></title>
+   <link>http://mno.hu/migr_1834/az-allam-altal-megelolegezett-tartasdij-854359?utm_source=feed&amp;utm_medium=rss</link>
+   <author>É. A.</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 15 Aug 2000 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Olcsóbb lesz a gyógyszerek harmada?]]></title>
+   <link>http://mno.hu/migr_1834/olcsobb-lesz-a-gyogyszerek-harmada-853951?utm_source=feed&amp;utm_medium=rss</link>
+   <author>É. A.</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 08 Aug 2000 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A rákellenes liga a fájdalom ellen]]></title>
+   <link>http://mno.hu/migr_1834/a-rakellenes-liga-a-fajdalom-ellen-853887?utm_source=feed&amp;utm_medium=rss</link>
+   <author>É. A.</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Mon, 07 Aug 2000 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Engednek az árból a gyógyszergyártók]]></title>
+   <link>http://mno.hu/migr_1834/engednek-az-arbol-a-gyogyszergyartok-853557?utm_source=feed&amp;utm_medium=rss</link>
+   <author>É. A.</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 01 Aug 2000 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[El kell számolni a juttatással]]></title>
+   <link>http://mno.hu/migr_1834/el-kell-szamolni-a-juttatassal-851983?utm_source=feed&amp;utm_medium=rss</link>
+   <author>É. A.</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Thu, 06 Jul 2000 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Változatlan gyógyszerárak]]></title>
+   <link>http://mno.hu/migr_1834/valtozatlan-gyogyszerarak-862817?utm_source=feed&amp;utm_medium=rss</link>
+   <author>É. A.</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Fri, 23 Jun 2000 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Orvossztrájk orvosok nélkül]]></title>
+   <link>http://mno.hu/migr_1834/orvossztrajk-orvosok-nelkul-862657?utm_source=feed&amp;utm_medium=rss</link>
+   <author>É. A.</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Wed, 21 Jun 2000 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Megoldás nincs?]]></title>
+   <link>http://mno.hu/migr_1834/megoldas-nincs-859464?utm_source=feed&amp;utm_medium=rss</link>
+   <author>É. A.</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Thu, 04 May 2000 00:00:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

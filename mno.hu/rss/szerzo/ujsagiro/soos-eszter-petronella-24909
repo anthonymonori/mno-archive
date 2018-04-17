@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Soós Eszter Petronella]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/soos-eszter-petronella-24909</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 19:47:32 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Macron ügyesen megosztotta Közép-Európát]]></title>
+   <link>http://mno.hu/velemeny/macron-ugyesen-megosztotta-kozep-europat-2416042?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Soós Eszter Petronella</author>
+   <enclosure url="http://mno.hu/data/cikkek/2416/24160/cikk-2416042/000_PU6XM.jpg" length="1476194" type="image/jpeg"/>
+   <description><![CDATA[Budapest és Varsó Pozsonyra és Prágára figyel, tudva: lépéskényszerbe kerülhetnek.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Thu, 07 Sep 2017 15:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Emmanuel Macron és a visegrádi négyek]]></title>
+   <link>http://mno.hu/velemeny/emmanuel-macron-es-a-visegradi-negyek-2405529?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Soós Eszter Petronella</author>
+   <enclosure url="http://mno.hu/data/cikkek/2405/24055/cikk-2405529/000_PW73U_896_504_1498726590.jpg" length="298283" type="image/jpeg"/>
+   <description><![CDATA[Német érdekszféra ide vagy oda, a francia elnök jelentősége sokat nőhet a közeljövőben.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Thu, 29 Jun 2017 16:23:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Európa nem vallás, hanem eszköz]]></title>
+   <link>http://mno.hu/velemeny/europa-nem-vallas-hanem-eszkoz-1379449?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Soós Eszter Petronella</author>
+   <enclosure url="http://mno.hu/data/cikkek/1379/13794/cikk-1379449/000_J48NR.jpg" length="366796" type="image/jpeg"/>
+   <description><![CDATA[Fillon programja csak akkor valósítható meg, ha belső gazdasági reformok is kísérik.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Wed, 04 Jan 2017 17:30:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Donald Trump utat mutat a baloldalnak]]></title>
+   <link>http://mno.hu/velemeny/donald-trump-utat-mutat-a-baloldalnak-1372788?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Soós Eszter Petronella</author>
+   <enclosure url="http://mno.hu/data/cikkek/1372/13727/cikk-1372788/063_600633166.jpg" length="1244229" type="image/jpeg"/>
+   <description><![CDATA[Az emberi jogok kiskátéját nem a középosztállyal kell felmondatni.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Wed, 23 Nov 2016 08:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A migráció és a baloldal: igen vagy nem?]]></title>
+   <link>http://mno.hu/velemeny/a-migracio-es-a-baloldal-igen-vagy-nem-1356692?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Soós Eszter Petronella</author>
+   <enclosure url="http://mno.hu/data/cikkek/1356/13566/cikk-1356692/nepszavazasplakat.jpg" length="520633" type="image/jpeg"/>
+   <description><![CDATA[A század egyik legfontosabb ügyéről kell dönteni.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Sun, 14 Aug 2016 13:19:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Pörneczi Bálint]]></title>
+  <link>http://mno.hu/szerzo/fotos/porneczi-balint-27372</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Wed, 11 Apr 2018 13:29:09 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[teszt, netrix]]></title>
+   <link>http://mno.hu//teszt-netrix-1316911?utm_source=feed&amp;utm_medium=rss</link>
+   <description><![CDATA[]]></description>
+   <category/>
+   <pubDate>Wed, 02 Dec 2020 07:37:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Teszt, netrix]]></title>
+   <link>http://mno.hu//teszt-netrix-1316887?utm_source=feed&amp;utm_medium=rss</link>
+   <description><![CDATA[]]></description>
+   <category/>
+   <pubDate>Wed, 02 Dec 2020 06:21:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Teszt, netrix]]></title>
+   <link>http://mno.hu//teszt-netrix-1316886?utm_source=feed&amp;utm_medium=rss</link>
+   <description><![CDATA[]]></description>
+   <category/>
+   <pubDate>Wed, 02 Dec 2020 06:19:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Miként oldható meg a cigánykérdés? ]]></title>
+   <link>http://mno.hu/belfold/mikent-oldhato-meg-a-ciganykerdes-1207561?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Németh György</author>
+   <description><![CDATA[ Egy tanulmánykötet ürügyén. ]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 27 Jan 2020 10:38:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Forgács: A cigányember is képes a változásra]]></title>
+   <link>http://mno.hu/belfold/forgacs-a-ciganyember-is-kepes-a-valtozasra-1203993?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Forgács István</author>
+   <description><![CDATA[Nem lehet elégszer kimondani és leírni: nem igaz, hogy a cigányok önmagukban mindannyian haszontalanok, és nem igaz, hogy a teljes többségi társadalom, vagy éppen az állam maga kirekesztő és cigányellenes lenne.]]></description>
+   <category>Belföld</category>
+   <pubDate>Tue, 07 Jan 2020 12:24:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Liberálisok: Budapesten állhat bosszút a Fidesz]]></title>
+   <link>http://mno.hu/ahirtvhirei/liberalisok-budapesten-allhat-bosszut-a-fidesz-2459370?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hír TV</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24593/cikk-2459370/BD20161002_1860.jpg" length="528878" type="image/jpeg"/>
+   <description><![CDATA[Szabadai Viktor szerint a kétharmados felhatalmazást arra fogják használni, hogy még több hatáskört vegyenek el a kerületektől és a fővárostól.]]></description>
+   <category>A Hír TV belföldi hírei</category>
+   <pubDate>Wed, 11 Apr 2018 13:33:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Megkezdődött a négy hazai tároló feltöltése]]></title>
+   <link>http://mno.hu/gazdasag/megkezdodott-a-negy-hazai-tarolo-feltoltese-2459350?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Illés József</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24593/cikk-2459350/2.jpg" length="517934" type="image/jpeg"/>
+   <description><![CDATA[A napokban véget érő fűtési idény alatt rekordalacsony szintre csökkent a gázkészlet. Mindössze egynapnyi fűtőanyag maradt.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Wed, 11 Apr 2018 13:22:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Magasabb vagy mint két méter? Nem kosarazhatsz nálunk!]]></title>
+   <link>http://mno.hu/sport/magasabb-vagy-mint-ket-meter-nem-kosarazhatsz-nalunk-2459259?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Radványi Benedek</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24592/cikk-2459259/000_RK7UV.jpg" length="227793" type="image/jpeg"/>
+   <description><![CDATA[A legabszurdabb légiósszabályt hozták meg Koreában. Millimétereken is múlhat egy boldog karrier.]]></description>
+   <category>Sport</category>
+   <pubDate>Wed, 11 Apr 2018 13:22:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Katonai gép zuhant le Algéria fővárosa közelében]]></title>
+   <link>http://mno.hu/hirtvkulfold/katonai-gep-zuhant-le-algeria-fovarosa-kozeleben-2459363?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hír TV</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24593/cikk-2459363/repulogep.JPG" length="128572" type="image/jpeg"/>
+   <description><![CDATA[Több mint százan meghaltak.]]></description>
+   <category>A Hír TV külföldi hírei</category>
+   <pubDate>Wed, 11 Apr 2018 13:20:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Csoda kellene a Juventusnak a BL-ben]]></title>
+   <link>http://mno.hu/hirtvsport/csoda-kellene-a-juventusnak-a-bl-ben-2459361?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hír TV</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24593/cikk-2459361/bl.JPG" length="97003" type="image/jpeg"/>
+   <description><![CDATA[A Sevilla ledolgozná egy gólos hátrányát a Bayern München otthonában.]]></description>
+   <category>A Hír TV sporthírei</category>
+   <pubDate>Wed, 11 Apr 2018 13:19:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Liszt Ferenc a beszállókapunál]]></title>
+   <link>http://mno.hu/grund/liszt-ferenc-a-beszallokapunal-2459356?utm_source=feed&amp;utm_medium=rss</link>
+   <author>B. Kovács Gergely</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24593/cikk-2459356/D_AS20180405001_896_504_1523445235.jpg" length="26846" type="image/jpeg"/>
+   <description><![CDATA[Apró szobrot kapott a róla elnevezett budapesti reptéren a zongoravirtuóz, de baj-e az, hogy kicsi?]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Wed, 11 Apr 2018 13:19:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Búcsú a Magyar Nemzettől és a Lánchíd Rádiótól – Tantusz]]></title>
+   <link>http://mno.hu/musorajanlo/bucsu-a-magyar-nemzettol-es-a-lanchid-radiotol-tantusz-2459371?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hír TV</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24593/cikk-2459371/CM9R4916.jpg" length="152116" type="image/jpeg"/>
+   <description><![CDATA[]]></description>
+   <category>Műsorajánló</category>
+   <pubDate>Wed, 11 Apr 2018 13:17:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ítélet – Ázsia]]></title>
+   <link>http://mno.hu/musorajanlo/itelet-azsia-2459369?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hír TV</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24593/cikk-2459369/K_EPA20170107063.jpg" length="348225" type="image/jpeg"/>
+   <description><![CDATA[]]></description>
+   <category>Műsorajánló</category>
+   <pubDate>Wed, 11 Apr 2018 13:14:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szívesen lenne pártelnök Kunhalmi]]></title>
+   <link>http://mno.hu/ahirtvhirei/szivesen-lenne-partelnok-kunhalmi-2459368?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hír TV</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24593/cikk-2459368/HM20140923_424.jpg" length="130131" type="image/jpeg"/>
+   <description><![CDATA[Vállalná az MSZP elnökségét Kunhalmi Ágnes - erről az ATV-ben beszélt az MSZP képviselője.]]></description>
+   <category>A Hír TV belföldi hírei</category>
+   <pubDate>Wed, 11 Apr 2018 13:13:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Der Standard: Még szegényesebb lesz a magyar média]]></title>
+   <link>http://mno.hu/hirtvkulfold/der-standard-meg-szegenyesebb-lesz-a-magyar-media-2459362?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hír TV</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24593/cikk-2459362/standard.JPG" length="74385" type="image/jpeg"/>
+   <description><![CDATA[A német és az osztrák sajtó is részletesen foglalkozik a Magyar Nemzet bezárásával.]]></description>
+   <category>A Hír TV külföldi hírei</category>
+   <pubDate>Wed, 11 Apr 2018 13:11:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Költészet napja: a vers belső éneklésből nő ki]]></title>
+   <link>http://mno.hu/grund/kolteszet-napja-a-vers-belso-eneklesbol-no-ki-2459358?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24593/cikk-2459358/SZB20170710_5730.jpg" length="429883" type="image/jpeg"/>
+   <description><![CDATA[A költészet napja alkalmából Lackfi János költő-író és Nényei Pál tanár, drámaíró írt nekünk az olvasás hasznáról.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Wed, 11 Apr 2018 13:04:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az Operaház előtt tüntetnek szombaton]]></title>
+   <link>http://mno.hu/ahirtvhirei/az-operahaz-elott-tuntetnek-szombaton-2459359?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hír TV</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24593/cikk-2459359/IMG_2319.jpg" length="274438" type="image/jpeg"/>
+   <description><![CDATA[Már több mint 90 ezren jelezték, hogy részt vesznek a demonstráción.]]></description>
+   <category>A Hír TV belföldi hírei</category>
+   <pubDate>Wed, 11 Apr 2018 13:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Inkább Mexikót választják a migránsok]]></title>
+   <link>http://mno.hu/hirtvkulfold/inkabb-mexikot-valasztjak-a-migransok-2459355?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hír TV</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24593/cikk-2459355/honduraas.JPG" length="61587" type="image/jpeg"/>
+   <description><![CDATA[Az 1100 menekült közül mindössze kétszázan mennének az Egyesült Államokba.]]></description>
+   <category>A Hír TV külföldi hírei</category>
+   <pubDate>Wed, 11 Apr 2018 12:46:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nehéz kutatómunka lenne bebizonyítani, hogy volt-e választási csalás]]></title>
+   <link>http://mno.hu/ahirtvhirei/nehez-kutatomunka-lenne-bebizonyitani-hogy-volt-e-valasztasi-csalas-2459354?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hír TV</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24593/cikk-2459354/20171112_NBB8322_896_504_1510561165.JPG" length="48946" type="image/jpeg"/>
+   <description><![CDATA[Erre hívta fel a figyelmet reggeli műsorunkban az Iránytű Intézet kutatásvezetője.]]></description>
+   <category>A Hír TV belföldi hírei</category>
+   <pubDate>Wed, 11 Apr 2018 12:30:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Freedom House: Tovább szűkül a demokrácia Magyarországon]]></title>
+   <link>http://mno.hu/ahirtvhirei/freedom-house-tovabb-szukul-a-demokracia-magyarorszagon-2459352?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hír TV</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24593/cikk-2459352/BA_08097.JPG" length="159873" type="image/jpeg"/>
+   <description><![CDATA[Ha az illiberalizmus tovább terjed, akkor az EU-t is saját képére formálhatja.]]></description>
+   <category>A Hír TV belföldi hírei</category>
+   <pubDate>Wed, 11 Apr 2018 12:23:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[„Minden kolléga próbálja ki, milyen független médiában dolgozni”]]></title>
+   <link>http://mno.hu/ahirtvhirei/minden-kollega-probalja-ki-milyen-fuggetlen-mediaban-dolgozni-2459357?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hír TV</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24593/cikk-2459357/nemzet.JPG" length="89527" type="image/jpeg"/>
+   <description><![CDATA[A Magyar Nemzet történetében két időszak volt, amikor átmenetileg megszűnt: a német megszállás idején és '56-ban.]]></description>
+   <category>A Hír TV belföldi hírei</category>
+   <pubDate>Wed, 11 Apr 2018 12:11:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hargitai: Ami kell a kormánynak, azt megszerzi]]></title>
+   <link>http://mno.hu/ahirtvhirei/hargitai-ami-kell-a-kormanynak-azt-megszerzi-2459340?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hír TV</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24593/cikk-2459340/hargitaim.JPG" length="66551" type="image/jpeg"/>
+   <description><![CDATA[A kormánytól független sajtó további szűkülésére számít az újabb kétharmad után a Magyar Újságírók Szövetségének elnöke.]]></description>
+   <category>A Hír TV belföldi hírei</category>
+   <pubDate>Wed, 11 Apr 2018 11:19:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Gyűlnek a bizonyítékok]]></title>
+   <link>http://mno.hu/ahirtvhirei/egyre-tobb-a-valasztasi-csalasra-utalo-bizonyitek-az-ellenzeki-partoknal-2459337?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hír TV</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24593/cikk-2459337/szavazos_mti_1.jpg" length="414376" type="image/jpeg"/>
+   <description><![CDATA[Egy jobbikos kapott kézhez egy jegyzőkönyvet, mely szerint a párt szavazatai átkerültek a Net Párthoz.]]></description>
+   <category>A Hír TV belföldi hírei</category>
+   <pubDate>Wed, 11 Apr 2018 10:29:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[„A választók különbséget tudtak tenni a munka és a gyűlöletkeltés között”]]></title>
+   <link>http://mno.hu/ahirtvhirei/a-valasztok-kulonbseget-tudtak-tenni-a-munka-es-a-gyuloletkeltes-kozott-2459336?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hír TV</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24593/cikk-2459336/szabos.jpg" length="53701" type="image/jpeg"/>
+   <description><![CDATA[A több tudatos átszavazó, és a hosszú évek óta tartó folyamatosa munka - ez hozta meg Szabó Sándor győzelmét.]]></description>
+   <category>A Hír TV belföldi hírei</category>
+   <pubDate>Wed, 11 Apr 2018 10:11:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Több mint 4700 kiló terméket vont ki a forgalomból a Nébih]]></title>
+   <link>http://mno.hu/ahirtvhirei/tobb-mint-4700-kilo-termeket-vont-ki-a-forgalombol-a-nebih-2459335?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hír TV</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24593/cikk-2459335/HM20140318_0138.jpg" length="181860" type="image/jpeg"/>
+   <description><![CDATA[Egy fővárosi, elsősorban Olaszországból beszerzett élelmiszereket forgalmazó cég raktárait ellenőrizték.]]></description>
+   <category>A Hír TV belföldi hírei</category>
+   <pubDate>Wed, 11 Apr 2018 09:59:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A Magyar Nemzet megszűnéséről cikkez a nemzetközi sajtó]]></title>
+   <link>http://mno.hu/ahirtvhirei/a-magyar-nemzet-megszuneserol-cikkez-a-nemzetkozi-sajto-2459325?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hír TV</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24593/cikk-2459325/nemzet.jpg" length="49094" type="image/jpeg"/>
+   <description><![CDATA[A legtöbb tudósítás és elemzés a magyarországi sajtószabadság helyzetének további romlását látja.]]></description>
+   <category>A Hír TV belföldi hírei</category>
+   <pubDate>Wed, 11 Apr 2018 09:41:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Csalásbejelentő honlapot hozott létre a DK]]></title>
+   <link>http://mno.hu/ahirtvhirei/csalasbejelento-honlapot-hozott-letre-a-dk-2459329?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hír TV</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24593/cikk-2459329/greczy.JPG" length="33807" type="image/jpeg"/>
+   <description><![CDATA[Az NVI elnöke szerint csak akkor lesz újraszámlálás, ha mindenhol tudják bizonyítani a visszaéléseket.]]></description>
+   <category>A Hír TV belföldi hírei</category>
+   <pubDate>Wed, 11 Apr 2018 09:36:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Színház]]></title>
+   <link>http://mno.hu/reggelijarat/szinhaz-2459334?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hír TV</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24593/cikk-2459334/szinhaz.JPG" length="38171" type="image/jpeg"/>
+   <description><![CDATA[Balta a fejbe című darab, Shakespeare nyomdokain, a kortárs szerző, Lőrinczy Attila tollából.]]></description>
+   <category>Reggeli járat</category>
+   <pubDate>Wed, 11 Apr 2018 09:20:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Táncház]]></title>
+   <link>http://mno.hu/reggelijarat/tanchaz-2459333?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hír TV</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24593/cikk-2459333/tanchaz.JPG" length="33499" type="image/jpeg"/>
+   <description><![CDATA[37. alkalommal rendezik meg az Országos Táncháztalálkozót és Kirakodóvásárt.]]></description>
+   <category>Reggeli járat</category>
+   <pubDate>Wed, 11 Apr 2018 09:15:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A civileket, az önkormányzatokat és az igazságszolgáltatást kezdheti ki a kétharmad]]></title>
+   <link>http://mno.hu/ahirtvhirei/a-civileket-az-onkormanyzatokat-es-az-igazsagszolgaltatast-kezdheti-ki-a-ketharmad-2459328?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hír TV</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24593/cikk-2459328/20171112_NBB8322_896_504_1510561165.JPG" length="48946" type="image/jpeg"/>
+   <description><![CDATA[Az intézkedéseket már korábban is tervezték, de nem volt meg az elegendő többség.]]></description>
+   <category>A Hír TV belföldi hírei</category>
+   <pubDate>Wed, 11 Apr 2018 09:11:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

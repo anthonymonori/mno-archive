@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Szántó T. Gábor]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/szanto-t-gabor-24390</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 09:23:57 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[„Az Onedin család után számomra a Terápia következett”]]></title>
+   <link>http://mno.hu/grund/az-onedin-csalad-utan-szamomra-a-terapia-kovetkezett-2458133?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szántó T. Gábor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24581/cikk-2458133/29681259_1710815355650973_1262152346_o_896_504_1522929479.jpg" length="61729" type="image/jpeg"/>
+   <description><![CDATA[A kultúra: fogyasztás. A javából. Szántó T. Gábor ezeket fogyasztja mostanában, és ajánlja olvasóinknak.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Thu, 05 Apr 2018 15:21:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A csíkfestők]]></title>
+   <link>http://mno.hu/2percproza/a-csikfestok-2413072?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szántó T. Gábor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2413/24130/cikk-2413072/pexels_photo_9817.jpeg" length="246839" type="image/jpeg"/>
+   <description><![CDATA[Átfutott rajtam, hogy netán az én lelkemen szárad majd egy ember élete…]]></description>
+   <category>2 perc próza</category>
+   <pubDate>Sun, 03 Sep 2017 07:49:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Helyszínelés]]></title>
+   <link>http://mno.hu/2percproza/helyszineles-2406349?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szántó T. Gábor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2406/24063/cikk-2406349/BD20170503_0179.jpg" length="683698" type="image/jpeg"/>
+   <description><![CDATA[„Vigyázzon! Ne lépjen a sírokra! Olyan, mintha kiontott vérbe lépne.”]]></description>
+   <category>2 perc próza</category>
+   <pubDate>Tue, 25 Jul 2017 14:58:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A kalap]]></title>
+   <link>http://mno.hu/2percproza/a-kalap-1385876?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szántó T. Gábor</author>
+   <enclosure url="http://mno.hu/data/cikkek/1385/13858/cikk-1385876/2percproza.jpg" length="68717" type="image/jpeg"/>
+   <description><![CDATA[Semmilyen közösség nem lehet meg az egyes emberek nélkül. És kinek-kinek saját élete, tempója, érzékenysége van.]]></description>
+   <category>2 perc próza</category>
+   <pubDate>Wed, 15 Feb 2017 10:40:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Teljes inkognitóban]]></title>
+   <link>http://mno.hu/2percproza/teljes-inkognitoban-1385515?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szántó T. Gábor</author>
+   <enclosure url="http://mno.hu/data/cikkek/1385/13855/cikk-1385515/2percproza.jpg" length="68717" type="image/jpeg"/>
+   <description><![CDATA[Én már öregember vagyok, de még én is le tudtam győzni a félelmeim egy részét. Remélem, mások messzebb jutnak.]]></description>
+   <category>2 perc próza</category>
+   <pubDate>Sat, 11 Feb 2017 19:19:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Bojkott?]]></title>
+   <link>http://mno.hu/2percproza/bojkott-1382926?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szántó T. Gábor</author>
+   <enclosure url="http://mno.hu/data/cikkek/1382/13829/cikk-1382926/2percproza.jpg" length="68717" type="image/jpeg"/>
+   <description><![CDATA[Ma, amikor szabadság van, miért nem tiltakoznak? Hogy az állam vagy a mágnások jobban támogassák a könyveket vagy az írókat.]]></description>
+   <category>2 perc próza</category>
+   <pubDate>Wed, 25 Jan 2017 21:40:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Jó reggelt, valóság!]]></title>
+   <link>http://mno.hu/konyveshaz/jo-reggelt-valosag-1363813?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szántó T. Gábor</author>
+   <enclosure url="http://mno.hu/data/cikkek/1363/13638/cikk-1363813/1.jpg" length="338093" type="image/jpeg"/>
+   <description><![CDATA[Ha van zsidó száműzetés, az övé az. A saját emlékeitől élt távol, teljes magányban.]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Sun, 02 Oct 2016 08:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ülünk a földön]]></title>
+   <link>http://mno.hu/konyveshaz/ulunk-a-foldon-1355771?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szántó T. Gábor</author>
+   <enclosure url="http://mno.hu/data/cikkek/1355/13557/cikk-1355771/MP20090906_2441.jpg" length="95055" type="image/jpeg"/>
+   <description><![CDATA[„Miért kell mindig akarni valamit? Mi volna, ha nem írna róla semmit?”]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Sun, 14 Aug 2016 08:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A hadititok]]></title>
+   <link>http://mno.hu/konyveshaz/a-hadititok-1351569?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szántó T. Gábor</author>
+   <description><![CDATA[Szántó T. Gábor tárcája.]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Mon, 18 Jul 2016 08:20:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A név hírnév]]></title>
+   <link>http://mno.hu/konyveshaz/a-nev-hirnev-1345781?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szántó T. Gábor</author>
+   <enclosure url="http://mno.hu/data/cikkek/1345/13457/cikk-1345781/fortepan_67360.jpg" length="295397" type="image/jpeg"/>
+   <description><![CDATA[„... megpendítettem, hogy ha belépne a téeszbe, akkor lenne segítsége a fia távollétében is.”]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Sat, 11 Jun 2016 17:53:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Titkos üzenet]]></title>
+   <link>http://mno.hu/konyveshaz/titkos-uzenet-1340586?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szántó T. Gábor</author>
+   <description><![CDATA[„Napokon át ástuk a sírokat, temettük a németeket.” Szántó T. Gábor írása.]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Fri, 06 May 2016 15:47:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Navracsics Tibor]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/navracsics-tibor-14075</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Sat, 14 Apr 2018 19:28:13 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Az európai identitás megerősítéséről]]></title>
+   <link>http://mno.hu/velemeny/az-europai-identitas-megerositeserol-2428452?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Navracsics Tibor, Jean-Claude Juncker</author>
+   <enclosure url="http://mno.hu/data/cikkek/2428/24284/cikk-2428452/HM20151218_103.jpg" length="237586" type="image/jpeg"/>
+   <description><![CDATA[A „sorbonne-i folyamat” elősegítheti a végzettséget igazoló oklevelek kölcsönös elismerését, 2019-ben bevezetésre kerül az elektronikus európai diákigazolvány.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Sat, 18 Nov 2017 15:12:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nem több, hanem jobb Európát]]></title>
+   <link>http://mno.hu/velemeny/nem-tobb-hanem-jobb-europat-1366514?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Navracsics Tibor</author>
+   <enclosure url="http://mno.hu/data/cikkek/1366/13665/cikk-1366514/NBB_20140515_0109.JPG" length="1175758" type="image/jpeg"/>
+   <description><![CDATA[Sokan mintha megfeledkeznének arról, mit is jelent európainak lenni.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Sat, 15 Oct 2016 12:21:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Európa fenyegetés lenne a nemzeti identitásra?]]></title>
+   <link>http://mno.hu/velemeny/europa-fenyegetes-lenne-a-nemzeti-identitasra-1361916?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Navracsics Tibor</author>
+   <enclosure url="http://mno.hu/data/cikkek/1361/13619/cikk-1361916/000_G68WN.jpg" length="956365" type="image/jpeg"/>
+   <description><![CDATA[Bizonytalanságokkal teli, összetett világunkban nehézzé válhat megtalálni a helyünket.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Fri, 16 Sep 2016 09:02:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az EU hatékonyabb védelmet nyújt az áldozatoknak]]></title>
+   <link>http://mno.hu/migr_1834/az_eu_hatekonyabb_vedelmet_nyujt_az_aldozatoknak-184789?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Navracsics Tibor, Viviane Reding</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Mon, 30 May 2011 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A jó állam kritériumai]]></title>
+   <link>http://mno.hu/migr_1834/a_jo_allam_kriteriumai-224072?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Navracsics Tibor</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Mon, 27 Sep 2010 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Gázcsap]]></title>
+   <link>http://mno.hu/migr_1834/gazcsap-412446?utm_source=feed&amp;utm_medium=rss</link>
+   <author>D. Horváth Gábor, Navracsics Tibor</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Mon, 22 Sep 2008 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Egy becsületbeli ügy]]></title>
+   <link>http://mno.hu/velemeny/egy-becsuletbeli-ugy-493014?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Navracsics Tibor</author>
+   <description><![CDATA[]]></description>
+   <category>Vélemény</category>
+   <pubDate>Sat, 26 Aug 2006 01:00:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

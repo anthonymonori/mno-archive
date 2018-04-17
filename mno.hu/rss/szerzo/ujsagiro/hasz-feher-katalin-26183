@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Hász-Fehér Katalin]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/hasz-feher-katalin-26183</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Fri, 13 Apr 2018 01:25:34 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Kultúra cukormázban]]></title>
+   <link>http://mno.hu/velemeny/kultura-cukormazban-2409051?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hász-Fehér Katalin</author>
+   <enclosure url="http://mno.hu/data/cikkek/2409/24090/cikk-2409051/010_A7A08A72_203.jpg" length="440486" type="image/jpeg"/>
+   <description><![CDATA[Az olvasás nem spórolható meg, nem váltható ki.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Sun, 23 Jul 2017 07:40:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A szomorúság humora]]></title>
+   <link>http://mno.hu/velemeny/a-szomorusag-humora-2406179?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hász-Fehér Katalin</author>
+   <enclosure url="http://mno.hu/data/cikkek/2406/24061/cikk-2406179/MNO_160923_0.jpg" length="958852" type="image/jpeg"/>
+   <description><![CDATA[A pártdemokrácia négyévente szembeállítja az egy faluban, utcában élő embereket.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Tue, 04 Jul 2017 15:58:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szép új világok]]></title>
+   <link>http://mno.hu/hetvegimagazin/szep-uj-vilagok-2394682?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hász-Fehér Katalin</author>
+   <enclosure url="http://mno.hu/data/cikkek/2394/23946/cikk-2394682/img109.jpg" length="714087" type="image/jpeg"/>
+   <description><![CDATA[Erre a jövőre senki sem készített fel bennünket. Valahogyan mégis megbirkóztunk vele.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Thu, 20 Apr 2017 17:20:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ünnepe a léleknek]]></title>
+   <link>http://mno.hu/konyveshaz/unnepe-a-leleknek-1389816?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hász-Fehér Katalin</author>
+   <enclosure url="http://mno.hu/data/cikkek/1389/13898/cikk-1389816/DEBRE20150302002x.jpg" length="391685" type="image/jpeg"/>
+   <description><![CDATA[Arany olyan távolságra lépett hátra a napi eseményektől, ahonnan tágabb horizontról mindenféle szélsőségre rálátott.]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Sun, 12 Mar 2017 20:43:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

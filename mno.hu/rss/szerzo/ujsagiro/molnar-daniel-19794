@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Molnár Dániel]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/molnar-daniel-19794</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Fri, 13 Apr 2018 12:03:43 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Mitől okos egy város?]]></title>
+   <link>http://mno.hu/tudomany/a-fenntarthatosag-es-az-elhetobbseg-a-jovo-zaloga-1351612?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Molnár Dániel</author>
+   <enclosure url="http://mno.hu/data/cikkek/1351/13516/cikk-1351612/NBB_20150809_0032.jpg" length="206033" type="image/jpeg"/>
+   <description><![CDATA[Olyan megoldások kellenek, melyek a legnagyobb tartós hasznot hozzák a közösség és a város életébe.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Fri, 29 Jul 2016 18:57:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Rákot okozhat a tetoválás?]]></title>
+   <link>http://mno.hu/tudomany/rakot-okozhat-a-tetovalas-1353850?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Molnár Dániel</author>
+   <enclosure url="http://mno.hu/data/cikkek/1353/13538/cikk-1353850/000_Par8236206.jpg" length="262522" type="image/jpeg"/>
+   <description><![CDATA[Sokan tűkön ülve várják az Európai Vegyianyag-ügynökség jelentését. Mi szakembert és az ÁNTSZ-t kérdeztük.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Thu, 28 Jul 2016 19:47:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hazánk is fejest ugrik a virtuálisvalóság-bizniszbe]]></title>
+   <link>http://mno.hu/tudomany/hazank-is-fejest-ugrik-a-virtualisvalosag-bizniszbe-1349910?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Molnár Dániel</author>
+   <enclosure url="http://mno.hu/data/cikkek/1349/13499/cikk-1349910/AFP_000_Par8019771.jpg" length="148966" type="image/jpeg"/>
+   <description><![CDATA[Elindult az első, magyar fejlesztésű virtuálisvalóság-videómegosztó oldal.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Sun, 03 Jul 2016 09:08:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Elárasztotta hídját, hogy megmentse a pusztulástól]]></title>
+   <link>http://mno.hu/belfold/elarasztotta-hidjat-hogy-megmentse-a-pusztulastol-1348352?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Molnár Dániel</author>
+   <enclosure url="http://mno.hu/data/cikkek/1348/13483/cikk-1348352/SZB20130628_9855.jpg" length="522370" type="image/jpeg"/>
+   <description><![CDATA[Szemügyre vettük, mi történt az idők folyamán a skót építész által ránk hagyott építményekkel.]]></description>
+   <category>Belföld</category>
+   <pubDate>Thu, 23 Jun 2016 20:58:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Globális kiállás az uniformizált cigisdobozokért]]></title>
+   <link>http://mno.hu/eletmod/globalis-kiallas-az-uniformizalt-cigisdobozokert-1344728?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Molnár Dániel</author>
+   <enclosure url="http://mno.hu/data/cikkek/1344/13447/cikk-1344728/HM20151122_113.jpg" length="446914" type="image/jpeg"/>
+   <description><![CDATA[Az idei dohányzásmentes világnap célja felkészülni az egységes cigarettásdobozok bevezetésére.]]></description>
+   <category>Életmód</category>
+   <pubDate>Tue, 31 May 2016 09:03:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Néhány év, és mindenkihez bekopogtat a jövő]]></title>
+   <link>http://mno.hu/tudomany/nehany-ev-es-mindenkihez-bekopogtat-a-jovo-1344181?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Molnár Dániel</author>
+   <enclosure url="http://mno.hu/data/cikkek/1344/13441/cikk-1344181/000_AI7GF.jpg" length="324726" type="image/jpeg"/>
+   <description><![CDATA[Öt-tíz év múlva majdnem minden nappaliban lesz egy virtuális- vagy kiterjesztettvalóság-szemüveg.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Sat, 28 May 2016 17:24:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Több százezer magyar számítógép fertőzött]]></title>
+   <link>http://mno.hu/tudomany/kiber-1340962?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Molnár Dániel</author>
+   <enclosure url="http://mno.hu/data/cikkek/1340/13409/cikk-1340962/NBB_20130813_3582.jpg" length="197443" type="image/jpeg"/>
+   <description><![CDATA[Hatodik helyen állunk a „világranglistán”.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Sun, 08 May 2016 07:44:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Porig rombolt világ nélkül is lehet jó egy film]]></title>
+   <link>http://mno.hu/film/porig-rombolt-vilag-nelkul-is-lehet-jo-egy-film-1340418?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Molnár Dániel</author>
+   <enclosure url="http://mno.hu/data/cikkek/1340/13404/cikk-1340418/captain_america_civil_war_marvel.jpg" length="117127" type="image/jpeg"/>
+   <description><![CDATA[Az Amerika kapitány harmadik epizódja végre nemcsak a látvánnyal, hanem a karakterekkel is foglalkozik.]]></description>
+   <category>Szuperplán</category>
+   <pubDate>Wed, 04 May 2016 20:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Még nem volt tolongás a boltokban vasárnap]]></title>
+   <link>http://mno.hu/gazdasag/bolt-1338143?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Molnár Dániel</author>
+   <enclosure url="http://mno.hu/data/cikkek/1338/13381/cikk-1338143/VL20160417_4666.jpg" length="426480" type="image/jpeg"/>
+   <description><![CDATA[Az OKSZ főtitkára szerint mindenki ki fog nyitni vasárnap, aki ki akar, de ez most még nem történt meg.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Mon, 18 Apr 2016 18:09:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Karácsonyi ajándékok között a király]]></title>
+   <link>http://mno.hu/tudomany/a-smart-toy-mentheti-meg-a-hagyomanyos-jatekipart-1318391?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Molnár Dániel</author>
+   <description><![CDATA[Egyre többen, köztük a hagyományos játékokat gyártó vállalatok is keresik a fogást a digitális kihívókon.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Sat, 12 Dec 2015 14:25:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A videojáték iránt komoly munkaerőpiaci igény van]]></title>
+   <link>http://mno.hu/tudomany/a-videojatek-irant-komoly-munkaeropiaci-igeny-van-1314613?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Molnár Dániel</author>
+   <enclosure url="http://mno.hu/data/cikkek/1314/13146/cikk-1314613/videojatek.jpg" length="231606" type="image/jpeg"/>
+   <description><![CDATA[Hazánk lépett egyet a világ fősodra felé, mikor elindult a BME-n egy játékkészítő felnőttképzés.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Sat, 05 Dec 2015 19:20:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Gigaüzletet köthetne az állam, ha szánna rá pénzt]]></title>
+   <link>http://mno.hu/tudomany/gigauzletet-kothetne-az-allam-ha-szanna-ra-penzt-1314383?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Molnár Dániel</author>
+   <enclosure url="http://mno.hu/data/cikkek/1314/13143/cikk-1314383/videojatek.jpg" length="231606" type="image/jpeg"/>
+   <description><![CDATA[Ha az állam beszállna a videojáték-iparba, relatíve hamar nagy profitra tehetne szert.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Sun, 29 Nov 2015 13:13:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Harmincasokat szédít a videojáték-őrület]]></title>
+   <link>http://mno.hu/tudomany/dollarmilliardokat-termel-evente-a-harmincasok-hobbija-1314361?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Molnár Dániel</author>
+   <enclosure url="http://mno.hu/data/cikkek/1314/13143/cikk-1314361/videojatek_afp.jpg" length="78370" type="image/jpeg"/>
+   <description><![CDATA[A videojáték-készítés az egyik legdinamikusabban növekedő ágazat.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Sun, 22 Nov 2015 07:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[„Egy jó bornak mindig lesz piaca”]]></title>
+   <link>http://mno.hu/etelesital/egy-jo-bornak-mindig-lesz-piaca-1314270?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Molnár Dániel, Marosi Adrienn</author>
+   <enclosure url="http://mno.hu/data/cikkek/1314/13142/cikk-1314270/mitiszol1.jpg" length="186294" type="image/jpeg"/>
+   <description><![CDATA[A természethű borokat népszerűsítették a Millenárison.]]></description>
+   <category>Étel és ital</category>
+   <pubDate>Mon, 16 Nov 2015 20:11:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nem vagyunk mások, csak le vagyunk maradva]]></title>
+   <link>http://mno.hu/tudomany/nem-vagyunk-masok-csak-le-vagyunk-maradva-1307969?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Molnár Dániel</author>
+   <enclosure url="http://mno.hu/data/cikkek/1307/13079/cikk-1307969/VL_youtube_szirmai.jpg" length="194884" type="image/jpeg"/>
+   <description><![CDATA[Gondolatok globális és hazai videós trendekről, a Youtube működéséről és az azzal való pénzkeresésről.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Sun, 11 Oct 2015 15:55:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szenegálba már betört az apokaliptikus jövő – képek]]></title>
+   <link>http://mno.hu/f22/szenegali-joslat-1307104?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Máté Péter, Molnár Dániel</author>
+   <enclosure url="http://mno.hu/data/cikkek/1307/13071/cikk-1307104/The_Prophecy_000_grid2_fekvo_lead.jpg" length="66876" type="image/jpeg"/>
+   <description><![CDATA[Egy kísérteties fotósorozat, amely Szenegál környezetszennyezési problémáira hívja fel a figyelmet.]]></description>
+   <category>Fotó (f22)</category>
+   <pubDate>Sat, 10 Oct 2015 14:40:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Elvtársak, szovjet zászló és paprikás krumpli]]></title>
+   <link>http://mno.hu/belfold/elvtarsak-paprikas-krumpli-es-a-mozgalom-1302139?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Molnár Dániel, Ruzsbaczky Zoltán, Veczán Zoltán</author>
+   <description><![CDATA[Ott jártunk, ahol a legmagasabb az egy négyzetméterre eső kommunisták száma.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sat, 29 Aug 2015 15:06:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nagy Feró: Már nem igaz, ami a dalban van]]></title>
+   <link>http://mno.hu/etelesital/nagy-fero-ma-mar-nem-savanyu-a-szaj-a-vilagos-sortol-1301808?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Molnár Dániel, Bucsy Levente</author>
+   <enclosure url="http://mno.hu/data/cikkek/1301/13018/cikk-1301808/nagy_fero_kobanyai_rocker_fekvo.jpg" length="106274" type="image/jpeg"/>
+   <description><![CDATA[Bár eredetileg a világos rajongója, szűretlen, pasztörizálatlan sör készült Nagy Feró tiszteletére.]]></description>
+   <category>Étel és ital</category>
+   <pubDate>Thu, 27 Aug 2015 17:56:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Bezár a bazár a migránsoknak]]></title>
+   <link>http://mno.hu/belfold/bezar-a-bazar-a-migransoknak-mi-lesz-veluk-1298057?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Molnár Dániel, Veczán Zoltán</author>
+   <description><![CDATA[Egymással harcoló civilek, migránsokat etető hungaristák, nagy adag apátia és rengeteg bevándorló a Keletinél. Mi lesz velük? Videó!]]></description>
+   <category>Belföld</category>
+   <pubDate>Sat, 01 Aug 2015 16:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nem csak a forróság miatt kell aggódnunk]]></title>
+   <link>http://mno.hu/tudomany/nem-csak-a-forrosag-miatt-kell-aggodnunk-1296517?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Molnár Dániel</author>
+   <description><![CDATA[Sorra dőlnek meg az évszázados hőmérsékleti rekordok, az éghajlatváltozásnak ugyanakkor vannak ennél komolyabb következményei is.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Thu, 23 Jul 2015 16:14:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Bevándorlás: „Kirabolnak egy szatyor kajáért”]]></title>
+   <link>http://mno.hu/belfold/bevandorlas-kirabolnak-egy-szatyor-kajaert-1294641?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Molnár Dániel</author>
+   <description><![CDATA[Belföldön és külföldön egyaránt komoly terhet jelent a kamionosok számára a megnövekedett bevándorlás.]]></description>
+   <category>Belföld</category>
+   <pubDate>Fri, 10 Jul 2015 14:15:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A magyar droghelyzet kezeléséhez szemléletváltás kell]]></title>
+   <link>http://mno.hu/belfold/a-magyar-droghelyzet-kezelesehez-szemleletvaltas-kell-1292446?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Molnár Dániel</author>
+   <description><![CDATA[„Olyan jelenséggel állunk szemben, amire még nincsenek eljárási módszerek.”]]></description>
+   <category>Belföld</category>
+   <pubDate>Fri, 26 Jun 2015 17:27:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Tálas: Már rég az integrációról kellene beszélni]]></title>
+   <link>http://mno.hu/belfold/talas-mar-reg-az-integraciorol-kellene-beszelni-1292260?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Molnár Dániel</author>
+   <description><![CDATA[A szakértő szerint Európának sokkal aktívabban kellene részt vennie a közel-keleti konfliktusokban.]]></description>
+   <category>Belföld</category>
+   <pubDate>Wed, 24 Jun 2015 18:19:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Virtuális valóság: így lehet hologramból várat építeni]]></title>
+   <link>http://mno.hu/tudomany/virtualis-valosag-igy-lehet-hologrambol-varat-epiteni-1291205?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Molnár Dániel</author>
+   <description><![CDATA[Egy videojátékkal mutatta be a Microsoft saját holografikus technológiáját az idei E3-on.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Wed, 17 Jun 2015 22:30:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Így még nem látta hazánkat – exkluzív légi felvételek]]></title>
+   <link>http://mno.hu/f22/legifotok-ki-gepen-szall-folebe-annak-terkep-e-taj-1289965?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Máté Péter, Molnár Dániel</author>
+   <description><![CDATA[Kocsis Zoltán fotói Magyarország – főleg – északkeleti szegletéből, körülbelül ötszáz méteres magasságból.]]></description>
+   <category>Fotó (f22)</category>
+   <pubDate>Fri, 12 Jun 2015 19:57:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Világsiker kapujában az új magyar streetfood-őrület]]></title>
+   <link>http://mno.hu/belfold/vilagsiker-kapujaban-az-uj-magyar-streetfood-orulet-1288905?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Molnár Dániel, Havasi Zsolt</author>
+   <description><![CDATA[A Budapest Bakering elkezdte meghódítani a belvárost, de már külföldről is érdeklődnek iránta.  ]]></description>
+   <category>Belföld</category>
+   <pubDate>Fri, 05 Jun 2015 15:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nézze meg, hogy gondozzák a legújabb vonatokat!]]></title>
+   <link>http://mno.hu/gazdasag/nezze-meg-hogy-gondozzak-a-legujabb-vonatokat-1288273?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Molnár Dániel, Ruzsbaczky Zoltán</author>
+   <description><![CDATA[Bejártuk a megújult istvánteleki vasúti bázist, bemutatjuk, hogy teszik menetképessé a legújabb vonatokat.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Sat, 30 May 2015 19:49:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Bődületes katasztrófát előztek meg Miskolcon]]></title>
+   <link>http://mno.hu/belfold/ezen-mulott-egy-irgalmatlan-miskolci-robbanas-1287158?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Molnár Dániel, Bucsy Levente</author>
+   <description><![CDATA[Tud bárki is arról, hogy egy veszélyes anyagot szállító vagon felborult a miskolci pályaudvaron? Nem sokan – az MNO videós riportjából kiderül, miért.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sat, 23 May 2015 14:20:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Pörög a gazdaság, de kit érdekel?]]></title>
+   <link>http://mno.hu/gazdasag/meg-mindig-csak-kullogunk-masok-utan-1286943?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Molnár Dániel</author>
+   <description><![CDATA[Pörög a gazdaság, de kit érdekel? Egyszerre vagyunk éltanulók és sereghajtók.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Tue, 19 May 2015 18:19:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Trabant-motor a repülőben – Magyar lángelmék a levegőben]]></title>
+   <link>http://mno.hu/belfold/trabant-motor-a-repuloben-magyar-langelmek-a-levegoben-1284329?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Molnár Dániel, Bucsy Levente</author>
+   <description><![CDATA[Május végéig látható már csak a hazai repülés történetét egyebek mellett 50 igazi géppel bemutató kiállítás a bontásra ítélt PeCsában.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sun, 10 May 2015 11:05:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Gulyás András]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/gulyas-andras-24547</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 06:35:03 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[A beton pártja elfoglalja ligeteinket]]></title>
+   <link>http://mno.hu/velemeny/a-beton-partja-elfoglalja-ligeteinket-2429748?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Gulyás András</author>
+   <enclosure url="http://mno.hu/data/cikkek/2429/24297/cikk-2429748/szb201703014_2330.jpg" length="386930" type="image/jpeg"/>
+   <description><![CDATA[A kiváltságos építőipari vállalkozó megrendelést és kedvező jogi szabályozást kap, cserébe hátországot épít pártnak, politikusnak.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Fri, 24 Nov 2017 16:13:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Mi lett volna a ligetnépszavazás tétje?]]></title>
+   <link>http://mno.hu/velemeny/mi-lett-volna-a-ligetnepszavazas-tetje-2397820?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Gulyás András</author>
+   <enclosure url="http://mno.hu/data/cikkek/2397/23978/cikk-2397820/HM20131003_0750.jpg" length="421437" type="image/jpeg"/>
+   <description><![CDATA[Ma is egy szűk kör dönt odafönt a köztulajdonról, a közvagyonról.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Mon, 08 May 2017 07:53:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A párbeszéd kiüresítése]]></title>
+   <link>http://mno.hu/velemeny/a-parbeszed-kiuresitese-1352840?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Gulyás András</author>
+   <enclosure url="http://mno.hu/data/cikkek/1352/13528/cikk-1352840/6-1_varosliget.jpg" length="562750" type="image/jpeg"/>
+   <description><![CDATA[Hiába tiltakoztak a szakmai szervezetek a Liget projekt ellen.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Wed, 20 Jul 2016 16:14:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Városliget és budai Vár: ez lenne a párbeszéd?]]></title>
+   <link>http://mno.hu/velemeny/varosliget-es-budai-var-ez-lenne-a-parbeszed-1345561?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Gulyás András</author>
+   <enclosure url="http://mno.hu/data/cikkek/1345/13455/cikk-1345561/nemzeti_galeria-1038x567.jpg" length="161890" type="image/jpeg"/>
+   <description><![CDATA[Fontos tényeket hallgathat el a lakosság elől a százmilliós kampány.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Sun, 05 Jun 2016 19:59:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

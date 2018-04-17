@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Tóth Barbara]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/toth-barbara-24808</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 23:37:02 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Templomból night club – ez volna a szép új világ? ]]></title>
+   <link>http://mno.hu/eletmod/templombol-night-club-ez-volna-a-szep-uj-vilag-2421407?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Tóth Barbara</author>
+   <enclosure url="http://mno.hu/data/cikkek/2421/24214/cikk-2421407/RTR37W5L.jpg" length="618450" type="image/jpeg"/>
+   <description><![CDATA[Nyugat-Európában egyre több imahely néptelenedik el, s alakítják át étteremmé, konditeremmé vagy éppen lokállá.]]></description>
+   <category>Életmód</category>
+   <pubDate>Fri, 20 Oct 2017 18:26:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kalitkába zárt lélek]]></title>
+   <link>http://mno.hu/konyveshaz/kalitkaba-zart-lelek-1388221?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Tóth Barbara</author>
+   <enclosure url="http://mno.hu/data/cikkek/1388/13882/cikk-1388221/44646103_l.jpg" length="612606" type="image/jpeg"/>
+   <description><![CDATA[Létezik-e valóság, vagy minden csak illúzió? De ha a tapintható világ illúzió, az álom lehet-e valóság?]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Wed, 01 Mar 2017 11:19:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A halhatatlanság ára]]></title>
+   <link>http://mno.hu/konyveshaz/a-halhatatlansag-ara-1386730?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Tóth Barbara</author>
+   <enclosure url="http://mno.hu/data/cikkek/1386/13867/cikk-1386730/fortepan_22350.jpg" length="28457" type="image/jpeg"/>
+   <description><![CDATA[Latinovits Zoltán, az ember az életével játszott. Talán ez volt halhatatlanságának az ára. Talán ezért él tovább a színészkirály.]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Mon, 20 Feb 2017 19:04:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Tenyérbe forrt kulcs]]></title>
+   <link>http://mno.hu/konyveshaz/tenyerbe-forrt-kulcs-1386544?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Tóth Barbara</author>
+   <enclosure url="http://mno.hu/data/cikkek/1386/13865/cikk-1386544/covers_408099_896_504_1487368612.jpg" length="98292" type="image/jpeg"/>
+   <description><![CDATA[Szabadulhatunk-e függőségünk kötelékéből, szembeszállhatunk-e önmagunk gyöngeségeivel és hibáival? Gerlóczy Márton új könyvéről.]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Sun, 19 Feb 2017 06:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Fűszerezett magyar krimi]]></title>
+   <link>http://mno.hu/konyveshaz/fuszerezett-magyar-krimi-1381002?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Tóth Barbara</author>
+   <enclosure url="http://mno.hu/data/cikkek/1381/13810/cikk-1381002/hasznosidiota_896_504_1484317635.jpg" length="50661" type="image/jpeg"/>
+   <description><![CDATA[Mai, magyar és élethű – ritkán van szerencsénk ilyen krimivel találkozni. Most sikerült.]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Fri, 13 Jan 2017 17:17:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Tamási három kívánsága]]></title>
+   <link>http://mno.hu/konyveshaz/tamasi-harom-kivansaga-1353537?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Tóth Barbara</author>
+   <enclosure url="http://mno.hu/data/cikkek/1353/13535/cikk-1353537/eszmelj_abel.jpg" length="66781" type="image/jpeg"/>
+   <description><![CDATA[Nem az Ábel-trilógia negyedik része, még csak nem is regény, ez azonban nem csorbítja értékét ennek az új kötetnek, sőt!]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Sat, 30 Jul 2016 20:04:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

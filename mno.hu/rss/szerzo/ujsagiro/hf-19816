@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: HF]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/hf-19816</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Fri, 13 Apr 2018 03:33:50 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Kiásták a rejtőző maffiavezért]]></title>
+   <link>http://mno.hu/kulfold/kiastak-a-rejtozo-maffiavezert-1096295?utm_source=feed&amp;utm_medium=rss</link>
+   <author>HF</author>
+   <description><![CDATA[Elfogták Olaszország egyik legveszélyesebb maffiafőnökét szerdán. A rendőrség a padlót átfúrva hatolt be a bűnöző rejtekhelyére.]]></description>
+   <category>Külföld</category>
+   <pubDate>Thu, 02 Aug 2012 16:58:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Késések a 3-as metró vonalán]]></title>
+   <link>http://mno.hu/belfold/kesesek-a-3-as-metro-vonalan-1096366?utm_source=feed&amp;utm_medium=rss</link>
+   <author>HF</author>
+   <description><![CDATA[Súlyos pályahiba miatt késésekre lehet számítani a 3-as metróvonal Újpest felé tartó szakaszán. Az utazási idő nagyjából 5 perccel növekedhet.]]></description>
+   <category>Belföld</category>
+   <pubDate>Thu, 02 Aug 2012 16:15:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Vonat gázolt el egy nőt a miskolci vonalon]]></title>
+   <link>http://mno.hu/bunugy_baleset/vonat-gazolt-el-egy-not-a-miskolci-vonalon-1096361?utm_source=feed&amp;utm_medium=rss</link>
+   <author>HF</author>
+   <description><![CDATA[Gázolás miatt 20-30 percet késnek a vonatok a Budapest–Hatvan–Miskolc–Szerencs vasútvonalon – közölte a Mávinform csütörtök délután.]]></description>
+   <category>Bűnügy és baleset</category>
+   <pubDate>Thu, 02 Aug 2012 15:58:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Robbanóanyagot és mérget is találtak a letartóztatáskor]]></title>
+   <link>http://mno.hu/kulfold/robbanoanyagot-es-merget-is-talaltak-a-letartoztataskor-1096288?utm_source=feed&amp;utm_medium=rss</link>
+   <author>tt, HF</author>
+   <description><![CDATA[Őrizetbe vették az al-Kaida nemzetközi terrorhálózat három feltételezett tagját Dél-Spanyolországban, Cádiz térségében.]]></description>
+   <category>Külföld</category>
+   <pubDate>Thu, 02 Aug 2012 13:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Elűzheti a stresszt a mosoly]]></title>
+   <link>http://mno.hu/tudomany/eluzheti-a-stresszt-a-mosoly-1095874?utm_source=feed&amp;utm_medium=rss</link>
+   <author>HF</author>
+   <description><![CDATA[Amerikai kutatók kísérleteikben úgy találták, hogy a mosolygás fizikailag is segíti, hogy túljussunk nehéz, stresszes helyzeteken.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Tue, 31 Jul 2012 21:16:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Csaknem egymilliárdos beruházás Nagydorogon]]></title>
+   <link>http://mno.hu/gazdasag/csaknem-egymilliardos-beruhazas-nagydorogon-1095830?utm_source=feed&amp;utm_medium=rss</link>
+   <author>HF</author>
+   <description><![CDATA[Elkezdődött a szennyvízcsatorna-hálózat és -telep kiépítése a Tolna megyei Nagydorogon. A beruházás költségeinek 85 százalékát uniós forrásból fedezik.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Tue, 31 Jul 2012 19:20:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Holttestet találtak a Dunában]]></title>
+   <link>http://mno.hu/bunugy_baleset/holttestet-talaltak-a-dunaban-1095883?utm_source=feed&amp;utm_medium=rss</link>
+   <author>HF</author>
+   <description><![CDATA[Holttestet találtak kedden a Dunában a gönyűi kikötőnél – közölte a Győr-Moson-Sopron Megyei Rendőr-főkapitányság sajtóreferense.]]></description>
+   <category>Bűnügy és baleset</category>
+   <pubDate>Tue, 31 Jul 2012 17:14:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Új postai szolgáltató lép a magyar piacra]]></title>
+   <link>http://mno.hu/gazdasag/uj-postai-szolgaltato-lep-a-magyar-piacra-1095851?utm_source=feed&amp;utm_medium=rss</link>
+   <author>HF</author>
+   <description><![CDATA[Európai terjeszkedésének részeként a lengyel Integer.pl csoport 300 csomagküldő terminált helyez üzembe Magyarországon – közölte a lengyel cégcsoport kedden.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Tue, 31 Jul 2012 17:05:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Halálos áldozatot követelt a lakástűz]]></title>
+   <link>http://mno.hu/bunugy_baleset/halalos-aldozatot-kovetelt-a-lakastuz-1095876?utm_source=feed&amp;utm_medium=rss</link>
+   <author>HF</author>
+   <description><![CDATA[Holtan találtak egy 72 éves férfit egy kigyulladt lakásban kedden Kiskunfélegyházán – közölte a Bács-Kiskun Megyei Katasztrófavédelmi Igazgatóság szóvivője.]]></description>
+   <category>Bűnügy és baleset</category>
+   <pubDate>Tue, 31 Jul 2012 16:49:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Fegyvert fogott vendégére]]></title>
+   <link>http://mno.hu/bunugy_baleset/fegyvert-fogott-vendegere-1095822?utm_source=feed&amp;utm_medium=rss</link>
+   <author>HF</author>
+   <description><![CDATA[Gázfegyvert fogott egyik vendégére a pultos egy balatonszemesi szórakozóhelyen egy heves  szóváltást követően.]]></description>
+   <category>Bűnügy és baleset</category>
+   <pubDate>Tue, 31 Jul 2012 13:50:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kiszorultak a magyar diákok a MOGYE-n]]></title>
+   <link>http://mno.hu/hatarontul/kiszorultak-a-magyar-diakok-a-mogye-n-1095811?utm_source=feed&amp;utm_medium=rss</link>
+   <author>HF</author>
+   <description><![CDATA[Egyetlen tandíjköteles helyre sem jutott be magyar diák a Marosvásárhelyi Orvosi és Gyógyszerészeti Egyetem fogorvosi és állatorvosi szakára.]]></description>
+   <category>Határon túl</category>
+   <pubDate>Tue, 31 Jul 2012 13:26:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Rendszámtábla kerülhet a kerékpárokra]]></title>
+   <link>http://mno.hu/eletmod/rendszamtabla-kerulhet-a-kerekparokra-1095798?utm_source=feed&amp;utm_medium=rss</link>
+   <author>HF</author>
+   <description><![CDATA[Már a közeljövőben kötelező lehet rendszámmal ellátni a kerékpárokat Ausztriában, a bécsi utak biztonsága érdekében. ]]></description>
+   <category>Életmód</category>
+   <pubDate>Tue, 31 Jul 2012 13:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A Batman-film a símaszkos célpontja]]></title>
+   <link>http://mno.hu/eletmod/a-batman-film-a-simaszkos-celpontja-1095783?utm_source=feed&amp;utm_medium=rss</link>
+   <author>HF</author>
+   <description><![CDATA[Mozik pénztárait kirabló férfi garázdálkodik Mexikóban. A legújabb Batman-filmre jár, mivel annak a bevétele kecsegtet a legnagyobb összeggel.]]></description>
+   <category>Életmód</category>
+   <pubDate>Tue, 31 Jul 2012 12:37:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A cápák is elbújhatnak a halszörny mögött]]></title>
+   <link>http://mno.hu/tudomany/a-capak-is-elbujhatnak-a-halszorny-mogott-1095693?utm_source=feed&amp;utm_medium=rss</link>
+   <author>HF</author>
+   <description><![CDATA[Őskori halszörny maradványaira bukkantak egy magánház hátsó udvarán Colorado államban. Az óriásragadozó fogait a cápák is megirigyelhetnék.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Tue, 31 Jul 2012 02:15:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Közeleg a Kék Hold hónapja ]]></title>
+   <link>http://mno.hu/tudomany/kozeleg-a-kek-hold-honapja-1095671?utm_source=feed&amp;utm_medium=rss</link>
+   <author>HF</author>
+   <description><![CDATA[A Kék Hold hónapja lesz augusztus, amikor kétszer – elsején és harmincegyedikén – lesz telihold. A jelenség nagyjából két és fél évente figyelhető meg.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Mon, 30 Jul 2012 23:55:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Anyanyelvi tábor határon túli diákoknak ]]></title>
+   <link>http://mno.hu/belfold/anyanyelvi-tabor-hataron-tuli-diakoknak-1095673?utm_source=feed&amp;utm_medium=rss</link>
+   <author>HF</author>
+   <description><![CDATA[Kárpátaljai, erdélyi, felvidéki és délvidéki magyar ajkú középiskolások részvételével anyanyelvi tábor nyílt hétfőn Győrben.]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 30 Jul 2012 23:13:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Saját otthonukat építik a hajléktalanok]]></title>
+   <link>http://mno.hu/belfold/sajat-otthonukat-epitik-a-hajlektalanok-1095699?utm_source=feed&amp;utm_medium=rss</link>
+   <author>HF</author>
+   <description><![CDATA[Négy új konténerlakással bővítik a hajléktalanok téli krízisszállását Tatabányán. A munkálatok egy részét a szálló egykori lakói végzik el.]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 30 Jul 2012 22:55:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Rekordforgalom volt a határon]]></title>
+   <link>http://mno.hu/bunugy_baleset/rekordforgalom-volt-a-hataron-1095702?utm_source=feed&amp;utm_medium=rss</link>
+   <author>HF</author>
+   <description><![CDATA[A nyár legnagyobb utasforgalmát regisztrálta a rendőrség a múlt hétvégén a letenyei magyar–horvát határátkelőkön.]]></description>
+   <category>Bűnügy és baleset</category>
+   <pubDate>Mon, 30 Jul 2012 22:34:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Négy súlyos sérültje is van a balesetnek]]></title>
+   <link>http://mno.hu/bunugy_baleset/negy-sulyos-serultje-is-van-a-balesetnek-1095688?utm_source=feed&amp;utm_medium=rss</link>
+   <author>HF</author>
+   <description><![CDATA[Hatan megsérültek, közülük négyen súlyosan, mikor egy román vendégmunkásokat szállító kisbusz összeütközött egy személyautóval Kecskemét határában.]]></description>
+   <category>Bűnügy és baleset</category>
+   <pubDate>Mon, 30 Jul 2012 21:45:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Miniszteri biztost kap a Pesti Vigadó]]></title>
+   <link>http://mno.hu/grund/miniszteri-biztost-kap-a-pesti-vigado-1095685?utm_source=feed&amp;utm_medium=rss</link>
+   <author>HF</author>
+   <description><![CDATA[A nemzeti fejlesztési tárca vezetője miniszteri biztost nevezett ki a Pesti Vigadó felújításának irányítására – olvasható a Hivatalos Értesítő legutóbbi számában.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Mon, 30 Jul 2012 20:45:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Százmilliós károkat okozott a vihar]]></title>
+   <link>http://mno.hu/belfold/szazmillios-karokat-okozott-a-vihar-1095678?utm_source=feed&amp;utm_medium=rss</link>
+   <author>HF</author>
+   <description><![CDATA[Háztetők és autók rongálódtak meg országszerte a vasárnap esti viharban. Hétfőn és kedden is számíthatunk heves zivatarokra.]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 30 Jul 2012 20:08:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Életveszélyesen megsérült egy motoros]]></title>
+   <link>http://mno.hu/bunugy_baleset/eletveszelyesen-megserult-egy-motoros-1095622?utm_source=feed&amp;utm_medium=rss</link>
+   <author>HF</author>
+   <description><![CDATA[Életveszélyesen megsérült egy motoros, amikor személyautóval ütközött hétfőn Budapesten, a XVI. kerületben.]]></description>
+   <category>Bűnügy és baleset</category>
+   <pubDate>Mon, 30 Jul 2012 19:20:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nem volt még ekkora összefogás a hátrányos helyzetűekért]]></title>
+   <link>http://mno.hu/belfold/nem-volt-meg-ekkora-osszefogas-a-hatranyos-helyzetuekert-1095609?utm_source=feed&amp;utm_medium=rss</link>
+   <author>HF</author>
+   <description><![CDATA[A Bizalom és munka program eredményeként hétfőn átadták a Borsod megyei Ózd Velence és Hétes telepén a TKKI Csillagpont Szolgáltatóházat.]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 30 Jul 2012 18:11:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Útzár az M7-esen]]></title>
+   <link>http://mno.hu/belfold/utzar-az-m7-esen-1095638?utm_source=feed&amp;utm_medium=rss</link>
+   <author>HF</author>
+   <description><![CDATA[Teljes szélességében lezárták az M7-es autópálya főváros felé vezető szakaszát Balatonszárszó és Balatonőszöd között.]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 30 Jul 2012 17:20:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Napokon belül célba ér a marsjáró]]></title>
+   <link>http://mno.hu/tudomany/napokon-belul-celba-er-a-marsjaro-1095580?utm_source=feed&amp;utm_medium=rss</link>
+   <author>HF</author>
+   <description><![CDATA[Hamarosan eléri a Marsot a Kíváncsiság, a NASA új marsjárója. A szerkezet fő feladata a marsi élet nyomainak kutatása lesz.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Mon, 30 Jul 2012 16:36:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Több mint százan kapnak lehetőséget az Audiban]]></title>
+   <link>http://mno.hu/gazdasag/tobb-mint-szazan-kapnak-lehetoseget-az-audiban-1095560?utm_source=feed&amp;utm_medium=rss</link>
+   <author>HF</author>
+   <description><![CDATA[Százhúsz frissen végzett szakmunkás állt munkába hétfőn a győri Audi üzemben. A bővített gyártelep 2013-ig összesen 2100 új munkahelyet biztosít.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Mon, 30 Jul 2012 14:39:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Állami földet kapnak az önkormányzatok]]></title>
+   <link>http://mno.hu/gazdasag/allami-foldet-kapnak-az-onkormanyzatok-1095029?utm_source=feed&amp;utm_medium=rss</link>
+   <author>HF</author>
+   <description><![CDATA[A Nemzeti Földalapkezelő Szervezet a szociális földprogram megvalósítása érdekében először hirdetett meg ingyenes termőföldeket az önkormányzatoknak.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Fri, 27 Jul 2012 21:44:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Felfalják egymást a "vámpírcsillagok"]]></title>
+   <link>http://mno.hu/tudomany/felfaljak-egymast-a-vampircsillagok-1094982?utm_source=feed&amp;utm_medium=rss</link>
+   <author>HF</author>
+   <description><![CDATA[A Tejútrendszerben párban élő masszív csillagok viszonya meglehetősen viharos: a nagyobbik partner akár teljesen elfogyaszthatja társa anyagát.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Fri, 27 Jul 2012 19:43:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nemzetközi győzelmet aratott a magyar pálinka]]></title>
+   <link>http://mno.hu/gazdasag/nemzetkozi-gyozelmet-aratott-a-magyar-palinka-1095002?utm_source=feed&amp;utm_medium=rss</link>
+   <author>HF</author>
+   <description><![CDATA[Aranyérmet szerzett a Gyulai Pálinka Manufaktúra az angol Nemzetközi Bor és Párlat Versenyen. A vállalat emellett négy ezüst- és két bronzérmet szerzett.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Fri, 27 Jul 2012 18:25:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Gondatlanság okozhatta a tüzet]]></title>
+   <link>http://mno.hu/bunugy_baleset/gondatlansag-okozhatta-a-tuzet-1094987?utm_source=feed&amp;utm_medium=rss</link>
+   <author>HF</author>
+   <description><![CDATA[Valószínűleg nem szándékosan okozták a pápai étterem tetőszerkezetét leégető tüzet csütörtökön. A lángok a szomszédból terjedhettek át.]]></description>
+   <category>Bűnügy és baleset</category>
+   <pubDate>Fri, 27 Jul 2012 18:08:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

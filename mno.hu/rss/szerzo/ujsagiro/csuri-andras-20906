@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Csúri András]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/csuri-andras-20906</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Fri, 13 Apr 2018 11:51:52 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[„Belehabarodtam egy srácba, így lettem énekesnő”]]></title>
+   <link>http://mno.hu/grund/belehabarodtam-egy-sracba-igy-lettem-enekesno-1325980?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Csúri András</author>
+   <enclosure url="http://mno.hu/data/cikkek/1325/13259/cikk-1325980/Roisin_Murphy_grid2_fekvo_lead.jpg" length="21404" type="image/jpeg"/>
+   <description><![CDATA[A Moloko egykori énekese, Róisín Murphy nyolc év után új albummal jelentkezett. Interjú.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Sun, 31 Jan 2016 11:33:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ásgeir: egyedi hangzásvilág Izlandról]]></title>
+   <link>http://mno.hu/grund/asgeir-egyedi-hangzasvilag-izlandrol-1284502?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Csúri András</author>
+   <description><![CDATA[Első lemezét egy apró faluban vette fel, idős apja verseit zenésítve meg. Egy csapásra sztár lett.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Sat, 02 May 2015 12:52:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[These New Puritans: Szemben a pénzközpontú zeneiparral]]></title>
+   <link>http://mno.hu/grund/these-new-puritans-szemben-a-penzkozpontu-zeneiparral-1264726?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Csúri András</author>
+   <description><![CDATA[A These New Puritans zenekart a kritikusok évek óta magasztalják, mégis a mai napig szinte ismeretlenek. Interjú.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Wed, 24 Dec 2014 09:23:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Sinéad O’Connor: vágy, szerelem, biztonság]]></title>
+   <link>http://mno.hu/grund/sinead-oconnor-vagy-szerelem-biztonsag-1250077?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Csúri András</author>
+   <description><![CDATA[Bár a világsztár ír énekesnő, Sinéad O'Connor ma már elzárkózik az interjúktól, velünk mégis kivételt tett!]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Sun, 28 Sep 2014 14:35:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Suzanne Vega: Az igazság nélkül elkallódsz]]></title>
+   <link>http://mno.hu/grund/suzanne-vega-az-igazsag-nelkul-elkallodsz-1219654?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Csúri András</author>
+   <description><![CDATA[Suzanne Vega hét év után új stúdióalbummal jelentkezett. A New York-i énekesnő interjút adott az MNO-nak.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Sat, 05 Apr 2014 10:49:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

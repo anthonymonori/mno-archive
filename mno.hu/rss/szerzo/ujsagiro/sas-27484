@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: sas]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/sas-27484</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Fri, 13 Apr 2018 13:51:09 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Felvarrják a Lánchíd ráncait]]></title>
+   <link>http://mno.hu/belfold/felvarrjak-a-lanchid-rancait-2393498?utm_source=feed&amp;utm_medium=rss</link>
+   <author>sas</author>
+   <enclosure url="http://mno.hu/data/cikkek/2393/23934/cikk-2393498/BA20120727_8423.jpg" length="374167" type="image/jpeg"/>
+   <description><![CDATA[Több mint 22 milliárd forintból újítják fel Budapest ikonikus építményét. Elkerülhetetlen a forgalom csillapítása. ]]></description>
+   <category>Belföld</category>
+   <pubDate>Wed, 05 Apr 2017 19:56:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

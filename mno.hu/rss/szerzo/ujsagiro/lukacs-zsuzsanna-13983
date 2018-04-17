@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Lukács Zsuzsanna]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/lukacs-zsuzsanna-13983</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Sat, 14 Apr 2018 18:20:07 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Tokaj és Vilány vállvetve: Sauska borvacsora]]></title>
+   <link>http://mno.hu/etelesital/tokaj-es-villany-vallvetve-sauska-borvacsora-1196395?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lukács Zsuzsanna</author>
+   <description><![CDATA[Harsányi Antal séf és Katona Dániel borász gyönyörű esttel lepte meg a vendégeket.]]></description>
+   <category>Étel és ital</category>
+   <pubDate>Wed, 20 Nov 2013 18:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ami menő, az már nem menő]]></title>
+   <link>http://mno.hu/migr/ami-meno-az-mar-nem-meno-386663?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lukács Zsuzsanna</author>
+   <description><![CDATA[Bret Easton Ellis, a XV. Budapesti Nemzetközi Könyvfesztivál díszvendége nem sok mindenben hisz. A társadalomból kiábrándult, a politikát kerüli, tagadja a művészet küldetését. Az X-generáció íróját Európában elsősorban sokkolóan brutális regénye, az Amerikai psycho miatt ismerik. Interjúnkban annak próbáltunk utánajárni, mi vezeti a művészt, aki mindent kritizál, megkérdőjelez, kifiguráz, aki pusztán sokkolni akar, és ezáltal szórakoztatni. ]]></description>
+   <category>Archívum</category>
+   <pubDate>Mon, 28 Apr 2008 08:25:38 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Történelmi igazságszolgáltatás apró gesztusokkal]]></title>
+   <link>http://mno.hu/migr/tortenelmi-igazsagszolgaltatas-apro-gesztusokkal-865574?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lukács Zsuzsanna</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum</category>
+   <pubDate>Fri, 18 Feb 2000 00:00:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

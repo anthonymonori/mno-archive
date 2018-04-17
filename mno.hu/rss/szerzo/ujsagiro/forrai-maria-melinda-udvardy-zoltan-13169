@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Forrai Mária Melinda, Udvardy Zoltán]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/forrai-maria-melinda-udvardy-zoltan-13169</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Sat, 14 Apr 2018 06:12:28 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Orbán: Csak a Fidesz képes megszervezni és végrehajtani a változást + Videó + Képriport]]></title>
+   <link>http://mno.hu/migr/orban_csak_a_fidesz_kepes_megszervezni_es_vegrehajtani_a_valtozast__video__kepriport-262869?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Forrai Mária Melinda, Udvardy Zoltán, Pálfi Krisztina, Bittner Levente, Bucsy Levente</author>
+   <description><![CDATA[Ideje, hogy Magyarország a saját lábára álljon, saját útját járja, saját tengelye körül forogjon - jelentette ki Orbán Viktor március 15-i ünnepi beszédében. A Fidesz elnöke szerint a magyar nép a kapuk előtt áll, azt üzeni a „helytartótanácsnak, hogy ideje csomagolni”, már csak 27 nap van a választásokig. A kampánynyitó nagygyűlésen közel százezer ember vett részt. <br /><br /><a href="/portal/700979"><strong>• „Könnyű volt Kossuthnak, neki Dembinszkyje volt, nem Demszkyje” + Képriport</strong></a>]]></description>
+   <category>Archívum</category>
+   <pubDate>Mon, 15 Mar 2010 18:01:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Fogyasztóvédelmi Hatóság]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/fogyasztovedelmi-hatosag-21520</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Fri, 13 Apr 2018 01:44:26 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Kötelező jótállás: önnek mától sokkal több joga van. Tudja  már?]]></title>
+   <link>http://mno.hu/fogyasztovedelmi_blog/jotallas-jar-ezentul-akar-a-napszemuvegre-is-1244918?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Fogyasztóvédelmi Hatóság</author>
+   <description><![CDATA[Ismét változnak a kötelező jótállásra vonatkozó szabályok, most a hatálya alá tartozó termékek köre bővül.]]></description>
+   <category>A Fogyasztóvédelmi Hatóság blogja</category>
+   <pubDate>Mon, 15 Sep 2014 08:00:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

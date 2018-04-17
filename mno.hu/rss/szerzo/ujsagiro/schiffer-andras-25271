@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Schiffer András]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/schiffer-andras-25271</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 16:55:56 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Nem omolhatott össze, ami nem létezett]]></title>
+   <link>http://mno.hu/velemeny/nem-omolhatott-ossze-ami-nem-letezett-2419947?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Schiffer András</author>
+   <enclosure url="http://mno.hu/data/cikkek/2419/24199/cikk-2419947/000_APW1999120101958.jpg" length="297614" type="image/jpeg"/>
+   <description><![CDATA[A tét nem kisebb, mint hogy átveszik-e az irányítást az óriásvállalatok az életünk felett.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Wed, 04 Oct 2017 12:40:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Gyurcsány Ferenc egyetlen igazsága]]></title>
+   <link>http://mno.hu/velemeny/gyurcsany-ferenc-egyetlen-igazsaga-2417697?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Schiffer András</author>
+   <enclosure url="http://mno.hu/data/cikkek/2417/24176/cikk-2417697/D_AS20050708134.jpg" length="283290" type="image/jpeg"/>
+   <description><![CDATA[A nemzeti cinizmus rendszerében program sem kell a választói felhatalmazáshoz.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Tue, 19 Sep 2017 11:46:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Túl a XX. századon ]]></title>
+   <link>http://mno.hu/velemeny/tul-a-xx-szazadon-2392765?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Schiffer András</author>
+   <enclosure url="http://mno.hu/data/cikkek/2392/23927/cikk-2392765/K_EPA20150523030.jpg" length="540026" type="image/jpeg"/>
+   <description><![CDATA[Vona Gábor írása alapvetően a múltról szól, nem a XXI. századi Magyarországról.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Sat, 01 Apr 2017 08:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A Fidesz egysége és a nemzet kétsége]]></title>
+   <link>http://mno.hu/velemeny/a-fidesz-egysege-es-a-nemzet-ketsege-1385628?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Schiffer András</author>
+   <enclosure url="http://mno.hu/data/cikkek/1385/13856/cikk-1385628/22.jpg" length="530188" type="image/jpeg"/>
+   <description><![CDATA[Orbán Viktornak az az érdeke, hogy a NER-nek mindig a Bitó-szalon legyen az ellenfele.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Mon, 13 Feb 2017 06:52:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Trójai faló Kanadából]]></title>
+   <link>http://mno.hu/magazinpublicisztika/trojai-falo-kanadabol-1366774?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Schiffer András</author>
+   <enclosure url="http://mno.hu/data/cikkek/1366/13667/cikk-1366774/K_EPA20160917073_896_504_1476700222.jpg" length="99678" type="image/jpeg"/>
+   <description><![CDATA[A szuverenitást hirdető magyar kormányfő az október 2-i érvénytelen népszavazás után a CETA mellé állt.]]></description>
+   <category>Publicisztika a Magazinban</category>
+   <pubDate>Mon, 17 Oct 2016 14:06:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

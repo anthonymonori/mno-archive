@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - rovat: 2 perc próza]]></title>
+  <link>http://mno.hu/2percproza</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Wed, 11 Apr 2018 08:42:52 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Confessio Paschalis]]></title>
+   <link>http://mno.hu/2percproza/confessio-paschalis-2456647?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szörényi László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2456/24566/cikk-2456647/VL20140607_7237.jpg" length="395352" type="image/jpeg"/>
+   <description><![CDATA[Elmélyültem a XII–XVIII. század világában, ha már itt a nagyböjt, és elvileg tavasz is van.]]></description>
+   <category>2 perc próza</category>
+   <pubDate>Fri, 30 Mar 2018 06:54:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Utazás négy évszakban]]></title>
+   <link>http://mno.hu/2percproza/utazas-negy-evszakban-2439988?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Dominka Ede Harald</author>
+   <enclosure url="http://mno.hu/data/cikkek/2439/24399/cikk-2439988/Az_Eiffel_torony_felepulesenek_100._evforduloja_Parizs_Franciaorszag_1989_Elliott_Erwitt_Magnum_Photos.jpg" length="373258" type="image/jpeg"/>
+   <description><![CDATA[A Legfelsőbb Lélekelosztó Hivatal az imént közölte vele, hogy Magyarországon fog testet ölteni.]]></description>
+   <category>2 perc próza</category>
+   <pubDate>Sun, 14 Jan 2018 21:04:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Karácsonyi nagyvizit]]></title>
+   <link>http://mno.hu/2percproza/karacsonyi-nagyvizit-2436082?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szenczi Tóth Károly</author>
+   <enclosure url="http://mno.hu/data/cikkek/2436/24360/cikk-2436082/20161020_NBB7585xx.jpg" length="414471" type="image/jpeg"/>
+   <description><![CDATA[Ügyelet szenteste a belgyógyászaton, és búcsú az idős asszonytól, akit talán orvosai gyászoltak leginkább. ]]></description>
+   <category>2 perc próza</category>
+   <pubDate>Tue, 26 Dec 2017 20:45:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Karácsonykor az is előfordult, hogy mindenki összeveszett mindenkivel]]></title>
+   <link>http://mno.hu/2percproza/karacsonykor-az-is-elofordult-hogy-mindenki-osszeveszett-mindenkivel-2436084?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Weiner Sennyey Tibor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2436/24360/cikk-2436084/szb20161207_0430.jpg" length="318227" type="image/jpeg"/>
+   <description><![CDATA[„A szüleink azonnal kijózanodnak, kiszedik öcsémet a fa alól, akiről nem tudom eldönteni, hogy sír vagy röhög.”]]></description>
+   <category>2 perc próza</category>
+   <pubDate>Tue, 26 Dec 2017 15:54:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Karácsonyi kulcsosház – Részlet a Káli holtak című regényből]]></title>
+   <link>http://mno.hu/2percproza/karacsonyi-kulcsoshaz-reszlet-a-kali-holtak-cimu-regenybol-2436086?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Térey János</author>
+   <enclosure url="http://mno.hu/data/cikkek/2436/24360/cikk-2436086/szb20140529_4004.jpg" length="302892" type="image/jpeg"/>
+   <description><![CDATA[Hogy szerettem karácsonyozni. És már csak átvészelni bírom az egészet. Nincs tehetségem a karácsonyhoz?]]></description>
+   <category>2 perc próza</category>
+   <pubDate>Tue, 26 Dec 2017 10:46:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Idill]]></title>
+   <link>http://mno.hu/2percproza/idill-2416674?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Győrffy Ákos</author>
+   <enclosure url="http://mno.hu/data/cikkek/2416/24166/cikk-2416674/D_TT20120213104.jpg" length="294512" type="image/jpeg"/>
+   <description><![CDATA[Egy pusztulásnak átadott, omladozó ház beszakadt tetővel, körülötte a vaddisznós sűrűség, ez mégsem lehet idilli.]]></description>
+   <category>2 perc próza</category>
+   <pubDate>Sun, 29 Oct 2017 21:42:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Portársunk, Tompa Mihály]]></title>
+   <link>http://mno.hu/2percproza/portarsunk-tompa-mihaly-2420601?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szörényi László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2420/24206/cikk-2420601/Tompa_Mihaly.jpg" length="97850" type="image/jpeg"/>
+   <description><![CDATA[Aranyra emlékezünk, rá alig-alig. Összes versei legutóbb 1994-ben jelent meg.]]></description>
+   <category>2 perc próza</category>
+   <pubDate>Fri, 13 Oct 2017 19:03:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Régi idők Lacija]]></title>
+   <link>http://mno.hu/2percproza/regi-idok-lacija-2415835?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Halász Margit</author>
+   <enclosure url="http://mno.hu/data/cikkek/2415/24158/cikk-2415835/fortepan_88651.jpg" length="356103" type="image/jpeg"/>
+   <description><![CDATA[Amikor divatba jött az óraátállítás, minden fórumnak írt, hogy kikéri magának a nap nevében, hogy csúfot űzzenek belőle.]]></description>
+   <category>2 perc próza</category>
+   <pubDate>Fri, 15 Sep 2017 20:39:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Imagine]]></title>
+   <link>http://mno.hu/2percproza/imagine-2415836?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lackfi János</author>
+   <enclosure url="http://mno.hu/data/cikkek/2415/24158/cikk-2415836/024_0904691.jpg" length="569719" type="image/jpeg"/>
+   <description><![CDATA[Képzeld el, hogy mindenki mocskosul becsületes lenne, a szivarozó, lenyalt hajú maffiózók is.]]></description>
+   <category>2 perc próza</category>
+   <pubDate>Tue, 12 Sep 2017 14:32:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az élet művészete]]></title>
+   <link>http://mno.hu/2percproza/az-elet-muveszete-2415832?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Weiner Sennyey Tibor</author>
+   <description><![CDATA[Amikor ezt olvasod – bárki légy is –, éppen ülök és meditálok. Tíz napig. Vipasszanának hívják, amit csinálok.]]></description>
+   <category>2 perc próza</category>
+   <pubDate>Thu, 07 Sep 2017 18:48:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A csíkfestők]]></title>
+   <link>http://mno.hu/2percproza/a-csikfestok-2413072?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szántó T. Gábor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2413/24130/cikk-2413072/pexels_photo_9817.jpeg" length="246839" type="image/jpeg"/>
+   <description><![CDATA[Átfutott rajtam, hogy netán az én lelkemen szárad majd egy ember élete…]]></description>
+   <category>2 perc próza</category>
+   <pubDate>Sun, 03 Sep 2017 07:49:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Gázló]]></title>
+   <link>http://mno.hu/2percproza/gazlo-2414951?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Győrffy Ákos</author>
+   <enclosure url="http://mno.hu/data/cikkek/2414/24149/cikk-2414951/IMG_2017_08_26_07_22_42.jpg" length="273735" type="image/jpeg"/>
+   <description><![CDATA[Ha körülnézünk az utcákon, észre kell vennünk a magukban motyogó, furcsa tekintetű honfitársaink titkos társaságát.]]></description>
+   <category>2 perc próza</category>
+   <pubDate>Sat, 02 Sep 2017 07:33:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Parasztvakítás]]></title>
+   <link>http://mno.hu/2percproza/parasztvakitas-2413925?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Weiner Sennyey Tibor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2413/24139/cikk-2413925/BD_1095.jpg" length="659350" type="image/jpeg"/>
+   <description><![CDATA[Augusztus huszadikán durrogtatni a főváros felett ostobaság. Amiből már rég ki kellett volna nőnünk.]]></description>
+   <category>2 perc próza</category>
+   <pubDate>Fri, 01 Sep 2017 13:30:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az író mindenhez ért, ismeri az egész világot, és mindenről tud írni]]></title>
+   <link>http://mno.hu/2percproza/gion-nandor-az-iro-mindenhez-ert-ismeri-az-egesz-vilagot-es-mindenrol-tud-irni-2414562?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Gion Nándor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2414/24145/cikk-2414562/C_TO19950120027x.jpg" length="434389" type="image/jpeg"/>
+   <description><![CDATA[Tizenöt éve hunyt el nagy írónk. Gépiratból közöljük korábban publikálatlan írását.]]></description>
+   <category>2 perc próza</category>
+   <pubDate>Mon, 28 Aug 2017 19:25:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kockahasgép]]></title>
+   <link>http://mno.hu/2percproza/kockahasgep-2413071?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szenczi Tóth Károly</author>
+   <enclosure url="http://mno.hu/data/cikkek/2413/24130/cikk-2413071/9346134_l.jpg" length="825002" type="image/jpeg"/>
+   <description><![CDATA[Hogy is venné ki magát, hogy én, akit mint vállalkozót mindenfelé ismernek a városban, biciklin jövök-megyek.]]></description>
+   <category>2 perc próza</category>
+   <pubDate>Sat, 26 Aug 2017 17:18:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Gázló]]></title>
+   <link>http://mno.hu/2percproza/gazlo-2413073?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Győrffy Ákos</author>
+   <enclosure url="http://mno.hu/data/cikkek/2413/24130/cikk-2413073/043_APAPD_20170820_PD5782.jpg" length="596898" type="image/jpeg"/>
+   <description><![CDATA[Thomas Bernhard az alpesi településeken még a hetvenes években is minduntalan felbukkanó nácikról elmélkedett.]]></description>
+   <category>2 perc próza</category>
+   <pubDate>Fri, 25 Aug 2017 17:55:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A sánta kiskacsa]]></title>
+   <link>http://mno.hu/2percproza/a-santa-kiskacsa-2410141?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Fecske Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2410/24101/cikk-2410141/78003224_l.jpg" length="258857" type="image/jpeg"/>
+   <description><![CDATA[Minden délutánunk a kiskacsáké volt. Együtt ment a család a határba csalánt meg más zöldfélét szedni, csorbókát, répalevelet.]]></description>
+   <category>2 perc próza</category>
+   <pubDate>Fri, 04 Aug 2017 07:53:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Tengerentúli szelfi]]></title>
+   <link>http://mno.hu/2percproza/tengerentuli-szelfi-2410142?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lackfi János</author>
+   <enclosure url="http://mno.hu/data/cikkek/2410/24101/cikk-2410142/lackfi_janos_ajanlo.jpg" length="93699" type="image/jpeg"/>
+   <description><![CDATA[Az Egyesült Államok hasonlít egy gigászi cserkésztáborra, ahol mindenki túlzott buzgalommal gyűjti a jó pontokat.]]></description>
+   <category>2 perc próza</category>
+   <pubDate>Wed, 02 Aug 2017 19:11:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Gázló]]></title>
+   <link>http://mno.hu/2percproza/gazlo-2410134?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Győrffy Ákos</author>
+   <enclosure url="http://mno.hu/data/cikkek/2410/24101/cikk-2410134/HM20141007_10072.jpg" length="192025" type="image/jpeg"/>
+   <description><![CDATA[Laci szólt, hogy az egyik narkós gyerek herbálos cigit szív, de szerinte én nem hittem neki, ezért elvette tőle, és elszívta ő.]]></description>
+   <category>2 perc próza</category>
+   <pubDate>Sun, 30 Jul 2017 20:58:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Zsülien]]></title>
+   <link>http://mno.hu/2percproza/zsulien-2406346?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Halász Margit</author>
+   <enclosure url="http://mno.hu/data/cikkek/2406/24063/cikk-2406346/halasz_margit_ajanlo.jpg" length="76633" type="image/jpeg"/>
+   <description><![CDATA[Bárcsak előbb ismertem volna. Bárcsak előbb nézhettem volna szemének metsző zöldjébe. De mindennek rendelt ideje van.]]></description>
+   <category>2 perc próza</category>
+   <pubDate>Wed, 26 Jul 2017 20:37:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Helyszínelés]]></title>
+   <link>http://mno.hu/2percproza/helyszineles-2406349?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szántó T. Gábor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2406/24063/cikk-2406349/BD20170503_0179.jpg" length="683698" type="image/jpeg"/>
+   <description><![CDATA[„Vigyázzon! Ne lépjen a sírokra! Olyan, mintha kiontott vérbe lépne.”]]></description>
+   <category>2 perc próza</category>
+   <pubDate>Tue, 25 Jul 2017 14:58:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Közöny]]></title>
+   <link>http://mno.hu/2percproza/kozony-2407446?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Herczeg Szonja</author>
+   <enclosure url="http://mno.hu/data/cikkek/2407/24074/cikk-2407446/nyolcker.jpg" length="280764" type="image/jpeg"/>
+   <description><![CDATA[Egy piros cipő… bokafogós, amilyet szeretek… azt hiszem, pont ilyet láttam a Deichmannban, húsz százalékkal leértékelve hétezerről…]]></description>
+   <category>2 perc próza</category>
+   <pubDate>Sat, 15 Jul 2017 16:05:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kurulpride]]></title>
+   <link>http://mno.hu/2percproza/kurulpride-2406889?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Weiner Sennyey Tibor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2406/24068/cikk-2406889/DBZOL20160702010.jpg" length="483228" type="image/jpeg"/>
+   <description><![CDATA[Ezek a felvonulások olyanok kissé, mint a falunapok. El kell menni, beszélni kell róluk, de sajnos soha semmit sem oldanak meg.]]></description>
+   <category>2 perc próza</category>
+   <pubDate>Sun, 09 Jul 2017 11:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Büszke és erős]]></title>
+   <link>http://mno.hu/2percproza/buszke-es-eros-2405001?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Weiner Sennyey Tibor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2405/24050/cikk-2405001/BA20150901_5630x.jpg" length="1600979" type="image/jpeg"/>
+   <description><![CDATA[Megálmodom a boldog Magyarországot, s a béke láthatatlan hősei lakják hazámat, akik bíznak egymásban, és barátai egymásnak.]]></description>
+   <category>2 perc próza</category>
+   <pubDate>Tue, 27 Jun 2017 18:31:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Eat gold!]]></title>
+   <link>http://mno.hu/2percproza/eat-gold-2402953?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Koncz Tamás</author>
+   <enclosure url="http://mno.hu/data/cikkek/2402/24029/cikk-2402953/eat_gold_1.jpg" length="29652" type="image/jpeg"/>
+   <description><![CDATA[Persze hogy megcsinálja – ha kell, megeszik egy bőröndnyi közpénzt is –, túl van már ennél jóval meredekebb dolgokon.]]></description>
+   <category>2 perc próza</category>
+   <pubDate>Tue, 13 Jun 2017 18:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Igyekezz, az égbolt zár]]></title>
+   <link>http://mno.hu/2percproza/igyekezz-az-egbolt-zar-2401456?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Weiner Sennyey Tibor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2401/24014/cikk-2401456/NBB_20080106_3359.jpg" length="425140" type="image/jpeg"/>
+   <description><![CDATA[Saját magunkat sem ismerjük, s még mielőtt megismerhetnénk, mindent elpusztítunk mohóságunkkal és butaságunkkal.]]></description>
+   <category>2 perc próza</category>
+   <pubDate>Thu, 01 Jun 2017 15:34:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Gázló]]></title>
+   <link>http://mno.hu/2percproza/gazlo-2401108?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Győrffy Ákos</author>
+   <enclosure url="http://mno.hu/data/cikkek/2401/24011/cikk-2401108/2percproza.jpg" length="68717" type="image/jpeg"/>
+   <description><![CDATA[A teremtésnek nincs elmesélhető története. Ahogy az anyaságnak sincs, ami szintén teremtés.]]></description>
+   <category>2 perc próza</category>
+   <pubDate>Tue, 30 May 2017 18:37:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kortársam, G. A. halálán]]></title>
+   <link>http://mno.hu/2percproza/kortarsam-g-a-halalan-2399753?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szörényi László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2399/23997/cikk-2399753/szorenyi_laszlo_ajanlo.jpg" length="104523" type="image/jpeg"/>
+   <description><![CDATA[Gyásznap volt: harmadmagammal, osztálytársak G. Tóni temetésére utaztunk Győrbe.]]></description>
+   <category>2 perc próza</category>
+   <pubDate>Fri, 19 May 2017 21:30:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Éretlenségi]]></title>
+   <link>http://mno.hu/2percproza/eretlensegi-2398956?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Weiner Sennyey Tibor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2398/23989/cikk-2398956/HM20150430_112.jpg" length="515343" type="image/jpeg"/>
+   <description><![CDATA[Az érettségi a beavatást helyettesítené, ami már nincs. Ma már mindenkinek saját magát kell beavatnia.]]></description>
+   <category>2 perc próza</category>
+   <pubDate>Tue, 16 May 2017 17:43:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Experimentális kertészkedés]]></title>
+   <link>http://mno.hu/2percproza/experimentalis-kerteszkedes-2398211?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Weiner Sennyey Tibor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2398/23982/cikk-2398211/szb20160420_6811.jpg" length="543826" type="image/jpeg"/>
+   <description><![CDATA[Amikor korán ültetek, akkor nemcsak a jó időben bízom, a növények erejében, hanem az égben és magamban is.]]></description>
+   <category>2 perc próza</category>
+   <pubDate>Thu, 11 May 2017 16:17:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

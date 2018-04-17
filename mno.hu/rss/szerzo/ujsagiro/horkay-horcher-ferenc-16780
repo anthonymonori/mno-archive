@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Horkay Hörcher Ferenc]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/horkay-horcher-ferenc-16780</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Fri, 13 Apr 2018 00:18:57 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Van-e ma keresztény politika Magyarországon?]]></title>
+   <link>http://mno.hu/hetvegimagazin/keresztenyseg-es-politika-1345417?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Horkay Hörcher Ferenc</author>
+   <enclosure url="http://mno.hu/data/cikkek/1345/13454/cikk-1345417/keresztenyborito_grid2_fekvo_lead.jpg" length="65764" type="image/jpeg"/>
+   <description><![CDATA[Létezik-e ma Európában és Magyarországon „keresztény politika”? Horkay Hörcher Ferenc írása.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Sat, 04 Jun 2016 16:10:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A képzelet vámszedői]]></title>
+   <link>http://mno.hu/migr_1834/a-kepzelet-vamszedoi-849922?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Horkay Hörcher Ferenc</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Sat, 02 Dec 2000 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az értelmiség tévedése]]></title>
+   <link>http://mno.hu/migr_1834/az-ertelmiseg-tevedese-853346?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Horkay Hörcher Ferenc</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Sat, 29 Jul 2000 00:00:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

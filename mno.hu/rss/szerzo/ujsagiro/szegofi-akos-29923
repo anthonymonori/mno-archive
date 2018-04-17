@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Szegőfi Ákos]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/szegofi-akos-29923</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 08:33:42 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Jönnek Dél-Amerika Trumpjai?]]></title>
+   <link>http://mno.hu/kulfold/jonnek-del-amerika-trumpjai-2455592?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szegőfi Ákos</author>
+   <enclosure url="http://mno.hu/data/cikkek/2455/24555/cikk-2455592/075_tischler_mexicose180320_np3Bm.jpg" length="380206" type="image/jpeg"/>
+   <description><![CDATA[A következő hónapokban a kontinens négy országa is választás elé néz. A populistáknak áll a zászló.]]></description>
+   <category>Külföld</category>
+   <pubDate>Fri, 23 Mar 2018 18:04:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Háborús állapotok a brazil nyomornegyedekben]]></title>
+   <link>http://mno.hu/kulfold/haborus-allapotok-a-brazil-nyomornegyedekben-2454591?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szegőfi Ákos</author>
+   <enclosure url="http://mno.hu/data/cikkek/2454/24545/cikk-2454591/MNO_000_111034.jpg" length="764131" type="image/jpeg"/>
+   <description><![CDATA[A katonaság próbálja megfékezni az erőszakot a favelákban, de a kritikusok szerint a megszállás nem megoldás.]]></description>
+   <category>Külföld</category>
+   <pubDate>Tue, 20 Mar 2018 16:54:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Sorban állnak a bűnszervezetek a FARC megüresedett helyére]]></title>
+   <link>http://mno.hu/kulfold/sorban-allnak-a-bunszervezetek-a-farc-meguresedett-helyere-2452322?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szegőfi Ákos</author>
+   <enclosure url="http://mno.hu/data/cikkek/2452/24523/cikk-2452322/000_11P828.jpg" length="511241" type="image/jpeg"/>
+   <description><![CDATA[Hiába a Nobel-békedíj, nem halad a gerillák társadalomba való visszafogadása, és a drogkereskedelmért is megindult a harc.]]></description>
+   <category>Külföld</category>
+   <pubDate>Fri, 09 Mar 2018 16:18:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Megnyerhetetlen vérfürdő lett a mexikói drogháború]]></title>
+   <link>http://mno.hu/kulfold/megnyerhetetlen-verfurdo-lett-a-mexikoi-droghaboru-2449747?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szegőfi Ákos</author>
+   <enclosure url="http://mno.hu/data/cikkek/2449/24497/cikk-2449747/MNO_000_ZX496.jpg" length="620107" type="image/jpeg"/>
+   <description><![CDATA[Hiába csukják le az egyik kartell vezetőjét, ha helyét másik kettő veszi át. Óriási üzlet a drogcsempészet.]]></description>
+   <category>Külföld</category>
+   <pubDate>Tue, 27 Feb 2018 20:31:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

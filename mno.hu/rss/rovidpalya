@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - rovat: Rövidpálya]]></title>
+  <link>http://mno.hu/rovidpalya</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Wed, 11 Apr 2018 12:48:48 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Szívszorítóan olvad a jegesmedve az olimpiai parkban, de ez álcának tűnik]]></title>
+   <link>http://mno.hu/rovidpalya/szivszoritoan-olvad-a-jegesmedve-az-olimpiai-parkban-de-ez-alcanak-tunik-2449089?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Radványi Benedek</author>
+   <enclosure url="http://mno.hu/data/cikkek/2449/24490/cikk-2449089/jegesmedve.jpg" length="375077" type="image/jpeg"/>
+   <description><![CDATA[A környezetvédelem fontosságára hívják fel vele a figyelmet, de az olimpia egyáltalán nem zöld.]]></description>
+   <category>Rövidpálya</category>
+   <pubDate>Thu, 22 Feb 2018 18:33:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az utolsó magyar éremesély – de mekkora!]]></title>
+   <link>http://mno.hu/rovidpalya/az-utolso-esely-de-mekkora-2449059?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Radványi Benedek</author>
+   <enclosure url="http://mno.hu/data/cikkek/2449/24490/cikk-2449059/005.jpg" length="204562" type="image/jpeg"/>
+   <description><![CDATA[Rövid pályás gyorskorcsolyázóink elvileg hét darab olimpiai érmet is gyűjthetnek ma, de legyen csak egy…]]></description>
+   <category>Rövidpálya</category>
+   <pubDate>Thu, 22 Feb 2018 05:50:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ilyen az, amikor a tök utolsót ünneplik a legjobban]]></title>
+   <link>http://mno.hu/rovidpalya/ilyen-az-amikor-a-tokutolsot-unneplik-a-legjobban-2448939?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Radványi Benedek</author>
+   <enclosure url="http://mno.hu/data/cikkek/2448/24489/cikk-2448939/K_EPA20180221405.jpg" length="349032" type="image/jpeg"/>
+   <description><![CDATA[A „sörös” jamaicai bobcsapat ismét történelmet írt, de a nigériai lányok vitték a prímet. Helyszíni benyomások.]]></description>
+   <category>Rövidpálya</category>
+   <pubDate>Wed, 21 Feb 2018 20:35:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Tényleg irgalmatlan hideg van a téli olimpián?]]></title>
+   <link>http://mno.hu/rovidpalya/tenyleg-irgalmatlan-hideg-van-a-teli-olimpian-2448552?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Radványi Benedek</author>
+   <enclosure url="http://mno.hu/data/cikkek/2448/24485/cikk-2448552/DSC_0142.JPG" length="224934" type="image/jpeg"/>
+   <description><![CDATA[Minden csak néző-, illetve mérőpont kérdése.]]></description>
+   <category>Rövidpálya</category>
+   <pubDate>Wed, 21 Feb 2018 10:56:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A vasút, amelyen nincsen jegyellenőrzés]]></title>
+   <link>http://mno.hu/rovidpalya/a-vasut-amelyen-nincsen-jegyellenorzes-2448247?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Radványi Benedek</author>
+   <enclosure url="http://mno.hu/data/cikkek/2448/24482/cikk-2448247/ktx.jpg" length="356061" type="image/jpeg"/>
+   <description><![CDATA[A koreai vonatokon új értelmet nyer a kaller szerepkör, alapból úgy tekintenek az utasokra, hogy nem bliccelnek.]]></description>
+   <category>Rövidpálya</category>
+   <pubDate>Mon, 19 Feb 2018 07:55:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Őrjöngő norvégok és oroszok között a sífutóváltó döntőjén]]></title>
+   <link>http://mno.hu/rovidpalya/orjongo-norvegok-es-oroszok-kozott-a-sifutovalto-dontojen-2448084?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Radványi Benedek</author>
+   <enclosure url="http://mno.hu/data/cikkek/2448/24480/cikk-2448084/DSC_0123.JPG" length="303754" type="image/jpeg"/>
+   <description><![CDATA[Davaj!, davaj! és kolompolás, majd északi örömmámor a tízszer négy kilométer alatt Phjongcshangban.]]></description>
+   <category>Rövidpálya</category>
+   <pubDate>Sun, 18 Feb 2018 11:15:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Mik ezek a szomorú arcok?]]></title>
+   <link>http://mno.hu/rovidpalya/mik-ezek-a-szomoru-arcok-2448000?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Radványi Benedek</author>
+   <enclosure url="http://mno.hu/data/cikkek/2448/24480/cikk-2448000/1_38.jpg" length="234676" type="image/jpeg"/>
+   <description><![CDATA[Liu Shaolin Sándor tudott viccelődni a kizárása után, Jászapáti Petra pedig csaknem elhányta magát, aztán pontszerző lett.]]></description>
+   <category>Rövidpálya</category>
+   <pubDate>Sat, 17 Feb 2018 16:30:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ők a magyar csapat „titkos szurkolói” az olimpián]]></title>
+   <link>http://mno.hu/rovidpalya/ok-a-magyar-csapat-titkos-szurkoloi-az-olimpian-2447952?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Radványi Benedek</author>
+   <enclosure url="http://mno.hu/data/cikkek/2447/24479/cikk-2447952/DSC_0094_2.jpg" length="306057" type="image/jpeg"/>
+   <description><![CDATA[Piros-fehér-zöld Magyarország-térkép egy koreai baseballsapkán.]]></description>
+   <category>Rövidpálya</category>
+   <pubDate>Sat, 17 Feb 2018 09:05:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Pár perce voltam csak Koreában, s máris elszédültem Phjongcshang lejtőin]]></title>
+   <link>http://mno.hu/rovidpalya/par-perce-voltam-csak-koreaban-s-maris-elszedultem-phjongcshang-lejtoin-2447689?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Radványi Benedek</author>
+   <enclosure url="http://mno.hu/data/cikkek/2447/24476/cikk-2447689/DSC_0085.JPG" length="223287" type="image/jpeg"/>
+   <description><![CDATA[Megérkezett a téli olimpiára a Magyar Nemzet tudósítója. ]]></description>
+   <category>Rövidpálya</category>
+   <pubDate>Fri, 16 Feb 2018 10:20:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nyárról ismerős bizsergés a téli olimpián]]></title>
+   <link>http://mno.hu/rovidpalya/nyarrol-ismeros-bizserges-a-teli-olimpian-2447212?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Radványi Benedek</author>
+   <enclosure url="http://mno.hu/data/cikkek/2447/24472/cikk-2447212/003.jpg" length="206171" type="image/jpeg"/>
+   <description><![CDATA[Kedden egycsapásra megváltozott valami. Éremközelben a férfi rövid pályás gyorskorcsolyaváltó.]]></description>
+   <category>Rövidpálya</category>
+   <pubDate>Wed, 14 Feb 2018 12:35:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Orosz sportoló falán lehet, kezében nem, mi az?]]></title>
+   <link>http://mno.hu/rovidpalya/orosz-sportolo-falan-lehet-kezeben-nem-mi-az-2446654?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Radványi Benedek</author>
+   <enclosure url="http://mno.hu/data/cikkek/2446/24466/cikk-2446654/K_EPA20180209119.jpg" length="272094" type="image/jpeg"/>
+   <description><![CDATA[Fehér-kék-piros. Már-már nevetséges apróságokkal korlátozzák az oroszokat. Azazhogy az OAR-okat.]]></description>
+   <category>Rövidpálya</category>
+   <pubDate>Mon, 12 Feb 2018 13:52:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Máris megvan a téli olimpia első szuperhőse]]></title>
+   <link>http://mno.hu/rovidpalya/maris-megvan-a-teli-olimpia-elso-szuperhose-2446440?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Bucsy Levente</author>
+   <enclosure url="http://mno.hu/data/cikkek/2446/24464/cikk-2446440/kruger.png" length="804671" type="image/png"/>
+   <description><![CDATA[A rajt után esett a norvég Krüger síatlonista, majd az 57. helyről megkezdte a felzárkózást...]]></description>
+   <category>Rövidpálya</category>
+   <pubDate>Sun, 11 Feb 2018 13:10:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hangári – rettenetesen hátrasoroltak minket a koreaiak]]></title>
+   <link>http://mno.hu/rovidpalya/hangari-rettenetesen-hatrasoroltak-minket-a-koreaiak-2446100?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Radványi Benedek</author>
+   <enclosure url="http://mno.hu/data/cikkek/2446/24461/cikk-2446100/000_Z00UG.jpg" length="201949" type="image/jpeg"/>
+   <description><![CDATA[91-ből a 89. nemzetként vonul be a magyar csapat a téli olimpia megnyitóján. De miért?]]></description>
+   <category>Rövidpálya</category>
+   <pubDate>Fri, 09 Feb 2018 10:45:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

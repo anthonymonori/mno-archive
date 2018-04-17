@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - rovat: Publicisztika a Magazinban]]></title>
+  <link>http://mno.hu/magazinpublicisztika</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Wed, 11 Apr 2018 08:31:50 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Na és aztán, hát aztán]]></title>
+   <link>http://mno.hu/hegyibeszed/na-es-aztan-hat-aztan-2457213?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hegyi Zoltán</author>
+   <enclosure url="http://mno.hu/data/cikkek/2457/24572/cikk-2457213/fortepan_135587.jpg" length="485837" type="image/jpeg"/>
+   <description><![CDATA[A foci, különösen a magyar mégiscsak bonyolultabb dolog, mint amilyennek látszik.]]></description>
+   <category>Hegyibeszéd</category>
+   <pubDate>Sun, 01 Apr 2018 20:21:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kartotékadat]]></title>
+   <link>http://mno.hu/magazinpublicisztika/kartotekadat-2456915?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Csécsi László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2456/24569/cikk-2456915/000_13B9S9.jpg" length="224495" type="image/jpeg"/>
+   <description><![CDATA[Új társadalmi szerződés van alakulóban, amelyben a kényelmünk érdekében lemondunk privát szféránk egy részéről.]]></description>
+   <category>Publicisztika a Magazinban</category>
+   <pubDate>Sat, 31 Mar 2018 20:31:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szervezetek és rítusok]]></title>
+   <link>http://mno.hu/hegyibeszed/szervezetek-es-ritusok-2456649?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hegyi Zoltán</author>
+   <enclosure url="http://mno.hu/data/cikkek/2456/24566/cikk-2456649/img013.jpg" length="188008" type="image/jpeg"/>
+   <description><![CDATA[A szellemi elszegényedés és az agyhalál ott kezdődik, amikor eltűnik a törzshely, a folyóirat, a szakmai és bárminemű szolidaritás.]]></description>
+   <category>Hegyibeszéd</category>
+   <pubDate>Sat, 31 Mar 2018 07:02:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A nigériai herceg Csengeren]]></title>
+   <link>http://mno.hu/magazinpublicisztika/a-nigeriai-herceg-csengeren-2454621?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pintér Bence</author>
+   <enclosure url="http://mno.hu/data/cikkek/2454/24546/cikk-2454621/DEBRE20180220058.jpg" length="372022" type="image/jpeg"/>
+   <description><![CDATA[Bármennyire is szerette volna Kósa szerencsétlen baleknak eladni magát, nehéz elhinni, hogy ennyire megvezethető lenne.]]></description>
+   <category>Publicisztika a Magazinban</category>
+   <pubDate>Mon, 19 Mar 2018 21:10:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kiakasztva]]></title>
+   <link>http://mno.hu/hegyibeszed/kiakasztva-2454611?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hegyi Zoltán</author>
+   <enclosure url="http://mno.hu/data/cikkek/2454/24546/cikk-2454611/img012.jpg" length="294901" type="image/jpeg"/>
+   <description><![CDATA[Semjén Zsolt éppen most tart kifelé a kereszténységből, a demokráciából, de még a civilizációból és a vadászetikából is.]]></description>
+   <category>Hegyibeszéd</category>
+   <pubDate>Mon, 19 Mar 2018 20:38:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szívek és elmúlások]]></title>
+   <link>http://mno.hu/hegyibeszed/szivek-es-elmulasok-2453592?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hegyi Zoltán</author>
+   <enclosure url="http://mno.hu/data/cikkek/2453/24535/cikk-2453592/bojcsuk0310.jpg" length="174142" type="image/jpeg"/>
+   <description><![CDATA[A Barcelonát szeretem bámulni, tátott szájjal, mint Woody Allen Humphrey Bogartot.]]></description>
+   <category>Hegyibeszéd</category>
+   <pubDate>Wed, 14 Mar 2018 15:51:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Zolik (a gólya, a robot és az író)]]></title>
+   <link>http://mno.hu/hegyibeszed/zolik-a-golya-a-robot-es-az-iro-2452710?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hegyi Zoltán</author>
+   <enclosure url="http://mno.hu/data/cikkek/2452/24527/cikk-2452710/bojcsuk0303.jpg" length="319291" type="image/jpeg"/>
+   <description><![CDATA[Ha a Zoli gólya ezt látná, ami éppen most van, pánikszerűen húzna vissza a migrénesek közé.]]></description>
+   <category>Hegyibeszéd</category>
+   <pubDate>Tue, 13 Mar 2018 16:15:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kővé vált imák]]></title>
+   <link>http://mno.hu/magazinpublicisztika/kove-valt-imak-2450973?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vass Norbert</author>
+   <enclosure url="http://mno.hu/data/cikkek/2450/24509/cikk-2450973/DSC_1965x.jpg" length="746255" type="image/jpeg"/>
+   <description><![CDATA[Ahelyett, hogy úgy éreznénk, keretek közé szorít, lehetőségként kellene a böjtre gondolnunk.]]></description>
+   <category>Publicisztika a Magazinban</category>
+   <pubDate>Sun, 11 Mar 2018 21:41:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Összetartozunk]]></title>
+   <link>http://mno.hu/hegyibeszed/osszetartozunk-2452708?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hegyi Zoltán</author>
+   <enclosure url="http://mno.hu/data/cikkek/2452/24527/cikk-2452708/bojcsuk0224.jpg" length="263588" type="image/jpeg"/>
+   <description><![CDATA[A szerencse fia, az vagyok én. Oly korban élek, hogy láthattam az előző Magyarországot, a közbülsőt és ezt a mostanit.]]></description>
+   <category>Hegyibeszéd</category>
+   <pubDate>Sun, 11 Mar 2018 06:40:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Tyúk és gomba]]></title>
+   <link>http://mno.hu/hegyibeszed/tyuk-es-gomba-2452705?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hegyi Zoltán</author>
+   <enclosure url="http://mno.hu/data/cikkek/2452/24527/cikk-2452705/bojcsuk0217.jpg" length="274704" type="image/jpeg"/>
+   <description><![CDATA[A buta tyúk így, ebben a formában nem helyes. ]]></description>
+   <category>Hegyibeszéd</category>
+   <pubDate>Sat, 10 Mar 2018 06:30:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ez veszélyes]]></title>
+   <link>http://mno.hu/magazinpublicisztika/ez-veszelyes-2448049?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pintér Bence</author>
+   <enclosure url="http://mno.hu/data/cikkek/2448/24480/cikk-2448049/BD20160530_8477_11.JPG" length="365357" type="image/jpeg"/>
+   <description><![CDATA[Teljesen kilátástalan közmunka- és szakképzési rendszert látunk, illetve iparpolitikát, amely példátlanul kiszolgáltatja az ország gazdaságát.]]></description>
+   <category>Publicisztika a Magazinban</category>
+   <pubDate>Fri, 23 Feb 2018 19:05:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nimfák a raktárban]]></title>
+   <link>http://mno.hu/hegyibeszed/nimfak-a-raktarban-2448048?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hegyi Zoltán</author>
+   <enclosure url="http://mno.hu/data/cikkek/2448/24480/cikk-2448048/bojcsuk0210.jpg" length="316251" type="image/jpeg"/>
+   <description><![CDATA[Vajon a falról lekerült műalkotás a ruhátlan kamasz lányokkal olyan viktoriánus kori erotikus fantázia, amely sérti a modern közönséget?]]></description>
+   <category>Hegyibeszéd</category>
+   <pubDate>Mon, 19 Feb 2018 06:54:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Bálint, a Valentin]]></title>
+   <link>http://mno.hu/magazinpublicisztika/balint-a-valentin-2448051?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lukács Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2448/24480/cikk-2448051/000_ZS9LL.jpg" length="216860" type="image/jpeg"/>
+   <description><![CDATA[Milyen egy menő lánykérés ma széles e hazában?]]></description>
+   <category>Publicisztika a Magazinban</category>
+   <pubDate>Sun, 18 Feb 2018 18:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Köbök]]></title>
+   <link>http://mno.hu/hegyibeszed/kobok-2444842?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hegyi Zoltán</author>
+   <enclosure url="http://mno.hu/data/cikkek/2444/24448/cikk-2444842/bojcsuk0127.jpg" length="394564" type="image/jpeg"/>
+   <description><![CDATA[A sorozatos átverések, hazugságok magyar világában az egyik legordenárébb, hogy a fatüzelés a legolcsóbb.]]></description>
+   <category>Hegyibeszéd</category>
+   <pubDate>Sun, 18 Feb 2018 06:46:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Dél csillagai]]></title>
+   <link>http://mno.hu/hegyibeszed/del-csillagai-2444841?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hegyi Zoltán</author>
+   <enclosure url="http://mno.hu/data/cikkek/2444/24448/cikk-2444841/bojcsuk0120.jpg" length="411670" type="image/jpeg"/>
+   <description><![CDATA[Ezek a délmagyarok Csáth Géza után jóval sem nyughadtak. Szimpozionisták, avantgárdok, a mindenkori hatalom és közízlés sorozatban kapta tőlük a frászt. ]]></description>
+   <category>Hegyibeszéd</category>
+   <pubDate>Sun, 11 Feb 2018 13:59:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Találkozások]]></title>
+   <link>http://mno.hu/hegyibeszed/talalkozasok-2444829?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hegyi Zoltán</author>
+   <enclosure url="http://mno.hu/data/cikkek/2444/24448/cikk-2444829/img005.jpg" length="252062" type="image/jpeg"/>
+   <description><![CDATA[A rózsa neve lett az első olyan film, amely a korszak „valódi” naturális arcát is bemutatta.]]></description>
+   <category>Hegyibeszéd</category>
+   <pubDate>Sat, 03 Feb 2018 19:53:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Székelyek félárbócon]]></title>
+   <link>http://mno.hu/magazinpublicisztika/szekelyek-felarbocon-2441687?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lukács Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2441/24416/cikk-2441687/K_EPA20170629194.jpg" length="291838" type="image/jpeg"/>
+   <description><![CDATA[A kormányfő lemondása után futótűzként terjedt a közösségi oldalakon: Tudose lemondott, mire a Székelyföldön félárbócra engedték a székelyeket.]]></description>
+   <category>Publicisztika a Magazinban</category>
+   <pubDate>Sun, 21 Jan 2018 18:45:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az összeomlás centenáriuma]]></title>
+   <link>http://mno.hu/magazinpublicisztika/az-osszeomlas-centenariuma-2441574?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szerető Szabolcs</author>
+   <enclosure url="http://mno.hu/data/cikkek/2441/24415/cikk-2441574/FMAFI19473139001.jpg" length="300489" type="image/jpeg"/>
+   <description><![CDATA[Száz éve kerültünk az első világháború vesztesei közé, hullottak szét államiságunk addigi keretei.]]></description>
+   <category>Publicisztika a Magazinban</category>
+   <pubDate>Sat, 20 Jan 2018 18:52:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ismerősök és úgynevezettek]]></title>
+   <link>http://mno.hu/hegyibeszed/ismerosok-es-ugynevezettek-2441576?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hegyi Zoltán</author>
+   <enclosure url="http://mno.hu/data/cikkek/2441/24415/cikk-2441576/bojcsuk_20180113.jpg" length="266857" type="image/jpeg"/>
+   <description><![CDATA[Még a saját kortárs művészetünket, művészeinket, kultúránkat sem ismerjük, nemhogy a szomszédainkét.]]></description>
+   <category>Hegyibeszéd</category>
+   <pubDate>Sat, 20 Jan 2018 15:58:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Uram, irgalmazz!]]></title>
+   <link>http://mno.hu/magazinpublicisztika/uram-irgalmazz-2439343?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Wekerle Szabolcs</author>
+   <enclosure url="http://mno.hu/data/cikkek/2439/24393/cikk-2439343/PB20041105_018.jpg" length="325186" type="image/jpeg"/>
+   <description><![CDATA[Év végén a svédek dobtak egy akkorát, hogy a politikai korrektség feltalálója – akárki volt is – alighanem belesárgult az irigységbe.]]></description>
+   <category>Publicisztika a Magazinban</category>
+   <pubDate>Thu, 11 Jan 2018 11:10:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Rohanunk a nyárba]]></title>
+   <link>http://mno.hu/hegyibeszed/rohanunk-a-nyarba-2437042?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hegyi Zoltán</author>
+   <enclosure url="http://mno.hu/data/cikkek/2437/24370/cikk-2437042/img152.jpg" length="387191" type="image/jpeg"/>
+   <description><![CDATA[Mindjárt vége. Mármint ennek az évnek is. Sorra esnek el a mohikánok, és egyik sem volt éppen utolsó.]]></description>
+   <category>Hegyibeszéd</category>
+   <pubDate>Sun, 31 Dec 2017 06:40:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[„Ott álltam fél lábon a János-kórház traumatológiáján, kissé tanácstalanul”]]></title>
+   <link>http://mno.hu/magazinpublicisztika/ott-alltam-fel-labon-a-janos-korhaz-traumatologiajan-kisse-tanacstalanul-2436744?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hajdú Gábor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2436/24367/cikk-2436744/korhau_egeszsegugy.jpg" length="70443" type="image/jpeg"/>
+   <description><![CDATA[Emberéleteket veszélyeztető egészségügy: kórházi kalandok a ma Magyarországán.]]></description>
+   <category>Publicisztika a Magazinban</category>
+   <pubDate>Sat, 30 Dec 2017 20:30:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Huszonnyolc év]]></title>
+   <link>http://mno.hu/magazinpublicisztika/huszonnyolc-ev-2437022?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lukács Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2437/24370/cikk-2437022/000_APP1999120757185.jpg" length="399798" type="image/jpeg"/>
+   <description><![CDATA[Majdnem három évtizedre volt szüksége ahhoz a román társadalomnak, hogy hivatalosan is kimondassék: államcsíny volt 1989 végén.]]></description>
+   <category>Publicisztika a Magazinban</category>
+   <pubDate>Sat, 30 Dec 2017 19:30:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Családi tűzfészkek]]></title>
+   <link>http://mno.hu/hegyibeszed/csaladi-tuzfeszkek-2435965?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hegyi Zoltán</author>
+   <enclosure url="http://mno.hu/data/cikkek/2435/24359/cikk-2435965/EP8_219393_R.jpg" length="315943" type="image/jpeg"/>
+   <description><![CDATA[Ha karácsony, akkor Star Wars, így volt ez már tavaly is, és így alakult idén is.]]></description>
+   <category>Hegyibeszéd</category>
+   <pubDate>Mon, 25 Dec 2017 16:46:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Magyarok karácsonya]]></title>
+   <link>http://mno.hu/magazinpublicisztika/magyarok-karacsonya-2435971?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szerető Szabolcs</author>
+   <enclosure url="http://mno.hu/data/cikkek/2435/24359/cikk-2435971/20171216_NBB6137.JPG" length="290289" type="image/jpeg"/>
+   <description><![CDATA[A konszenzus, a lelki egység mintha veszni látszana. Ismét szemben áll magyar a magyarral.]]></description>
+   <category>Publicisztika a Magazinban</category>
+   <pubDate>Mon, 25 Dec 2017 16:25:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Meghatározott verebek]]></title>
+   <link>http://mno.hu/hegyibeszed/meghatarozott-verebek-2433841?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hegyi Zoltán</author>
+   <enclosure url="http://mno.hu/data/cikkek/2433/24338/cikk-2433841/img149cv.jpg" length="1293102" type="image/jpeg"/>
+   <description><![CDATA[Kinézek a konyhaablakon, és nehéz elképzelnem, hogy az univerzumban nincs semmiféle rendszer.]]></description>
+   <category>Hegyibeszéd</category>
+   <pubDate>Fri, 15 Dec 2017 15:19:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Trump a tűzzel játszik]]></title>
+   <link>http://mno.hu/magazinpublicisztika/trump-a-tuzzel-jatszik-2432825?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Stier Gábor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2432/24328/cikk-2432825/K_AP20171208063.jpg" length="173149" type="image/jpeg"/>
+   <description><![CDATA[Borítékolható volt, hogy nő a feszültség a Közel-Keleten, miután az amerikai elnök elismerte Jeruzsálemet Izrael fővárosának.]]></description>
+   <category>Publicisztika a Magazinban</category>
+   <pubDate>Sat, 09 Dec 2017 13:38:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Iszkolás előre]]></title>
+   <link>http://mno.hu/hegyibeszed/iszkolas-elore-2432170?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hegyi Zoltán</author>
+   <enclosure url="http://mno.hu/data/cikkek/2432/24321/cikk-2432170/img148.jpg" length="306660" type="image/jpeg"/>
+   <description><![CDATA[Valószínűleg én vagyok az utolsó újságba író, aki kézzel írt az újságba, a lehetséges legvégső határáig. Na jó, még az Ugró. ]]></description>
+   <category>Hegyibeszéd</category>
+   <pubDate>Wed, 06 Dec 2017 13:57:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Huszadik századok]]></title>
+   <link>http://mno.hu/hegyibeszed/huszadik-szazadok-2430776?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hegyi Zoltán</author>
+   <enclosure url="http://mno.hu/data/cikkek/2430/24307/cikk-2430776/img147.jpg" length="242592" type="image/jpeg"/>
+   <description><![CDATA[Az Aurora Borealis – Északi fény című film káprázatos. Katartikus. A mozi aranykorát idézi. Mélyen megrendítő.]]></description>
+   <category>Hegyibeszéd</category>
+   <pubDate>Sun, 03 Dec 2017 06:22:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Gyűlöletkarmesterek]]></title>
+   <link>http://mno.hu/magazinpublicisztika/gyuloletkarmesterek-2431424?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Gazda Albert</author>
+   <enclosure url="http://mno.hu/data/cikkek/2431/24314/cikk-2431424/szb20140125_0499.jpg" length="241605" type="image/jpeg"/>
+   <description><![CDATA[Semmi jobb nem történhetne, mint hogy bebizonyosodik, gyűlölettel és háborúval csupán ideig-óráig lehet legfölül maradni.]]></description>
+   <category>Publicisztika a Magazinban</category>
+   <pubDate>Sun, 03 Dec 2017 00:01:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

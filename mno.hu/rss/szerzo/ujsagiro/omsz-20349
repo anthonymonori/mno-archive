@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: OMSZ]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/omsz-20349</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 05:10:27 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Vasárnap akár 17 fok is lehet]]></title>
+   <link>http://mno.hu/belfold/vasarnap-akar-17-fok-is-lehet-1330749?utm_source=feed&amp;utm_medium=rss</link>
+   <author>OMSZ</author>
+   <enclosure url="http://mno.hu/data/cikkek/1330/13307/cikk-1330749/debrecen_nagyerdo_telen_napsutes_mti_uj_fekvo_lead.jpg" length="289789" type="image/jpeg"/>
+   <description><![CDATA[Szombaton pedig az ország nagy részén napsütéses idő várható.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sat, 27 Feb 2016 09:59:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Havas eső és szél érkezhet csütörtökön]]></title>
+   <link>http://mno.hu/belfold/havas-eso-es-szel-erkezhet-csutortokon-1330341?utm_source=feed&amp;utm_medium=rss</link>
+   <author>OMSZ</author>
+   <description><![CDATA[Késő estére 1 és 6 fok közé hűl le a levegő.]]></description>
+   <category>Belföld</category>
+   <pubDate>Thu, 25 Feb 2016 08:25:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Havazás miatt adtak ki figyelmeztetést]]></title>
+   <link>http://mno.hu/belfold/havazas-miatt-adtak-ki-figyelmeztetest-1323839?utm_source=feed&amp;utm_medium=rss</link>
+   <author>OMSZ</author>
+   <description><![CDATA[Az éjszaka folyamán sűrű köd is képződhet.]]></description>
+   <category>Belföld</category>
+   <pubDate>Fri, 15 Jan 2016 14:05:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szeles, de enyhe időt hoz a csütörtök]]></title>
+   <link>http://mno.hu/idojaras_hirek/szeles-de-enyhe-idot-hoz-a-csutortok-1323572?utm_source=feed&amp;utm_medium=rss</link>
+   <author>OMSZ</author>
+   <enclosure url="http://mno.hu/data/cikkek/1323/13235/cikk-1323572/tel_napos.jpg" length="181320" type="image/jpeg"/>
+   <description><![CDATA[Napközben akár 9 fok is lehet.]]></description>
+   <category>Időjárás hírek</category>
+   <pubDate>Thu, 14 Jan 2016 08:13:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Egyre több lesz a felhő]]></title>
+   <link>http://mno.hu/idojaras_hirek/egyre-tobb-lesz-a-felho-1323363?utm_source=feed&amp;utm_medium=rss</link>
+   <author>OMSZ</author>
+   <enclosure url="http://mno.hu/data/cikkek/1323/13233/cikk-1323363/DMOHA20160111026.jpg" length="117304" type="image/jpeg"/>
+   <description><![CDATA[Délután maximum 8, este 4 fok lehet.]]></description>
+   <category>Időjárás hírek</category>
+   <pubDate>Wed, 13 Jan 2016 08:53:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Lassacskán felszakadozik a felhőzet]]></title>
+   <link>http://mno.hu/idojaras_hirek/lassacskan-felszakadozik-a-felhozet-1323189?utm_source=feed&amp;utm_medium=rss</link>
+   <author>OMSZ</author>
+   <description><![CDATA[A legmagasabb nappali hőmérséklet 6 és 11 fok között valószínű – írja keddi előrejelzésében az OMSZ.]]></description>
+   <category>Időjárás hírek</category>
+   <pubDate>Tue, 12 Jan 2016 08:45:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Extrém meleg is jöhet a szibériai lehűlés előtt]]></title>
+   <link>http://mno.hu/idojaras_hirek/extrem-meleg-is-johet-a-sziberiai-lehules-elott-1323022?utm_source=feed&amp;utm_medium=rss</link>
+   <author>OMSZ</author>
+   <description><![CDATA[Hétfőn akár 14 fokig is felkúszhat a hőmérő higanyszála.]]></description>
+   <category>Időjárás hírek</category>
+   <pubDate>Mon, 11 Jan 2016 08:50:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Köd és ónos eső nehezíti az életünket]]></title>
+   <link>http://mno.hu/idojaras_hirek/kod-es-onos-eso-neheziti-az-eletunket-1322811?utm_source=feed&amp;utm_medium=rss</link>
+   <author>OMSZ</author>
+   <enclosure url="http://mno.hu/data/cikkek/1322/13228/cikk-1322811/D__VG20151203015_grid2_fekvo_lead.jpg" length="35569" type="image/jpeg"/>
+   <description><![CDATA[Főleg az ország északkeleti részét érinti.]]></description>
+   <category>Időjárás hírek</category>
+   <pubDate>Sat, 09 Jan 2016 09:29:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nem jellemző, hogy fagypont alá hűljön a levegő]]></title>
+   <link>http://mno.hu/idojaras_hirek/nem-jellemzo-hogy-fagypont-ala-huljon-a-levego-1322613?utm_source=feed&amp;utm_medium=rss</link>
+   <author>OMSZ</author>
+   <description><![CDATA[Az ország nagyobb részén délelőtt kitisztul az idő, felhős égbolt a keleti országrészben valószínű.]]></description>
+   <category>Időjárás hírek</category>
+   <pubDate>Fri, 08 Jan 2016 08:11:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kedden jön az ónos eső]]></title>
+   <link>http://mno.hu/idojaras_hirek/kedden-jon-az-onos-eso-1322056?utm_source=feed&amp;utm_medium=rss</link>
+   <author>OMSZ</author>
+   <enclosure url="http://mno.hu/data/cikkek/1322/13220/cikk-1322056/DMOHA20160104008.jpg" length="502760" type="image/jpeg"/>
+   <description><![CDATA[Eleinte felszakadozik a felhőzet, majd délutántól vegyes csapadék árasztja el hazánkat.]]></description>
+   <category>Időjárás hírek</category>
+   <pubDate>Tue, 05 Jan 2016 08:15:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Megérkezett a hó]]></title>
+   <link>http://mno.hu/idojaras_hirek/megerkezett-a-ho-1321871?utm_source=feed&amp;utm_medium=rss</link>
+   <author>OMSZ</author>
+   <enclosure url="http://mno.hu/data/cikkek/1321/13218/cikk-1321871/DSOKI20160103011.jpg" length="290620" type="image/jpeg"/>
+   <description><![CDATA[Megvastagszik a felhőtakaró hétfőn napközben, és több helyen havazásra is lehet számítani.]]></description>
+   <category>Időjárás hírek</category>
+   <pubDate>Mon, 04 Jan 2016 08:40:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Jelentős mennyiségű hó csaphat le az országra]]></title>
+   <link>http://mno.hu/idojaras_hirek/jelentos-mennyisegu-ho-csaphat-le-az-orszagra-1321798?utm_source=feed&amp;utm_medium=rss</link>
+   <author>OMSZ</author>
+   <enclosure url="http://mno.hu/data/cikkek/1321/13217/cikk-1321798/havazas.jpg" length="280097" type="image/jpeg"/>
+   <description><![CDATA[Akár –12 fok is lehet hétfőn.]]></description>
+   <category>Időjárás hírek</category>
+   <pubDate>Sun, 03 Jan 2016 18:24:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Dermesztő hideg és hófúvás jöhet]]></title>
+   <link>http://mno.hu/idojaras_hirek/dermeszto-hideg-es-hofuvas-johet-1321667?utm_source=feed&amp;utm_medium=rss</link>
+   <author>OMSZ</author>
+   <enclosure url="http://mno.hu/data/cikkek/1321/13216/cikk-1321667/havazas_havas_kutyasetaltatas_afp.jpg" length="61650" type="image/jpeg"/>
+   <description><![CDATA[Helyenként erős szélre is számítani lehet.]]></description>
+   <category>Időjárás hírek</category>
+   <pubDate>Sat, 02 Jan 2016 09:32:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kemény mínuszokkal köszönt ránk az új év]]></title>
+   <link>http://mno.hu/idojaras_hirek/kemeny-minuszokkal-koszont-rank-az-uj-ev-1321523?utm_source=feed&amp;utm_medium=rss</link>
+   <author>OMSZ</author>
+   <enclosure url="http://mno.hu/data/cikkek/1321/13215/cikk-1321523/fagyoskodos_uj_fekvo_lead.jpg" length="77655" type="image/jpeg"/>
+   <description><![CDATA[Késő este akár –10 fokig is lehűlhet a levegő.]]></description>
+   <category>Időjárás hírek</category>
+   <pubDate>Thu, 31 Dec 2015 14:05:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Napsütéses, de szeles időt hoz a szerda]]></title>
+   <link>http://mno.hu/idojaras_hirek/napsuteses-de-szeles-idot-hoz-a-szerda-1321304?utm_source=feed&amp;utm_medium=rss</link>
+   <author>OMSZ</author>
+   <enclosure url="http://mno.hu/data/cikkek/1321/13213/cikk-1321304/tel_napos.jpg" length="181320" type="image/jpeg"/>
+   <description><![CDATA[Sehol sem várható sok csapadék.]]></description>
+   <category>Időjárás hírek</category>
+   <pubDate>Wed, 30 Dec 2015 07:28:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kitisztul az idő keddtől]]></title>
+   <link>http://mno.hu/idojaras_hirek/kitisztul-az-ido-keddtol-1321193?utm_source=feed&amp;utm_medium=rss</link>
+   <author>OMSZ</author>
+   <enclosure url="http://mno.hu/data/cikkek/1321/13211/cikk-1321193/D_KOM20151228008.jpg" length="147827" type="image/jpeg"/>
+   <description><![CDATA[Noha az ország nagy részén felszakadozik a felhőzet, a Dunántúlon egyelőre borult marad az ég.]]></description>
+   <category>Időjárás hírek</category>
+   <pubDate>Tue, 29 Dec 2015 11:45:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Marad a párás, ködös idő]]></title>
+   <link>http://mno.hu/idojaras_hirek/marad-a-paras-kodos-ido-1320693?utm_source=feed&amp;utm_medium=rss</link>
+   <author>OMSZ</author>
+   <enclosure url="http://mno.hu/data/cikkek/1320/13206/cikk-1320693/kodos_domboldal_fakkal_afp_uj_fekvo_lead.jpg" length="31902" type="image/jpeg"/>
+   <description><![CDATA[Számottevő csapadék nem várható.]]></description>
+   <category>Időjárás hírek</category>
+   <pubDate>Fri, 25 Dec 2015 09:34:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Fehér karácsony nem lesz, köd viszont igen]]></title>
+   <link>http://mno.hu/idojaras_hirek/feher-karacsony-nem-lesz-kod-viszont-igen-1320673?utm_source=feed&amp;utm_medium=rss</link>
+   <author>OMSZ</author>
+   <enclosure url="http://mno.hu/data/cikkek/1320/13206/cikk-1320673/kodos_domboldal_fakkal_afp_uj_fekvo_lead_grid2_fekvo_lead.jpg" length="22701" type="image/jpeg"/>
+   <description><![CDATA[Csütörtök este és pénteken is várhatóan ködös időjárásra számíthatunk az OMSZ előrejelzése szerint.]]></description>
+   <category>Időjárás hírek</category>
+   <pubDate>Thu, 24 Dec 2015 16:15:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A súlyos felhők nem mozdulnak hazánk fölül]]></title>
+   <link>http://mno.hu/idojaras_hirek/a-sulyos-felhok-nem-mozdulnak-hazank-folul-1320142?utm_source=feed&amp;utm_medium=rss</link>
+   <author>OMSZ</author>
+   <description><![CDATA[Az ország nagy részén egész nap párás, ködös idő várható hétfőn.]]></description>
+   <category>Időjárás hírek</category>
+   <pubDate>Mon, 21 Dec 2015 10:35:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hó és ónos eső csaphat le csütörtökön]]></title>
+   <link>http://mno.hu/idojaras_hirek/ho-es-onos-eso-csaphat-le-csutortokon-1319530?utm_source=feed&amp;utm_medium=rss</link>
+   <author>OMSZ</author>
+   <enclosure url="http://mno.hu/data/cikkek/1319/13195/cikk-1319530/havazas_hokotro_hm.jpg" length="611531" type="image/jpeg"/>
+   <description><![CDATA[Néhol a szél is megélénkülhet.]]></description>
+   <category>Időjárás hírek</category>
+   <pubDate>Thu, 17 Dec 2015 08:30:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Felhős és ködös idő lesz kedden]]></title>
+   <link>http://mno.hu/idojaras_hirek/felhos-es-kodos-ido-lesz-kedden-1319210?utm_source=feed&amp;utm_medium=rss</link>
+   <author>OMSZ</author>
+   <enclosure url="http://mno.hu/data/cikkek/1319/13192/cikk-1319210/D_KOM20151207002.jpg" length="86141" type="image/jpeg"/>
+   <description><![CDATA[A hőmérő higanyszála maximum négy fokig kúszhat fel.]]></description>
+   <category>Időjárás hírek</category>
+   <pubDate>Tue, 15 Dec 2015 11:30:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ködös hétvége elé nézünk]]></title>
+   <link>http://mno.hu/idojaras_hirek/kodos-hetvege-ele-nezunk-1318759?utm_source=feed&amp;utm_medium=rss</link>
+   <author>OMSZ</author>
+   <enclosure url="http://mno.hu/data/cikkek/1318/13187/cikk-1318759/kodos_domboldal_fakkal_afp_uj_fekvo_lead_grid2_fekvo_lead.jpg" length="22701" type="image/jpeg"/>
+   <description><![CDATA[Nem várható csapadék szombaton az Országos Meteorológiai Szolgálat előrejelzése szerint.]]></description>
+   <category>Időjárás hírek</category>
+   <pubDate>Sat, 12 Dec 2015 10:55:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kedden sem bújik elő a nap]]></title>
+   <link>http://mno.hu/idojaras_hirek/kedden-sem-bujik-elo-a-nap-1317912?utm_source=feed&amp;utm_medium=rss</link>
+   <author>OMSZ</author>
+   <enclosure url="http://mno.hu/data/cikkek/1317/13179/cikk-1317912/D__VG20151203015_slideshow.jpg" length="17966" type="image/jpeg"/>
+   <description><![CDATA[Legfeljebb az Észak-Alföldön vékonyodhat el néhol a felhőzet.]]></description>
+   <category>Időjárás hírek</category>
+   <pubDate>Tue, 08 Dec 2015 09:31:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Itt a köd, jönnek a fertőző betegségek]]></title>
+   <link>http://mno.hu/idojaras_hirek/itt-a-kod-jonnek-a-fertozo-betegsegek-1317727?utm_source=feed&amp;utm_medium=rss</link>
+   <author>OMSZ</author>
+   <description><![CDATA[Borult, párás, helyenként tartósan ködös idő várható.]]></description>
+   <category>Időjárás hírek</category>
+   <pubDate>Mon, 07 Dec 2015 08:30:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Párás, ködös időt hoz a vasárnap]]></title>
+   <link>http://mno.hu/idojaras_hirek/paras-kodos-idot-hoz-a-vasarnap-1317606?utm_source=feed&amp;utm_medium=rss</link>
+   <author>OMSZ</author>
+   <enclosure url="http://mno.hu/data/cikkek/1317/13176/cikk-1317606/kodos_erdoszel_faagak_mti.jpg" length="201666" type="image/jpeg"/>
+   <description><![CDATA[Számottevő csapadék nem várható.]]></description>
+   <category>Időjárás hírek</category>
+   <pubDate>Sun, 06 Dec 2015 09:09:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ködös reggellel köszönt ránk a szombat]]></title>
+   <link>http://mno.hu/idojaras_hirek/kodos-reggellel-koszont-rank-a-szombat-1317505?utm_source=feed&amp;utm_medium=rss</link>
+   <author>OMSZ</author>
+   <enclosure url="http://mno.hu/data/cikkek/1317/13175/cikk-1317505/D__VG20151203015_grid2_fekvo_lead.jpg" length="35569" type="image/jpeg"/>
+   <description><![CDATA[Az ország nagy része párába burkolózik a vastag felhőzet alatt.]]></description>
+   <category>Időjárás hírek</category>
+   <pubDate>Sat, 05 Dec 2015 09:15:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Újra előbújhat a Nap]]></title>
+   <link>http://mno.hu/idojaras_hirek/ujra-elobujhat-a-nap-1316912?utm_source=feed&amp;utm_medium=rss</link>
+   <author>OMSZ</author>
+   <enclosure url="http://mno.hu/data/cikkek/1316/13169/cikk-1316912/osz_napos_uj_fekvo_lead.jpg" length="188916" type="image/jpeg"/>
+   <description><![CDATA[Délelőttől kezdve egyre nagyobb területen csökken a felhőzet.]]></description>
+   <category>Időjárás hírek</category>
+   <pubDate>Wed, 02 Dec 2015 09:40:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nem lesz szokványos december elseje]]></title>
+   <link>http://mno.hu/idojaras_hirek/nem-lesz-szokvanyos-december-elseje-1316699?utm_source=feed&amp;utm_medium=rss</link>
+   <author>OMSZ</author>
+   <enclosure url="http://mno.hu/data/cikkek/1316/13166/cikk-1316699/DMOHA20151130013.jpg" length="277635" type="image/jpeg"/>
+   <description><![CDATA[Itt-ott felszakadozhat a felhőzet, de nagyrészt borult időre számíthatunk, kora délután 9 és 15 fokkal.]]></description>
+   <category>Időjárás hírek</category>
+   <pubDate>Tue, 01 Dec 2015 08:19:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hideg és viharos szél indítja a hétfőt]]></title>
+   <link>http://mno.hu/idojaras_hirek/hideg-es-viharos-szel-inditja-a-hetfot-1316520?utm_source=feed&amp;utm_medium=rss</link>
+   <author>OMSZ</author>
+   <enclosure url="http://mno.hu/data/cikkek/1316/13165/cikk-1316520/sotet_felhok_idojaras_afp_uj_fekvo_lead.jpg" length="49606" type="image/jpeg"/>
+   <description><![CDATA[A legmagasabb nappali hőmérséklet jellemzően 7 és 12 fok között várható.]]></description>
+   <category>Időjárás hírek</category>
+   <pubDate>Mon, 30 Nov 2015 09:05:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Havas esővel búcsúzik a hét]]></title>
+   <link>http://mno.hu/idojaras_hirek/havas-esovel-bucsuzik-a-het-1316447?utm_source=feed&amp;utm_medium=rss</link>
+   <author>OMSZ</author>
+   <enclosure url="http://mno.hu/data/cikkek/1316/13164/cikk-1316447/havaseso_11_uj_szeles_lead.jpg" length="115936" type="image/jpeg"/>
+   <description><![CDATA[November utolsó napján pedig felhős vagy erősen felhős égkép lesz a jellemző.]]></description>
+   <category>Időjárás hírek</category>
+   <pubDate>Sun, 29 Nov 2015 17:37:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

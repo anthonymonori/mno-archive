@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Törteli István]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/torteli-istvan-20824</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Fri, 13 Apr 2018 23:58:36 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[A köztévé jövője]]></title>
+   <link>http://mno.hu/nezopontok/a-kozteve-jovoje-1277038?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Törteli István</author>
+   <description><![CDATA[A közszolgálati médiát kettős elvárás feszíti, az új struktúrát pedig csak ennek tudatában lehet vizsgálni.]]></description>
+   <category>Nézőpontok</category>
+   <pubDate>Fri, 13 Mar 2015 10:50:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Állami feladatok a médiapiacon]]></title>
+   <link>http://mno.hu/nezopontok/allami-feladatok-a-mediapiacon-1254635?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Törteli István</author>
+   <description><![CDATA[A GVH határozata azt mutatja, hogy az állam hatékonyan őrködik a médiapiaci verseny tisztessége felett. ]]></description>
+   <category>Nézőpontok</category>
+   <pubDate>Wed, 22 Oct 2014 09:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Pandák, cicák, kiskutyák, avagy a hatásvadászatról]]></title>
+   <link>http://mno.hu/nezopontok/pandak-cicak-kiskutyak-1241053?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Törteli István</author>
+   <description><![CDATA[Egyes hírportálok hatásvadász címadása gyakran nem találkozik sem a tartalommal, sem pedig a valósággal.]]></description>
+   <category>Nézőpontok</category>
+   <pubDate>Wed, 06 Aug 2014 14:25:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A módszer fontosságáról]]></title>
+   <link>http://mno.hu/nezopontok/a-modszer-fontossagarol-1237780?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Törteli István</author>
+   <description><![CDATA[Az EBESZ közzétette részletes jelentését, azonban a kampány médiaképének elemzései igencsak foghíjasak maradtak.]]></description>
+   <category>Nézőpontok</category>
+   <pubDate>Thu, 17 Jul 2014 14:50:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Fidesz-program: bizonyíték, nem ígéret]]></title>
+   <link>http://mno.hu/nezopontok/fidesz-program-bizonyitek-nem-igeret-1216683?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Törteli István</author>
+   <description><![CDATA[Biztosan tudható, hogy ha ismét Orbán Viktor alakít kormányt, milyen elvek mentén folytatja majd munkáját.]]></description>
+   <category>Nézőpontok</category>
+   <pubDate>Wed, 19 Mar 2014 13:00:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

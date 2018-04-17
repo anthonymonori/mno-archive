@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - rovat: Időjárás]]></title>
+  <link>http://mno.hu/idojaras_rovat</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Wed, 11 Apr 2018 08:57:16 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Viharos szelet és sok esőt hozhat a kedd]]></title>
+   <link>http://mno.hu/idojaras_hirek/viharos-szelet-es-sok-esot-hozhat-a-kedd-2459145?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24591/cikk-2459145/szb20160822_7003.jpg" length="325433" type="image/jpeg"/>
+   <description><![CDATA[Viszont napközben akár 23 fokot is mérhetünk.]]></description>
+   <category>Időjárás hírek</category>
+   <pubDate>Tue, 10 Apr 2018 06:31:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Napos, néhol szeles idő várható ma]]></title>
+   <link>http://mno.hu/idojaras_hirek/napos-nehol-szeles-ido-varhato-ma-2458889?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <description><![CDATA[A délkeleti szél nagy területen élénk, néhol erős lesz.]]></description>
+   <category>Időjárás hírek</category>
+   <pubDate>Mon, 09 Apr 2018 07:31:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Sok napsütés és 20 fok körüli meleg várható a jövő héten]]></title>
+   <link>http://mno.hu/idojaras_hirek/sok-napsutes-es-20-fok-koruli-meleg-varhato-a-jovo-heten-2458802?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <description><![CDATA[Hétfőn késő délután érkezik meg a csapadék.]]></description>
+   <category>Időjárás hírek</category>
+   <pubDate>Sun, 08 Apr 2018 17:44:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Napsütéses időjárás fogadhatja a választókat]]></title>
+   <link>http://mno.hu/idojaras_hirek/napsuteses-idojaras-fogadhatja-a-valasztokat-2458659?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <description><![CDATA[A délkeleti szél nagy területen megerősödik.]]></description>
+   <category>Időjárás hírek</category>
+   <pubDate>Sun, 08 Apr 2018 06:33:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Csak lassan távozik a hidegfront, még marad a borús idő]]></title>
+   <link>http://mno.hu/idojaras_hirek/csak-lassan-tavozik-a-hidegfront-meg-marad-a-borus-ido-2458279?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <description><![CDATA[A hőmérséklet délután 11 és 17 fok között várható.]]></description>
+   <category>Időjárás hírek</category>
+   <pubDate>Fri, 06 Apr 2018 06:54:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Esővel és erős széllel érkezhet a hidegfront]]></title>
+   <link>http://mno.hu/idojaras_hirek/esovel-es-eros-szellel-erkezhet-a-hidegfront-2458026?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24580/cikk-2458026/szb20160822_7003.jpg" length="325433" type="image/jpeg"/>
+   <description><![CDATA[Többfelé várható csapadék, és kissé mérséklődik a felmelegedés.]]></description>
+   <category>Időjárás hírek</category>
+   <pubDate>Thu, 05 Apr 2018 06:16:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Meleg, de szeles időre számíthatunk]]></title>
+   <link>http://mno.hu/idojaras_hirek/meleg-de-szeles-idore-szamithatunk-2457755?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <description><![CDATA[Akár 22 fokot is mérhetünk. Négy megyére adtak ki figyelmeztetést.]]></description>
+   <category>Időjárás hírek</category>
+   <pubDate>Wed, 04 Apr 2018 07:40:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Marad a szeles idő kedden]]></title>
+   <link>http://mno.hu/idojaras_hirek/marad-a-szeles-ido-kedden-2457482?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <description><![CDATA[Csapadékra nem kell számítanunk, a viharossá fokozódó szél mellett több helyen kisüthet a nap.]]></description>
+   <category>Időjárás hírek</category>
+   <pubDate>Tue, 03 Apr 2018 06:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szeles húsvétra számíthatunk]]></title>
+   <link>http://mno.hu/idojaras_hirek/szeles-husvetra-szamithatunk-2457224?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <description><![CDATA[A szél mindenütt északnyugatira fordul, és nagy területen viharossá fokozódik.]]></description>
+   <category>Időjárás hírek</category>
+   <pubDate>Sun, 01 Apr 2018 08:38:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Meleg, de esős időt hozhat a húsvéti hosszú hétvége]]></title>
+   <link>http://mno.hu/idojaras_hirek/meleg-de-esos-idot-hozhat-a-husveti-hosszu-hetvege-2456827?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2456/24568/cikk-2456827/szb20160822_7003.jpg" length="325433" type="image/jpeg"/>
+   <description><![CDATA[Szombaton akár 21 fokot is mérhetünk.]]></description>
+   <category>Időjárás hírek</category>
+   <pubDate>Thu, 29 Mar 2018 13:39:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Borongós időre számíthatunk]]></title>
+   <link>http://mno.hu/idojaras_hirek/borongos-idore-szamithatunk-2456741?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <description><![CDATA[A legtöbb csapadékra a Dunántúlon van esély. ]]></description>
+   <category>Időjárás hírek</category>
+   <pubDate>Thu, 29 Mar 2018 07:25:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Borús időre számíthatunk]]></title>
+   <link>http://mno.hu/idojaras_hirek/borus-idore-szamithatunk-2456197?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <description><![CDATA[Elszórtan várható eső, zápor, délután, este délnyugaton egy-egy zivatar is lehet.]]></description>
+   <category>Időjárás hírek</category>
+   <pubDate>Tue, 27 Mar 2018 06:27:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Íme, az első időjárás-jelentés 2050-re: özönvíz, szélvihar, 42 fok]]></title>
+   <link>http://mno.hu/idojaras_hirek/ime-az-elso-idojarasjelentes-2050-re-ozonviz-szelvihar-42-fok-2456082?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <enclosure url="http://mno.hu/data/cikkek/2456/24560/cikk-2456082/szb20150703_8230.jpg" length="427303" type="image/jpeg"/>
+   <description><![CDATA[Három évtized múlva ilyen időjárási körülmények között élnek majd a Kárpát-medence lakói.]]></description>
+   <category>Időjárás hírek</category>
+   <pubDate>Mon, 26 Mar 2018 16:32:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Jól jöhet ma az esernyő: borús, csapadékos idővel startol a hét]]></title>
+   <link>http://mno.hu/idojaras_hirek/jol-johet-ma-az-esernyo-borus-csapadekos-idovel-startol-a-het-2455938?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <description><![CDATA[A magasabb helyeken még havazás is lehet.]]></description>
+   <category>Időjárás hírek</category>
+   <pubDate>Mon, 26 Mar 2018 07:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Lassan csak megjön a tavasz]]></title>
+   <link>http://mno.hu/idojaras_hirek/lassan-csak-megjon-a-tavasz-2455431?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <description><![CDATA[A hétvégén már némi napsütésre és 10 fok körüli hőmérsékletre számíthatunk.]]></description>
+   <category>Időjárás hírek</category>
+   <pubDate>Fri, 23 Mar 2018 06:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Lehet, hogy mégsem marad el a tavasz]]></title>
+   <link>http://mno.hu/idojaras_hirek/lehet-hogy-megsem-marad-el-a-tavasz-2455335?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <description><![CDATA[Vasárnap akár plusz tíz fok fölé is szökhet a hőmérő higanyszála.]]></description>
+   <category>Időjárás hírek</category>
+   <pubDate>Thu, 22 Mar 2018 17:10:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Újabb havazás és hófúvás lehet]]></title>
+   <link>http://mno.hu/idojaras_hirek/ujabb-havazas-es-hofuvas-lehet-2454589?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <enclosure url="http://mno.hu/data/cikkek/2454/24545/cikk-2454589/D_VG20180319007.jpg" length="182215" type="image/jpeg"/>
+   <description><![CDATA[Keleten akár tíz centiméternyi hó is hullhat, nyugaton kevesebb.]]></description>
+   <category>Időjárás hírek</category>
+   <pubDate>Mon, 19 Mar 2018 19:12:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Messze még a tavasz, egyelőre mínuszok lesznek]]></title>
+   <link>http://mno.hu/idojaras_hirek/messze-meg-a-tavasz-egyelore-minuszok-lesznek-2454301?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2454/24543/cikk-2454301/2_000_JJ1FQ.jpg" length="240165" type="image/jpeg"/>
+   <description><![CDATA[És hogy igazi legyen az élmény, szél is lesz hozzájuk.]]></description>
+   <category>Időjárás hírek</category>
+   <pubDate>Sun, 18 Mar 2018 17:58:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Senki ne induljon útnak a hófúvásos területeken!]]></title>
+   <link>http://mno.hu/idojaras_hirek/senki-ne-induljon-utnak-a-hofuvasos-teruleteken-2454124?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <description><![CDATA[Akinek muszáj, az készüljön meleg ruhával, takaróval, szükség esetére némi élelemmel és innivalóval.]]></description>
+   <category>Időjárás hírek</category>
+   <pubDate>Sat, 17 Mar 2018 12:08:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Harmadfokúra emelték a figyelmeztetést több megyében hófúvás miatt]]></title>
+   <link>http://mno.hu/idojaras_hirek/harmadfokura-emeltek-a-figyelmeztetest-tobb-megyeben-a-hofuvas-miatt-2454116?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <enclosure url="http://mno.hu/data/cikkek/2454/24541/cikk-2454116/D_VG20180227014.jpg" length="260300" type="image/jpeg"/>
+   <description><![CDATA[Emellett országszerte első- és másodfokú figyelmeztetések vannak érvényben eső, ónos eső, havazás miatt.]]></description>
+   <category>Időjárás hírek</category>
+   <pubDate>Sat, 17 Mar 2018 10:46:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Havazás, hófúvás, ónos eső várható a hétvégén]]></title>
+   <link>http://mno.hu/idojaras_hirek/havazas-hofuvas-onos-eso-varhato-a-hetvegen-2454093?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2454/24540/cikk-2454093/HM_2009014_9860.jpg" length="263797" type="image/jpeg"/>
+   <description><![CDATA[Változatos csapadékra kell számítanunk, visszatért a téli időjárás.]]></description>
+   <category>Időjárás hírek</category>
+   <pubDate>Sat, 17 Mar 2018 08:16:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Aki teheti, szombat délutántól ne induljon útnak]]></title>
+   <link>http://mno.hu/idojaras_hirek/aki-teheti-szombat-delutantol-ne-induljon-utnak-2453777?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <enclosure url="http://mno.hu/data/cikkek/2453/24537/cikk-2453777/szb20130114_0309.jpg" length="334233" type="image/jpeg"/>
+   <description><![CDATA[Az ország jelentős részén szélsőséges időjárásra kell felkészülni az ünnepi hosszú hétvége további részében.]]></description>
+   <category>Időjárás hírek</category>
+   <pubDate>Thu, 15 Mar 2018 15:59:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Meleg, de esős időt hozhat a kedd]]></title>
+   <link>http://mno.hu/idojaras_hirek/meleg-de-esos-idot-hozhat-a-kedd-2453265?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <description><![CDATA[Időnként megerősödhet a szél. Akár 17 fokot is mérhetünk.]]></description>
+   <category>Időjárás hírek</category>
+   <pubDate>Tue, 13 Mar 2018 06:38:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Bőrig ázhatunk: borús, esős idővel indul a hét]]></title>
+   <link>http://mno.hu/idojaras_hirek/borig-azhatunk-borus-esos-idovel-indul-a-het-2453002?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <description><![CDATA[A legmagasabb nappali hőmérséklet 14 és 20 fok között várható.]]></description>
+   <category>Időjárás hírek</category>
+   <pubDate>Mon, 12 Mar 2018 06:23:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A jövő héten mérséklődik a tavaszias meleg]]></title>
+   <link>http://mno.hu/idojaras_hirek/a-jovo-heten-merseklodik-a-tavaszias-meleg-2452927?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <description><![CDATA[A magasabb helyeken hózápor is lehet.]]></description>
+   <category>Időjárás hírek</category>
+   <pubDate>Sun, 11 Mar 2018 17:15:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Tavaszias időt hoz a péntek: akár 15 fokot is mérhetünk]]></title>
+   <link>http://mno.hu/idojaras_hirek/tavaszias-idot-hoz-a-pentek-akar-15-fokot-is-merhetunk-2452457?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <description><![CDATA[Öt megyére viszont elsőfokú figyelmeztetést adtak ki a tartós, sűrű köd veszélye miatt.]]></description>
+   <category>Időjárás hírek</category>
+   <pubDate>Fri, 09 Mar 2018 06:28:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A tavasz a hétvégére ér ide]]></title>
+   <link>http://mno.hu/idojaras_hirek/a-tavasz-a-hetvegere-er-ide-2451830?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <description><![CDATA[Néhány nap múlva már több mint tíz fokkal melegebb idő várható. ]]></description>
+   <category>Időjárás hírek</category>
+   <pubDate>Tue, 06 Mar 2018 16:11:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Felhős, csapadékos napra kell számítanunk]]></title>
+   <link>http://mno.hu/idojaras_hirek/felhos-csapadekos-napra-kell-szamitanunk-2451667?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <description><![CDATA[Dunántúlon és az Északi-középhegységben ónos eső is várható. ]]></description>
+   <category>Időjárás hírek</category>
+   <pubDate>Tue, 06 Mar 2018 06:28:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ónos eső hullhat csaknem az egész országban]]></title>
+   <link>http://mno.hu/idojaras_hirek/onos-eso-hullhat-csaknem-az-egesz-orszagban-2451642?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <description><![CDATA[Tizenhárom megyére és a fővárosra adtak ki figyelmeztetést a meteorológusok.]]></description>
+   <category>Időjárás hírek</category>
+   <pubDate>Mon, 05 Mar 2018 20:27:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Téliesen hideg, felhős idő valószínű]]></title>
+   <link>http://mno.hu/idojaras_hirek/hetfon-egyre-felhosebb-ido-valoszinu-2451417?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <description><![CDATA[Este nyugaton már eső, ónos eső is előfordulhat.]]></description>
+   <category>Időjárás hírek</category>
+   <pubDate>Mon, 05 Mar 2018 06:11:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

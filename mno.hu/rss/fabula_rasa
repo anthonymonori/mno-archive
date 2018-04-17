@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - rovat: Fabula rasa]]></title>
+  <link>http://mno.hu/fabula_rasa</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 05:12:16 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Összefonódva]]></title>
+   <link>http://mno.hu/fabula_rasa/osszefonodva-2459366?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ugró Miklós</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24593/cikk-2459366/Sorokpolany_01_896_504_1484838816.jpg" length="68385" type="image/jpeg"/>
+   <description><![CDATA[Nem ártana, ha az egyházak nemcsak erkölcsi szózatokkal táplálnák a híveket, hanem példát is mutatnának.]]></description>
+   <category>Fabula rasa</category>
+   <pubDate>Wed, 11 Apr 2018 13:58:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Sajtóviszonyok]]></title>
+   <link>http://mno.hu/fabula_rasa/sajtoviszonyok-2457563?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ugró Miklós</author>
+   <enclosure url="http://mno.hu/data/cikkek/2457/24575/cikk-2457563/NBB_20180221_1901.jpg" length="293671" type="image/jpeg"/>
+   <description><![CDATA[Mindmáig megfejtetlen rejtély, hogy 2002-ben miként veszíthette el a Fidesz a parlamenti választást.]]></description>
+   <category>Fabula rasa</category>
+   <pubDate>Tue, 03 Apr 2018 19:10:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Tizenkét kívánság]]></title>
+   <link>http://mno.hu/fabula_rasa/tizenket-kivansag-2456283?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ugró Miklós</author>
+   <enclosure url="http://mno.hu/data/cikkek/2456/24562/cikk-2456283/SZB20150701_2006_896_504_1522146531.jpg" length="65020" type="image/jpeg"/>
+   <description><![CDATA[Nyilván reprezentatív listának szánták szerzői a Mit kíván a magyar nemzet 2018-ban? című összeállítást.]]></description>
+   <category>Fabula rasa</category>
+   <pubDate>Tue, 27 Mar 2018 18:08:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Egy eltüntetett tüntetés]]></title>
+   <link>http://mno.hu/fabula_rasa/egy-eltuntetett-tuntetes-2454699?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ugró Miklós</author>
+   <enclosure url="http://mno.hu/data/cikkek/2454/24546/cikk-2454699/fortepan_88386.jpg" length="238288" type="image/jpeg"/>
+   <description><![CDATA[A Tanácsköztársaságról szóló igaz információkat éppúgy elzárta a hatalom, mint az ’56-ról szólókat.]]></description>
+   <category>Fabula rasa</category>
+   <pubDate>Tue, 20 Mar 2018 20:27:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Vadhajtások]]></title>
+   <link>http://mno.hu/fabula_rasa/vadhajtasok-2453306?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ugró Miklós</author>
+   <enclosure url="http://mno.hu/data/cikkek/2453/24533/cikk-2453306/IMG_1561.jpg" length="477399" type="image/jpeg"/>
+   <description><![CDATA[Semjén a vadászatot sem pusztán passzióból, urizáló, rongyrázó hajlamai miatt műveli.]]></description>
+   <category>Fabula rasa</category>
+   <pubDate>Wed, 14 Mar 2018 08:22:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ki képes itt kormányozni?]]></title>
+   <link>http://mno.hu/fabula_rasa/ki-kepes-itt-kormanyozni-2451739?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ugró Miklós</author>
+   <enclosure url="http://mno.hu/data/cikkek/2451/24517/cikk-2451739/20161010_Belo19x.jpg" length="640513" type="image/jpeg"/>
+   <description><![CDATA[Erélyesen irányítják ugyan az országot, a jelek szerint a többség úgy véli: rossz felé.]]></description>
+   <category>Fabula rasa</category>
+   <pubDate>Tue, 06 Mar 2018 19:15:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kampányolók]]></title>
+   <link>http://mno.hu/fabula_rasa/kampanyolok-2450209?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ugró Miklós</author>
+   <enclosure url="http://mno.hu/data/cikkek/2450/24502/cikk-2450209/MP20161002_6K1749.jpg" length="253121" type="image/jpeg"/>
+   <description><![CDATA[Nem hőzöngő hatalomra, de nem is gyenge, széthulló ellenzékre van szükségünk.]]></description>
+   <category>Fabula rasa</category>
+   <pubDate>Tue, 27 Feb 2018 19:22:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Vitakészség]]></title>
+   <link>http://mno.hu/fabula_rasa/vitakeszseg-2448575?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ugró Miklós</author>
+   <enclosure url="http://mno.hu/data/cikkek/2448/24485/cikk-2448575/BA20180104_0301_896_504_1519121866.jpg" length="35760" type="image/jpeg"/>
+   <description><![CDATA[A törvény ötletével kapcsolatban erős fenntartások merülhetnek fel.]]></description>
+   <category>Fabula rasa</category>
+   <pubDate>Tue, 20 Feb 2018 13:07:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Egy cézár ifjúkora]]></title>
+   <link>http://mno.hu/fabula_rasa/egy-cezar-ifjukora-2446921?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ugró Miklós</author>
+   <enclosure url="http://mno.hu/data/cikkek/2446/24469/cikk-2446921/NBB_19980211_02.jpg" length="118669" type="image/jpeg"/>
+   <description><![CDATA[Húsz éve gyilkolták meg Fenyő Jánost. Ennek apropóján Ugró Miklós tárcát írt gyerekkori jó barátjáról, a médiacézárról.]]></description>
+   <category>Fabula rasa</category>
+   <pubDate>Tue, 13 Feb 2018 14:08:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Krumpli]]></title>
+   <link>http://mno.hu/fabula_rasa/krumpli-2445386?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ugró Miklós</author>
+   <enclosure url="http://mno.hu/data/cikkek/2445/24453/cikk-2445386/fideszkrumpli.jpg" length="154105" type="image/jpeg"/>
+   <description><![CDATA[A mind hosszabbra nyúló kampánykezdet idején a krumpli is a politikai meggyőzés eszközévé válik.]]></description>
+   <category>Fabula rasa</category>
+   <pubDate>Tue, 06 Feb 2018 16:12:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ellenfelek szövetsége]]></title>
+   <link>http://mno.hu/fabula_rasa/ellenfelek-szovetsege-2443742?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ugró Miklós</author>
+   <enclosure url="http://mno.hu/data/cikkek/2443/24437/cikk-2443742/C_SOS19980708013.jpg" length="202217" type="image/jpeg"/>
+   <description><![CDATA[Torgyán bánta erősen az Orbánnal való szövetséget, mert a kisgazdák „öncsonkító áldozatával” hatalomra segítette a Fideszt.]]></description>
+   <category>Fabula rasa</category>
+   <pubDate>Tue, 30 Jan 2018 22:37:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Bajkeverők]]></title>
+   <link>http://mno.hu/fabula_rasa/bajkeverok-2442137?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ugró Miklós</author>
+   <enclosure url="http://mno.hu/data/cikkek/2442/24421/cikk-2442137/IMG_9520.jpg" length="804313" type="image/jpeg"/>
+   <description><![CDATA[Számos politikus úgy képzeli, arra kapott felhatalmazást, hogy saját agyrémeit kényszerítse az országra.]]></description>
+   <category>Fabula rasa</category>
+   <pubDate>Tue, 23 Jan 2018 22:22:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Békesarc]]></title>
+   <link>http://mno.hu/fabula_rasa/bekesarc-2438855?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ugró Miklós</author>
+   <enclosure url="http://mno.hu/data/cikkek/2438/24388/cikk-2438855/F_DE19530917001.jpg" length="489131" type="image/jpeg"/>
+   <description><![CDATA[Meglepő, de még a Fidesznek is van tanulnivalója pénzlenyúlás terén.]]></description>
+   <category>Fabula rasa</category>
+   <pubDate>Tue, 09 Jan 2018 16:36:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nagy Kánaán]]></title>
+   <link>http://mno.hu/fabula_rasa/nagy-kanaan-2436321?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ugró Miklós</author>
+   <enclosure url="http://mno.hu/data/cikkek/2436/24363/cikk-2436321/HM20100125_0236.jpg" length="297154" type="image/jpeg"/>
+   <description><![CDATA[Magyar sajátság, hogy nálunk csak négyévente van demokrácia, parlamenti választások képében.]]></description>
+   <category>Fabula rasa</category>
+   <pubDate>Wed, 27 Dec 2017 18:12:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A kádári rendteremtés]]></title>
+   <link>http://mno.hu/fabula_rasa/a-kadari-rendteremtes-2434927?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ugró Miklós</author>
+   <enclosure url="http://mno.hu/data/cikkek/2434/24349/cikk-2434927/NBB_20091025_0505.jpg" length="369749" type="image/jpeg"/>
+   <description><![CDATA[1956 decemberében a hatalom úgy döntött, a lakosság megbüntetésének és megfélemlítésének jogi kereteket is kell adni.]]></description>
+   <category>Fabula rasa</category>
+   <pubDate>Tue, 19 Dec 2017 19:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Innovatív konzultáció]]></title>
+   <link>http://mno.hu/fabula_rasa/innovativ-konzultacio-2433333?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ugró Miklós</author>
+   <enclosure url="http://mno.hu/data/cikkek/2433/24333/cikk-2433333/DBZOL20171202010.jpg" length="322944" type="image/jpeg"/>
+   <description><![CDATA[Ideje lenne megkövetni a kormányzatot s belátni, hogy az a konzultáció is sok áldást hozott reánk és egész Európára.]]></description>
+   <category>Fabula rasa</category>
+   <pubDate>Tue, 12 Dec 2017 19:49:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Megrugdosott ország]]></title>
+   <link>http://mno.hu/fabula_rasa/megrugdosott-orszag-2431868?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ugró Miklós</author>
+   <enclosure url="http://mno.hu/data/cikkek/2431/24318/cikk-2431868/3_1kormany_hu.jpg" length="333401" type="image/jpeg"/>
+   <description><![CDATA[Káromkodni meg pofozkodni sem helyénvaló, de a rugdosás egyenesen felháborító.]]></description>
+   <category>Fabula rasa</category>
+   <pubDate>Wed, 06 Dec 2017 10:41:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Olcsó kampány]]></title>
+   <link>http://mno.hu/fabula_rasa/olcso-kampany-2430437?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ugró Miklós</author>
+   <enclosure url="http://mno.hu/data/cikkek/2430/24304/cikk-2430437/szb20170918_0272.jpg" length="164476" type="image/jpeg"/>
+   <description><![CDATA[A népszavazási kezdeményezéstől nincs félnivalója a kormánynak, hiszen már az is kérdéses, hogy összejön-e kétszázezer aláírás.]]></description>
+   <category>Fabula rasa</category>
+   <pubDate>Tue, 28 Nov 2017 16:05:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Pártalapítás]]></title>
+   <link>http://mno.hu/fabula_rasa/partalapitas-2428982?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ugró Miklós</author>
+   <enclosure url="http://mno.hu/data/cikkek/2428/24289/cikk-2428982/Bela.Kun.Revolution.1919.jpg" length="80585" type="image/jpeg"/>
+   <description><![CDATA[Mi értelme volt Moszkvában is megalapítani a pártot, ha három héttel később Budapesten újra megtörtént?]]></description>
+   <category>Fabula rasa</category>
+   <pubDate>Tue, 21 Nov 2017 14:14:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Forradalmak]]></title>
+   <link>http://mno.hu/fabula_rasa/forradalmak-2427454?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ugró Miklós</author>
+   <enclosure url="http://mno.hu/data/cikkek/2427/24274/cikk-2427454/fortepan_27904.jpg" length="360567" type="image/jpeg"/>
+   <description><![CDATA[A kifejezést mindenki ismeri és használja, de szabatosan meghatározni szinte senki nem tudja.]]></description>
+   <category>Fabula rasa</category>
+   <pubDate>Tue, 14 Nov 2017 10:37:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nagy októberi]]></title>
+   <link>http://mno.hu/fabula_rasa/nagy-oktoberi-2426014?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ugró Miklós</author>
+   <enclosure url="http://mno.hu/data/cikkek/2426/24260/cikk-2426014/C_GAL19871107026.jpg" length="493083" type="image/jpeg"/>
+   <description><![CDATA[Valaha nagybetűkkel kellett írni, és akár valami feudális cím és rang, kijárt neki a „dicsőséges” jelző is.]]></description>
+   <category>Fabula rasa</category>
+   <pubDate>Tue, 07 Nov 2017 13:02:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Aránytalan arányok]]></title>
+   <link>http://mno.hu/fabula_rasa/aranytalan-aranyok-2423197?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ugró Miklós</author>
+   <enclosure url="http://mno.hu/data/cikkek/2423/24231/cikk-2423197/BD20170415_16.jpg" length="197310" type="image/jpeg"/>
+   <description><![CDATA[Gulyás Márton a magyar politika neuralgikus pontjára tapintott rá.]]></description>
+   <category>Fabula rasa</category>
+   <pubDate>Tue, 24 Oct 2017 18:59:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Feloszlatás]]></title>
+   <link>http://mno.hu/fabula_rasa/feloszlatas-2421923?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ugró Miklós</author>
+   <enclosure url="http://mno.hu/data/cikkek/2421/24219/cikk-2421923/fortepan_43566.jpg" length="491511" type="image/jpeg"/>
+   <description><![CDATA[A magyar történelemben volt már precedens arra, hogy a hatalom önkényesen betiltott egy ellenzéki pártot.]]></description>
+   <category>Fabula rasa</category>
+   <pubDate>Thu, 19 Oct 2017 13:39:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A rendszerváltó]]></title>
+   <link>http://mno.hu/fabula_rasa/a-rendszervalto-2419734?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ugró Miklós</author>
+   <enclosure url="http://mno.hu/data/cikkek/2419/24197/cikk-2419734/img5.jpg" length="76244" type="image/jpeg"/>
+   <description><![CDATA[Az MDF súlyos mulasztása volt, hogy fellépése nem jelentett valódi áttörést.]]></description>
+   <category>Fabula rasa</category>
+   <pubDate>Tue, 03 Oct 2017 15:31:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hangnem]]></title>
+   <link>http://mno.hu/fabula_rasa/hangnem-2418681?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ugró Miklós</author>
+   <enclosure url="http://mno.hu/data/cikkek/2418/24186/cikk-2418681/_BA_5269.jpg" length="183242" type="image/jpeg"/>
+   <description><![CDATA[A politikai közbeszéd ellaposodásának és eldurvulásának több, egymással összefüggő oka van.]]></description>
+   <category>Fabula rasa</category>
+   <pubDate>Tue, 26 Sep 2017 18:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Igazságtétel]]></title>
+   <link>http://mno.hu/fabula_rasa/igazsagtetel-2417812?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ugró Miklós</author>
+   <enclosure url="http://mno.hu/data/cikkek/2417/24178/cikk-2417812/D_MAR20170313002x.jpg" length="269810" type="image/jpeg"/>
+   <description><![CDATA[Gulyás Gergely semmi újat, meglepőt, pláne sértőt nem mondott.]]></description>
+   <category>Fabula rasa</category>
+   <pubDate>Thu, 21 Sep 2017 12:06:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Politikai jósda]]></title>
+   <link>http://mno.hu/fabula_rasa/politikai-josda-2416707?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ugró Miklós</author>
+   <enclosure url="http://mno.hu/data/cikkek/2416/24167/cikk-2416707/szb20160828_0626.jpg" length="262239" type="image/jpeg"/>
+   <description><![CDATA[A létező szocializmusban is rendszeresen szondázták a lakosság véleményét.]]></description>
+   <category>Fabula rasa</category>
+   <pubDate>Tue, 12 Sep 2017 17:43:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Demokratikus önkényuralom]]></title>
+   <link>http://mno.hu/fabula_rasa/demokratikus-onkenyuralom-2415672?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ugró Miklós</author>
+   <enclosure url="http://mno.hu/data/cikkek/2415/24156/cikk-2415672/szb20170828_0320.jpg" length="529185" type="image/jpeg"/>
+   <description><![CDATA[Vlagyimir Putyin budapesti látogatásából hiányzott a romantika.]]></description>
+   <category>Fabula rasa</category>
+   <pubDate>Tue, 05 Sep 2017 16:17:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A mandátum szabadsága]]></title>
+   <link>http://mno.hu/fabula_rasa/a-mandatum-szabadsaga-2414639?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ugró Miklós</author>
+   <enclosure url="http://mno.hu/data/cikkek/2414/24146/cikk-2414639/MP20161002_6K1745.jpg" length="403338" type="image/jpeg"/>
+   <description><![CDATA[Nehezen illeszthető a polgári demokrácia szabályai közé a visszahívás intézménye.]]></description>
+   <category>Fabula rasa</category>
+   <pubDate>Tue, 29 Aug 2017 18:20:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Visszahívhatók]]></title>
+   <link>http://mno.hu/fabula_rasa/visszahivhatok-2413586?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ugró Miklós</author>
+   <enclosure url="http://mno.hu/data/cikkek/2413/24135/cikk-2413586/fortepan_67453.jpg" length="414086" type="image/jpeg"/>
+   <description><![CDATA[A polgári demokrácia szabályai közé nehéz beilleszteni a visszahívás intézményét.]]></description>
+   <category>Fabula rasa</category>
+   <pubDate>Tue, 22 Aug 2017 19:35:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

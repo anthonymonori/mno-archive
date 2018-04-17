@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Németh Ványi Klári]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/nemeth-vanyi-klari-19861</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 03:06:43 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Le akarta kottázni művét, ez tartotta életben a haláltáborban]]></title>
+   <link>http://mno.hu/grund/le-akarta-kottazni-muvet-ez-tartotta-eletben-a-halaltaborban-2457574?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Németh Ványi Klári</author>
+   <enclosure url="http://mno.hu/data/cikkek/2457/24575/cikk-2457574/La_ng_001_896_504_1522912642.jpg" length="340467" type="image/jpeg"/>
+   <description><![CDATA[Száztíz évvel ezelőtt született Láng György, az elfeledett zeneszerző.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Thu, 05 Apr 2018 09:20:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[„A testvéreim hajából csináltam az ecsetemet”]]></title>
+   <link>http://mno.hu/grund/a-testvereim-hajabol-csinaltam-az-ecsetemet-2451591?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Németh Ványi Klári</author>
+   <enclosure url="http://mno.hu/data/cikkek/2451/24515/cikk-2451591/VL20180122_5286.jpg" length="224362" type="image/jpeg"/>
+   <description><![CDATA[Mihez kezdjen a tehetségével egy mélyszegény, beszédhibás cigány lány? Bada Mártának a Vatikánban is van képe.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Mon, 05 Mar 2018 20:10:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Aki a gulágon nőtt fel]]></title>
+   <link>http://mno.hu/hetvegimagazin/aki-a-gulagon-nott-fel-2449637?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Németh Ványi Klári</author>
+   <enclosure url="http://mno.hu/data/cikkek/2449/24496/cikk-2449637/C_AZ19990430031.jpg" length="540350" type="image/jpeg"/>
+   <description><![CDATA[Az akkor mindössze tizennégy éves Nagy Rózsát 1945 januárjában hurcolták el Göncről. Az ő történetével emlékezünk a kommunizmus áldozataira.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Sun, 25 Feb 2018 06:09:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[„Tudod, hogy három életet élünk?”]]></title>
+   <link>http://mno.hu/grund/tudod-hogy-harom-eletet-elunk-2432607?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Németh Ványi Klári</author>
+   <enclosure url="http://mno.hu/data/cikkek/2432/24326/cikk-2432607/24831504_10214537759748803_8889842196612618932_o.jpg" length="105433" type="image/jpeg"/>
+   <description><![CDATA[Péntek Orsolya festőművész-író-szerkesztő legújabb regényének keletkezéséről és a Biblia női könyveiről.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Fri, 08 Dec 2017 15:40:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az én világom a holokauszttal véget ért]]></title>
+   <link>http://mno.hu/grund/az-en-vilagom-a-holokauszttal-veget-ert-1095826?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Németh Ványi Klári</author>
+   <description><![CDATA[Szántó T. Gábor ugyanazzal a pontossággal tárja az olvasó elé a valamikor virágzó zsidó kultúrát, ahogyan a szatmári születésű Kaczér Illés tette évtizedekkel ezelőtt.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Tue, 31 Jul 2012 14:50:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

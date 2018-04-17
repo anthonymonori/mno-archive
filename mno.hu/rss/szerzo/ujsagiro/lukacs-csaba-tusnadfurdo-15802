@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Lukács Csaba (Tusnádfürdő)]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/lukacs-csaba-tusnadfurdo-15802</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 20:20:23 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Kerítésbontókból kerítésépítők]]></title>
+   <link>http://mno.hu/hatarontul/keritesbontokbol-keritesepitok-1296465?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lukács Csaba (Tusnádfürdő)</author>
+   <description><![CDATA[A migráció kapcsán az államnak a közösség védelme a feladata, a keresztény embernek pedig a segítség – summázta a dilemmát Prőhle Gergely.]]></description>
+   <category>Határon túl</category>
+   <pubDate>Wed, 22 Jul 2015 13:12:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Süketek párbeszéde a román–magyar viszony]]></title>
+   <link>http://mno.hu/hatarontul/suketek-parbeszede-a-roman-magyar-viszony-1296436?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lukács Csaba (Tusnádfürdő)</author>
+   <description><![CDATA[Erős kijelentésekkel és lelkészi áldással nyílt meg Tusnádfürdőn az idén 26. alkalommal megrendezett tábor.]]></description>
+   <category>Határon túl</category>
+   <pubDate>Wed, 22 Jul 2015 10:35:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A málnaárus lány és a nemzetpolitika]]></title>
+   <link>http://mno.hu/migr_1834/a-malnaarus-lany-es-a-nemzetpolitika-829576?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lukács Csaba (Tusnádfürdő)</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Wed, 01 Aug 2001 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Bukarest félrevezető manővere]]></title>
+   <link>http://mno.hu/migr_1834/bukarest-felrevezeto-manovere-829387?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lukács Csaba (Tusnádfürdő)</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Sat, 28 Jul 2001 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nem várható áttörés]]></title>
+   <link>http://mno.hu/migr_1834/nem-varhato-attores-829321?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lukács Csaba (Tusnádfürdő)</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Fri, 27 Jul 2001 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Székely gondokról Tusnádfürdőn]]></title>
+   <link>http://mno.hu/migr_1834/szekely-gondokrol-tusnadfurdon-829187?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lukács Csaba (Tusnádfürdő)</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Thu, 26 Jul 2001 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Túljelentkezés az erdélyi egyetemen]]></title>
+   <link>http://mno.hu/migr_1834/tuljelentkezes-az-erdelyi-egyetemen-829149?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lukács Csaba (Tusnádfürdő)</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Wed, 25 Jul 2001 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Elvek helyett konkrétumok]]></title>
+   <link>http://mno.hu/migr_1834/elvek-helyett-konkretumok-853487?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lukács Csaba (Tusnádfürdő)</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Mon, 31 Jul 2000 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szezonmunkások Romániából]]></title>
+   <link>http://mno.hu/migr_1834/szezonmunkasok-romaniabol-853400?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lukács Csaba (Tusnádfürdő)</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Sat, 29 Jul 2000 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Új határátkelők nyitását tervezik]]></title>
+   <link>http://mno.hu/migr_1834/uj-hataratkelok-nyitasat-tervezik-853437?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lukács Csaba (Tusnádfürdő)</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Sat, 29 Jul 2000 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[&#8222;Ne legyen üzlet a magyarság&#8221;]]></title>
+   <link>http://mno.hu/migr_1834/ne-legyen-uzlet-a-magyarsag-853323?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lukács Csaba (Tusnádfürdő)</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Fri, 28 Jul 2000 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nincs veszélyben a Szamos]]></title>
+   <link>http://mno.hu/migr_1834/nincs-veszelyben-a-szamos-853244?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lukács Csaba (Tusnádfürdő)</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Thu, 27 Jul 2000 00:00:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

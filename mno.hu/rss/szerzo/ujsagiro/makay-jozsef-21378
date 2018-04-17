@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Makay József]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/makay-jozsef-21378</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 15:46:11 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Ingyenes irodai megoldásokkal támad az Apple]]></title>
+   <link>http://mno.hu/tudomany/ingyenes-irodai-megoldasokkal-tamad-az-apple-1273242?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Makay József</author>
+   <description><![CDATA[Itt az Apple válasza a Microsoft irodai alkalmazásaira.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Tue, 17 Feb 2015 15:10:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ötletes kütyüt szelfiőrülteknek]]></title>
+   <link>http://mno.hu/tudomany/gyurmaallvany-kameras-kutyukhoz-1273085?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Makay József</author>
+   <description><![CDATA[A BallPod Shop meglehetősen ötletes termékét mutatja be az Androbit.net olvasóinknak. ]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Mon, 16 Feb 2015 16:17:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Saját keresőt fejleszt az Apple]]></title>
+   <link>http://mno.hu/tudomany/sajat-keresot-fejleszt-az-apple-1271486?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Makay József</author>
+   <description><![CDATA[A Cult of Mac szakportál fedezte fel azt az Apple-álláshirdetést, amelyikből arra következtethetünk, hogy a cég saját keresőszolgáltatás-fejlesztésébe kíván kezdeni. ]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Sun, 08 Feb 2015 11:33:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Úgy tűnik, elkaszálják a Windows fejlesztését]]></title>
+   <link>http://mno.hu/tudomany/windows-rt-itt-a-vege-1271594?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Makay József</author>
+   <description><![CDATA[A Microsoft egy héttel ezelőtt jelentette be, hogy felhagynak a Surface 2 tablet gyártásával.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Sat, 07 Feb 2015 20:55:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Magyar találmány lehet az év nagy dobása]]></title>
+   <link>http://mno.hu/tudomany/magyar-talalmany-lesz-az-ev-nagy-dobasa-1271386?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Makay József</author>
+   <description><![CDATA[Néhány hónappal ezelőtt került az ötlet a köztudatba, máris elkezdik a tömeggyártást.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Thu, 05 Feb 2015 18:32:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Öt tipp, amely segítségével megóvhatjuk az e-könyv-olvasónkat]]></title>
+   <link>http://mno.hu/tudomany/igy-ovjuk-e-konyv-olvasonkat-1271035?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Makay József</author>
+   <description><![CDATA[Az e-könyveket rendszeresen olvasók fejében gyakran vetődhet fel a kérdés: mi tesz jót és mi árt hőn szeretett e-könyv-olvasó készülékének? ]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Wed, 04 Feb 2015 06:35:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nem lesz minden Windows Phone-ból Windows 10]]></title>
+   <link>http://mno.hu/tudomany/nem-lesz-minden-windows-phone-bol-windows-10-1270433?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Makay József</author>
+   <description><![CDATA[A Microsoft egyik blogbejegyzéséből derült ki néhány érdekes, Windows Phone-nal kapcsolatos információ.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Sun, 01 Feb 2015 20:24:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[DNS-ből rekonstruálják a bűncselekmények szereplőinek arcát]]></title>
+   <link>http://mno.hu/tudomany/dns-bol-rekonstrualjak-a-buncselekmenyek-szereploinek-arcat-1270432?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Makay József</author>
+   <description><![CDATA[Egy virginiai cég egyedi szolgáltatást kezdett nyújtani az amerikai rendőrségnek.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Sun, 01 Feb 2015 09:48:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Történelmi jelentőségű váltás a YouTube-on]]></title>
+   <link>http://mno.hu/tudomany/tortenelmi-jelentosegu-valtas-a-youtube-on-1270288?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Makay József</author>
+   <description><![CDATA[A Google bejelentette, hogy alapértelmezetté tették a HTML5-lejátszót.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Sat, 31 Jan 2015 10:35:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[USB-ről tölthető a világ legkisebb drónja]]></title>
+   <link>http://mno.hu/tudomany/ime-a-vilag-legkisebb-dronja-1270272?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Makay József</author>
+   <description><![CDATA[Ismerjék meg a világ legkisebb drónjaként számon tartott SKEYE Nano Drone-t!]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Thu, 29 Jan 2015 19:36:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A Google felvásárolná a Twittert?]]></title>
+   <link>http://mno.hu/tudomany/a-google-felvasarolna-a-twittert-1269836?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Makay József</author>
+   <description><![CDATA[Egyelőre semmilyen hivatalos nyilatkozat nem támasztja alá, de ha igaz, alapjaiban borulhatnak fel a közösségi hálózatok erőviszonyai.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Wed, 28 Jan 2015 04:09:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Mi is egyszerűen választhatunk feltörhetetlen jelszót]]></title>
+   <link>http://mno.hu/tudomany/hogyan-valasszunk-feltorhetetlen-jelszot-1269685?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Makay József</author>
+   <description><![CDATA[Azok is az interneten élik idejük felét, akiknek nincs közük az informatikához, ezt a digitális életet viszont védenünk kell.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Tue, 27 Jan 2015 05:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Egyre több magyar áldozatot szed a CTB-Locker vírus]]></title>
+   <link>http://mno.hu/tudomany/egyre-tobb-magyar-aldozat-a-ctb-locker-virus-pusztitasaban-1269260?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Makay József</author>
+   <description><![CDATA[Új változat jelent meg a fájljainkat titkosító és visszaalakításukért váltságdíjat szedő kártevőből.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Fri, 23 Jan 2015 15:28:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Komoly hibára bukkantak az Adobe Flash Playerben]]></title>
+   <link>http://mno.hu/tudomany/komoly-hibara-bukkantak-az-adobe-flash-playerben-1269211?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Makay József</author>
+   <description><![CDATA[Még szerencse, hogy az elmúlt egy-két évben a Flash Player látványosan kezd a háttérbe szorulni.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Fri, 23 Jan 2015 10:29:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Elképesztő dolgokat mutatott be a Microsoft]]></title>
+   <link>http://mno.hu/tudomany/elkepeszto-dolgokat-mutatott-be-a-microsoft-1269033?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Makay József</author>
+   <description><![CDATA[A prezentáció alapján bátran kijelenthetjük, hogy az új Windows visszakerülhet az oprendszerek piacára.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Thu, 22 Jan 2015 09:47:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az új eszköz maga keresi meg a töltendő okoseszközt]]></title>
+   <link>http://mno.hu/tudomany/lampaval-toltene-napelemes-kutyuinket-a-microsoft-1268834?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Makay József</author>
+   <description><![CDATA[Az új eszköz maga keresi meg a töltendő okoseszközt.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Wed, 21 Jan 2015 17:11:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Újratervezték az első Apple Macintosh számítógépet]]></title>
+   <link>http://mno.hu/tudomany/ujraterveztek-az-elso-apple-macintosh-szamitogepet-1268660?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Makay József</author>
+   <description><![CDATA[Az új gép körülbelül úgy néz ki, mintha a régi Macintosh hátát levágták volna.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Wed, 21 Jan 2015 06:14:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hihetetlen gyorsasággal nő a Spotify]]></title>
+   <link>http://mno.hu/tudomany/hihetetlen-gyorsasaggal-no-a-spotify-1268158?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Makay József</author>
+   <description><![CDATA[A Spotify bejelentette, hogy aktív felhasználóinak száma 2014 végére elérte a 60 milliót.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Mon, 19 Jan 2015 05:22:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A Google-t nem hatja meg a hiba, 1 milliárd készülék javítás nélkül]]></title>
+   <link>http://mno.hu/tudomany/a-google-nem-javitja-a-hibat-androidos-keszulekek-maradhatnak-vedtelenul-1268148?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Makay József</author>
+   <description><![CDATA[Komoly sebezhetőség az Android 4.3 egyik fejlesztői komponensében.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Sat, 17 Jan 2015 12:19:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A Windows 7 támogatásának lejártáról szólnak a hírek]]></title>
+   <link>http://mno.hu/tudomany/iden-meg-nem-jar-le-a-windows-7-tamogatasa-1267498?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Makay József</author>
+   <description><![CDATA[Számos technológiai médium felületesen tájékozódott, és tájékoztatta olvasóit a Windows 7 támogatásáról.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Wed, 14 Jan 2015 05:23:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[2300 darab DOS-játékkal játszhatunk a böngészőben]]></title>
+   <link>http://mno.hu/tudomany/2300-darab-dos-jatekkal-jatszhatunk-a-bongeszoben-1266935?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Makay József</author>
+   <description><![CDATA[Így elevenednek meg a számítógép hőskorszakának egyszerű, de annál hangulatosabb játékai.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Sun, 11 Jan 2015 08:27:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Letölthető Kim Dzsong Un saját OS X operációs rendszere]]></title>
+   <link>http://mno.hu/tudomany/letoltheto-kim-dzsong-un-sajat-os-x-operacios-rendszere-1266978?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Makay József</author>
+   <description><![CDATA[A Red Star 3.0 teljesen úgy néz ki, mint néhány korábbi OS X.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Sat, 10 Jan 2015 11:11:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[CES 2015: Megalakult a globális UHD Alliance]]></title>
+   <link>http://mno.hu/tudomany/ces-2015-megalakult-a-globalis-uhd-alliance-1266932?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Makay József</author>
+   <description><![CDATA[UHD Alliance néven jelentették be az új digitális szabványplatformot a CES 2015-ön.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Fri, 09 Jan 2015 16:08:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hanggal „gépelhetünk” a Facebook Messengerben]]></title>
+   <link>http://mno.hu/tudomany/hamarosan-hanggal-gepelhetunk-a-facebook-messengerben-1266781?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Makay József</author>
+   <description><![CDATA[A beszédértelmező rendszerek már nem számítanak ritkaságnak, hamarosan újabb népszerű szoftver kaphatja meg ezt a képességet.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Fri, 09 Jan 2015 06:33:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Felhasználók millióit kergeti majd őrületbe az új Apple-eszköz]]></title>
+   <link>http://mno.hu/tudomany/kicsit-problemas-lesz-az-uj-apple-notebook-1266705?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Makay József</author>
+   <description><![CDATA[Nagyon sok felhasználót kerget majd őrületbe az új Apple notebook.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Thu, 08 Jan 2015 17:31:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Csalásokkal és lopásokkal is könnyen befolyásolható ez a pénznem]]></title>
+   <link>http://mno.hu/tudomany/a-bitcoin-jelenleg-hatalmas-bukasnak-tunik-1266154?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Makay József</author>
+   <description><![CDATA[A könnyen befolyásolható pénznem nem valószínű, hogy a jövőben újból megközelíti az 1000 dolláros értéket.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Tue, 06 Jan 2015 09:32:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ezért nem ismerheti még a bank sem a jelszavunkat]]></title>
+   <link>http://mno.hu/tudomany/2014-legkomolyabb-internetes-buncselekmenyei-1263987?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Makay József</author>
+   <description><![CDATA[Az elmúlt volt az egyik legzűrösebb év, már ami az elektronikus biztonságunkat illeti. ]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Mon, 29 Dec 2014 18:56:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Fx0 – Az átlátszó Firefox-okostelefon]]></title>
+   <link>http://mno.hu/tudomany/fx0-az-atlatszo-firefox-okostelefon-1265349?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Makay József</author>
+   <description><![CDATA[Egy kifejezetten érdekes okostelefon startolt el karácsonykor Japánban.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Mon, 29 Dec 2014 13:37:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az ember, aki robotkarokat kapott]]></title>
+   <link>http://mno.hu/tudomany/az-ember-aki-robotkarokat-kapott-1264598?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Makay József</author>
+   <description><![CDATA[Negyven évvel karjai elvesztése után a coloradói Leslie Baugh egy új fejlesztésnek köszönhetően bionikus végtagokat kapott.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Thu, 25 Dec 2014 10:26:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A magyarok nem szeretik az iPhone-t?]]></title>
+   <link>http://mno.hu/tudomany/a-magyarok-nem-szeretik-az-iphone-t-1263983?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Makay József</author>
+   <description><![CDATA[Az NRC reprezentatív felméréséből átfogó képet kaptunk a magyarok mobiltelefonos szokásairól és véleményéről, az eredmények viszont néhány helyen meglepőek.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Sun, 21 Dec 2014 14:17:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

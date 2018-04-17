@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - rovat: Magyar Nemzet Magazin ajánló]]></title>
+  <link>http://mno.hu/magyar_nemzet_magazin_ajanlo</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Wed, 11 Apr 2018 10:23:10 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Minden mozdulata szép]]></title>
+   <link>http://mno.hu/magyar_nemzet_magazin_ajanlo/minden-mozdulata-szep-2458340?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24583/cikk-2458340/VL20180330_0002.jpg" length="539283" type="image/jpeg"/>
+   <description><![CDATA[Hajdúdorogi Krisztus-katonák. Bugár Béla-interjú. A kínai Nagy Testvér tényleg mindenkit figyel. Magazin.]]></description>
+   <category>Magyar Nemzet Magazin ajánló</category>
+   <pubDate>Fri, 06 Apr 2018 17:17:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Amikor megláttam ezt a semmit]]></title>
+   <link>http://mno.hu/magyar_nemzet_magazin_ajanlo/amikor-meglattam-ezt-a-semmit-2456861?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2456/24568/cikk-2456861/VL20180326_3671.jpg" length="846082" type="image/jpeg"/>
+   <description><![CDATA[Egy juhászdinasztia, amely ma is küzd az igazáért. Interjú Bese Gergő atyával. Soros és az USA érdekei. Magazin-ajánló.]]></description>
+   <category>Magyar Nemzet Magazin ajánló</category>
+   <pubDate>Fri, 30 Mar 2018 07:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A hálózat fogságában]]></title>
+   <link>http://mno.hu/magyar_nemzet_magazin_ajanlo/a-halozat-fogsagaban-2455402?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2455/24554/cikk-2455402/GettyImages_52122934.jpg" length="508564" type="image/jpeg"/>
+   <description><![CDATA[Kérdések Hódmezővásárhely után: széteshet-e a rendszer? Tari Annamária-interjú. Oroszok, mérgek. Magazin.]]></description>
+   <category>Magyar Nemzet Magazin ajánló</category>
+   <pubDate>Fri, 23 Mar 2018 07:22:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A beton átka]]></title>
+   <link>http://mno.hu/magyar_nemzet_magazin_ajanlo/a-beton-atka-2452405?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2452/24524/cikk-2452405/01.jpg" length="524356" type="image/jpeg"/>
+   <description><![CDATA[Rongyrázó román vendégmunkások. Frankenstein és a tudomány. Magyar orvosok és az indiai sziámi ikrek. Magazin.]]></description>
+   <category>Magyar Nemzet Magazin ajánló</category>
+   <pubDate>Fri, 09 Mar 2018 17:41:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Enklávé a Rigómezőn]]></title>
+   <link>http://mno.hu/magyar_nemzet_magazin_ajanlo/enklave-a-rigomezon-2451040?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2451/24510/cikk-2451040/VL20180218_3430.jpg" length="590859" type="image/jpeg"/>
+   <description><![CDATA[Interjú a Kistücsök vezetőjével. Riport Nyírcsaholyból, ahol a postás lelépett a pénzzel. Szombaton Magazin!]]></description>
+   <category>Magyar Nemzet Magazin ajánló</category>
+   <pubDate>Fri, 02 Mar 2018 16:28:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Albán zászló szerb bölcsőben – Magazin-ajánló]]></title>
+   <link>http://mno.hu/magyar_nemzet_magazin_ajanlo/alban-zaszlo-szerb-bolcsoben-magazin-ajanlo-2449191?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2449/24491/cikk-2449191/VL20180217_0008.jpg" length="824127" type="image/jpeg"/>
+   <description><![CDATA[Tízéves Európa legfiatalabb országa. Romsics Ignác-interjú. Megrázó magyar gulágtörténet. Szombaton Magazin!]]></description>
+   <category>Magyar Nemzet Magazin ajánló</category>
+   <pubDate>Fri, 23 Feb 2018 09:15:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Lecsúsztunk a vértanúságról]]></title>
+   <link>http://mno.hu/magyar_nemzet_magazin_ajanlo/lecsusztunk-a-vertanusagrol-2447769?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2447/24477/cikk-2447769/18b_Az_elso_szobam_1937.jpg" length="261994" type="image/jpeg"/>
+   <description><![CDATA[Bulányi atya hányattatásai filmen. Gyulai Líviusz-interjú. A gyilkos világító órák. Szombaton magazin!]]></description>
+   <category>Magyar Nemzet Magazin ajánló</category>
+   <pubDate>Fri, 16 Feb 2018 14:50:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Eldorádó Orange megyében]]></title>
+   <link>http://mno.hu/magyar_nemzet_magazin_ajanlo/eldorado-orange-megyeben-2445977?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2445/24459/cikk-2445977/000_OE8X5.jpg" length="181018" type="image/jpeg"/>
+   <description><![CDATA[Magyar zsidók városalapítása az USA-ban. Gianni Annoni-interjú. Hermann Róbert Görgeiről. Magazin. ]]></description>
+   <category>Magyar Nemzet Magazin ajánló</category>
+   <pubDate>Fri, 09 Feb 2018 12:02:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szifilisz van, de nem úgy]]></title>
+   <link>http://mno.hu/magyar_nemzet_magazin_ajanlo/szifilisz-van-de-nem-ugy-2444314?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2444/24443/cikk-2444314/VL20180130_5573.jpg" length="460647" type="image/jpeg"/>
+   <description><![CDATA[Ifj. Vidnyánszky Attila-interjú. Sajtókamara régen – és újra? Riport a szlovákiai Tőketerebesről. Magazin.]]></description>
+   <category>Magyar Nemzet Magazin ajánló</category>
+   <pubDate>Fri, 02 Feb 2018 06:44:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Migráns az égből]]></title>
+   <link>http://mno.hu/magyar_nemzet_magazin_ajanlo/migrans-az-egbol-2442806?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2442/24428/cikk-2442806/VL20180123_5342.jpg" length="252487" type="image/jpeg"/>
+   <description><![CDATA[Migránsok az égből. Szabó Márton-interjú. E-cigaretta: érvek és ellenérvek. Szombaton ismét Magazin!]]></description>
+   <category>Magyar Nemzet Magazin ajánló</category>
+   <pubDate>Fri, 26 Jan 2018 11:49:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hosszú vajúdás]]></title>
+   <link>http://mno.hu/magyar_nemzet_magazin_ajanlo/hosszu-vajudas-2441172?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2441/24411/cikk-2441172/HM20101012_0111.jpg" length="334543" type="image/jpeg"/>
+   <description><![CDATA[Otthonszülés pró és kontra. Lőrincz Balázs Bendegúz-interjú. Új őrület hódít: a „nyers víz”. Magazin!]]></description>
+   <category>Magyar Nemzet Magazin ajánló</category>
+   <pubDate>Fri, 19 Jan 2018 06:40:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[„Édesapa most elutazik” – Magazin-ajánló]]></title>
+   <link>http://mno.hu/magyar_nemzet_magazin_ajanlo/edesapa-most-elutazik-magazin-ajanlo-2439501?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2439/24395/cikk-2439501/IMG_4852.jpg" length="519107" type="image/jpeg"/>
+   <description><![CDATA[Hatvan éve végezték ki Földes Gábort. Horváth Viktor-interjú. Egy tömeggyilkos szovjet biológus. Magazin.]]></description>
+   <category>Magyar Nemzet Magazin ajánló</category>
+   <pubDate>Fri, 12 Jan 2018 08:51:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Mit csinálnánk? Jót röhögünk]]></title>
+   <link>http://mno.hu/magyar_nemzet_magazin_ajanlo/mit-csinalnank-jot-rohogunk-2436854?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2436/24368/cikk-2436854/VL20171213_3798.jpg" length="685185" type="image/jpeg"/>
+   <description><![CDATA[Új „kulákok” Tengelicén. Interjú Molnár B. Tamással és Bittera Dórával. A kávé rehabilitációja. Magazin.]]></description>
+   <category>Magyar Nemzet Magazin ajánló</category>
+   <pubDate>Fri, 29 Dec 2017 17:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Várj, és ne félj!]]></title>
+   <link>http://mno.hu/magyar_nemzet_magazin_ajanlo/varj-es-ne-felj-2435578?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2435/24355/cikk-2435578/F_CI19601205041.jpg" length="752579" type="image/jpeg"/>
+   <description><![CDATA[Beszélgetés a kilencvenesztendős Brusznyai József atyával. Látogatóban Szíria keresztényeinél. Magazin.]]></description>
+   <category>Magyar Nemzet Magazin ajánló</category>
+   <pubDate>Fri, 22 Dec 2017 17:32:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szabadfogás]]></title>
+   <link>http://mno.hu/magyar_nemzet_magazin_ajanlo/szabadfogas-2433952?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2433/24339/cikk-2433952/VL20171110_1284.jpg" length="372960" type="image/jpeg"/>
+   <description><![CDATA[Zaklatási ügy Tyukodon. Mácsai Pál-interjú. A szíriai keresztények között jártunk. Szombaton Magazin!]]></description>
+   <category>Magyar Nemzet Magazin ajánló</category>
+   <pubDate>Fri, 15 Dec 2017 07:17:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Tízpercenként egy lövés]]></title>
+   <link>http://mno.hu/magyar_nemzet_magazin_ajanlo/tizpercenkent-egy-loves-2432474?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2432/24324/cikk-2432474/RTSXS62.jpg" length="413802" type="image/jpeg"/>
+   <description><![CDATA[Magyar sorsok a háború sújtotta Szíriában. Koós János-interjú. A szocializmussal szembeszálló Remete. Magazin!]]></description>
+   <category>Magyar Nemzet Magazin ajánló</category>
+   <pubDate>Fri, 08 Dec 2017 07:11:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A csodatevő – Magazin-ajánló]]></title>
+   <link>http://mno.hu/magyar_nemzet_magazin_ajanlo/a-csodatevo-magazin-ajanlo-2431056?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2431/24310/cikk-2431056/Jozef_Pilsudski1.jpg" length="66824" type="image/jpeg"/>
+   <description><![CDATA[Százötven éve született Pilsudski marsall. Bart István-interjú. Az ufók Kínát fogják először hívni. Magazin.]]></description>
+   <category>Magyar Nemzet Magazin ajánló</category>
+   <pubDate>Thu, 30 Nov 2017 14:44:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szabad terek]]></title>
+   <link>http://mno.hu/magyar_nemzet_magazin_ajanlo/szabad-terek-2429587?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2429/24295/cikk-2429587/23283194_10214756050801015_221455026_n.jpg" length="64143" type="image/jpeg"/>
+   <description><![CDATA[Meccsnézés mint ellenállás. Trill Zsolt-interjú. Sikkasztási botrány a Kádár-korban. Szombaton Magazin!]]></description>
+   <category>Magyar Nemzet Magazin ajánló</category>
+   <pubDate>Fri, 24 Nov 2017 17:56:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ceausescuné gyémántjai – Magazin ajánló]]></title>
+   <link>http://mno.hu/magyar_nemzet_magazin_ajanlo/ceausescune-gyemantjai-magazin-ajanlo-2426599?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2426/24265/cikk-2426599/piata_scantei_1977.jpg" length="394332" type="image/jpeg"/>
+   <description><![CDATA[Gyémántbiznisz a kommunista Romániában. Nagy Bandó András-interjú. Fehéroroszországi útikalauz. Magazin!]]></description>
+   <category>Magyar Nemzet Magazin ajánló</category>
+   <pubDate>Fri, 10 Nov 2017 08:33:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nádfedél és padlófűtés – Magazin-ajánló]]></title>
+   <link>http://mno.hu/magyar_nemzet_magazin_ajanlo/nadfedel-es-padlofutes-magazin-ajanlo-2425209?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2425/24252/cikk-2425209/VL20171017_9896.jpg" length="735599" type="image/jpeg"/>
+   <description><![CDATA[Kádár kikozmetikázott gyerekkora. Pléh Csaba-interjú. Neander-völgyiek vagyunk? Szombaton Magazin!]]></description>
+   <category>Magyar Nemzet Magazin ajánló</category>
+   <pubDate>Fri, 03 Nov 2017 09:10:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Vizes játékok – Magazin-ajánló]]></title>
+   <link>http://mno.hu/magyar_nemzet_magazin_ajanlo/vizes-jatekok-magazin-ajanlo-2423774?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2423/24237/cikk-2423774/VL20170925_7124_cimlap.jpg" length="336181" type="image/jpeg"/>
+   <description><![CDATA[Viták a pusztaszabolcsi csobogó körül. Lajtai Péter-interjú. Horthy-szobor a Felvidéken. Szombaton Magazin!]]></description>
+   <category>Magyar Nemzet Magazin ajánló</category>
+   <pubDate>Fri, 27 Oct 2017 08:44:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Joe hazatért]]></title>
+   <link>http://mno.hu/magyar_nemzet_magazin_ajanlo/joe-hazatert-2422420?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2422/24224/cikk-2422420/VL20170927_7398.jpg" length="256645" type="image/jpeg"/>
+   <description><![CDATA[Egy mecseki láthatatlan kalandjai. Básti Juli-interjú. Trollhadseregek csatája. Szombaton Magazin!]]></description>
+   <category>Magyar Nemzet Magazin ajánló</category>
+   <pubDate>Fri, 20 Oct 2017 06:05:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Övék a holnap?]]></title>
+   <link>http://mno.hu/magyar_nemzet_magazin_ajanlo/ovek-a-holnap-2420205?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2420/24202/cikk-2420205/000_T05GL.jpg" length="401913" type="image/jpeg"/>
+   <description><![CDATA[Szeparatizmus Barcelona után. Zatykó László-interjú. Szécsi Noémi a magyar plasztikai sebészet hőskoráról.]]></description>
+   <category>Magyar Nemzet Magazin ajánló</category>
+   <pubDate>Fri, 06 Oct 2017 06:20:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Magyar Nemzet Magazin: A futtatók ismerik a házirendet]]></title>
+   <link>http://mno.hu/magyar_nemzet_magazin_ajanlo/a-futtatok-ismerik-a-hazirendet-2419127?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2419/24191/cikk-2419127/intezetisek.jpg" length="188219" type="image/jpeg"/>
+   <description><![CDATA[Magyar intézetis örömlányok Szlovákiában. Bödőcs Tibor-interjú. Magyarnak maradni Amerikában. Magazin.]]></description>
+   <category>Magyar Nemzet Magazin ajánló</category>
+   <pubDate>Fri, 29 Sep 2017 08:25:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Számadás]]></title>
+   <link>http://mno.hu/magyar_nemzet_magazin_ajanlo/szamadas-2418117?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2418/24181/cikk-2418117/S_13.jpg" length="672241" type="image/jpeg"/>
+   <description><![CDATA[Harminc éve tartották a lakitelki találkozót. Vecsei H. Miklós-interjú. Megmarad-e a magyarság Nagyváradon?]]></description>
+   <category>Magyar Nemzet Magazin ajánló</category>
+   <pubDate>Sat, 23 Sep 2017 12:50:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A hollandusok esetei Holnap Zsoltival]]></title>
+   <link>http://mno.hu/magyar_nemzet_magazin_ajanlo/a-hollandusok-esetei-holnap-zsoltival-2416108?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2416/24161/cikk-2416108/IMG_9819.jpg" length="965906" type="image/jpeg"/>
+   <description><![CDATA[Holland „migránsok” a magyar Alföldön. Csath Magdolna-interjú. Helyszíni riport a hurrikán sújtotta Houstonból.]]></description>
+   <category>Magyar Nemzet Magazin ajánló</category>
+   <pubDate>Fri, 08 Sep 2017 08:08:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Volt egy feketém…]]></title>
+   <link>http://mno.hu/magyar_nemzet_magazin_ajanlo/volt-egy-feketem-2415064?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2415/24150/cikk-2415064/fortepan_112292.jpg" length="488548" type="image/jpeg"/>
+   <description><![CDATA[Érthetetlen, miért sorvasztják el a vasúti utasellátót. Reviczky Gábor-interjú. Malacnevelés az egyetemen. Szombaton Magazin.]]></description>
+   <category>Magyar Nemzet Magazin ajánló</category>
+   <pubDate>Fri, 01 Sep 2017 08:08:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az igazi pofon]]></title>
+   <link>http://mno.hu/magyar_nemzet_magazin_ajanlo/az-igazi-pofon-2414072?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2414/24140/cikk-2414072/vajdasagcimlap.jpg" length="314913" type="image/jpeg"/>
+   <description><![CDATA[Mi lett a gazdasági „nemzetegyesítéssel”? Krulik Zoltán-interjú. Ikerkutatás és genetika. Szombaton Magazin!]]></description>
+   <category>Magyar Nemzet Magazin ajánló</category>
+   <pubDate>Fri, 25 Aug 2017 09:15:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az ősbűn és az államraison]]></title>
+   <link>http://mno.hu/magyar_nemzet_magazin_ajanlo/az-osbun-es-az-allamraison-2413009?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2413/24130/cikk-2413009/D_SAK20040224041.jpg" length="249842" type="image/jpeg"/>
+   <description><![CDATA[Huszonöt éve jelent meg a Csurka-dolgozat. Horányi Özséb-interjú. Trump és a fehér Amerika. Szombaton Magazin!]]></description>
+   <category>Magyar Nemzet Magazin ajánló</category>
+   <pubDate>Fri, 18 Aug 2017 07:19:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A rossz magyarokat lelövik]]></title>
+   <link>http://mno.hu/magyar_nemzet_magazin_ajanlo/a-rossz-magyarokat-lelovik-2411977?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2411/24119/cikk-2411977/033_ria04_001886_3000.jpg" length="559614" type="image/jpeg"/>
+   <description><![CDATA[Magyarellenes vérengzés a Felvidéken. Csupó Gábor-interjú. Hitler rejtélyes megtorpanása. Szombaton Magazin!]]></description>
+   <category>Magyar Nemzet Magazin ajánló</category>
+   <pubDate>Fri, 11 Aug 2017 06:58:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

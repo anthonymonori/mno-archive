@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Nagygéci Kovács József]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/nagygeci-kovacs-jozsef-28524</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Wed, 11 Apr 2018 10:24:36 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Az ítélet: kegyelem]]></title>
+   <link>http://mno.hu/hetvegimagazin/az-itelet-kegyelem-2456835?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Nagygéci Kovács József</author>
+   <enclosure url="http://mno.hu/data/cikkek/2456/24568/cikk-2456835/Andrea_Mantegna_The_Lamentation_over_the_Dead_Christ_WGA13981.jpg" length="621493" type="image/jpeg"/>
+   <description><![CDATA[A bárány, a tükör és a húsvét kezdete.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Sat, 31 Mar 2018 16:59:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Mit ismer be, aki böjtöl?]]></title>
+   <link>http://mno.hu/hetvegimagazin/mit-ismer-be-aki-bojtol-2455510?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Nagygéci Kovács József</author>
+   <enclosure url="http://mno.hu/data/cikkek/2455/24555/cikk-2455510/K_EPA20170327128.jpg" length="302880" type="image/jpeg"/>
+   <description><![CDATA[Működik a világ és benne az ember, csak valahogy még sincsen minden egészen a helyén.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Sun, 25 Mar 2018 11:11:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Karácsonyillat]]></title>
+   <link>http://mno.hu/hetvegimagazin/karacsonyillat-2434125?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Nagygéci Kovács József</author>
+   <enclosure url="http://mno.hu/data/cikkek/2434/24341/cikk-2434125/SK_A_731.jpg" length="768172" type="image/jpeg"/>
+   <description><![CDATA[Az Ige testté lett, amihez képest a többi körülmény már nem is tűnik annyira különlegesnek.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Sat, 23 Dec 2017 21:02:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[„Meg tudjuk-e haladni magunkat?”]]></title>
+   <link>http://mno.hu/nagyinterju_magazinban/meg-tudjuk-e-haladni-magunkat-2410013?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Nagygéci Kovács József</author>
+   <enclosure url="http://mno.hu/data/cikkek/2410/24100/cikk-2410013/VL20170721_0125.jpg" length="432247" type="image/jpeg"/>
+   <description><![CDATA[Bérczes László a tizedik Ördögkatlanról, a „másik Magyarországról” és a Törőcsik Maritól lopott szlogenről.]]></description>
+   <category>Nagyinterjú a Magazinban</category>
+   <pubDate>Sun, 30 Jul 2017 06:38:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

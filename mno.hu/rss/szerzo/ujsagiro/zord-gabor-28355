@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Zord Gábor]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/zord-gabor-28355</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 23:39:53 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Megérkezett Kecskemétre az Orbánt és a kormánytagokat is szállító repülőgép]]></title>
+   <link>http://mno.hu/belfold/megerkezett-kecskemetre-az-orbant-es-a-kormanytagokat-is-szallito-repulogep-2444084?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Zord Gábor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2444/24440/cikk-2444084/Airbus_2.jpg" length="795520" type="image/jpeg"/>
+   <description><![CDATA[A HM szerint az Airbus A319-es csapatszállító a honvédség külföldi misszióinak váltásait is kiszolgálja majd.]]></description>
+   <category>Belföld</category>
+   <pubDate>Wed, 31 Jan 2018 15:55:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Phenjani „ajándékcsomag” a rakétakísérlet]]></title>
+   <link>http://mno.hu/kulfold/phenjani-ajandekcsomag-a-raketakiserlet-2406528?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Zord Gábor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2406/24065/cikk-2406528/000_QC1QO.jpg" length="304885" type="image/jpeg"/>
+   <description><![CDATA[Az újabb értékelések szerint sikeresebb volt az észak-koreai rakétateszt, mint először hitték.]]></description>
+   <category>Külföld</category>
+   <pubDate>Thu, 06 Jul 2017 09:32:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

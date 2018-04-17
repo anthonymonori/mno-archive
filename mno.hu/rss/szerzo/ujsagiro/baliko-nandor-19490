@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Balikó Nándor]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/baliko-nandor-19490</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Sun, 15 Apr 2018 02:40:03 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Napfényes vasárnapra ébredhetünk – Jubilál a fesztivál]]></title>
+   <link>http://mno.hu/eletmod/napfenyes-vasarnapra-ebredhetunk-1162994?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Balikó Nándor</author>
+   <description><![CDATA[Tizedszer ölti fel ünneplő ruháját a városligeti PeCsa azért, hogy otthont adjon a Napfényes Fesztiválnak, a testi-lelki-szellemi egészség egyik legnagyobb hazai nonprofit rendezvényének.]]></description>
+   <category>Életmód</category>
+   <pubDate>Sat, 25 May 2013 10:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kultúrfánk – igazi farsangi csemege!]]></title>
+   <link>http://mno.hu/grund/jasz-andras-kulturfunk-a-farsangi-zenei-csemege-1139108?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Balikó Nándor</author>
+   <description><![CDATA[Első önálló albumával jelentkezik a Ghymes közönségkedvenc szaxofonosa, Jász András, a hazai zenei élet irigylésre méltóan sokoldalú muzsikusa. Rhythm and blues, dzsessz és Kultúrfunk minden mennyiségben!]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Sat, 16 Feb 2013 11:35:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Asha, a kozmikus trubadúr]]></title>
+   <link>http://mno.hu/grund/asha-a-kozmikus-trubadur-1079435?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Balikó Nándor</author>
+   <description><![CDATA[Június 3-án este a Pecsa Music Hallban első ízben ad koncertet hazánkban Asher Quinn (Asha), a spirituális zenei irányzat koronázatlan királya. Ezen apropóból készítettünk vele exkluzív interjút.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Tue, 29 May 2012 17:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Alkimista varázslat: vízzé átlényegülő olaj + Kép]]></title>
+   <link>http://mno.hu/migr/alkimista-varazslat-vizze-atlenyegulo-olaj-+-kep-876433?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Balikó Nándor</author>
+   <description><![CDATA[A nyári szabadság után szeptember 8-án, csütörtökön este 7 órakor Kucsora Márta <em>Fluidum</em> című kiállításával nyitja meg újra kapuit a B55 Kortárs Galéria. A képek az önfeledt vakáció vízparti idilljét lopják vissza a nézők szívébe, bárhol is töltötték a nyarat – tenger, tó, folyó, vagy akár csak egy medence partján.]]></description>
+   <category>Archívum</category>
+   <pubDate>Mon, 05 Sep 2011 09:00:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

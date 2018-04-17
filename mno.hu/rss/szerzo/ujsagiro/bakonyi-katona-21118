@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Bákonyi-Katona]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/bakonyi-katona-21118</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Sun, 15 Apr 2018 03:54:12 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Gyurcsány felfalhatja a baloldalt]]></title>
+   <link>http://mno.hu/belfold/gyurcsany-felfalhatja-a-baloldalt-1252216?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Bákonyi-Katona</author>
+   <description><![CDATA[A közös főpolgármester-jelölt körüli hatalmi harc és káosz nyilvánvalóvá tette a baloldali kis pártok krízisét.]]></description>
+   <category>Belföld</category>
+   <pubDate>Thu, 09 Oct 2014 06:27:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Visszautasította Gyurcsányt Bajnai]]></title>
+   <link>http://mno.hu/belfold/nem-mennek-el-gyurcsanyek-tuntetesere-1232471?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Bákonyi-Katona</author>
+   <description><![CDATA[Csak akkor van értelme egy egységes baloldali demonstrációnak Budapesten, ha van közös választási stratégia.]]></description>
+   <category>Belföld</category>
+   <pubDate>Tue, 17 Jun 2014 05:30:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nem kell hívni az MSZP-seket, jönnek maguktól]]></title>
+   <link>http://mno.hu/belfold/szilankokra-hullik-a-baloldal-1231291?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Bákonyi-Katona</author>
+   <description><![CDATA[Kolber István szerint maguktól jönnek a Demokratikus Koalícióba az MSZP-sek.]]></description>
+   <category>Belföld</category>
+   <pubDate>Tue, 10 Jun 2014 05:10:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Baloldali helyezkedés az őszi választásokra]]></title>
+   <link>http://mno.hu/belfold/baloldali-helyezkedes-az-oszi-valasztasokra-1227882?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Bákonyi-Katona</author>
+   <description><![CDATA[Kemény harc várható a budapesti kerületek felosztásáról szóló, jövő héten kezdődő tárgyalásokon a baloldali ellenzék pártjai között.]]></description>
+   <category>Belföld</category>
+   <pubDate>Thu, 22 May 2014 04:59:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szövetséges célkereszt]]></title>
+   <link>http://mno.hu/belfold/szovetseges-celkereszt-1227250?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Bákonyi-Katona</author>
+   <description><![CDATA[Tovább gyengítenék az MSZP-t a balliberális pártok, Molnár Zsolt megbuktatása csak a kezdet.]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 19 May 2014 04:58:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Kircsi Péter]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/kircsi-peter-24971</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Fri, 13 Apr 2018 21:02:13 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[„Apa, te mexikói vagy!”]]></title>
+   <link>http://mno.hu/grund/apa-te-mexikoi-vagy-louis-ck-budapesten-1359038?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kircsi Péter</author>
+   <enclosure url="http://mno.hu/data/cikkek/1359/13590/cikk-1359038/louis-ck.jpg" length="168876" type="image/jpeg"/>
+   <description><![CDATA[Itt járt a világ egyik legismertebb, amúgy magyar származású humoristája. Louis C.K. testközelből.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Sun, 28 Aug 2016 19:43:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

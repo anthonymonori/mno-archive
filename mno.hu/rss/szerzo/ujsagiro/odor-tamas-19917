@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Ódor Tamás]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/odor-tamas-19917</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 05:58:05 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Leminősítették Németországot: viszlát, AAA]]></title>
+   <link>http://mno.hu/penzpiacok/leminositettek-nemetorszagot-viszlat-aaa-1110164?utm_source=feed&amp;utm_medium=rss</link>
+   <author>GlobalFX, Ódor Tamás</author>
+   <description><![CDATA[A svájci I-CV hitelminősítő megvonta Németország AAA-s besorolását.]]></description>
+   <category>Pénzpiacok</category>
+   <pubDate>Mon, 08 Oct 2012 14:52:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A görögök a krízis ellenére Formula-1-es pályát építenének]]></title>
+   <link>http://mno.hu/penzpiacok/a-gorogok-a-krizis-ellenere-formula-1-es-palyat-epitenenek-1109447?utm_source=feed&amp;utm_medium=rss</link>
+   <author>GlobalFX, Ódor Tamás</author>
+   <description><![CDATA[Görögország köztudottan komoly problémákkal küzd, milliárdos EU-s segélyekre szorul és masszív reformokra kényszerül. Ennek ellenére a görög kormány 29 millió eurós fejlesztési összeget engedélyezett egy Formula–1-es pálya építéséhez.]]></description>
+   <category>Pénzpiacok</category>
+   <pubDate>Thu, 04 Oct 2012 11:31:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A spanyol bankoknak 70-80 milliárd euróra lenne szükségük]]></title>
+   <link>http://mno.hu/penzpiacok/a-spanyol-bankoknak-70-80-milliard-eurora-lenne-szukseguk-1106731?utm_source=feed&amp;utm_medium=rss</link>
+   <author>GlobalFX, Ódor Tamás</author>
+   <description><![CDATA[A bajba jutott spanyol bankok stressztesztje várhatóan negatív eredménnyel zárul. Szakértők szerint legalább 70-80 milliárd euró kellene a megtépázott spanyol bankrendszer rendbe tételéhez.]]></description>
+   <category>Pénzpiacok</category>
+   <pubDate>Fri, 21 Sep 2012 11:24:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[S&P: az ESM-mel kapcsolatos döntés nem befolyásolja a besorolásokat]]></title>
+   <link>http://mno.hu/penzpiacok/sp-az-esm-mel-kapcsolatos-dontes-nem-befolyasolja-a-besorolasokat-1104951?utm_source=feed&amp;utm_medium=rss</link>
+   <author>GlobalFX, Ódor Tamás</author>
+   <description><![CDATA[A Standard & Poor's (S&P) nyilatkozata szerint a német alkotmánybíróság mai döntése az Európai Stabilitási Mechanizmussal (ESM) kapcsolatban nem fogja befolyásolni az euróövezet tagállamainak besorolását. ]]></description>
+   <category>Pénzpiacok</category>
+   <pubDate>Wed, 12 Sep 2012 14:50:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az oroszok eladnák a feltáratlan aranylelőhelyeket]]></title>
+   <link>http://mno.hu/penzpiacok/az-oroszok-eladnak-a-feltaratlan-aranylelohelyeket-1104736?utm_source=feed&amp;utm_medium=rss</link>
+   <author>GlobalFX, Ódor Tamás</author>
+   <description><![CDATA[Egyes sajtóértesülések szerint Oroszország elárverezné legnagyobb, eddig feltáratlan aranylelőhelyét. A szibériai Suchoi Log lelőhelyen a becslések szerint 2000-3000 tonna arany található a mélyben. ]]></description>
+   <category>Pénzpiacok</category>
+   <pubDate>Tue, 11 Sep 2012 15:23:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

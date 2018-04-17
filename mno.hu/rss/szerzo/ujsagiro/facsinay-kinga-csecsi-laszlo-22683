@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Facsinay Kinga – Csécsi László]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/facsinay-kinga-csecsi-laszlo-22683</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Fri, 13 Apr 2018 12:52:23 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Rosszul járnak a TTIP-vel az európai gazdák]]></title>
+   <link>http://mno.hu/kulfold/rosszul-jarnak-a-ttip-vel-az-europai-gazdak-1343489?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Facsinay Kinga – Csécsi László</author>
+   <enclosure url="http://mno.hu/data/cikkek/1343/13434/cikk-1343489/MNO_000_B16IO.jpg" length="300585" type="image/jpeg"/>
+   <description><![CDATA[Agrárágazatok tűnhetnek el, míg a génmódosított termékek teret nyerhetnek; fontos lenne a nemzeti vétó.]]></description>
+   <category>Külföld</category>
+   <pubDate>Mon, 23 May 2016 06:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Aggódhatunk a nyugdíjunkért]]></title>
+   <link>http://mno.hu/belfold/aggodhatunk-a-nyugdijunkert-1295666?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Facsinay Kinga – Csécsi László</author>
+   <description><![CDATA[Felértékelődik az öngondoskodás, mert kezelhetetlen lesz az állami rendszer.]]></description>
+   <category>Belföld</category>
+   <pubDate>Fri, 17 Jul 2015 07:02:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

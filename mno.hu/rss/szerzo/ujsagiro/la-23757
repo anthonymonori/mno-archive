@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: L.Á.]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/la-23757</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Fri, 13 Apr 2018 16:34:14 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Kiszúrták az aranyat Imre Géza kezéből]]></title>
+   <link>http://mno.hu/rio2016/imre-geza-ezustermes-lett-1356007?utm_source=feed&amp;utm_medium=rss</link>
+   <author>B.M.L., P.Gy.L., L.Á.</author>
+   <enclosure url="http://mno.hu/data/cikkek/1356/13560/cikk-1356007/imreezust2.jpg" length="399051" type="image/jpeg"/>
+   <description><![CDATA[Újabb magyar érem a vívócsarnokban: a 41 éves Imre Géza második lett a férfi párbajtőrözők között.]]></description>
+   <category>Rio 2016</category>
+   <pubDate>Tue, 09 Aug 2016 23:15:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Négygólos vereség a franciáktól]]></title>
+   <link>http://mno.hu/sport/negygolos-vereseg-a-franciaktol-1341738?utm_source=feed&amp;utm_medium=rss</link>
+   <author>RZ, L.Á.</author>
+   <enclosure url="http://mno.hu/data/cikkek/1341/13417/cikk-1341738/K_EPA20160510114.jpg" length="221264" type="image/jpeg"/>
+   <description><![CDATA[Bár voltak jó momentumaink, az ellenfél fölénk tudott kerekedni.]]></description>
+   <category>Sport</category>
+   <pubDate>Tue, 10 May 2016 22:17:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hol kajakozik, hol főz a világbajnok?]]></title>
+   <link>http://mno.hu/sport/hol-kajakozik-hol-foz-a-vilagbajnok-1329228?utm_source=feed&amp;utm_medium=rss</link>
+   <author>L.Á.</author>
+   <enclosure url="http://mno.hu/data/cikkek/1329/13292/cikk-1329228/karasz_anna_grid2_fekvo_lead.jpg" length="84901" type="image/jpeg"/>
+   <description><![CDATA[A dán válogatott férfi tagjaival készül Kárász Anna.]]></description>
+   <category>Sport</category>
+   <pubDate>Wed, 17 Feb 2016 17:25:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Fölényesen győztek a magyar hokisok]]></title>
+   <link>http://mno.hu/sport/a-magyar-hokisok-folenyesen-vertek-az-eszteket-1328547?utm_source=feed&amp;utm_medium=rss</link>
+   <author>L.Á.</author>
+   <enclosure url="http://mno.hu/data/cikkek/1328/13285/cikk-1328547/20160212_Belo16.jpg" length="376498" type="image/jpeg"/>
+   <description><![CDATA[Magyarország–Észtország 7-1.]]></description>
+   <category>Sport</category>
+   <pubDate>Fri, 12 Feb 2016 21:05:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hosszú-történet: Szilágyi ingyen játszotta a főszerepet]]></title>
+   <link>http://mno.hu/sport/szilagyi-aron-ingyen-jatszotta-a-foszerepet-1322778?utm_source=feed&amp;utm_medium=rss</link>
+   <author>A. A., L.Á.</author>
+   <enclosure url="http://mno.hu/data/cikkek/1322/13227/cikk-1322778/szilagyi_jakimenko_uj_fekvo_lead.jpg" length="69130" type="image/jpeg"/>
+   <description><![CDATA[Óriásplakátokért, reklámfilmekért a kajak-kenu olimpiai bajnokai sem kapnak pénzt. ]]></description>
+   <category>Sport</category>
+   <pubDate>Sat, 09 Jan 2016 11:15:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

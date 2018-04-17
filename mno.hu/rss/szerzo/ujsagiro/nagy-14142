@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: nagy]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/nagy-14142</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Fri, 13 Apr 2018 05:20:47 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Felmentett rendőrök]]></title>
+   <link>http://mno.hu/belfold/felmentett-rendorok-1282768?utm_source=feed&amp;utm_medium=rss</link>
+   <author>nagy</author>
+   <description><![CDATA[Bizonyítottság hiányában felmentette a Pesti Központi Kerületi Bíróság Sz. Tamást és B. Norbertet.]]></description>
+   <category>Belföld</category>
+   <pubDate>Tue, 21 Apr 2015 06:30:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Romtemplom és sztúpa a balatoni úton]]></title>
+   <link>http://mno.hu/erdokerulo/romtemplom-es-sztupa-abalatoni-uton-1278880?utm_source=feed&amp;utm_medium=rss</link>
+   <author>nagy</author>
+   <description><![CDATA[Annak a bizonyos másfél millió lépésnek még mindig csak az elején járunk.]]></description>
+   <category>Erdőkerülő</category>
+   <pubDate>Sun, 29 Mar 2015 10:27:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Elítélték Zalatnayt]]></title>
+   <link>http://mno.hu/belfold/eliteltek-zalatnayt-1277903?utm_source=feed&amp;utm_medium=rss</link>
+   <author>nagy</author>
+   <description><![CDATA[Bűnösnek találta és másfél év – három évre felfüggesztett – börtönbüntetésre ítélte Zalatnay Saroltát a Budaörsi Járásbíróság.]]></description>
+   <category>Belföld</category>
+   <pubDate>Thu, 19 Mar 2015 06:10:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szakértői vélemény a bántalmazásról ]]></title>
+   <link>http://mno.hu/belfold/szakertoi-velemeny-a-bantalmazasrol-1276999?utm_source=feed&amp;utm_medium=rss</link>
+   <author>nagy</author>
+   <description><![CDATA[Egy orvos szakértői véleményen dőlhetett meg a szemérem elleni erőszak vádja.]]></description>
+   <category>Belföld</category>
+   <pubDate>Fri, 13 Mar 2015 05:55:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Sárvárról Sümegre visz az út]]></title>
+   <link>http://mno.hu/erdokerulo/sarvarrol-sumegre-visz-az-ut-1273828?utm_source=feed&amp;utm_medium=rss</link>
+   <author>nagy</author>
+   <description><![CDATA[A nyugati határszélről indulunk el, hogy az Országos Kéktúra vonalán képzeletben mi is megtegyük azt a bizonyos másfél millió lépést.]]></description>
+   <category>Erdőkerülő</category>
+   <pubDate>Sun, 22 Feb 2015 10:28:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nyugatról keletre a Kéktúrán]]></title>
+   <link>http://mno.hu/erdokerulo/nyugatrol-keletre-a-kekturan-1269448?utm_source=feed&amp;utm_medium=rss</link>
+   <author>nagy</author>
+   <description><![CDATA[Utunk az Országos Kéktúra vonalán halad végig Írott-kőtől Hollóházáig, több mint 1100 kilométeren.]]></description>
+   <category>Erdőkerülő</category>
+   <pubDate>Sun, 25 Jan 2015 09:59:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Pillantás a határokon túlra]]></title>
+   <link>http://mno.hu/erdokerulo/pillantas-a-hatarokon-tulra-1264110?utm_source=feed&amp;utm_medium=rss</link>
+   <author>nagy</author>
+   <description><![CDATA[Sorozatunk végén átlépjük a trianoni határt, s egy rövid kirándulást teszünk Kárpátalján, majd pedig Erdélyben.]]></description>
+   <category>Erdőkerülő</category>
+   <pubDate>Sun, 21 Dec 2014 10:30:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Csillaglesen Baranya megyében]]></title>
+   <link>http://mno.hu/erdokerulo/csillaglesen-baranya-megyeben-1260905?utm_source=feed&amp;utm_medium=rss</link>
+   <author>nagy</author>
+   <description><![CDATA[Sorozatunk végéhez közeledve a Hortobágy és a Kunság síkja után átkeltünk a Dunán, hogy Baranya megye erdős-dombos vidékén kiránduljunk egyet az Almamelléki Állami Erdei Vasúttal, mielőtt a hét határon túlra tekintenénk – búcsúzóul.]]></description>
+   <category>Erdőkerülő</category>
+   <pubDate>Sun, 30 Nov 2014 10:26:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hortobágy: az Alföld legjava]]></title>
+   <link>http://mno.hu/erdokerulo/hortobagy-az-alfold-legjava-1249115?utm_source=feed&amp;utm_medium=rss</link>
+   <author>nagy</author>
+   <description><![CDATA[A puszta e része gazdag madárvilágával védetté vált, ez a vasút helyzetére is kihatott.]]></description>
+   <category>Erdőkerülő</category>
+   <pubDate>Tue, 23 Sep 2014 10:18:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Gúth? Debrecen? Zsuzsi!]]></title>
+   <link>http://mno.hu/erdokerulo/guth-debrecen-zsuzsi-1244929?utm_source=feed&amp;utm_medium=rss</link>
+   <author>nagy</author>
+   <description><![CDATA[Vasutas országjárásunk a hegyvidék után az Alföldön folytatódik, ahol igazi kuriózum vár ránk. Úgy hívják: Zsuzsi.]]></description>
+   <category>Erdőkerülő</category>
+   <pubDate>Sun, 31 Aug 2014 10:27:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Sipost még sokáig kísérti a múlt]]></title>
+   <link>http://mno.hu/belfold/sipost-meg-sokaig-kiserti-a-mult-1241714?utm_source=feed&amp;utm_medium=rss</link>
+   <author>nagy</author>
+   <description><![CDATA[Az egykor tanárként dolgozó pedofil férfi ügyét várhatóan ezen a héten kezdik vizsgálni a köztévénél.]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 11 Aug 2014 07:10:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Tűzifa- és ételosztás a rászorulóknak]]></title>
+   <link>http://mno.hu/erdokerulo/ezernyi-segitseg-tuzifa-es-etelosztas-a-raszoruloknak-1215901?utm_source=feed&amp;utm_medium=rss</link>
+   <author>nagy</author>
+   <description><![CDATA[Idén is folytatja Ezernyi segítség című jótékonysági akcióját a Verga Veszprémi Erdőgazdaság Zrt.]]></description>
+   <category>Erdőkerülő</category>
+   <pubDate>Sun, 16 Mar 2014 14:53:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Vadászok a beteg gyermekekért ]]></title>
+   <link>http://mno.hu/erdokerulo/vadaszok-a-beteg-gyermekekert-1209774?utm_source=feed&amp;utm_medium=rss</link>
+   <author>nagy</author>
+   <description><![CDATA[Két infúziós pumpát vásároltak a jótékonysági vadászat bevételéből.]]></description>
+   <category>Erdőkerülő</category>
+   <pubDate>Sun, 09 Feb 2014 15:20:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Múzeum a gemenci erdő szélén]]></title>
+   <link>http://mno.hu/erdokerulo/muzeum-a-gemenci-erdo-szelen-1197975?utm_source=feed&amp;utm_medium=rss</link>
+   <author>nagy</author>
+   <description><![CDATA[Szekszárdtól nyolc kilométerre, a Keselyűsi út mentén találunk rá a Gemenci Kirándulóközpontra. ]]></description>
+   <category>Erdőkerülő</category>
+   <pubDate>Sun, 01 Dec 2013 09:46:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Cegléden az oktatás szolgálatában]]></title>
+   <link>http://mno.hu/erdokerulo/cegleden-az-oktatas-szolgalataban-1192959?utm_source=feed&amp;utm_medium=rss</link>
+   <author>nagy</author>
+   <description><![CDATA[Cegléd szélén több mint egy évtizede múzeum és oktatóstúdió szolgálja a hazai vadászatot és természetvédelmet.]]></description>
+   <category>Erdőkerülő</category>
+   <pubDate>Sun, 03 Nov 2013 09:47:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Külföldön már slágertermék a magyar vadhús]]></title>
+   <link>http://mno.hu/erdokerulo/kulfoldon-mar-slagertermek-a-magyar-vadhus-1182488?utm_source=feed&amp;utm_medium=rss</link>
+   <author>nagy</author>
+   <description><![CDATA[A hazai fogyasztók bizonytalanok, pedig a honi vadhús kiváló és sokféleképpen elkészíthető.]]></description>
+   <category>Erdőkerülő</category>
+   <pubDate>Fri, 06 Sep 2013 10:45:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kecskeméten is Muzsikál az erdő]]></title>
+   <link>http://mno.hu/erdokerulo/kecskemeten-is-muzsikal-az-erdo-1177584?utm_source=feed&amp;utm_medium=rss</link>
+   <author>nagy</author>
+   <description><![CDATA[Idén először az Alföldön is bemutatkozik a nagy sikerű zenei fesztivál.]]></description>
+   <category>Erdőkerülő</category>
+   <pubDate>Sat, 10 Aug 2013 09:28:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kalandozás a Szalajka völgyében]]></title>
+   <link>http://mno.hu/erdokerulo/kalandozas-a-szalajka-volgyeben-1170923?utm_source=feed&amp;utm_medium=rss</link>
+   <author>nagy</author>
+   <description><![CDATA[Szilvásvárad és környéke több kiállítóterét csokorban mutatjuk be. Egyben bizonyítjuk, hogy a Szalajka-völgy nem csak a bakancsos turisták paradicsoma.]]></description>
+   <category>Erdőkerülő</category>
+   <pubDate>Sun, 21 Jul 2013 10:59:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Méltatlanul elfeledve: Bársony István munkássága]]></title>
+   <link>http://mno.hu/erdokerulo/meltatlanul-elfeledve-barsony-istvan-munkassaga-1162140?utm_source=feed&amp;utm_medium=rss</link>
+   <author>nagy</author>
+   <description><![CDATA[Tizedik alkalommal tartja meg prózamondó versenyét a Bársony István Alapítvány; az esemény idén is a vadászati kultúra napjának műsorán szerepel.]]></description>
+   <category>Erdőkerülő</category>
+   <pubDate>Tue, 21 May 2013 12:03:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Vadászati kiállítás Magyarszombatfán]]></title>
+   <link>http://mno.hu/erdokerulo/vadaszati-kiallitas-magyarszombatfan-1157334?utm_source=feed&amp;utm_medium=rss</link>
+   <author>nagy</author>
+   <description><![CDATA[Célunk ezúttal az Őrség, azon belül is Magyarszombatfa, ahol 2003 májusában nyílt vadászati kiállítás a település főutcáján.]]></description>
+   <category>Erdőkerülő</category>
+   <pubDate>Sat, 27 Apr 2013 07:39:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Sokszínű vadászati kiállítás Gyöngyösön]]></title>
+   <link>http://mno.hu/erdokerulo/sokszinu-vadaszati-kiallitas-gyongyoson-1147312?utm_source=feed&amp;utm_medium=rss</link>
+   <author>nagy</author>
+   <description><![CDATA[A „mindenki egy tárgyat a múzeumnak” akció megteremtette egy sokszínű vadászati gyűjtemény alapjait, és a tárlat anyaga akkorára nőtt, hogy 1996-ban megnyílt az állandó kiállítás.]]></description>
+   <category>Erdőkerülő</category>
+   <pubDate>Sun, 31 Mar 2013 09:07:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kötelező zarándokhely Dombóváron]]></title>
+   <link>http://mno.hu/erdokerulo/kotelezo-zarandokhely-dombovaron-1140435?utm_source=feed&amp;utm_medium=rss</link>
+   <author>nagy</author>
+   <description><![CDATA[Fekete István dombóvári múzeumát Bodó Imre a 90-es évek közepén alapította.]]></description>
+   <category>Erdőkerülő</category>
+   <pubDate>Fri, 22 Feb 2013 08:27:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Egy képnek igazat kell mondania]]></title>
+   <link>http://mno.hu/erdokerulo/egy-kepnek-igazat-kell-mondania-1128388?utm_source=feed&amp;utm_medium=rss</link>
+   <author>nagy</author>
+   <description><![CDATA[Pócz Dániel az erdőben nem fegyverrel, hanem csak a szemével vadászik.]]></description>
+   <category>Erdőkerülő</category>
+   <pubDate>Fri, 04 Jan 2013 07:08:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Vadaspark a főváros közelében]]></title>
+   <link>http://mno.hu/erdokerulo/vadaspark-a-fovaros-kozeleben-1116002?utm_source=feed&amp;utm_medium=rss</link>
+   <author>nagy</author>
+   <description><![CDATA[Folyamatosan fejlesztik a vadászható vadfajainknak is otthont adó intézményt.]]></description>
+   <category>Erdőkerülő</category>
+   <pubDate>Thu, 08 Nov 2012 03:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az élő puszta: tengersík Hortobágy]]></title>
+   <link>http://mno.hu/erdokerulo/az-elo-puszta-tengersik-hortobagy-1103593?utm_source=feed&amp;utm_medium=rss</link>
+   <author>nagy</author>
+   <description><![CDATA[Ha eltekintünk a főváros sokszínű látványosságaitól, Magyarországot két tájegységéről ismeri a legtöbb külföldi. ]]></description>
+   <category>Erdőkerülő</category>
+   <pubDate>Thu, 06 Sep 2012 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Sokszínű élet a déli pusztaságon]]></title>
+   <link>http://mno.hu/erdokerulo/sokszinu-elet-a-deli-pusztasagon-1096190?utm_source=feed&amp;utm_medium=rss</link>
+   <author>nagy</author>
+   <description><![CDATA[Távol a pusztától, a fővárosi betonrengetegben hajlamosak vagyunk azt hinni, hogy az Alföld szegényes sík vidék, fűvel borított vagy szikes táj.]]></description>
+   <category>Erdőkerülő</category>
+   <pubDate>Thu, 02 Aug 2012 00:37:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Egyedülálló ártéri világ a Dunánál]]></title>
+   <link>http://mno.hu/erdokerulo/egyedulallo-arteri-vilag-a-dunanal-1055980?utm_source=feed&amp;utm_medium=rss</link>
+   <author>nagy</author>
+   <description><![CDATA[Néhány órányira a fővárostól Közép-Európa egyik legnagyobb összefüggő és működő ártéri rendszere várja a látogatókat. ]]></description>
+   <category>Erdőkerülő</category>
+   <pubDate>Thu, 01 Mar 2012 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Századik évfolyamába lépett a Nimród]]></title>
+   <link>http://mno.hu/erdokerulo/szazadik-evfolyamaba-lepett-a-nimrod-1048021?utm_source=feed&amp;utm_medium=rss</link>
+   <author>nagy</author>
+   <description><![CDATA[Századik évfolyamát kezdte az idén a Nimród, hazánk legrégebbi folyamatosan megjelenő vadászati magazinja.]]></description>
+   <category>Erdőkerülő</category>
+   <pubDate>Thu, 02 Feb 2012 03:31:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Milliárdos pénzmosás]]></title>
+   <link>http://mno.hu/migr_1834/milliardos_penzmosas-260811?utm_source=feed&amp;utm_medium=rss</link>
+   <author>nagy</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Sat, 27 Mar 2010 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Napi sajtószemle]]></title>
+   <link>http://mno.hu/migr_1834/napi_sajtoszemle-271080?utm_source=feed&amp;utm_medium=rss</link>
+   <author>nagy</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Fri, 13 Nov 2009 00:00:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

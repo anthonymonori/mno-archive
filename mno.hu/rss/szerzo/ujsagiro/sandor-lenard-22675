@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Sándor Lénárd]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/sandor-lenard-22675</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Sat, 14 Apr 2018 19:01:00 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[A beruházásvédelem csapdájában]]></title>
+   <link>http://mno.hu/velemeny/a-beruhazasvedelem-csapdajaban-1384991?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sándor Lénárd</author>
+   <enclosure url="http://mno.hu/data/cikkek/1384/13849/cikk-1384991/MNO_000_KJ43L.jpg" length="359037" type="image/jpeg"/>
+   <description><![CDATA[Meglehetősen nagy hatalom került a választott bíróságok kezébe.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Wed, 08 Feb 2017 20:05:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A nemzetközi jog nagy adóssága]]></title>
+   <link>http://mno.hu/velemeny/a-nemzetkozi-jog-nagy-adossaga-1374389?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sándor Lénárd</author>
+   <enclosure url="http://mno.hu/data/cikkek/1374/13743/cikk-1374389/MNO_K_EPA20040912054.jpg" length="779228" type="image/jpeg"/>
+   <description><![CDATA[Kimutatható a kapcsolat a válságok és a polgárháborúk kirobbanása között.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Fri, 02 Dec 2016 19:52:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A jelenkor legnagyobb kihívása]]></title>
+   <link>http://mno.hu/velemeny/a-jelenkor-legnagyobb-kihivasa-1313435?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sándor Lénárd</author>
+   <enclosure url="http://mno.hu/data/cikkek/1313/13134/cikk-1313435/000_Hkg4788682.jpg" length="346376" type="image/jpeg"/>
+   <description><![CDATA[A nemzetközi jog nem teremt egyensúlyt az államok és a nagyvállalatok érdekei között.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Sun, 15 Nov 2015 07:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A Világbank és visszaélései]]></title>
+   <link>http://mno.hu/velemeny/a-vilagbank-es-visszaelesei-1302988?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sándor Lénárd</author>
+   <description><![CDATA[Sokszor éppen a hátrányos helyzetű helyi közösségeket sodorják még kiszolgáltatottabb helyzetbe.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Fri, 04 Sep 2015 14:14:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A multicégek mossák kezeiket]]></title>
+   <link>http://mno.hu/velemeny/a-multicegek-mossak-kezeiket-1295394?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sándor Lénárd</author>
+   <description><![CDATA[A globális gazdaságnak akkor van létjogosultsága,  ha a kockázatokat is viselik a nagyvállalatok.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Wed, 15 Jul 2015 16:05:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

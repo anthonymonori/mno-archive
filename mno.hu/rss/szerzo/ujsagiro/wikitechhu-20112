@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: WikiTech.hu]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/wikitechhu-20112</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 17:58:44 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Továbbra is készít Apple processzort a Samsung]]></title>
+   <link>http://mno.hu/wikitech/tovabbra-is-keszit-apple-processzort-a-samsung-1200257?utm_source=feed&amp;utm_medium=rss</link>
+   <author>WikiTech.hu</author>
+   <description><![CDATA[A TSMC mellett a Samsung is beszállhat az Apple A8 processzorának gyártásába.]]></description>
+   <category>WikiTech</category>
+   <pubDate>Mon, 16 Dec 2013 07:12:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hamarosan telefonálhatunk a repülőkön?]]></title>
+   <link>http://mno.hu/wikitech/hamarosan-telefonalhatunk-a-repulokon-1200426?utm_source=feed&amp;utm_medium=rss</link>
+   <author>WikiTech.hu</author>
+   <description><![CDATA[Az amerikai FCC vizsgálja a repülés közbeni hívások engedélyezését.]]></description>
+   <category>WikiTech</category>
+   <pubDate>Sun, 15 Dec 2013 13:18:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Óriási összeggel támogatja a Samsungot a Microsoft]]></title>
+   <link>http://mno.hu/wikitech/oriasi-osszeggel-tamogatja-a-samsungot-a-microsoft-1200417?utm_source=feed&amp;utm_medium=rss</link>
+   <author>WikiTech.hu</author>
+   <description><![CDATA[Meglepő lépéssel növelné a platform népszerűségét a Microsoft.]]></description>
+   <category>WikiTech</category>
+   <pubDate>Sun, 15 Dec 2013 10:30:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nem ismétli meg elődje sikerét a Wii U]]></title>
+   <link>http://mno.hu/wikitech/nem-ismetli-meg-elodje-sikeret-a-wii-u-1200428?utm_source=feed&amp;utm_medium=rss</link>
+   <author>WikiTech.hu</author>
+   <description><![CDATA[Egy elemzés szerint alig 25 millió darab fogyhat a Wii U-ból.]]></description>
+   <category>WikiTech</category>
+   <pubDate>Sat, 14 Dec 2013 18:06:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Januárban jöhet az LG Gx]]></title>
+   <link>http://mno.hu/wikitech/januarban-johet-az-lg-gx-1200423?utm_source=feed&amp;utm_medium=rss</link>
+   <author>WikiTech.hu</author>
+   <description><![CDATA[A CES-en mutatkozhat be az LG új modellje.]]></description>
+   <category>WikiTech</category>
+   <pubDate>Sat, 14 Dec 2013 13:54:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Jól fogy a Samsung Galaxy Note 3]]></title>
+   <link>http://mno.hu/wikitech/jol-fogy-a-samsung-galaxy-note-3-1200434?utm_source=feed&amp;utm_medium=rss</link>
+   <author>WikiTech.hu</author>
+   <description><![CDATA[60 nap kellett az első 10 millió darabhoz.
+]]></description>
+   <category>WikiTech</category>
+   <pubDate>Sat, 14 Dec 2013 13:11:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Rekodmennyiségű iPhone-t értékesíthet az Apple]]></title>
+   <link>http://mno.hu/wikitech/rekod-mennyisegu-iphone-t-ertekesithet-az-apple-1200431?utm_source=feed&amp;utm_medium=rss</link>
+   <author>WikiTech.hu</author>
+   <description><![CDATA[Minden eddiginél több iPhone találhat gazdára.]]></description>
+   <category>WikiTech</category>
+   <pubDate>Fri, 13 Dec 2013 17:13:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Üzenjünk képekkel: itt az Instagram Direct]]></title>
+   <link>http://mno.hu/wikitech/uzenjunk-kepekkel-itt-az-instagram-direct-1200412?utm_source=feed&amp;utm_medium=rss</link>
+   <author>WikiTech.hu</author>
+   <description><![CDATA[Bemutatkozott az Instagram üzenetküldő szolgáltatása.]]></description>
+   <category>WikiTech</category>
+   <pubDate>Fri, 13 Dec 2013 12:07:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kétmilliónál jár az Xbox One]]></title>
+   <link>http://mno.hu/wikitech/ketmillional-jar-az-xbox-one-1200258?utm_source=feed&amp;utm_medium=rss</link>
+   <author>WikiTech.hu</author>
+   <description><![CDATA[18 nap alatt kétmillió példányban talált gazdára az Xbox One.]]></description>
+   <category>WikiTech</category>
+   <pubDate>Fri, 13 Dec 2013 07:19:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Mától itthon is elérhető a Spotify]]></title>
+   <link>http://mno.hu/wikitech/matol-itthon-is-elerheto-a-spotify-1200250?utm_source=feed&amp;utm_medium=rss</link>
+   <author>WikiTech.hu</author>
+   <description><![CDATA[Ingyenesen válogathatunk a több mint 20 millió zeneszámból.
+]]></description>
+   <category>WikiTech</category>
+   <pubDate>Thu, 12 Dec 2013 16:38:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Tavasszal jöhet az első androidos Nokia]]></title>
+   <link>http://mno.hu/wikitech/tavasszal-johet-az-elso-androidos-nokia-1200069?utm_source=feed&amp;utm_medium=rss</link>
+   <author>WikiTech.hu</author>
+   <description><![CDATA[Fejlesztés alatt áll egy androidos Nokia modell.]]></description>
+   <category>WikiTech</category>
+   <pubDate>Thu, 12 Dec 2013 10:53:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Bemutatkozott az Asus Padfone Mini]]></title>
+   <link>http://mno.hu/wikitech/bemutatkozott-az-asus-padfone-mini-1200072?utm_source=feed&amp;utm_medium=rss</link>
+   <author>WikiTech.hu</author>
+   <description><![CDATA[A mai napon hivatalosan is leleplezték az Asus újdonságát.
+]]></description>
+   <category>WikiTech</category>
+   <pubDate>Thu, 12 Dec 2013 07:34:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hadonászással vezérelhetjük a jövő okostelefonját]]></title>
+   <link>http://mno.hu/wikitech/hadonaszassal-vezerelhetjuk-a-jovo-okostelefonjat-1200076?utm_source=feed&amp;utm_medium=rss</link>
+   <author>WikiTech.hu</author>
+   <description><![CDATA[Jövő ilyenkor jelenhet meg az első Leap Motion technológiával szerelt készülék.
+]]></description>
+   <category>WikiTech</category>
+   <pubDate>Wed, 11 Dec 2013 17:18:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Rekordmértékű eladásra készül a Samsung]]></title>
+   <link>http://mno.hu/wikitech/rekordmerteku-eladasra-keszul-a-samsung-1199883?utm_source=feed&amp;utm_medium=rss</link>
+   <author>WikiTech.hu</author>
+   <description><![CDATA[330 millió okostelefon eladására készül a dél-koreai óriás.]]></description>
+   <category>WikiTech</category>
+   <pubDate>Wed, 11 Dec 2013 11:36:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az Európai Bizottság figyelmeztette a Nokiát]]></title>
+   <link>http://mno.hu/wikitech/az-europai-bizottsag-figyelmeztette-a-nokiat-1199881?utm_source=feed&amp;utm_medium=rss</link>
+   <author>WikiTech.hu</author>
+   <description><![CDATA[A bizottság alelnöke szerint vissza kell majd fognia magát a Nokiának.]]></description>
+   <category>WikiTech</category>
+   <pubDate>Wed, 11 Dec 2013 08:59:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Motorola: valósággá válhat az álom]]></title>
+   <link>http://mno.hu/wikitech/motorola-valosagga-valhat-az-alom-1199650?utm_source=feed&amp;utm_medium=rss</link>
+   <author>WikiTech.hu</author>
+   <description><![CDATA[Jól halad a Motorola Ara fejlesztése.]]></description>
+   <category>WikiTech</category>
+   <pubDate>Tue, 10 Dec 2013 17:55:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az online játékosokat is megfigyelte az NSA]]></title>
+   <link>http://mno.hu/wikitech/az-online-jatekosokat-is-megfigyelte-az-nsa-1199879?utm_source=feed&amp;utm_medium=rss</link>
+   <author>WikiTech.hu</author>
+   <description><![CDATA[Terroristák után nyomoztak az internetes játékokban. ]]></description>
+   <category>WikiTech</category>
+   <pubDate>Tue, 10 Dec 2013 14:05:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Megelőzheti az iOS-t a Windows Phone]]></title>
+   <link>http://mno.hu/wikitech/megelozheti-az-ios-t-a-windows-phone-1199652?utm_source=feed&amp;utm_medium=rss</link>
+   <author>WikiTech.hu</author>
+   <description><![CDATA[Három éven belül lenyomhatja a Windows Phone az iOS-t.]]></description>
+   <category>WikiTech</category>
+   <pubDate>Tue, 10 Dec 2013 07:11:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[22 millió dollárt követel az Apple a Samsungtól]]></title>
+   <link>http://mno.hu/wikitech/22-millio-dollart-kovetel-az-apple-a-samsungtol-1199645?utm_source=feed&amp;utm_medium=rss</link>
+   <author>WikiTech.hu</author>
+   <description><![CDATA[60 millió dollárba került az Apple-nek a jogi csata.]]></description>
+   <category>WikiTech</category>
+   <pubDate>Mon, 09 Dec 2013 17:13:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Tudtodon kívül is megfigyelhet az FBI]]></title>
+   <link>http://mno.hu/wikitech/tudtodon-kivul-is-megfigyelhet-az-fbi-1199646?utm_source=feed&amp;utm_medium=rss</link>
+   <author>WikiTech.hu</author>
+   <description><![CDATA[Úgy is felvehet a webkamera, hogy nem is vesszük észre.]]></description>
+   <category>WikiTech</category>
+   <pubDate>Mon, 09 Dec 2013 13:44:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Itt a 3D-s nyomtatóval készült ehető pizza]]></title>
+   <link>http://mno.hu/wikitech/itt-a-3d-s-nyomtatoval-keszult-eheto-pizza-1199303?utm_source=feed&amp;utm_medium=rss</link>
+   <author>WikiTech.hu</author>
+   <description><![CDATA[Hamarosan eljöhet a 3D-s nyomtatóval készült pizzák kora.
+]]></description>
+   <category>WikiTech</category>
+   <pubDate>Mon, 09 Dec 2013 07:21:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Windows Phone 8-as csúcsmodellel készül a Samsung]]></title>
+   <link>http://mno.hu/wikitech/windows-phone-8-as-csucsmodellel-keszul-a-samsung-1199301?utm_source=feed&amp;utm_medium=rss</link>
+   <author>WikiTech.hu</author>
+   <description><![CDATA[Újra figyelmet szentelhet a Microsoft rendszerének a dél-koreai vállalat.
+]]></description>
+   <category>WikiTech</category>
+   <pubDate>Sun, 08 Dec 2013 20:30:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A helyén maradhat a Ford vezetője]]></title>
+   <link>http://mno.hu/wikitech/a-helyen-maradhat-a-ford-vezetoje-1199306?utm_source=feed&amp;utm_medium=rss</link>
+   <author>WikiTech.hu</author>
+   <description><![CDATA[Mégsem valószínű, hogy a Microsoft élére kerülne Alan Mullaly.
+]]></description>
+   <category>WikiTech</category>
+   <pubDate>Sun, 08 Dec 2013 12:08:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Már zajlik a jövő évi iPad alkatrészének tesztje]]></title>
+   <link>http://mno.hu/wikitech/mar-zajlik-a-jovo-evi-ipad-alkatreszenek-tesztje-1199296?utm_source=feed&amp;utm_medium=rss</link>
+   <author>WikiTech.hu</author>
+   <description><![CDATA[Jövőre mutatkozhat be az Apple óriás táblagépe.]]></description>
+   <category>WikiTech</category>
+   <pubDate>Sun, 08 Dec 2013 07:18:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az Apple nyerte a fekete pénteket]]></title>
+   <link>http://mno.hu/wikitech/az-apple-nyerte-a-fekete-penteket-1199308?utm_source=feed&amp;utm_medium=rss</link>
+   <author>WikiTech.hu</author>
+   <description><![CDATA[A legnagyobb növekedést a kaliforniai gyártó produkálta.
+]]></description>
+   <category>WikiTech</category>
+   <pubDate>Sat, 07 Dec 2013 18:18:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Bemutatkozott a Galaxy Win Pro]]></title>
+   <link>http://mno.hu/wikitech/bemutatkozott-a-galaxy-win-pro-1199299?utm_source=feed&amp;utm_medium=rss</link>
+   <author>WikiTech.hu</author>
+   <description><![CDATA[Középkategóriás modellel bővítette palettáját a Samsung.
+]]></description>
+   <category>WikiTech</category>
+   <pubDate>Sat, 07 Dec 2013 11:43:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A szoftverekre koncentrálhat a BlackBerry]]></title>
+   <link>http://mno.hu/wikitech/a-szoftverekre-koncentralhat-a-blackberry-1199080?utm_source=feed&amp;utm_medium=rss</link>
+   <author>WikiTech.hu</author>
+   <description><![CDATA[Hátat fordíthat a mobiltelefonos piacnak a BlackBerry.]]></description>
+   <category>WikiTech</category>
+   <pubDate>Sat, 07 Dec 2013 07:03:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Négy új androidos táblagépet leplezett le a HP]]></title>
+   <link>http://mno.hu/wikitech/negy-uj-androidos-tablagepet-leplezett-le-a-hp-1199294?utm_source=feed&amp;utm_medium=rss</link>
+   <author>WikiTech.hu</author>
+   <description><![CDATA[Akár 150 dolláros áron vehetünk már HP táblagépet.]]></description>
+   <category>WikiTech</category>
+   <pubDate>Fri, 06 Dec 2013 18:13:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kitiltották az HTC mobilját az Egyesült Királyságból]]></title>
+   <link>http://mno.hu/wikitech/kitiltottak-az-htc-mobiljat-az-egyesult-kiralysagbol-1198868?utm_source=feed&amp;utm_medium=rss</link>
+   <author>WikiTech.hu</author>
+   <description><![CDATA[Pert nyert a Nokia a tajvani vállalat ellen.]]></description>
+   <category>WikiTech</category>
+   <pubDate>Fri, 06 Dec 2013 12:13:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kitart a mobilok mellett az LG]]></title>
+   <link>http://mno.hu/wikitech/kitart-a-mobilok-mellett-az-lg-1197521?utm_source=feed&amp;utm_medium=rss</link>
+   <author>WikiTech.hu</author>
+   <description><![CDATA[Mégsem helyezik át a fókuszt az okostelefonokról a televíziókra.]]></description>
+   <category>WikiTech</category>
+   <pubDate>Fri, 06 Dec 2013 07:16:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Maráczi Tamás]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/maraczi-tamas-13581</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 21:18:53 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[A francia elnökválasztás a Hír TV kameráján keresztül]]></title>
+   <link>http://mno.hu/hirtvkulfold/a-francia-elnokvalasztas-a-hir-tv-kamerajan-keresztul-1395008?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Maráczi Tamás</author>
+   <enclosure url="http://mno.hu/data/cikkek/1395/13950/cikk-1395008/hirvilag.jpg" length="325546" type="image/jpeg"/>
+   <description><![CDATA[Emmanuel Macron az elit tagja, mégis elitellenes kampánnyal vált népszerűvé.]]></description>
+   <category>A Hír TV külföldi hírei</category>
+   <pubDate>Sun, 14 May 2017 05:53:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Trump példaképként tekint Ronald Reaganre]]></title>
+   <link>http://mno.hu/hetvegimagazin/trump-peldakepkent-tekint-ronald-reaganre-2392979?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Maráczi Tamás</author>
+   <enclosure url="http://mno.hu/data/cikkek/2392/23929/cikk-2392979/000_MZ5RW_896_504_1491142959.jpg" length="79683" type="image/jpeg"/>
+   <description><![CDATA[Lassan letelik az új amerikai kormányzat első száz napja. A mérlegvonásra Kurt Volkert, az USA volt NATO-nagykövetét kértük meg.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Sun, 02 Apr 2017 16:25:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Aki segített Trumpnak legyőzni a liberális médiát]]></title>
+   <link>http://mno.hu/hetvegimagazin/aki-segitett-trumpnak-legyozni-a-liberalis-mediat-1381101?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Maráczi Tamás</author>
+   <enclosure url="http://mno.hu/data/cikkek/1381/13811/cikk-1381101/RTX2SF40_896_504_1484311870.jpg" length="62225" type="image/jpeg"/>
+   <description><![CDATA[Aki január 20-ától már a világ első számú vezetőjének gondolatait fogja irányítani: Jared Kushner, a vő.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Sat, 14 Jan 2017 19:20:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Igazi mocsok kampány zajlik az USA-ban]]></title>
+   <link>http://mno.hu/hetvegimagazin/igazi-mocsok-kampany-zajlik-az-usa-ban-1369307?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Maráczi Tamás</author>
+   <enclosure url="http://mno.hu/data/cikkek/1369/13693/cikk-1369307/RTX2PMFF_896_504_1477047890.jpg" length="35519" type="image/jpeg"/>
+   <description><![CDATA[Az egyik legmocskosabb elnöki kampány zajlik az Egye­sült Államokban. A hatalom árnyékában.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Tue, 01 Nov 2016 15:20:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Mi legyen veletek, britek?]]></title>
+   <link>http://mno.hu/hetvegimagazin/brexit-ket-brit-politikust-kerdeztunk-1347721?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Maráczi Tamás</author>
+   <enclosure url="http://mno.hu/data/cikkek/1347/13477/cikk-1347721/K_EPA20160530123_grid2_fekvo_lead.jpg" length="89003" type="image/jpeg"/>
+   <description><![CDATA[Négy brit politikus, két ellentétes vélemény. Kilépjen-e az Egyesült Királyság az EU-ból?]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Sun, 19 Jun 2016 07:09:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Mutatjuk, milyen az élet a Szentföldön]]></title>
+   <link>http://mno.hu/hetvegimagazin/elmenni-a-falig-1321636?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Maráczi Tamás</author>
+   <enclosure url="http://mno.hu/data/cikkek/1321/13216/cikk-1321636/000_Nic6520482.jpg" length="226173" type="image/jpeg"/>
+   <description><![CDATA[Az izraeli telepek palesztinai terjeszkedése miatt kezd lehetetlenné válni a kétállami megoldás.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Sat, 02 Jan 2016 14:42:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Dúsított feszültség]]></title>
+   <link>http://mno.hu/migr_1834/dusitott_feszultseg-233862?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Maráczi Tamás</author>
+   <description><![CDATA[Teherán ügyes diplomáciai manőverrel lépéselőnybe került az iráni atomprogramról szóló nemzetközi sakkjátékban, ám Izraelből nézve a perzsa állam taktikája csupán időhúzás: Tel-Avivban úgy tartják, a visszaszámlálás már jó egy éve elkezdődött.]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 08 Jun 2010 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kapuk  előtt]]></title>
+   <link>http://mno.hu/migr_1834/kapuk__elott-246797?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Maráczi Tamás</author>
+   <description><![CDATA[Láthatatlan fal épül a népességrobbanás előtt álló Afrika és az elöregedő Európa között. Az unió 12 milliárd dollárt költ arra, hogy képzeletbeli ütközőzónát hozzon létre, amely megóvhatja majd az újabb népvándorlásoktól.]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 09 Feb 2010 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Útmutató a néppárttól]]></title>
+   <link>http://mno.hu/migr_1834/utmutato_a_nepparttol-307323?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Maráczi Tamás</author>
+   <description><![CDATA[Az európai baloldal ideológiai hibái miatt téves Oroszország-politikát követ, így a kereszténydemokrata pártok szövetségének kell irányt mutatnia a Moszkvához fűződő jövőbeni viszonyt illetően, derült ki az Európai Néppárt észtországi ülésén.]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Mon, 27 Apr 2009 00:00:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

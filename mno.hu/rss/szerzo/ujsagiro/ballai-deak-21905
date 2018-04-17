@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Ballai – Deák]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/ballai-deak-21905</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Sat, 14 Apr 2018 22:01:19 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Mikor és miért állt össze először az Aranycsapat?]]></title>
+   <link>http://mno.hu/foci/mikor-es-miert-allt-ossze-eloszor-az-aranycsapat-1268075?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ballai – Deák</author>
+   <description><![CDATA[Utolsó élő játékosa, Buzánszky Jenő elhunyta kapcsán az Aranycsapat történetét és tagjai sorsát dolgoztuk fel.]]></description>
+   <category>90 perc</category>
+   <pubDate>Sat, 17 Jan 2015 06:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kézilabda: az utolsó esélyt meg kell ragadni]]></title>
+   <link>http://mno.hu/sport/almodni-nem-csak-riorol-lehet-1266848?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ballai – Deák</author>
+   <description><![CDATA[Bár 2015-ről többször azt állítottuk, hogy olimpiai kvalifikációs esztendő, ez a csapatjátékokra aligha igaz.]]></description>
+   <category>Sport</category>
+   <pubDate>Fri, 09 Jan 2015 07:07:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

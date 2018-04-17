@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Lackfi János]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/lackfi-janos-13512</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 13:40:43 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Imagine]]></title>
+   <link>http://mno.hu/2percproza/imagine-2415836?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lackfi János</author>
+   <enclosure url="http://mno.hu/data/cikkek/2415/24158/cikk-2415836/024_0904691.jpg" length="569719" type="image/jpeg"/>
+   <description><![CDATA[Képzeld el, hogy mindenki mocskosul becsületes lenne, a szivarozó, lenyalt hajú maffiózók is.]]></description>
+   <category>2 perc próza</category>
+   <pubDate>Tue, 12 Sep 2017 14:32:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Tengerentúli szelfi]]></title>
+   <link>http://mno.hu/2percproza/tengerentuli-szelfi-2410142?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lackfi János</author>
+   <enclosure url="http://mno.hu/data/cikkek/2410/24101/cikk-2410142/lackfi_janos_ajanlo.jpg" length="93699" type="image/jpeg"/>
+   <description><![CDATA[Az Egyesült Államok hasonlít egy gigászi cserkésztáborra, ahol mindenki túlzott buzgalommal gyűjti a jó pontokat.]]></description>
+   <category>2 perc próza</category>
+   <pubDate>Wed, 02 Aug 2017 19:11:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Csak az hal meg...]]></title>
+   <link>http://mno.hu/2percproza/csak-az-hal-meg-1389198?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lackfi János</author>
+   <enclosure url="http://mno.hu/data/cikkek/1389/13891/cikk-1389198/lackfi_janos_ajanlo.jpg" length="93699" type="image/jpeg"/>
+   <description><![CDATA[... aki félvállról veszi a jakobinus eszméket és intrikákat a világ fővárosában, ahol éppen dúl a szabadság, egyenlőség, testvériség eszméje.]]></description>
+   <category>2 perc próza</category>
+   <pubDate>Wed, 08 Mar 2017 08:59:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Pisilő kisfiú]]></title>
+   <link>http://mno.hu/2percproza/pisilo-kisfiu-1385875?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lackfi János</author>
+   <enclosure url="http://mno.hu/data/cikkek/1385/13858/cikk-1385875/lackfi_janos_ajanlo.jpg" length="93699" type="image/jpeg"/>
+   <description><![CDATA[Leó tudomást szerzett Filc Kálmán brüsszeli szakmai útjáról, mert a postás elmondta a közös képviselőnek, az meg kábé mindenkinek.]]></description>
+   <category>2 perc próza</category>
+   <pubDate>Sat, 18 Feb 2017 07:29:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ebhitű]]></title>
+   <link>http://mno.hu/2percproza/ebhitu-1384880?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lackfi János</author>
+   <enclosure url="http://mno.hu/data/cikkek/1384/13848/cikk-1384880/lackfi_janos_ajanlo.jpg" length="93699" type="image/jpeg"/>
+   <description><![CDATA[Aki a petíciót aláírja, kis ügyességgel visszakereshető. Örülnél, ha bekopognék az ablakodon? Van kutyád? Levágjam a fülét? ]]></description>
+   <category>2 perc próza</category>
+   <pubDate>Wed, 08 Feb 2017 20:32:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Papó mondja]]></title>
+   <link>http://mno.hu/2percproza/papo-mondja-1384296?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lackfi János</author>
+   <enclosure url="http://mno.hu/data/cikkek/1384/13842/cikk-1384296/lackfi_janos_ajanlo.jpg" length="93699" type="image/jpeg"/>
+   <description><![CDATA[Elkaptak pénzhamisítókat, az merő bolondság, fogni a drága jó pénzt, aztán meghamisítani, el se fogadják a boltosok.]]></description>
+   <category>2 perc próza</category>
+   <pubDate>Fri, 03 Feb 2017 15:10:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Csu-la bácsi bölcsessége]]></title>
+   <link>http://mno.hu/2percproza/csu-la-bacsi-bolcsessege-1382126?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lackfi János</author>
+   <enclosure url="http://mno.hu/data/cikkek/1382/13821/cikk-1382126/lackfi_janos_ajanlo.jpg" length="93699" type="image/jpeg"/>
+   <description><![CDATA[Kész csoda, hogy Filc Kálmánt kínai tartózkodása alatt egyszer sem köpték le.]]></description>
+   <category>2 perc próza</category>
+   <pubDate>Fri, 20 Jan 2017 20:24:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A hihetetlen tökéletesség]]></title>
+   <link>http://mno.hu/2percproza/a-hihetetlen-tokeletesseg-1380842?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lackfi János</author>
+   <enclosure url="http://mno.hu/data/cikkek/1380/13808/cikk-1380842/lackfi_janos_ajanlo.jpg" length="93699" type="image/jpeg"/>
+   <description><![CDATA[Ki áll a világ epicentrumában, ki a reneszánsz embereszmény megtestesítője?]]></description>
+   <category>2 perc próza</category>
+   <pubDate>Thu, 12 Jan 2017 16:35:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Mao néni és a buheratuning]]></title>
+   <link>http://mno.hu/2percproza/mao-neni-es-a-buheratuning-1369217?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lackfi János</author>
+   <enclosure url="http://mno.hu/data/cikkek/1369/13692/cikk-1369217/000_Hkg10247635.jpg" length="597890" type="image/jpeg"/>
+   <description><![CDATA[Keleti ember sose mond nemet – Filc Kálmán Pekingben.]]></description>
+   <category>2 perc próza</category>
+   <pubDate>Mon, 31 Oct 2016 18:55:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Félelem]]></title>
+   <link>http://mno.hu/konyveshaz/felelem-1359282?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lackfi János</author>
+   <enclosure url="http://mno.hu/data/cikkek/1359/13592/cikk-1359282/fortepan_32565.jpg" length="956003" type="image/jpeg"/>
+   <description><![CDATA[Filc Kálmán újabb története Lackfi János tollából.]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Sun, 04 Sep 2016 08:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Elnyisszantott múlt]]></title>
+   <link>http://mno.hu/konyveshaz/veletlenvadasz-1352627?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lackfi János</author>
+   <enclosure url="http://mno.hu/data/cikkek/1352/13526/cikk-1352627/HM20130627_202.jpg" length="549296" type="image/jpeg"/>
+   <description><![CDATA[Lackfi János írása.]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Sun, 24 Jul 2016 09:14:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kolbászból a kolbász]]></title>
+   <link>http://mno.hu/konyveshaz/kolbaszbol-a-kolbasz-1345776?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lackfi János</author>
+   <enclosure url="http://mno.hu/data/cikkek/1345/13457/cikk-1345776/MP20100519_5145.jpg" length="220543" type="image/jpeg"/>
+   <description><![CDATA[„Filc Kálmán meg merne esküdni, hogy az utcaipad-hírügynökség tovább üzemel, ontja a szalagcímeket.” Lackfi János írása.]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Sun, 12 Jun 2016 09:42:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Utcaipad-hírügynökség]]></title>
+   <link>http://mno.hu/konyveshaz/utcaipad-hirugynokseg-1343028?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lackfi János</author>
+   <enclosure url="http://mno.hu/data/cikkek/1343/13430/cikk-1343028/szb20070327_013.jpg" length="203928" type="image/jpeg"/>
+   <description><![CDATA[„Filc Kálmán szerette, ha jól informáltnak tűnik, ezért mindig megállt a mindentudó csavargónál.”]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Fri, 20 May 2016 18:16:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szakértelem]]></title>
+   <link>http://mno.hu/konyveshaz/szakertelem-1339429?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lackfi János</author>
+   <description><![CDATA[„Filc Kálmán igaz magyar ember lévén felhőtlenül, teljes szívvel tudott örülni honfitársai sikerének.” Lackfi János írása.]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Fri, 29 Apr 2016 17:20:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Vezeklés]]></title>
+   <link>http://mno.hu/konyveshaz/vezekles-1336444?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lackfi János</author>
+   <description><![CDATA[Filc Kálmán szerencsésen láthatatlanná változott, ám azért meg nem süketült. Az alábbiakat hallotta.]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Sun, 10 Apr 2016 08:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Egerek]]></title>
+   <link>http://mno.hu/migr_1834/egerek-158276?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lackfi János</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 18 Jan 2011 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Teknős]]></title>
+   <link>http://mno.hu/migr_1834/teknos-200146?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lackfi János</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 14 Dec 2010 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Majom]]></title>
+   <link>http://mno.hu/migr_1834/majom-204275?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lackfi János</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 23 Nov 2010 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Macska]]></title>
+   <link>http://mno.hu/migr_1834/macska-195749?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lackfi János</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 26 Oct 2010 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kakas]]></title>
+   <link>http://mno.hu/migr_1834/kakas-221395?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lackfi János</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 05 Oct 2010 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Méh]]></title>
+   <link>http://mno.hu/migr_1834/meh-224814?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lackfi János</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 14 Sep 2010 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[KutyaKutya]]></title>
+   <link>http://mno.hu/migr_1834/kutyakutya-219287?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lackfi János</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 24 Aug 2010 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Sas]]></title>
+   <link>http://mno.hu/migr_1834/sas-211995?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lackfi János</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 03 Aug 2010 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Pingvin]]></title>
+   <link>http://mno.hu/migr_1834/pingvin-243558?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lackfi János</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 22 Jun 2010 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Béka]]></title>
+   <link>http://mno.hu/migr_1834/beka-235091?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lackfi János</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 01 Jun 2010 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Paradicsommadár]]></title>
+   <link>http://mno.hu/migr_1834/paradicsommadar-231913?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lackfi János</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 04 May 2010 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Pók]]></title>
+   <link>http://mno.hu/migr_1834/pok-258590?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lackfi János</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 06 Apr 2010 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Tigris]]></title>
+   <link>http://mno.hu/migr_1834/tigris-252919?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lackfi János</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Mon, 08 Mar 2010 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A valóságbővítő]]></title>
+   <link>http://mno.hu/migr_1834/a_valosagbovito-252469?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lackfi János</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Sat, 13 Feb 2010 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Bálna]]></title>
+   <link>http://mno.hu/migr_1834/balna-246783?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lackfi János</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 09 Feb 2010 00:00:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

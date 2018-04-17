@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Kárpáti György (Berlin)]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/karpati-gyorgy-berlin-18971</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Fri, 13 Apr 2018 18:42:41 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Magyar filmeknek is drukkolhatunk Berlinben]]></title>
+   <link>http://mno.hu/film/magyar-filmeknek-is-drukkolhatunk-berlinben-1328136?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kárpáti György (Berlin)</author>
+   <enclosure url="http://mno.hu/data/cikkek/1328/13281/cikk-1328136/MNO_liliom_osveny1_grid2_fekvo_lead.jpg" length="76549" type="image/jpeg"/>
+   <description><![CDATA[Fliegauf Bence és Bucsi Réka is versenyben van a szerdán indult rangos nemzetközi filmfesztiválon.]]></description>
+   <category>Szuperplán</category>
+   <pubDate>Thu, 11 Feb 2016 13:33:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az Ifjúság három Európai Filmdíjat nyert]]></title>
+   <link>http://mno.hu/film/az-ifjusag-harom-europai-filmdijat-nyert-1318872?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kárpáti György (Berlin)</author>
+   <enclosure url="http://mno.hu/data/cikkek/1318/13188/cikk-1318872/Paolo_Sorrentino_AFP_grid2_fekvo_lead.jpg" length="41271" type="image/jpeg"/>
+   <description><![CDATA[A legjobb film díja mellett a legjobb rendezőnek járó elismerést Paolo Sorrentino kapta.]]></description>
+   <category>Szuperplán</category>
+   <pubDate>Sun, 13 Dec 2015 13:38:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Berlinale: Audrey Tautou még mindig gyönyörű]]></title>
+   <link>http://mno.hu/grund/berlinale-audrey-tautou-meg-mindig-gyonyoru-1271910?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kárpáti György (Berlin)</author>
+   <description><![CDATA[Javában tart a berlini filmfesztivál: Dzsafár Panahi taxizik, Sherlock Holmes megöregszik.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Mon, 09 Feb 2015 09:20:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Sok hó és dermesztő hideg – kezdődik a Berlinale]]></title>
+   <link>http://mno.hu/grund/sok-ho-es-dermeszto-hideg-kezdodik-a-berlinale-1271322?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kárpáti György (Berlin)</author>
+   <description><![CDATA[Ma kezdődik a 65. berlini filmfesztivál, ahol az idén nem lesznek magyarok, de ettől a tét még az Arany Medve.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Thu, 05 Feb 2015 08:09:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Noam Chomskyról forgatott dokut Michel Gondry]]></title>
+   <link>http://mno.hu/grund/noam-chomskyrol-keszitett-dokut-michel-gondry-1210465?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kárpáti György (Berlin)</author>
+   <description><![CDATA[Animáció, filozófia, nyelvészet és Noam Chomsky, akivel nehéz volt, mert szkeptikus – interjú a rendezővel.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Wed, 12 Feb 2014 07:58:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Díjesélyes magyar melegdráma Berlinben]]></title>
+   <link>http://mno.hu/grund/dijeselyes-magyar-melegdrama-berlinben-1210274?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kárpáti György (Berlin)</author>
+   <description><![CDATA[Császi Ádám Viharsarok című alkotását díjesélyesként is emlegetik a Berlinalén.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Tue, 11 Feb 2014 10:08:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Catherine Deneuve: Nagyon nehéz ma sztárrá válni]]></title>
+   <link>http://mno.hu/grund/catherine-deneuve-nagyon-nehez-ma-sztarra-valni-1199581?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kárpáti György (Berlin)</author>
+   <description><![CDATA[Nem szabadna annyi amerikai filmet beengedni – mondta lapunknak.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Mon, 09 Dec 2013 10:15:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Tarolt A nagy szépség az Európai Filmdíj-átadón]]></title>
+   <link>http://mno.hu/grund/tarolt-a-nagy-szepseg-az-europai-filmdij-atadon-1199508?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kárpáti György (Berlin)</author>
+   <description><![CDATA[Ötből négy díjat nyert A nagy szépség a 26. Európai Filmdíj-átadón, amely Európa legjobb filmje lett.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Sat, 07 Dec 2013 22:57:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Melyik Európa legjobb filmje?]]></title>
+   <link>http://mno.hu/grund/melyik-europa-legjobb-filmje-1199282?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kárpáti György (Berlin)</author>
+   <description><![CDATA[Szombat este Berlinben adják át az Európai Filmdíjakat. Idén nincs egyértelmű esélyes.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Sat, 07 Dec 2013 08:37:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nyert a cigánygyilkosságokat feldolgozó film]]></title>
+   <link>http://mno.hu/grund/nyert-a-ciganygyilkossagokat-feldolgozo-film-1052998?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kárpáti György (Berlin)</author>
+   <description><![CDATA[A zsűri nagydíját nyerte el Fliegauf Benedek Csak a szél című alkotása a 62. Berlinalén, ahol az Arany Medvét az olasz Vittorio és Paolo Taviani Caesar Must Die című filmje kapta.
+]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Sat, 18 Feb 2012 20:19:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Már két díjat is nyertünk Berlinben]]></title>
+   <link>http://mno.hu/grund/mar-ket-dijat-is-nyertunk-berlinben-1052931?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kárpáti György (Berlin)</author>
+   <description><![CDATA[Szombat délben átadták a 62. Berlinale független zsűrijei a díjaikat. Fliegauf Benedek versenyprogramban szereplő Csak a szél című alkotása két elismerést is kapott.
+
+ ]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Sat, 18 Feb 2012 14:14:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A romafilm nem kellett a kritikusoknak]]></title>
+   <link>http://mno.hu/grund/a-romafilm-nem-kellett-a-kritikusoknak-1052738?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kárpáti György (Berlin)</author>
+   <description><![CDATA[Miguel Gomes Tabu című filmje kapta Berlinben a kritikusok FIPRESCI díját, de az Atomic Age, a Hemel és a War Witch sem távozott üres kézzel. Fliegauf a Csak a szélért még holnapig izgulhat.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Fri, 17 Feb 2012 19:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nyerünk a cigánygyilkosságokkal? ]]></title>
+   <link>http://mno.hu/grund/nyerunk-a-ciganygyilkossagokkal-1052370?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kárpáti György (Berlin)</author>
+   <description><![CDATA[Fliegauf Benedek Csak a szél című filmjét is bemutatták a versenyprogramban, így lassan a teljes mezőny látható volt a Berlinalén. Német és olasz filmek eddig a legesélyesebbek a végső sikerre. ]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Thu, 16 Feb 2012 16:16:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Világsztárok lepték el Berlint – jó ez a filmeknek?]]></title>
+   <link>http://mno.hu/grund/vilagsztarok-leptek-el-berlint-1051620?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kárpáti György (Berlin)</author>
+   <description><![CDATA[Angelina Jolie és Christian Bale jelenléte okozta a legnagyobb szenzációt a Berlinalén. Vajon nem vesznek-e el a sztárparádéban az értékes filmek?
+]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Tue, 14 Feb 2012 17:05:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A Melankólia az év európai filmje]]></title>
+   <link>http://mno.hu/grund/bombaeros-mezony-berlinben-1035582?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kárpáti György (Berlin)</author>
+   <description><![CDATA[Dán sikertörténet volt az idei év: Lars von Triert, Susanne Biert, Mads Mikkelsent díjazta Berlinben az Európai Filmakadémia.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Sat, 03 Dec 2011 19:30:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Európa Filmdíjak magyar esélyekkel]]></title>
+   <link>http://mno.hu/grund/europa-filmdijak-magyar-eselyekkel-1035524?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kárpáti György (Berlin)</author>
+   <description><![CDATA[Ma este adják át Berlinben az Európa Filmdíjakat, ahol Tarr Béla A torinói ló című alkotása három kategóriában nyerhet, de az igazi favorit A király beszéde és a Melankólia.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Sat, 03 Dec 2011 10:59:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - rovat: Lapcikkek]]></title>
+  <link>http://mno.hu/lapcikkek</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Wed, 11 Apr 2018 10:49:49 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Áldott, békés karácsonyi ünnepeket kívánunk!]]></title>
+   <link>http://mno.hu/lapcikkek/aldott-bekes-karacsonyi-unnepeket-kivanunk-1320613?utm_source=feed&amp;utm_medium=rss</link>
+   <enclosure url="http://mno.hu/data/cikkek/1320/13206/cikk-1320613/000_Nic6522938.jpg" length="213787" type="image/jpeg"/>
+   <description><![CDATA[]]></description>
+   <category>Lapcikkek</category>
+   <pubDate>Thu, 24 Dec 2015 15:15:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Magyar rajt Svédország ellen]]></title>
+   <link>http://mno.hu/lapcikkek/magyar-rajt-svedorszag-ellen-1290442?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Arday Attila</author>
+   <description><![CDATA[A szlovák kapitány hatása az Eb-től függetlenül sokat érhet a magyaroknak.]]></description>
+   <category>Lapcikkek</category>
+   <pubDate>Fri, 12 Jun 2015 10:07:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A sah öngyújtója                            ]]></title>
+   <link>http://mno.hu/lapcikkek/a-sah-ongyujtoja-1272813?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Varga Attila</author>
+   <description><![CDATA[A New Yorkban született Axt Ibolyát kisded korában cirkuszvonat ringatta. Szülei világszintű artisták, így nem volt kérdéses, ő is cirkuszművész, légtornász lesz.]]></description>
+   <category>Lapcikkek</category>
+   <pubDate>Sat, 14 Feb 2015 10:32:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Határeset                               ]]></title>
+   <link>http://mno.hu/lapcikkek/hatareset-1272817?utm_source=feed&amp;utm_medium=rss</link>
+   <author>György Zsombor</author>
+   <description><![CDATA[Életképek a zsidókat és palesztinokat elválasztó fal két oldaláról.]]></description>
+   <category>Lapcikkek</category>
+   <pubDate>Sat, 14 Feb 2015 07:36:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Képeslap-ajánló, szeptember 28.]]></title>
+   <link>http://mno.hu/lapcikkek/kepaslap-ajanlo-1250216?utm_source=feed&amp;utm_medium=rss</link>
+   <description><![CDATA[A katalánok november 9-én a skótokhoz hasonlóan megtartják népszavazásukat a függetlenségről. Vagy mégsem?]]></description>
+   <category>Lapcikkek</category>
+   <pubDate>Sun, 28 Sep 2014 14:08:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Varázshegyek – Képeslap ajánló]]></title>
+   <link>http://mno.hu/lapcikkek/varazshegyek-1246181?utm_source=feed&amp;utm_medium=rss</link>
+   <description><![CDATA[Három szent hegy a tibeti határvidéken és egy angol regény, amely fellendítette a kínai turistaipart. ]]></description>
+   <category>Lapcikkek</category>
+   <pubDate>Fri, 05 Sep 2014 12:34:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A nagy kör]]></title>
+   <link>http://mno.hu/lapcikkek/a-nagy-kor-kepeslap-ajanlo-1240442?utm_source=feed&amp;utm_medium=rss</link>
+   <description><![CDATA[A világ egyik legrangosabb versenye, a Tour de France fényei és árnyékai.]]></description>
+   <category>Lapcikkek</category>
+   <pubDate>Sat, 02 Aug 2014 13:10:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Száz éve a helyzet változatlan]]></title>
+   <link>http://mno.hu/lapcikkek/szaz-eve-a-helyzet-valtozatlan-kepeslap-ajanlo-1239282?utm_source=feed&amp;utm_medium=rss</link>
+   <description><![CDATA[Az első világháború látható sebei és ma is gyilkoló bombái föld alatt és a tenger mélyén.]]></description>
+   <category>Lapcikkek</category>
+   <pubDate>Sat, 26 Jul 2014 16:55:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Széttört olvasztótégely]]></title>
+   <link>http://mno.hu/lapcikkek/osszetort-olvasztotegely-kepeslap-ajanlo-1238111?utm_source=feed&amp;utm_medium=rss</link>
+   <description><![CDATA[Az ukrajnai Donbasz sajátos világa és a háború, amely fekete-fehérré változtatta a vidék sokszínűségét]]></description>
+   <category>Lapcikkek</category>
+   <pubDate>Sat, 19 Jul 2014 15:42:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Amerika focija]]></title>
+   <link>http://mno.hu/lapcikkek/amerika-focija-kepeslap-ajanlo-1237051?utm_source=feed&amp;utm_medium=rss</link>
+   <description><![CDATA[Ma este Argentína–Németország-döntő: függetlenül a német úthengertől, ez a vb az Újvilág futballünnepélye volt.]]></description>
+   <category>Lapcikkek</category>
+   <pubDate>Sun, 13 Jul 2014 12:15:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Identitásválság – Képeslap-ajánló]]></title>
+   <link>http://mno.hu/lapcikkek/identitasvalsag-kepeslap-ajanlo-1235627?utm_source=feed&amp;utm_medium=rss</link>
+   <description><![CDATA[Hajrá előtt a skót népszavazási kampány: font vagy függetlenség?]]></description>
+   <category>Lapcikkek</category>
+   <pubDate>Fri, 04 Jul 2014 16:37:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Télikabátért háború]]></title>
+   <link>http://mno.hu/lapcikkek/telikabatert-haboru-1234550?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Margittai Gábor</author>
+   <description><![CDATA[Szerencsétlen balek vagy birodalmak titkos fegyvere?  – Száz éve oltották ki Ferenc Ferdinánd életét Gavrilo Princip lövései.]]></description>
+   <category>Lapcikkek</category>
+   <pubDate>Sat, 28 Jun 2014 09:23:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A megtagadhatatlan]]></title>
+   <link>http://mno.hu/lapcikkek/a-megtagadhatatlan-kepeslap-ajanlo-1233364?utm_source=feed&amp;utm_medium=rss</link>
+   <description><![CDATA[Egy merénylő utóélete: Gavrilo Princip és a Balkán XX. százada]]></description>
+   <category>Lapcikkek</category>
+   <pubDate>Sat, 21 Jun 2014 16:05:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Otthagyott fénykép - Képeslap-ajánló]]></title>
+   <link>http://mno.hu/lapcikkek/otthagyott-fenykep-1231975?utm_source=feed&amp;utm_medium=rss</link>
+   <description><![CDATA[Szezonzáró tüntetéssel és gyásszal a Mount Everesten:  turistaipar és lázongó serpák a Himaláján.]]></description>
+   <category>Lapcikkek</category>
+   <pubDate>Fri, 13 Jun 2014 19:15:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Pelada mindhalálig - Képeslap-ajánló]]></title>
+   <link>http://mno.hu/lapcikkek/pelada-mindhalalig-1231045?utm_source=feed&amp;utm_medium=rss</link>
+   <description><![CDATA[Grundfoci a futball-világbajnokságot rendező Brazíliában]]></description>
+   <category>Lapcikkek</category>
+   <pubDate>Sat, 07 Jun 2014 17:14:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nézz vissza daccal - Képeslap-ajánló]]></title>
+   <link>http://mno.hu/lapcikkek/nezz-vissza-daccal-1229759?utm_source=feed&amp;utm_medium=rss</link>
+   <description><![CDATA[Semmit nem bánt meg, semmit nem ismer el: félidőben Ratko Mladic, Srebrenica mészárosának pere]]></description>
+   <category>Lapcikkek</category>
+   <pubDate>Sat, 31 May 2014 17:12:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Visszatérés Homszba - Képeslap-ajánló]]></title>
+   <link>http://mno.hu/lapcikkek/visszateres-homszba-1228405?utm_source=feed&amp;utm_medium=rss</link>
+   <description><![CDATA[Homsz, amely a szíriai felkelés fővárosa volt, elesett. Döbbenetes képek a két évig tartó ostrom pusztításáról.]]></description>
+   <category>Lapcikkek</category>
+   <pubDate>Sat, 24 May 2014 12:40:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Görögtűz – Képeslap-ajánló]]></title>
+   <link>http://mno.hu/lapcikkek/gorogtuz-1226936?utm_source=feed&amp;utm_medium=rss</link>
+   <description><![CDATA[Miközben az Európai Parlament az euroszkeptikusoktól, az euroszkeptikusok maguktól félnek. Avagy miért nem tudják majd választóik érdekeit képviselni az EP-választáson várhatóan előretörő radikális pártok?]]></description>
+   <category>Lapcikkek</category>
+   <pubDate>Fri, 16 May 2014 16:20:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kivel van az erő? –  Képeslap-ajánló]]></title>
+   <link>http://mno.hu/lapcikkek/kivel-van-az-ero-1225823?utm_source=feed&amp;utm_medium=rss</link>
+   <description><![CDATA[Miként lett a Csillagok háborúja a 21. század legismertebb mítosza, sőt vallása? Darth Vader és a házi szentek, avagy a generáció, amely a nagyúr köpenyéből bújt elő.]]></description>
+   <category>Lapcikkek</category>
+   <pubDate>Sat, 10 May 2014 18:15:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Lebegés – Képeslap-ajánló]]></title>
+   <link>http://mno.hu/lapcikkek/lebeges-1224585?utm_source=feed&amp;utm_medium=rss</link>
+   <description><![CDATA[Ahogy Ukrajnában egyre inkább a fegyvereké a szó, úgy éled fel egy több mint húsz éve mozdulatlanságba dermedt megyényi ország, amelyet szinte senki sem ismer el. A létező szocializmus Transznisztriában, ahol 1992-ben megállt az idő.]]></description>
+   <category>Lapcikkek</category>
+   <pubDate>Sat, 03 May 2014 19:50:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Képeslap most vasárnap is!]]></title>
+   <link>http://mno.hu/lapcikkek/helyreallitok-1223413?utm_source=feed&amp;utm_medium=rss</link>
+   <description><![CDATA[Hogyan újulnak meg a Kossuth tér szobrai? Kordokumentumok a felújítást koordináló iroda vezetőjének fényképezőgépéből.]]></description>
+   <category>Lapcikkek</category>
+   <pubDate>Sat, 26 Apr 2014 12:30:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Képeslap most vasárnap is!]]></title>
+   <link>http://mno.hu/lapcikkek/tuzkeresztseg-1222159?utm_source=feed&amp;utm_medium=rss</link>
+   <description><![CDATA[A moszkvai és a kijevi fennhatóságú ortodox egyház papjai az ukrán barikádokon.]]></description>
+   <category>Lapcikkek</category>
+   <pubDate>Fri, 18 Apr 2014 15:10:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szöglet – Képeslap ajánló]]></title>
+   <link>http://mno.hu/lapcikkek/szoglet-1220931?utm_source=feed&amp;utm_medium=rss</link>
+   <description><![CDATA[A riói nyomornegyedek és a közeledő brazil foci-világbajnokság .]]></description>
+   <category>Lapcikkek</category>
+   <pubDate>Fri, 11 Apr 2014 15:15:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ikszelés előtt – Képeslap-ajánló]]></title>
+   <link>http://mno.hu/lapcikkek/ikszeles-elott-1219898?utm_source=feed&amp;utm_medium=rss</link>
+   <description><![CDATA[Egy választás, négy kép, négy párt, illetve pártszövetség, négy jegyzet.]]></description>
+   <category>Lapcikkek</category>
+   <pubDate>Sat, 05 Apr 2014 18:45:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Húsz évvel később – Képeslap-ajánló]]></title>
+   <link>http://mno.hu/lapcikkek/husz-evvel-kesobb-1218474?utm_source=feed&amp;utm_medium=rss</link>
+   <description><![CDATA[A ruandai népirtás és a megbékélés története a halottak közt talált kisfiú viszontagságain keresztül.]]></description>
+   <category>Lapcikkek</category>
+   <pubDate>Fri, 28 Mar 2014 19:30:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ifjúkori önarcképek – Képeslap-ajánló]]></title>
+   <link>http://mno.hu/lapcikkek/ifjukori-onarckepek-1217119?utm_source=feed&amp;utm_medium=rss</link>
+   <description><![CDATA[Selfie-k a világpolitikában, a divatvilágban, a világűrben és azon is túl.]]></description>
+   <category>Lapcikkek</category>
+   <pubDate>Fri, 21 Mar 2014 14:30:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szétfoszló örökség – Képeslap-ajánló]]></title>
+   <link>http://mno.hu/lapcikkek/szetfoszlo-orokseg-1215860?utm_source=feed&amp;utm_medium=rss</link>
+   <description><![CDATA[Túléli-e Chávez halálát a venezuelai kísérlet?]]></description>
+   <category>Lapcikkek</category>
+   <pubDate>Fri, 14 Mar 2014 12:56:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Képeslap most vasárnap is!]]></title>
+   <link>http://mno.hu/lapcikkek/kepeslap-ajanlo-20140309-1214610?utm_source=feed&amp;utm_medium=rss</link>
+   <description><![CDATA[Hogyan lett a Krím félsziget legfontosabb városából nagyhatalmak ütközőpontja?]]></description>
+   <category>Lapcikkek</category>
+   <pubDate>Fri, 07 Mar 2014 12:47:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Képeslap most vasárnap is!]]></title>
+   <link>http://mno.hu/lapcikkek/perzsa-hetkoznapok-kepeslap-ajanlo-1213315?utm_source=feed&amp;utm_medium=rss</link>
+   <description><![CDATA[Perzsa hétköznapok – Irán alulnézetből 35 évvel az iszlám forradalom után.
+
+]]></description>
+   <category>Lapcikkek</category>
+   <pubDate>Fri, 28 Feb 2014 09:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Barikádok népe – Képeslap-ajánló]]></title>
+   <link>http://mno.hu/lapcikkek/kepeslap-ajanlo-1212166?utm_source=feed&amp;utm_medium=rss</link>
+   <description><![CDATA[Utcai harcok Ukrajnában, a veszprémi pokoli torony, budapesti csángó bál és aranyásók az e heti Képeslapban.]]></description>
+   <category>Lapcikkek</category>
+   <pubDate>Fri, 21 Feb 2014 10:48:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

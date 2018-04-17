@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Szabados Balázs]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/szabadosbalazs-19935</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 07:20:33 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Így verik át a csaló cégek a budapestieket]]></title>
+   <link>http://mno.hu/belfold/a-csalok-egyre-finomabb-modszereket-hasznalnak-1275587?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabados Balázs</author>
+   <description><![CDATA[A Fővárosi Csatornázási Művekre hivatkozva károsítják meg az embereket trükkös vállalkozók.]]></description>
+   <category>Belföld</category>
+   <pubDate>Wed, 04 Mar 2015 21:59:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Minden elképzelést alulmúlt az Uber a BKK tesztjén]]></title>
+   <link>http://mno.hu/fogyasztovedelem/az-uber-minden-szinten-megbukott-1275624?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabados Balázs</author>
+   <description><![CDATA[A közlekedési központ taxikkal foglalkozó ellenőrei utasként tesztelték a külföldi tulajdonú fuvarszervező céget, az Ubert.]]></description>
+   <category>Fogyasztóvédelem</category>
+   <pubDate>Wed, 04 Mar 2015 20:21:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Putyint 380 milliós limuzin védi, és a repülőgépe se semmi]]></title>
+   <link>http://mno.hu/tudomany/putyint-380-millios-limuzin-vedi-es-a-repulogepe-se-semmi-1273136?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabados Balázs</author>
+   <description><![CDATA[Utánajártunk, mit tud a Magyarországra látogató orosz elnök, Vlagyimir Putyin repülőgépe és Mercedes S600 Pullman Guard autója, mely több gránátrobbanást is kibír.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Tue, 17 Feb 2015 13:26:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A tudósok imádják feltalálni a spanyolviaszt]]></title>
+   <link>http://mno.hu/tudomany/kutatasok-es-hirek-melyektol-a-falra-maszunk-1268496?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabados Balázs</author>
+   <description><![CDATA[Brit tudósok és társaik a mai napig képesek feltalálni a spanyolviaszt, ráadásul milliókat költenek el rá.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Sun, 15 Feb 2015 15:15:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Életeket menthetne a magyar találmány, de nem kell]]></title>
+   <link>http://mno.hu/fogyasztovedelem/a-feltalalok-szelmalomharca-egy-biztonsagi-talalmanyert-1268028?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabados Balázs</author>
+   <description><![CDATA[Adott egy remeknek ígérkező találmány, de a feltalálók energiáit 9 éve a bürokratikus akadályok kötik le.]]></description>
+   <category>Fogyasztóvédelem</category>
+   <pubDate>Fri, 06 Feb 2015 15:10:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Fordult a kocka: az autóhitelesek visszavághatnak a bankoknak]]></title>
+   <link>http://mno.hu/fogyasztovedelem/az-autohiteles-nyer-ha-nem-volt-kockazatfeltaro-nyilatkozat-1270141?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabados Balázs</author>
+   <description><![CDATA[A devizaalapú autóhitelesek pereinek tengerében új trend alakult ki. Sorra nyernek a bankok ellen.]]></description>
+   <category>Fogyasztóvédelem</category>
+   <pubDate>Thu, 29 Jan 2015 11:24:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Így tiporjuk sárba a tudtunkon kívül a legjobb barátaink jogait]]></title>
+   <link>http://mno.hu/fogyasztovedelem/adatvedelem-es-internet-tanitani-kene-a-gyerekeknek-1269935?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabados Balázs</author>
+   <description><![CDATA[A biometrikus azonosítás és a drónok megjelenése újabb és újabb kérdéseket vet fel. ]]></description>
+   <category>Fogyasztóvédelem</category>
+   <pubDate>Wed, 28 Jan 2015 10:45:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Még autójuk sincs, máris komoly összeget húznak le róluk]]></title>
+   <link>http://mno.hu/fogyasztovedelem/ennyibe-kerul-most-a-jogositvany-megszerzese-1267756?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabados Balázs</author>
+   <description><![CDATA[Utánajártunk, milyen teendőkkel jár, és mennyibe kerül manapság a B kategóriás jogosítvány megszerzése. ]]></description>
+   <category>Fogyasztóvédelem</category>
+   <pubDate>Tue, 20 Jan 2015 19:17:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[További sarccal riogatják az autósokat]]></title>
+   <link>http://mno.hu/fogyasztovedelem/hamis-informaciok-keringenek-az-e-segelyhivorol-1266393?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabados Balázs</author>
+   <description><![CDATA[Az e-call rendszer az idén valóban elindul Európában, de sok honlapon megtévesztik az autósokat.]]></description>
+   <category>Fogyasztóvédelem</category>
+   <pubDate>Wed, 07 Jan 2015 10:47:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nagy hatással lehetnek a jövőnkre nézve]]></title>
+   <link>http://mno.hu/tudomany/2014-legerdekesebb-technikai-ujdonsagai-1263022?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabados Balázs</author>
+   <description><![CDATA[Hét olyan érdekes fejlesztést mutatunk be a kedves olvasóknak, melyek a jövőnkre is hatással lehetnek.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Wed, 31 Dec 2014 08:27:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Íme a hat felfedezés, ami átformálhatja világképünket]]></title>
+   <link>http://mno.hu/tudomany/2014-legerdekesebb-tudomanyos-felfedezesei-1263581?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabados Balázs</author>
+   <description><![CDATA[A most bemutatott hat felfedezés komoly hatással lehet a világról alkotott elképzelésünkre, és a jövőnkre is. ]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Tue, 30 Dec 2014 12:22:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szilveszter máshol: 12 szőlőszem, vízipuska, lomtalanítás]]></title>
+   <link>http://mno.hu/eletmod/szilveszter-mashol-12-szoloszem-vizipuska-lomtalanitas-1263971?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabados Balázs</author>
+   <description><![CDATA[Körülnéztünk a világban, hogy másutt mit csinálnak december 31-én, valamint az új év első napján.]]></description>
+   <category>Életmód</category>
+   <pubDate>Mon, 29 Dec 2014 14:28:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Válogatott trükkökkel verték át az autósokat 2014-ben]]></title>
+   <link>http://mno.hu/tudomany/valogatott-trukkokkel-vertek-at-az-autosokat-2014-ben-1264186?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabados Balázs</author>
+   <description><![CDATA[Rengeteg buktatója van az autóvásárlásnak, -használatnak, ráadásul mindig észnél kell lennünk, különben átverhetnek minket.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Mon, 29 Dec 2014 09:58:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Karácsonyi fényfüzérek és tűzbiztonság]]></title>
+   <link>http://mno.hu/eletmod/karacsonyi-fenyfuzerek-es-tuzbiztonsag-1262631?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabados Balázs</author>
+   <description><![CDATA[Ismertetünk néhány fényfüzértípust, és tűzbiztonsági kérdésekkel is foglalkozunk.]]></description>
+   <category>Életmód</category>
+   <pubDate>Fri, 19 Dec 2014 06:25:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Okostelefon: milyen kártyafüggetlent vegyünk 20 ezerért?]]></title>
+   <link>http://mno.hu/tudomany/okostelefon-milyen-kartyafuggetlent-vegyunk-20-ezerert-1261712?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabados Balázs</author>
+   <description><![CDATA[Hatalmas a választék okostelefonokból. Négy alsó kategóriás készüléket vettünk górcső alá.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Wed, 17 Dec 2014 14:38:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Karácsonyfa, talpak: vásárlási tanácsadó]]></title>
+   <link>http://mno.hu/eletmod/karacsonyfa-talpak-vasarlasi-tanacsado-1262601?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabados Balázs</author>
+   <description><![CDATA[Bemutatjuk a Magyarországon legelterjedtebb fákat, szót ejtünk a műfenyőkről, valamint a talpak fontosságáról.]]></description>
+   <category>Életmód</category>
+   <pubDate>Wed, 17 Dec 2014 06:33:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Tabletek: milyet vegyünk karácsonyra 40 ezerért?]]></title>
+   <link>http://mno.hu/tudomany/tabletek-milyet-vegyunk-karacsonyra-40-ezerert-1261310?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabados Balázs</author>
+   <description><![CDATA[A táblagépek nagyon fogynak karácsony előtt, de nem mindegy, milyet veszünk, és főképp mennyiért. Segít az MNO.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Mon, 08 Dec 2014 14:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Így számoljon, ha nem akarja, hogy csalódás érje]]></title>
+   <link>http://mno.hu/fogyasztovedelem/kalkulatorhonlapok-amelyek-megkonnyitik-az-eletunket-1260087?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabados Balázs</author>
+   <description><![CDATA[Rengeteg kalkulátoroldal van az interneten, amelyekkel előre kiszámíthatjuk költségeinket.]]></description>
+   <category>Fogyasztóvédelem</category>
+   <pubDate>Sat, 29 Nov 2014 18:49:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Komoly károkat okozhat az autójában, ha ezekre nem figyel]]></title>
+   <link>http://mno.hu/tudomany/hogyan-teliesitsuk-autonkat-1256131?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabados Balázs</author>
+   <description><![CDATA[Néhány dologra oda kell figyelnünk, mikor beköszönt a hideg, különben komoly károkat okozhatunk autónkban.
+]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Tue, 25 Nov 2014 14:18:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A cukorbetegség elkerülésének hat könnyen teljesíthető pontja]]></title>
+   <link>http://mno.hu/tudomany/cukorbetegseg-megelozese-erre-a-hat-dologra-kell-figyelni-1258875?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabados Balázs</author>
+   <description><![CDATA[A fejlett országok lakosságának közel negyede cukorbetegség előtti állapotban van, ahonnan még létezik visszaút.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Mon, 24 Nov 2014 14:27:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Így válasszunk nagy képernyős LED-tévét 100 ezer alatt]]></title>
+   <link>http://mno.hu/tudomany/igy-valasszunk-nagy-kepernyos-led-tevet-100-ezer-alatt-1258660?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabados Balázs</author>
+   <description><![CDATA[Közeledik a karácsony, így utánanéztünk, milyen tévék vannak a piacon hozzáférhető áron.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Tue, 18 Nov 2014 08:54:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ezek miatt boldogtalanok és kiszolgáltatottak a mai fiatalok]]></title>
+   <link>http://mno.hu/tudomany/nem-a-z-generacio-tehet-arrol-hogy-ertekvalsaggal-kuzd-1258007?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabados Balázs</author>
+   <description><![CDATA[Bret Easton Ellis író nagyon negatív véleménnyel van a millenniumi generációról. Bartha Dáviddal beszélgettünk.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Sun, 16 Nov 2014 10:10:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Így pályázhatunk sikerrel kazáncserére – mutatjuk a trükköket]]></title>
+   <link>http://mno.hu/fogyasztovedelem/igy-palyazhatunk-sikerrel-kazancserere-1255607?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabados Balázs</author>
+   <description><![CDATA[A lakosság számára meghirdetett kazáncsere-pályázat ismét megnyílt, íme a legfontosabb információk.]]></description>
+   <category>Fogyasztóvédelem</category>
+   <pubDate>Sat, 15 Nov 2014 14:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ha nem változik a szabályozás, Budapesten elszabadul a pokol]]></title>
+   <link>http://mno.hu/fogyasztovedelem/wundercar-hamarosan-veget-erhet-az-illegalis-fuvarozas-1257045?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabados Balázs</author>
+   <description><![CDATA[Egy gátlástalan cég a taxisokra vonatkozó szigorú szabályok megkerülésével akar fuvarozásszervezésből profitálni.]]></description>
+   <category>Fogyasztóvédelem</category>
+   <pubDate>Thu, 06 Nov 2014 14:55:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Újabb bőrt húznak le az autósokról?]]></title>
+   <link>http://mno.hu/fogyasztovedelem/ujabb-bort-huznak-le-az-autosokrol-1256554?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabados Balázs</author>
+   <description><![CDATA[Az abroncsnyomás-felügyelő rendszerek működését hamarosan a műszaki vizsgán is ellenőrzik.]]></description>
+   <category>Fogyasztóvédelem</category>
+   <pubDate>Tue, 04 Nov 2014 09:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Így leplezhetjük le a trükkös neppereket – Autóvásárlási kiskáté]]></title>
+   <link>http://mno.hu/fogyasztovedelem/ha-nem-ert-az-autohoz-figyelje-az-eladot-1255767?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabados Balázs</author>
+   <description><![CDATA[Összefoglaló írásunkban bemutatjuk a különböző autókereskedő-típusokat.]]></description>
+   <category>Fogyasztóvédelem</category>
+   <pubDate>Mon, 03 Nov 2014 08:40:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Időben cseréljük le, mert megcsúszhatunk egy banánhéjon]]></title>
+   <link>http://mno.hu/fogyasztovedelem/hamarosan-eljon-a-teli-abroncsok-ideje-1253236?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabados Balázs</author>
+   <description><![CDATA[Nyakunkon a november, az autósoknak van néhány teendőjük. Mire kell figyelni a téli abroncsok cseréjénél?]]></description>
+   <category>Fogyasztóvédelem</category>
+   <pubDate>Fri, 24 Oct 2014 20:37:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ezt meg kell tenni a gyerek egészséges fejlődése érdekében]]></title>
+   <link>http://mno.hu/tudomany/nem-hagyhatjuk-egyedul-a-gyereket-a-demonaival-1253599?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabados Balázs</author>
+   <description><![CDATA[Csemetéink meglepően korán elkezdenek érdeklődni a halál felől. Egy gyermekpszichológussal beszélgettünk a témáról.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Mon, 20 Oct 2014 15:35:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hogyan tegyük kényelmesebbé a vezetőülést?]]></title>
+   <link>http://mno.hu/tudomany/hogyan-tegyuk-kenyelmesebbe-a-vezetoulest-1251295?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabados Balázs</author>
+   <description><![CDATA[Előfordulhat, hogy autónk ülése nem elég kényelmes. Utánajártunk, milyen megoldások jöhetnek számításba.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Sun, 19 Oct 2014 11:27:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kiszámoltuk a költségeket, és arcul csaptak bennünket a számok]]></title>
+   <link>http://mno.hu/fogyasztovedelem/auto-kiszamoltuk-mennyibe-kerul-a-fenntartasa-1251863?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabados Balázs</author>
+   <description><![CDATA[Megéri autót fenntartani? Mennyit fizetünk egy kilométerért, ha mindent beleszámolunk a költségekbe? Ezekre a kérdésekre kerestük a választ.]]></description>
+   <category>Fogyasztóvédelem</category>
+   <pubDate>Tue, 14 Oct 2014 09:47:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

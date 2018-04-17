@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Matura Tamás]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/matura-tamas-23167</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Fri, 13 Apr 2018 10:13:36 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Donald Trump várható Kína-politikája]]></title>
+   <link>http://mno.hu/velemeny/donald-trump-varhato-kina-politikaja-1373251?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Matura Tamás</author>
+   <enclosure url="http://mno.hu/data/cikkek/1373/13732/cikk-1373251/035_pbu165588_10.jpg" length="651491" type="image/jpeg"/>
+   <description><![CDATA[Az ázsiai országnak kedvezne, ha az új elnök csökkentené hazája globális jelenlétét.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Fri, 25 Nov 2016 11:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Okkal rendezték Kínában a G20-találkozót]]></title>
+   <link>http://mno.hu/velemeny/okkal-rendeztek-kinaban-a-g20-talalkozot-1362351?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Matura Tamás</author>
+   <enclosure url="http://mno.hu/data/cikkek/1362/13623/cikk-1362351/MNO_000_FU8JR.jpg" length="492755" type="image/jpeg"/>
+   <description><![CDATA[Véletlen volt, hogy Obama elé a repülőtéri kifutón nem terítettek vörös szőnyeget?]]></description>
+   <category>Vélemény</category>
+   <pubDate>Mon, 19 Sep 2016 19:23:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Keletről érkező vonatok]]></title>
+   <link>http://mno.hu/velemeny/keletrol-erkezo-vonatok-1307871?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Matura Tamás</author>
+   <enclosure url="http://mno.hu/data/cikkek/1307/13078/cikk-1307871/kina_ipar.jpg" length="264042" type="image/jpeg"/>
+   <description><![CDATA[Szuperhatalmak által gerjesztett tektonikus mozgások zajlanak a Távol-Keleten, amelyek hullámai egészen Európáig és benne hazánkig is elérnek.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Wed, 07 Oct 2015 14:04:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

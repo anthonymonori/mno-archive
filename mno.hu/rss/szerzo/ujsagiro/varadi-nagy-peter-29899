@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Váradi Nagy Péter]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/varadi-nagy-peter-29899</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Fri, 13 Apr 2018 11:18:43 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Ki kellett találnom, hogy reagálnék, ha természetfeletti képességeim lennének]]></title>
+   <link>http://mno.hu/grund/ki-kellett-talalnom-hogy-reagalnek-ha-termeszetfeletti-kepessegeim-lennenek-2449099?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Váradi Nagy Péter</author>
+   <enclosure url="http://mno.hu/data/cikkek/2449/24490/cikk-2449099/775126563_VZ_1038_3FB3A44238064CCC5C8CC28925FD709E_1_.JPG" length="159688" type="image/jpeg"/>
+   <description><![CDATA[Eili Harboe norvég színésznő a hátúszásról, a természetfeletti képességekről és a férfiaknak nem alávetett nőkről.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Fri, 23 Feb 2018 14:19:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

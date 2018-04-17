@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Hajdú]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/hajdu-15817</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Sun, 15 Apr 2018 05:04:00 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Róna Péter: Felelőtlenség a jegybankban]]></title>
+   <link>http://mno.hu/gazdasag/rona-peter-felelotlenseg-a-jegybankban-1351085?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hajdú</author>
+   <enclosure url="http://mno.hu/data/cikkek/1351/13510/cikk-1351085/mnb2_szb.jpg" length="623350" type="image/jpeg"/>
+   <description><![CDATA[Kérdés, miként idézhettek elő olyan helyzetet, hogy a döntéshozó testület döntéshozó képesség nélkül maradt.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Sat, 09 Jul 2016 15:44:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nem adta fel végleg a Penny]]></title>
+   <link>http://mno.hu/gazdasag/nem-adta-fel-vegleg-a-penny-1300166?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hajdú</author>
+   <description><![CDATA[A cég technikai nehézséggel magyarázza a pénzfelvételi szolgáltatás szüneteltetését.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Sat, 15 Aug 2015 05:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Új hatóságot akar a kormány]]></title>
+   <link>http://mno.hu/gazdasag/uj-hatosagot-akar-a-kormany-1291460?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hajdú</author>
+   <description><![CDATA[A szakmai munka színvonalának emelése a megoldás a szakértő szerint.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Fri, 19 Jun 2015 04:32:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Piramisjáték veszélye a OneCoinnál?]]></title>
+   <link>http://mno.hu/gazdasag/piramisjatek-veszelye-a-onecoinnal-1290232?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hajdú</author>
+   <description><![CDATA[A OneCoin kibocsátója nem pénzügyi vállalkozás, hanem egy virtuális fizetési eszköz szervezője.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Thu, 11 Jun 2015 07:07:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kellemetlen meglepetés a kasszánál]]></title>
+   <link>http://mno.hu/belfold/kellemetlen-meglepetes-a-kasszanal-1270746?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hajdú</author>
+   <description><![CDATA[Csaknem 422 ezer ember, a nyilatkozattételre kötelezett pénztártagok nagyjából húsz százaléka nem azonosította magát a kiszabott határidőig az önkéntes nyugdíj-, egészség-, illetve önsegélyező pénztáránál, így a pénzmosás megakadályozását célzó törvény értelmében számlájukat zárolták – nyilatkozta lapunknak Binder István, a Magyar Nemzeti Bank (MNB) felügyeleti szóvivője.]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 02 Feb 2015 04:05:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Egyesülhet a Budapest Bank és az MKB ]]></title>
+   <link>http://mno.hu/gazdasag/egyesulhet-a-budapest-bank-es-az-mkb-1261580?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hajdú</author>
+   <description><![CDATA[Összevonhatják hosszabb távon a Budapest Bankot és az MKB Bankot, miután az előbbit is megvásárolta a magyar állam. ]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Thu, 04 Dec 2014 06:41:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nálunk is betiltják a kezelési költséget?]]></title>
+   <link>http://mno.hu/gazdasag/nalunk-is-betiltjak-a-kezelesi-koltseget-1226602?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hajdú</author>
+   <description><![CDATA[Csökkenhetnek a fogyasztási hiteleket felvevők terhei, ha hazánkban is betiltják a kezelési költséget.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Thu, 15 May 2014 04:15:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A KDB Bank pert veszített az MNB ellen]]></title>
+   <link>http://mno.hu/gazdasag/a-kdb-bank-pert-veszitett-az-mnb-ellen-1212886?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hajdú</author>
+   <description><![CDATA[Újabb bankról bizonyosodott be, hogy jogtanul hárította át a tranzakciós adót ügyfeleire.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Wed, 26 Feb 2014 05:15:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A legenda tovább él]]></title>
+   <link>http://mno.hu/migr_1834/a-legenda-tovabb-el-841454?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hajdú</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Fri, 19 Jan 2001 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Több mint tanulmány]]></title>
+   <link>http://mno.hu/migr_1834/tobb-mint-tanulmany-840627?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hajdú</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Fri, 05 Jan 2001 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Betonszaggató]]></title>
+   <link>http://mno.hu/migr_1834/betonszaggato-840630?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hajdú</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Fri, 05 Jan 2001 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Megegyezés a fegyverkorlátozásról]]></title>
+   <link>http://mno.hu/migr/megegyezes-a-fegyverkorlatozasrol-870338?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hajdú</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum</category>
+   <pubDate>Sat, 20 Nov 1999 00:00:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

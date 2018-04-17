@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Csejtei Dezső]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/csejtei-dezso-22305</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Sat, 14 Apr 2018 01:53:40 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[A liberalizmus bájai és bajai]]></title>
+   <link>http://mno.hu/velemeny/a-liberalizmus-bajai-es-bajai-1323093?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Csejtei Dezső</author>
+   <enclosure url="http://mno.hu/data/cikkek/1323/13230/cikk-1323093/8rajz.jpg" length="540264" type="image/jpeg"/>
+   <description><![CDATA[Az irányzat, amely a türelem jelszavával lépett színre, ma a legvirulensebb intolerancia jegyeit mutatja.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Mon, 11 Jan 2016 17:45:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Sikertelen vizsga, csúfos bukás]]></title>
+   <link>http://mno.hu/velemeny/sikertelen-vizsga-csufos-bukas-1304253?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Csejtei Dezső</author>
+   <description><![CDATA[A nyugati sajtó a tényeket elhazudva alkotja meg a kegyetlen Magyarország képét.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Mon, 14 Sep 2015 13:04:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Rekviem egy antik romvárosért]]></title>
+   <link>http://mno.hu/velemeny/rekviem-egy-antik-romvarosert-1288353?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Csejtei Dezső</author>
+   <description><![CDATA[Palmüra a rombolás örvényébe, az élethalálharc célkeresztjébe kerülhet.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Fri, 29 May 2015 14:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A kollektív bűnösségről – 70 év múltán]]></title>
+   <link>http://mno.hu/velemeny/a-kollektiv-bunossegrol-70-ev-multan-1285384?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Csejtei Dezső</author>
+   <description><![CDATA[Az önátvilágítást és önmegtisztulást Jaspers elvégzendő feladatként állította annak idején a németség elé.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Fri, 08 May 2015 14:28:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Mindent átfogó misztériumok]]></title>
+   <link>http://mno.hu/velemeny/mindent-atfogo-miszteriumok-1284360?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Csejtei Dezső</author>
+   <description><![CDATA[A gyermeket világra hozó anya az organikus létezés eleven példája. ]]></description>
+   <category>Vélemény</category>
+   <pubDate>Sun, 03 May 2015 07:00:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

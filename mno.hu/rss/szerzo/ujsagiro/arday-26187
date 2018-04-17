@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Arday]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/arday-26187</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Sun, 15 Apr 2018 05:23:40 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Gyárfás Tamáshoz fordul segítségért Hosszú Katinka ügyében az úszószövetség]]></title>
+   <link>http://mno.hu/sport/gyarfas-tamashoz-fordul-segitsegul-hosszu-katinka-ugyeben-az-uszoszovetseg-2401476?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Arday</author>
+   <enclosure url="http://mno.hu/data/cikkek/2401/24014/cikk-2401476/SZB20120518_0589.jpg" length="207625" type="image/jpeg"/>
+   <description><![CDATA[Vagy legalábbis érdekes módon kéri a támogatását a sportpolitikai háború közepette. ]]></description>
+   <category>Sport</category>
+   <pubDate>Thu, 01 Jun 2017 09:13:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Thomas Doll: Átéltem már ilyent a Dortmunddal, a Bayern München ellen ]]></title>
+   <link>http://mno.hu/foci/thomas-doll-ateltem-mar-ilyent-a-dortmunddal-a-bayern-munchen-ellen-2401471?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Arday</author>
+   <description><![CDATA[A kupagyőztes Fradi trénere a meccs hőseiről, megnyert és elbukott döntőkről beszélt, hosszan értékelt.]]></description>
+   <category>90 perc</category>
+   <pubDate>Thu, 01 Jun 2017 08:13:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

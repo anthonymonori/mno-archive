@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Kárpáti György (Bari)]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/karpati-gyorgy-bari-19730</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Sat, 14 Apr 2018 20:19:12 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Costa-Gavras és Alan Parker is ünnepli a kritikát]]></title>
+   <link>http://mno.hu/grund/costa-gavras-es-alan-parker-is-unnepli-a-kritikat-1278563?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kárpáti György (Bari)</author>
+   <description><![CDATA[A dél-olaszországi Bariban ünnepli a filmvilág színe-java a 90 éves Filmkritikusok Nemzetközi Szövetségét.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Mon, 23 Mar 2015 16:31:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ilyen legyen egy magyar filmfesztivál!]]></title>
+   <link>http://mno.hu/grund/ilyen-legyen-a-magyar-nemzetkozi-filmfesztival-1065127?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kárpáti György (Bari)</author>
+   <description><![CDATA[Abbas Kiarostami mesterkurzusával és a szombati díjátadó gálával ért véget a Bari Nemzetközi Filmfesztivál, ahol egy működő fesztiválmodellt is megismerhettünk. ]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Sun, 01 Apr 2012 15:05:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Jelentés az olasz tavaszból – Bari a filmet ünnepli]]></title>
+   <link>http://mno.hu/grund/olasz-filmfieszta-bariban-1064223?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kárpáti György (Bari)</author>
+   <description><![CDATA[A Berlin és Cannes közötti fesztivál uborkaszezonban igazi relaxációs program a Bari Nemzetközi Filmfesztiválon lazítani. Dolce vita, avagy így ünnepli a filmet az olasz Dél. ]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Wed, 28 Mar 2012 18:30:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Csontos Dóra]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/csontos-dora-21764</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Fri, 13 Apr 2018 01:53:25 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Hipnoszülés: félelem nélkül, boldogan]]></title>
+   <link>http://mno.hu/csaladhalo/hipnoszules-felelem-nelkul-boldogan-1266991?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Csontos Dóra</author>
+   <description><![CDATA[Sok édesanya annyira fél a szülési fájdalmaktól, hogy nem akar gyermeket vállalni. Ennek leküzdésében segít a hipnoszülés.]]></description>
+   <category>Családháló</category>
+   <pubDate>Mon, 12 Jan 2015 06:20:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A zene, ami összeköt minket]]></title>
+   <link>http://mno.hu/csaladhalo/a-zene-ami-osszekot-minket-1260662?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Csontos Dóra</author>
+   <description><![CDATA[Pál István „Szalonna” részt vett Testvércsalád Mozgalmunkon, ahol a népzenész a Magyarság Házában kedves szavaival bátorította a hazánkba látogató családokat. ]]></description>
+   <category>Családháló</category>
+   <pubDate>Sat, 29 Nov 2014 12:53:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

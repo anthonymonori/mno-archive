@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Swendt–Szabó]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/swendtszabo-21535</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 19:16:44 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Tovább vizsgálják Juhász feljelentését]]></title>
+   <link>http://mno.hu/belfold/tovabb-vizsgaljak-juhasz-feljelenteset-1270123?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Swendt–Szabó</author>
+   <description><![CDATA[Legkésőbb február 12-ig kiderül, elrendelik-e a nyomozást vagy elutasítják a politikus feljelentését.]]></description>
+   <category>Belföld</category>
+   <pubDate>Thu, 29 Jan 2015 06:14:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Vádemelés előtt Hiszékenyék ügye ]]></title>
+   <link>http://mno.hu/belfold/vademeles-elott-hiszekenyek-ugye-1259828?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Swendt–Szabó</author>
+   <description><![CDATA[Az év végéig vádat emelhet az ügyészség Hiszékeny Dezső MSZP-s országgyűlési képviselő és társai ellen. ]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 24 Nov 2014 06:07:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hiszékenyt már várja az ügyészség]]></title>
+   <link>http://mno.hu/belfold/hiszekenyt-mar-varja-az-ugyeszseg-1248163?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Swendt–Szabó</author>
+   <description><![CDATA[Két héten belül gyanúsítottként hallgathatják ki Hiszékeny Dezső MSZP-s országgyűlési képviselőt.]]></description>
+   <category>Belföld</category>
+   <pubDate>Wed, 17 Sep 2014 05:09:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

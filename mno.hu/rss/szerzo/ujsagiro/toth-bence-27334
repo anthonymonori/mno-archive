@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Tóth Bence]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/toth-bence-27334</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Fri, 13 Apr 2018 04:26:32 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Küzdeni kell a munkavállalók jogaiért]]></title>
+   <link>http://mno.hu/belfold/kuzdeni-kell-a-munkavallalok-jogaiert-2401337?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Tóth Bence</author>
+   <enclosure url="http://mno.hu/data/cikkek/2401/24013/cikk-2401337/BA20170530_6567.jpg" length="347080" type="image/jpeg"/>
+   <description><![CDATA[A végkielégítés vagy a műszakpótlék esetében rosszul jártak a dolgozók, viszont tág tere nyílt a kollektív alkuknak.]]></description>
+   <category>Belföld</category>
+   <pubDate>Wed, 31 May 2017 19:50:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Dunaújváros: így néz ki szurkolókkal a foci]]></title>
+   <link>http://mno.hu/foci/dunaujvaros-igy-nez-ki-szurkolokkal-a-foci-2397977?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Tóth Bence</author>
+   <enclosure url="http://mno.hu/data/cikkek/2397/23979/cikk-2397977/a.jpg" length="55738" type="image/jpeg"/>
+   <description><![CDATA[A Fradi-tábor újra útra kelt, ennek köszönhetően megint többen voltak az NB III-as, mint az első csapat meccsén.]]></description>
+   <category>90 perc</category>
+   <pubDate>Mon, 08 May 2017 23:15:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Egy cigány asszony vitája a CEU-val – 65 milliót követel az egyetemtől]]></title>
+   <link>http://mno.hu/belfold/egy-cigany-asszony-vitaja-a-ceu-val-65-milliot-kovetel-az-egyetemtol-2395128?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Tóth Bence</author>
+   <enclosure url="http://mno.hu/data/cikkek/2395/23951/cikk-2395128/BD20161026_0277.jpg" length="431426" type="image/jpeg"/>
+   <description><![CDATA[Felvételije miatt pereskedik a Közép-európai Egyetemmel egy kétdiplomás nő.]]></description>
+   <category>Belföld</category>
+   <pubDate>Wed, 19 Apr 2017 09:59:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Vasárnap hajnalban óraátállítás]]></title>
+   <link>http://mno.hu/belfold/vasarnap-hajnalban-oraatallitas-2391810?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Tóth Bence</author>
+   <description><![CDATA[Változik a személyszállító vonatok és a budapesti éjszakai járatok menetrendje.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sat, 25 Mar 2017 19:45:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

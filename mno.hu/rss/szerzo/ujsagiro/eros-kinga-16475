@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Erős Kinga]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/eros-kinga-16475</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Fri, 13 Apr 2018 04:15:51 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[A számvetés ideje]]></title>
+   <link>http://mno.hu/konyveshaz/a-szamvetes-ideje-1354544?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Erős Kinga</author>
+   <enclosure url="http://mno.hu/data/cikkek/1354/13545/cikk-1354544/Olah_Janos.jpg" length="93480" type="image/jpeg"/>
+   <description><![CDATA[Emlékezés Oláh Jánosra, a népi irodalom szellemi hagyatékőrzőjére.]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Sun, 07 Aug 2016 08:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szükség vagy nosztalgia]]></title>
+   <link>http://mno.hu/grund/szukseg-vagy-nosztalgia-843762?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Erős Kinga</author>
+   <description><![CDATA[]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Fri, 23 Feb 2001 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A Himalája arca]]></title>
+   <link>http://mno.hu/grund/a-himalaja-arca-843266?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Erős Kinga</author>
+   <description><![CDATA[]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Thu, 15 Feb 2001 00:00:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

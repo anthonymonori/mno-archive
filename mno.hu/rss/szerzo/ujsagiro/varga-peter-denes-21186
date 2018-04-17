@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Varga Péter Dénes]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/varga-peter-denes-21186</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Fri, 13 Apr 2018 21:16:26 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Több országban lehetnek a Szent Jobb részei]]></title>
+   <link>http://mno.hu/tudomany/szent-istvan-eletenek-kevesse-ismert-legendai-1243183?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Varga Péter Dénes</author>
+   <description><![CDATA[„Ha becsületes akarsz lenni királyságodnak, szeresd az igaz ítéletet. Ha hatalmadban akarod tartani lelkedet, türelmes légy.”]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Wed, 20 Aug 2014 12:45:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Magyarok, akik már Árpád előtt itt lehettek a Kárpát-medencében]]></title>
+   <link>http://mno.hu/tudomany/a-szekelyek-eredeterol-1237981?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Varga Péter Dénes</author>
+   <description><![CDATA[Számos legenda kering arról, hogy honnan is származnak a székelyek. Nézzük, mit is ír erről Anonymus a Gesta Hungarorumban.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Sun, 20 Jul 2014 18:08:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az adó behajtásának sajátos módja a magyar történelemben]]></title>
+   <link>http://mno.hu/tudomany/botond-legendaja-1235698?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Varga Péter Dénes</author>
+   <description><![CDATA[Aznaptól fogva pedig Konstantin császár ismét fizette az adót a magyaroknak.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Sun, 06 Jul 2014 08:51:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Magyar történelmi baki: nem is Árpád volt az igaz honfoglaló?]]></title>
+   <link>http://mno.hu/tudomany/a-honfoglalas-bevegzoje-1233870?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Varga Péter Dénes</author>
+   <description><![CDATA[A keleti népeknél szokásban volt, hogy a népet új hazába vezető fejedelmet az új hazába költözés előtt feláldozták.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Wed, 25 Jun 2014 04:49:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Megdőlni látszik a magyar történelem egyik alaptétele]]></title>
+   <link>http://mno.hu/tudomany/a-csaba-legenda-1229904?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Varga Péter Dénes</author>
+   <description><![CDATA[Hogy mi a teljes igazság a Csaba-legendával kapcsolatban, valószínűleg soha nem fogjuk megtudni. ]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Mon, 02 Jun 2014 10:37:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

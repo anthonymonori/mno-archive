@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Katona Mariann]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/katona-mariann-22200</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Wed, 11 Apr 2018 09:01:00 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Búcsúzik a Magyar Nemzet]]></title>
+   <link>http://mno.hu/belfold/bucsuzik-a-magyar-nemzet-2459320?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Katona Mariann</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24593/cikk-2459320/2_2.jpg" length="438842" type="image/jpeg"/>
+   <description><![CDATA[Hisszük, hogy Magyarországon létezhet még demokrácia és pártatlan tájékoztatás, reméljük, visszatérünk!]]></description>
+   <category>Belföld</category>
+   <pubDate>Wed, 11 Apr 2018 05:42:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Schiffer András visszavág Hadházynak, pert is fontolgat]]></title>
+   <link>http://mno.hu/belfold/schiffer-visszavag-hadhazynak-pert-is-fontolgat-2458984?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Katona Mariann</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24589/cikk-2458984/20170111_0547.jpg" length="205162" type="image/jpeg"/>
+   <description><![CDATA[Hazugság – így reagált a Magyar Nemzetnek Schiffer András Hadházy Ákos állításaira.]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 09 Apr 2018 13:46:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Vona Gábor lemond a Jobbik pártelnöki posztjáról]]></title>
+   <link>http://mno.hu/belfold/vona-lemond-partelnoki-posztjarol-2458868?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Katona Mariann</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24588/cikk-2458868/VL20180408_0110.jpg" length="450086" type="image/jpeg"/>
+   <description><![CDATA[Ígéretéhez híven, Vona Gábor lemond a Jobbik pártelnöki posztjáról a választási eredmények ismeretében.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sun, 08 Apr 2018 23:50:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Jobbikos dicséret a választóknak]]></title>
+   <link>http://mno.hu/belfold/jobbikos-dicseret-a-valasztoknak-2458827?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Katona Mariann</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24588/cikk-2458827/D_AS20180408023.jpg" length="161172" type="image/jpeg"/>
+   <description><![CDATA[Történelmi jelentőségű volt a magyar emberek bátor kiállása ilyen fullasztó légkörben – mondta Z. Kárpát Dániel.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sun, 08 Apr 2018 20:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Vona Gábor már szavazott, természetesen a kormányváltásra]]></title>
+   <link>http://mno.hu/belfold/vona-gabor-mar-szavazott-termeszetesen-a-kormanyvaltasra-2458682?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Katona Mariann</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24586/cikk-2458682/BEL_2874.jpg" length="320017" type="image/jpeg"/>
+   <description><![CDATA[A Jobbik miniszterelnök-jelöltje szerint most nem szabad hátradőlni, mindenkit szavazásra buzdít.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sun, 08 Apr 2018 10:10:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Vona: A kormányt vasárnap el kell söpörni]]></title>
+   <link>http://mno.hu/belfold/vona-a-kormanyt-holnap-el-kell-soporni-2458640?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Katona Mariann</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24586/cikk-2458640/CM9R2641.jpg" length="164252" type="image/jpeg"/>
+   <description><![CDATA[A Jobbik elnöke szerint aki nem megy el szavazni, Orbán Viktor mellé húz egy sistergős ikszet.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sat, 07 Apr 2018 20:19:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[„Egyedül akarunk kormányt alakítani”]]></title>
+   <link>http://mno.hu/belfold/vona-a-jobbik-egyedul-nyeri-meg-a-valasztast-2458525?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Katona Mariann, György Zsombor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24585/cikk-2458525/BA_06751.jpg" length="178820" type="image/jpeg"/>
+   <description><![CDATA[A Jobbik miniszterelnök-jelöltje kifejtette, ha a matematika úgy kívánja, egy Jobbik–LMP-kormány Magyarország javára válna. Interjú.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sat, 07 Apr 2018 06:17:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Vona Gábor: Sorsdöntő választás lesz]]></title>
+   <link>http://mno.hu/belfold/vona-gabor-sorsdonto-valasztas-lesz-2458134?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Katona Mariann</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24581/cikk-2458134/20171106_NBB4837.jpg" length="314174" type="image/jpeg"/>
+   <description><![CDATA[Bemutatta a Jobbik miniszterelnök-jelöltje, hogyan gondolkodnak az Európai Unióról.]]></description>
+   <category>Belföld</category>
+   <pubDate>Thu, 05 Apr 2018 13:54:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Felbonthatja a borítékokat a Fidesz szövetségese]]></title>
+   <link>http://mno.hu/belfold/felbonthatja-a-boritekokat-a-fidesz-szovetsegese-2457793?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Katona Mariann</author>
+   <enclosure url="http://mno.hu/data/cikkek/2457/24577/cikk-2457793/180403_Belo41.jpg" length="332232" type="image/jpeg"/>
+   <description><![CDATA[Egy vajdasági hírportál szerint a VMSZ aktivistái ellenőrzik a levélszavazatokat.]]></description>
+   <category>Belföld</category>
+   <pubDate>Wed, 04 Apr 2018 16:34:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Újabb visszalépések a baloldalon]]></title>
+   <link>http://mno.hu/belfold/ujabb-visszalepesek-a-baloldalon-2457909?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Katona Mariann</author>
+   <enclosure url="http://mno.hu/data/cikkek/2457/24579/cikk-2457909/NBB_20170119_0233.JPG" length="400004" type="image/jpeg"/>
+   <description><![CDATA[A belvárosban visszalépett a Párbeszéd jelöltje, az LMP-s Csárdi Antal maradt állva. Csepelen az LMP léptette vissza jelöltjét.]]></description>
+   <category>Belföld</category>
+   <pubDate>Wed, 04 Apr 2018 15:20:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Vona Gábor: Itt a bevándorlásellenes akcióterv]]></title>
+   <link>http://mno.hu/belfold/vona-gabor-itt-a-bevandorlasellenes-akcioterv-2457570?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Katona Mariann</author>
+   <enclosure url="http://mno.hu/data/cikkek/2457/24575/cikk-2457570/BA_00284.JPG" length="228980" type="image/jpeg"/>
+   <description><![CDATA[A Jobbik kitart amellett, hogy a 106 jelöltjéből senkit sem léptet vissza a választásokra.]]></description>
+   <category>Belföld</category>
+   <pubDate>Tue, 03 Apr 2018 13:03:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A fideszesek megint elmenekültek a nemzetbiztonsági bizottság elől]]></title>
+   <link>http://mno.hu/belfold/ismet-bojkottalta-a-fidesz-a-nemzetbiztonsagi-bizottsagot-2456761?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Katona Mariann</author>
+   <enclosure url="http://mno.hu/data/cikkek/2456/24567/cikk-2456761/BA_00099.JPG" length="211037" type="image/jpeg"/>
+   <description><![CDATA[Szél Bernadett feljelenti Kövér Lászlót, amiért a kormánypárti honatyákkal nem tartatja be a törvényeket.]]></description>
+   <category>Belföld</category>
+   <pubDate>Thu, 29 Mar 2018 08:56:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Vona: Felhívhatnám Orbánt, de nem]]></title>
+   <link>http://mno.hu/belfold/vona-felhivhatnam-orbant-de-nem-2456679?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Katona Mariann</author>
+   <enclosure url="http://mno.hu/data/cikkek/2456/24566/cikk-2456679/CM9R9889_01.jpg" length="199971" type="image/jpeg"/>
+   <description><![CDATA[Lépj be a Fideszbe, és lophatsz! – a Jobbik elnöke szerint ez a Fidesz ajánlata a fiataloknak.]]></description>
+   <category>Belföld</category>
+   <pubDate>Wed, 28 Mar 2018 19:25:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Vona Gábor szerint Orbán Viktor vagy beteg, vagy aljas, vagy a kettő együtt]]></title>
+   <link>http://mno.hu/belfold/vona-gabor-szerint-orban-viktor-vagy-beteg-vagy-aljas-vagy-a-ketto-egyutt-2456173?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Katona Mariann</author>
+   <enclosure url="http://mno.hu/data/cikkek/2456/24561/cikk-2456173/BA_03702.JPG" length="100773" type="image/jpeg"/>
+   <description><![CDATA[A Jobbik elnöke szerint az egészségügy az igazi no-go zóna, ahová a kormány be sem teszi a lábát.]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 26 Mar 2018 21:11:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nekiesett a balliberális oldal Szél Bernadettnek]]></title>
+   <link>http://mno.hu/belfold/nekiesett-a-balliberalis-oldal-szel-bernadettnek-2455315?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Katona Mariann</author>
+   <enclosure url="http://mno.hu/data/cikkek/2455/24553/cikk-2455315/D_KOS20180315016.jpg" length="209037" type="image/jpeg"/>
+   <description><![CDATA[Senkinek sincs érdemi válasza arra, mit kezdenének Polt Péterrel, ha nem lenne többsége a Fidesznek.]]></description>
+   <category>Belföld</category>
+   <pubDate>Thu, 22 Mar 2018 17:55:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Karácsony nem zárkózik el az LMP javára a visszalépésektől]]></title>
+   <link>http://mno.hu/belfold/karacsony-nem-zarkozik-el-az-lmp-javara-a-visszalepesektol-2454970?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Katona Mariann</author>
+   <enclosure url="http://mno.hu/data/cikkek/2454/24549/cikk-2454970/NBB_20180110_9082.JPG" length="343436" type="image/jpeg"/>
+   <description><![CDATA[Az MSZP–Párbeszéd miniszterelnök-jelöltje tárgyalást sürget a zöldpárttal.]]></description>
+   <category>Belföld</category>
+   <pubDate>Wed, 21 Mar 2018 14:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nem lehet „balról megverni” ezt a kormányt]]></title>
+   <link>http://mno.hu/belfold/nem-lehet-balrol-megverni-ezt-a-kormanyt-2454337?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Katona Mariann</author>
+   <enclosure url="http://mno.hu/data/cikkek/2454/24543/cikk-2454337/BA_00834.JPG" length="201405" type="image/jpeg"/>
+   <description><![CDATA[Bár tárgyalt az LMP, a DK és az MSZP, de nincs esélye a választási együttműködésüknek.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sun, 18 Mar 2018 20:07:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kormányzati struktúrát hirdetett a Jobbik]]></title>
+   <link>http://mno.hu/belfold/kormanyzati-strukturat-hirdetett-a-jobbik-2454287?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Katona Mariann</author>
+   <enclosure url="http://mno.hu/data/cikkek/2454/24542/cikk-2454287/BA20160130_6361.jpg" length="308599" type="image/jpeg"/>
+   <description><![CDATA[Önálló egészségügyi tárcát hoznának létre, kormányfőhelyettes foglalkozna az unióval.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sun, 18 Mar 2018 16:44:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Jobbik: Orbán Viktor mentálisan beteg]]></title>
+   <link>http://mno.hu/belfold/jobbik-orban-viktor-mentalisan-beteg-2453952?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Katona Mariann</author>
+   <enclosure url="http://mno.hu/data/cikkek/2453/24539/cikk-2453952/20180315_NBB7490.jpg" length="252401" type="image/jpeg"/>
+   <description><![CDATA[Nem csitulnak a kedélyek a miniszterelnök ünnepi beszéde után. Az ellenzék nem hagyja szó nélkül az elhangzott fenyegetőzését.]]></description>
+   <category>Belföld</category>
+   <pubDate>Fri, 16 Mar 2018 13:58:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kósa nemzetbiztonsági átvilágításán felmerült az 1300 milliárd?]]></title>
+   <link>http://mno.hu/belfold/kosa-nemzetbiztonsagi-atvilagitasan-felmerult-az-1300-milliard-2453939?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Katona Mariann</author>
+   <enclosure url="http://mno.hu/data/cikkek/2453/24539/cikk-2453939/D_TT20150318036.jpg" length="325333" type="image/jpeg"/>
+   <description><![CDATA[A Jobbik az átvilágítást végző Alkotmányvédelmi Hivataltól szeretné megtudni az üggyel kapcsolatos részleteket.]]></description>
+   <category>Belföld</category>
+   <pubDate>Fri, 16 Mar 2018 12:52:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Vona Gábor: A választás tétje, hogy kivándorlóországgá fogunk-e válni]]></title>
+   <link>http://mno.hu/belfold/vona-gabor-a-valasztas-tetje-hogy-kivandorloorszagga-fogunk-e-valni-2452197?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Katona Mariann</author>
+   <enclosure url="http://mno.hu/data/cikkek/2452/24521/cikk-2452197/20171106_NBB4837.jpg" length="314174" type="image/jpeg"/>
+   <description><![CDATA[A jelenlegi rendszer egy politikai tébolyda, a kommunikációja egybitessé vált – mondta a Jobbik elnöke.]]></description>
+   <category>Belföld</category>
+   <pubDate>Thu, 08 Mar 2018 07:20:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Vona Gábor: Ez a rendszer egy politikai tébolyda]]></title>
+   <link>http://mno.hu/belfold/vona-gabor-ez-a-rendszer-egy-politikai-tebolyda-2452173?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Katona Mariann</author>
+   <enclosure url="http://mno.hu/data/cikkek/2452/24521/cikk-2452173/szb20180127_1449.jpg" length="202336" type="image/jpeg"/>
+   <description><![CDATA[A Jobbik elnöke szerint 65-70 százalék körüli részvételi aránynál realitássá válhat a kormányváltás.]]></description>
+   <category>Belföld</category>
+   <pubDate>Wed, 07 Mar 2018 21:25:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Újra aktív kamupártok]]></title>
+   <link>http://mno.hu/belfold/ujra-aktiv-kamupartok-2451661?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Katona Mariann</author>
+   <enclosure url="http://mno.hu/data/cikkek/2451/24516/cikk-2451661/D_AS20140320008.JPG" length="299241" type="image/jpeg"/>
+   <description><![CDATA[Egymást érik a teljes ismeretlenségből hirtelen előbukkanó pártok jelöltjei országszerte. Hajdúszoboszlón például 46-an indulnának.]]></description>
+   <category>Belföld</category>
+   <pubDate>Tue, 06 Mar 2018 05:48:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Íme az áprilisi választások győztesei és vesztesei!]]></title>
+   <link>http://mno.hu/belfold/ime-az-aprilisi-valasztasok-gyoztesei-es-vesztesei-2451464?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Katona Mariann</author>
+   <enclosure url="http://mno.hu/data/cikkek/2451/24514/cikk-2451464/3_2szb.jpg" length="223997" type="image/jpeg"/>
+   <description><![CDATA[Még nem is szavaztunk, de már van, aki biztosan nyer, és olyan is, aki búcsúzik.]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 05 Mar 2018 11:11:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hajszállal, de előzi Szél Bernadett Karácsony Gergelyt]]></title>
+   <link>http://mno.hu/belfold/hajszallal-de-elozi-szel-bernadett-karacsony-gergelyt-2451204?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Katona Mariann</author>
+   <enclosure url="http://mno.hu/data/cikkek/2451/24512/cikk-2451204/D_MTZ20171117023.jpg" length="306682" type="image/jpeg"/>
+   <description><![CDATA[A miniszterelnök-jelölteket és az egyéni körzeteket is mérték, íme az eredmények.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sat, 03 Mar 2018 16:03:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Vona Gábor: Az LMP-vel bármikor tárgyalunk]]></title>
+   <link>http://mno.hu/belfold/vona-gabor-az-lmp-vel-barmikor-targyalunk-2450876?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Katona Mariann</author>
+   <enclosure url="http://mno.hu/data/cikkek/2450/24508/cikk-2450876/MNO_szb20180127_1458.jpg" length="280870" type="image/jpeg"/>
+   <description><![CDATA[A Jobbik elnöke a visszalépések helyett a nemzeti minimumról egyeztetne a zöldpárttal.]]></description>
+   <category>Belföld</category>
+   <pubDate>Fri, 02 Mar 2018 06:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Németh Szilárd bepöccent: a kritikus sajtónak egyszerűen nem válaszol]]></title>
+   <link>http://mno.hu/belfold/nemeth-szilard-bepoccent-a-kritikus-sajtonak-egyszeruen-nem-valaszol-2450527?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Katona Mariann, Hutter Marianna</author>
+   <enclosure url="http://mno.hu/data/cikkek/2450/24505/cikk-2450527/szb20171113_0494.jpg" length="234617" type="image/jpeg"/>
+   <description><![CDATA[A Fidesz „ökle” hazugnak nevezte lapunkat; legalább kiderült, hogy olvas Magyar Nemzetet.]]></description>
+   <category>Belföld</category>
+   <pubDate>Wed, 28 Feb 2018 17:14:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Németh Szilárd elfelejtette, hogy Soros már nem téma]]></title>
+   <link>http://mno.hu/belfold/nemeth-szilard-elfelejtette-hogy-soros-mar-nem-tema-2450479?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Katona Mariann</author>
+   <enclosure url="http://mno.hu/data/cikkek/2450/24504/cikk-2450479/D_AS20180228002.jpg" length="154087" type="image/jpeg"/>
+   <description><![CDATA[Németh Szilárd nem hazudtolta meg önmagát: megint Soros emberének nevezte Szél Bernadettet.]]></description>
+   <category>Belföld</category>
+   <pubDate>Wed, 28 Feb 2018 14:27:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Visszaléptetésekről tárgyalna az LMP: a Jobbikot és az MSZP-t is keresik]]></title>
+   <link>http://mno.hu/belfold/visszaleptetesekrol-targyalna-az-lmp-a-jobbikot-es-az-mszp-t-is-keresik-2449893?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Katona Mariann</author>
+   <enclosure url="http://mno.hu/data/cikkek/2449/24498/cikk-2449893/szb20171204_2993.jpg" length="584295" type="image/jpeg"/>
+   <description><![CDATA[Hódmezővásárhely adta meg az ellenzék számára a pozitív példát, de Szél Bernadették már egy hete döntöttek.]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 26 Feb 2018 10:26:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Vona Gábor: A Fidesz összeomlott]]></title>
+   <link>http://mno.hu/belfold/vona-gabor-a-fidesz-osszeomlott-2449827?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Katona Mariann</author>
+   <enclosure url="http://mno.hu/data/cikkek/2449/24498/cikk-2449827/szb20160609_7522.jpg" length="593036" type="image/jpeg"/>
+   <description><![CDATA[„Ha Lázár János városában a Fidesz megverhető – ami megtörtént –, azt üzeni, hogy a Fidesz az ország minden pontján megverhető.”]]></description>
+   <category>Belföld</category>
+   <pubDate>Sun, 25 Feb 2018 21:39:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

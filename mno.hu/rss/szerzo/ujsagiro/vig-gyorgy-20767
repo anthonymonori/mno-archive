@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Vig György]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/vig-gyorgy-20767</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 18:32:09 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Egy épülő és pusztuló város apatikus lakói]]></title>
+   <link>http://mno.hu/grund/egy-epulo-es-pusztulo-varos-apatikus-lakoi-1369785?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vig György</author>
+   <enclosure url="http://mno.hu/data/cikkek/1369/13697/cikk-1369785/13_1szb.jpg" length="316469" type="image/jpeg"/>
+   <description><![CDATA[Bernáth Aurél és Déry Tibor találkozása a Kiscelli Múzeumban.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Fri, 04 Nov 2016 16:24:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szőke András: Na, ezt nem merik a stand-upos fiúk]]></title>
+   <link>http://mno.hu/nagyinterju_magazinban/festo-csulleng-1350985?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vig György</author>
+   <enclosure url="http://mno.hu/data/cikkek/1350/13509/cikk-1350985/VL20160703_0001_grid2_fekvo_lead.jpg" length="81442" type="image/jpeg"/>
+   <description><![CDATA[Szőke András a gyógyfüvekről, a halott vackokról, a plébánossal közös értékmentésről és a stand-upról.]]></description>
+   <category>Nagyinterjú a Magazinban</category>
+   <pubDate>Sun, 10 Jul 2016 11:28:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kern András: Ez nem lesz antiszemita előadás]]></title>
+   <link>http://mno.hu/nagyinterju_magazinban/bekegalamb-jol-atsutve-1330619?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vig György</author>
+   <enclosure url="http://mno.hu/data/cikkek/1330/13306/cikk-1330619/D_KOS20120905003_grid2_fekvo_lead.jpg" length="47406" type="image/jpeg"/>
+   <description><![CDATA[Kern András gyűlölködésről, a komolytalan politizálásról és az elgondolkodtató színházról.]]></description>
+   <category>Nagyinterjú a Magazinban</category>
+   <pubDate>Sun, 28 Feb 2016 11:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Vekerdy: Az oktatási rendszer csődje közelít]]></title>
+   <link>http://mno.hu/nagyinterju_magazinban/vekerdy-tamas-az-oktatasi-rendszer-csodje-kozelit-1327276?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vig György</author>
+   <enclosure url="http://mno.hu/data/cikkek/1327/13272/cikk-1327276/VL20160126_0511_grid2_fekvo_lead.jpg" length="51555" type="image/jpeg"/>
+   <description><![CDATA[Vekerdy Tamás szerint az oktatási rendszer  és a demokrácia csődje közelít.]]></description>
+   <category>Nagyinterjú a Magazinban</category>
+   <pubDate>Sun, 07 Feb 2016 07:30:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Laár András: A méreg arra is hat, aki mérgez]]></title>
+   <link>http://mno.hu/hetvegimagazin/galaktikus-utikalauz-1302076?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vig György</author>
+   <enclosure url="http://mno.hu/data/cikkek/1302/13020/cikk-1302076/Laar_uj_fekvo_lead.jpg" length="76697" type="image/jpeg"/>
+   <description><![CDATA[A hatvanéves zenész, nevettető, buddhista tanító a magyar nyelv alkotóerejéről, a Habsburgokról  és arról, miért nem eszik többé rántott sajtot.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Sun, 30 Aug 2015 19:16:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A paralimpikon, akit nem akartak odaadni szüleinek]]></title>
+   <link>http://mno.hu/hetvegimagazin/harminchat-lepcso-1299115?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vig György</author>
+   <description><![CDATA[Illés Fanni az éjszaka előmerészkedő mozgássérültekről,  a medencéhez vezető hosszú útról és a riói olimpiáról.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Sun, 09 Aug 2015 10:17:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Fejős Éva: Meséltek dolgokról...]]></title>
+   <link>http://mno.hu/hetvegimagazin/nem-mindig-happy-end-1294770?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vig György</author>
+   <description><![CDATA[Fejős Éva trópusokról, az Ulpius bedőléséről és a szerzők kiszolgáltatottságáról.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Sun, 12 Jul 2015 14:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Dee Dee Bridgewater: Bezárkózás helyett segíteni kell]]></title>
+   <link>http://mno.hu/grund/dee-dee-bridgewater-bezarkozas-helyett-segiteni-kell-1291922?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vig György</author>
+   <description><![CDATA[A legendás New York-i énekesnő, Dee Dee Bridgewater nyilatkozott a Magyar Nemzetnek.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Tue, 23 Jun 2015 09:47:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kapaszkodni  a jeges csúszdán]]></title>
+   <link>http://mno.hu/hetvegimagazin/kapaszkodni-a-jeges-csuszdan-1282355?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vig György</author>
+   <description><![CDATA[Helyzetkép a hazai hajléktalanvilágról – a tervezett új kormányzati stratégia véglegesítése előtt.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Sat, 18 Apr 2015 12:12:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kultúra és politika az egykori NDK-ban]]></title>
+   <link>http://mno.hu/grund/kultura-es-politika-az-egykori-ndk-ban-1255096?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vig György</author>
+   <description><![CDATA[A lipcsei Szent Miklós-templom és egy erőszakmentes forradalom története.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Sat, 25 Oct 2014 15:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ma temetik Burgenland jótevőjét, Esterházy Melindát]]></title>
+   <link>http://mno.hu/grund/ma-temetik-burgenland-jotevojet-esterhazy-melindat-1247454?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vig György</author>
+   <description><![CDATA[Ma helyezik örök nyugovóra Galántai Esterházy Melinda hercegnét, született Ottrubay Melindát Kismartonban.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Fri, 12 Sep 2014 12:19:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Bródy János: Nem beszéltem cenzúráról!]]></title>
+   <link>http://mno.hu/grund/brody-janos-nem-beszeltem-cenzurarol-1247270?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vig György</author>
+   <description><![CDATA[Bródy János elnézést kér a köztévétől és Koncz Zsuzsától.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Thu, 11 Sep 2014 20:18:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Három földrészről zarándokolnak el Miszlára]]></title>
+   <link>http://mno.hu/grund/harom-foldreszrol-zarandokolnak-el-miszlara-1246865?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vig György</author>
+   <description><![CDATA[Négy éve tanítanak nyaranta egy eldugott tolnai faluban, Miszlán a historikus hangszerek magyar mesterei.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Tue, 09 Sep 2014 17:10:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Újra lesz búcsú Budaörsön]]></title>
+   <link>http://mno.hu/grund/ujra-van-bucsu-budaorson-1246288?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vig György</author>
+   <description><![CDATA[Szeptember 13-án 10 órakor kezdődik a megújult Kőhegyi kápolna 100 éves hagyományra visszatekintő búcsúja.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Sat, 06 Sep 2014 17:05:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Jónás Vera utcai stúdióban keresi az ország hangját]]></title>
+   <link>http://mno.hu/grund/jonas-vera-utcai-studioban-keresi-az-orszag-hangjat-1244034?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vig György</author>
+   <description><![CDATA[Jónás Vera társaival utcán felállított hangstúdiók segítségével készít izgalmas zeneműveket.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Tue, 26 Aug 2014 11:36:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ördögkatlan: mezítlábas fesztivál Örömódával]]></title>
+   <link>http://mno.hu/grund/ordogkatlan-mezitlabas-fesztival-oromodaval-1240841?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vig György</author>
+   <description><![CDATA[Nemcsak rock, de klasszikus is forr a ma kezdődő Ördögkatlan Fesztiválon. Kezd a Quimby, zár a Kiscsillag!]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Tue, 05 Aug 2014 13:22:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Negyven év rock and roll drog és orgiák nélkül]]></title>
+   <link>http://mno.hu/grund/negyven-ev-rock-and-roll-drog-es-orgiak-nelkul-1240381?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vig György</author>
+   <description><![CDATA[Budapesten koncertezik a legendás fuvolista-énekes-dalszerző, Ian Anderson és zenekara, a Jethro Tull.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Sun, 03 Aug 2014 11:49:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A Hold foglyai, avagy élni kell, ha meghalunk is]]></title>
+   <link>http://mno.hu/grund/a-hold-foglyai-avagy-elni-kell-ha-meghalunk-is-1239490?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vig György</author>
+   <description><![CDATA[Tökéletes színházi est Gyulán, a Ladics-ház kertjében. Szerb Antal Utas és holdvilág című regénye a színpadon.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Mon, 28 Jul 2014 13:18:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[De-Phazz: A zene jobb, mint a politika]]></title>
+   <link>http://mno.hu/grund/de-phazz-a-zene-jobb-mint-a-politika-1238984?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vig György</author>
+   <description><![CDATA[A Balatonnál koncertezik a De-Phazz. Ez jó apropó volt, hogy felhívjuk az elragadó énekest, Pat Appletont.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Sat, 26 Jul 2014 19:55:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Lukács: Ha csak a pián múlna]]></title>
+   <link>http://mno.hu/grund/tankcsapda-padlogazon-zajlik-a-munka-1238406?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vig György</author>
+   <description><![CDATA[Új lemezzel áll elő az októberi születésnapra a 25 éves zenekar. Interjú Lukács Lászlóval és Fejes Tamással.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Tue, 22 Jul 2014 05:50:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Óbudán lép fel az életre kelt East]]></title>
+   <link>http://mno.hu/grund/obudan-lep-fel-az-eletre-kelt-east-1237637?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vig György</author>
+   <description><![CDATA[„Ha már ennyit dolgoztunk, csinálni kellene vele még valamit.” Interjú Móczán Péterrel az életműkoncert előtt.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Fri, 18 Jul 2014 17:59:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Halálra ítélték a falvakat, minden víz alá fog kerülni]]></title>
+   <link>http://mno.hu/grund/indianok-brazilia-ellen-1237097?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vig György</author>
+   <description><![CDATA[Amazóniában forgatott az On The Spot, ahol a brazilok ellenfeleinek szurkolt a kayapo-xikrin törzs főnöke.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Mon, 14 Jul 2014 07:45:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A Gogol Bordello és a csodás vágyak királya]]></title>
+   <link>http://mno.hu/grund/a-gogol-bordello-es-a-csodas-vagyak-kiralya-1231606?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vig György</author>
+   <description><![CDATA[Neo-optimista varázslat a zene, a színház és a káosz eszközeivel. Magyarországon lép fel a Gogol Bordello.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Thu, 12 Jun 2014 14:17:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Építészeti sikertörténetek a Műcsarnokban]]></title>
+   <link>http://mno.hu/grund/epiteszeti-sikertortenetek-a-mucsarnokban-1230487?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vig György</author>
+   <description><![CDATA[Értékegyeztető tárlat nyílt a Magyar Művészeti Akadémia kezdeményezésére a Műcsarnokban. Több úton egy irányba.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Wed, 04 Jun 2014 21:10:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Álomvalóságot ígérnek az idei Ördögkatlanba]]></title>
+   <link>http://mno.hu/grund/alomvalosagot-igernek-az-idei-ordogkatlanba-1229451?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vig György</author>
+   <description><![CDATA[Törőcsik Mari szerint nem normálisak az ördögkatlanosok.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Thu, 29 May 2014 19:21:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Molnár-klasszikus Udvarossal, Schellel, Csányival]]></title>
+   <link>http://mno.hu/grund/molnar-klasszikus-udvarossal-schellel-csanyival-1227676?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vig György</author>
+   <description><![CDATA[Az egyik legszebb szerelmi történetet, Molnár Ferenc Liliom című színművét mutatják be a Tháliában.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Wed, 21 May 2014 07:59:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Elindul a Cseh Tamás Program]]></title>
+   <link>http://mno.hu/grund/elindul-a-cseh-tamas-program-1226111?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vig György</author>
+   <description><![CDATA[Idén négyszázmillió forinttal indul a könnyűzenei műfaj számára létrehozott hároméves Cseh Tamás Program.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Mon, 12 May 2014 17:38:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kováts Adél: Ne legyünk restek a jóra!]]></title>
+   <link>http://mno.hu/grund/kovats-adel-ne-legyunk-restek-a-jora-1225616?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vig György</author>
+   <description><![CDATA[Az ország egyik legfontosabb színésznője színpadon kívül is állást foglal a jó ügyekért: Kováts Adél. ]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Fri, 09 May 2014 14:22:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Pleszkán Écska: A lehetetlent is megpróbálom!]]></title>
+   <link>http://mno.hu/grund/pleszkan-ecska-a-lehetetlent-is-megprobalom-1222813?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vig György</author>
+   <description><![CDATA[Pleszkán Écska hihetetlen energiákkal robbant be a blues-rock sokak számára antiknak tűnő világába.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Wed, 23 Apr 2014 13:43:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Fölszállott a páva: már a nézők is szavaznak]]></title>
+   <link>http://mno.hu/grund/folszallott-a-pava-mar-a-nezok-szavaznak-1218875?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vig György</author>
+   <description><![CDATA[Hétről hétre népszerűbb a tévés népi tehetségkutató verseny. Szombattól egy előadót a nézők juttatnak tovább.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Mon, 31 Mar 2014 17:58:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

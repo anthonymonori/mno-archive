@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Lipiczky Ágnes]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/lipiczky-agnes-22503</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 08:10:10 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Tíz év után hazatér Simon Miklós]]></title>
+   <link>http://mno.hu/sport/tiz-ev-utan-hazater-simon-miklos-1368859?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lipiczky Ágnes</author>
+   <description><![CDATA[A kajakos Benedek Dalma egykori edzője szeretne visszakerülni a profi magyar rendszerbe.]]></description>
+   <category>Sport</category>
+   <pubDate>Fri, 28 Oct 2016 16:22:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kammerer: Minden ügyemet helyre tudtam tenni]]></title>
+   <link>http://mno.hu/sport/kammerer-minden-ugyemet-helyre-tudtam-tenni-1368287?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lipiczky Ágnes</author>
+   <enclosure url="http://mno.hu/data/cikkek/1368/13682/cikk-1368287/D_AS20150819106.jpg" length="176312" type="image/jpeg"/>
+   <description><![CDATA[A háromszoros olimpiai bajnok kajakos szakított Fábiánné Rozsnyói Katalinnal. Erről is kérdeztük.]]></description>
+   <category>Sport</category>
+   <pubDate>Tue, 25 Oct 2016 19:20:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A magyar sztársíző nagyratörő álmai]]></title>
+   <link>http://mno.hu/sport/miklos-edit-es-a-nagyra-toro-almok-1363991?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lipiczky Ágnes</author>
+   <enclosure url="http://mno.hu/data/cikkek/1363/13639/cikk-1363991/K_EPA20160314017.jpg" length="150622" type="image/jpeg"/>
+   <description><![CDATA[Miklós Edit vb-éremre feni a fogát. Új edzője pont jókor érkezett a cél teljesítéséhez. ]]></description>
+   <category>Sport</category>
+   <pubDate>Thu, 29 Sep 2016 16:21:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Huszonnyolc éve a farkasfalka élén]]></title>
+   <link>http://mno.hu/foci/huszonnyolc-eve-a-farkasfalka-elen-1363823?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lipiczky Ágnes</author>
+   <enclosure url="http://mno.hu/data/cikkek/1363/13638/cikk-1363823/000_GG9P2.jpg" length="188999" type="image/jpeg"/>
+   <description><![CDATA[A negyvenesztendős Francesco Totti egyszer kacérkodott a klubváltás gondolatával.]]></description>
+   <category>90 perc</category>
+   <pubDate>Wed, 28 Sep 2016 17:56:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Sporttörténelmet írt Csay Renáta]]></title>
+   <link>http://mno.hu/sport/sporttortenelmet-irt-csay-renata-1362516?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lipiczky Ágnes</author>
+   <enclosure url="http://mno.hu/data/cikkek/1362/13625/cikk-1362516/D_AS20150912019.jpg" length="1481494" type="image/jpeg"/>
+   <description><![CDATA[Szereti a sikerhez vezető utat, s nem tervezi, hogy leteszi a lapátot a tizennyolcszoros világbajnok.]]></description>
+   <category>Sport</category>
+   <pubDate>Tue, 20 Sep 2016 18:28:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Mindenki csak egyetlen labdát vigyen a csarnokba!]]></title>
+   <link>http://mno.hu/sport/natasa-kovacevic-ismet-palyara-lep-1360550?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lipiczky Ágnes</author>
+   <enclosure url="http://mno.hu/data/cikkek/1360/13605/cikk-1360550/D__YT20150627032_01.jpg" length="617527" type="image/jpeg"/>
+   <description><![CDATA[A buszbalesetben elhunyt Fűzy Ákosra és Tapodi Péterre emlékeznek Győrben. ]]></description>
+   <category>Sport</category>
+   <pubDate>Wed, 07 Sep 2016 16:31:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Egy utolsó nagy dobásra készül Sors Rióban]]></title>
+   <link>http://mno.hu/rio2016/nem-gorcsol-rio-miatt-1359960?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lipiczky Ágnes</author>
+   <enclosure url="http://mno.hu/data/cikkek/1359/13599/cikk-1359960/D_KOS20160808041.jpg" length="269553" type="image/jpeg"/>
+   <description><![CDATA[Paralimpiai bajnokunk úgy érzi, mindig őt húzzák ki a zsákból, ha a jutalmakról beszélnek. Interjú. ]]></description>
+   <category>Rio 2016</category>
+   <pubDate>Sat, 03 Sep 2016 12:33:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[„Szív nélkül nem lehet olimpiát nyerni”]]></title>
+   <link>http://mno.hu/sport/sziv-nelkul-nem-lehet-olimpiat-nyerni-1359205?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lipiczky Ágnes</author>
+   <enclosure url="http://mno.hu/data/cikkek/1359/13592/cikk-1359205/csipes_tamara2_uj_fekvo_lead_grid2_fekvo_lead.jpg" length="38032" type="image/jpeg"/>
+   <description><![CDATA[Csipes Tamara mélyről állt fel, s párjának, Molnár Ákosnak köszönhetően új utakra lelt.
+]]></description>
+   <category>Sport</category>
+   <pubDate>Tue, 30 Aug 2016 13:02:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kozák Danuta sebezhetetlennek érzi magát]]></title>
+   <link>http://mno.hu/rio2016/meg-sebezhetetlennek-erzi-magat-1358725?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lipiczky Ágnes</author>
+   <enclosure url="http://mno.hu/data/cikkek/1358/13587/cikk-1358725/20160824-_NBB9808.jpg" length="342804" type="image/jpeg"/>
+   <description><![CDATA[Az ötszörös olimpiai bajnok Kozák Danuta örül, hogy ennyi embert megérint a sikere.]]></description>
+   <category>Rio 2016</category>
+   <pubDate>Fri, 26 Aug 2016 10:02:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A siker kulcsa]]></title>
+   <link>http://mno.hu/velemeny/a-siker-kulcsa-1358397?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lipiczky Ágnes</author>
+   <enclosure url="http://mno.hu/data/cikkek/1358/13583/cikk-1358397/kozak_hosszu_NBB9866.jpg" length="339806" type="image/jpeg"/>
+   <description><![CDATA[Arra senki nem számított, hogy a hit, a dac s az egymásért való küzdelem hegyeket mozgató erő.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Thu, 25 Aug 2016 10:33:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Felkelt a napunk, 8. aranyunk! – Taroltak a hölgyek]]></title>
+   <link>http://mno.hu/rio2016/felkelt-a-napunk-8-aranyunk-taroltak-a-holgyek-1357848?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Bucsy Levente, Lipiczky Ágnes</author>
+   <enclosure url="http://mno.hu/data/cikkek/1357/13578/cikk-1357848/D__AS20160820012.jpg" length="396757" type="image/jpeg"/>
+   <description><![CDATA[Először nyertük meg az olimpia összes 500 m-es női kajakszámát! Kozák Danuta ötszörös bajnok.]]></description>
+   <category>Rio 2016</category>
+   <pubDate>Sat, 20 Aug 2016 14:48:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kajak: csak „egyvalaki” győzheti le a női négyest]]></title>
+   <link>http://mno.hu/rio2016/kajak-csak-egyvalaki-gyozheti-le-a-noi-negyest-1357737?utm_source=feed&amp;utm_medium=rss</link>
+   <author>BuL, Lipiczky Ágnes</author>
+   <enclosure url="http://mno.hu/data/cikkek/1357/13577/cikk-1357737/000_FA5H3.jpg" length="320405" type="image/jpeg"/>
+   <description><![CDATA[A mezőny a mi leányaink mögött, de a lagúnában olykor durva hullámok vannak. Folytatás szombaton.]]></description>
+   <category>Rio 2016</category>
+   <pubDate>Fri, 19 Aug 2016 16:27:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kajak-kenu: forr a víz a Lagúnában, jön a hölgynégyes!]]></title>
+   <link>http://mno.hu/rio2016/kajak-kenu-forr-a-viz-a-lagunaban-jon-a-holgynegyes-1357659?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lipiczky Ágnes</author>
+   <enclosure url="http://mno.hu/data/cikkek/1357/13576/cikk-1357659/000_Par6456468.jpg" length="228711" type="image/jpeg"/>
+   <description><![CDATA[Érkezik férfi és női csapathajónk, a Vasbányai, Mike kenukettes, és újrázik Molnár Péter – K-1 200 m-en látjuk.]]></description>
+   <category>Rio 2016</category>
+   <pubDate>Fri, 19 Aug 2016 09:55:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A hetedik arany! Olimpiai bajnok Kozák Danuta]]></title>
+   <link>http://mno.hu/rio2016/kettobol-ketto-olimpiai-bajnok-kozak-danuta-1357518?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Bucsy Levente, Lipiczky Ágnes</author>
+   <enclosure url="http://mno.hu/data/cikkek/1357/13575/cikk-1357518/D__AS20160818022.jpg" length="186896" type="image/jpeg"/>
+   <description><![CDATA[A K-2 500 m után egyesben is aranyérmes a kajakkirálynő, elsőként négyszeres bajnok a sportágban.]]></description>
+   <category>Rio 2016</category>
+   <pubDate>Thu, 18 Aug 2016 15:13:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szabó: Nem akarok belegondolni, milyen helyzetből álltunk fel]]></title>
+   <link>http://mno.hu/rio2016/a-baratsag-volt-az-erosebb-1357470?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lipiczky Ágnes</author>
+   <enclosure url="http://mno.hu/data/cikkek/1357/13574/cikk-1357470/D__AS20160816009_grid2_fekvo_lead.jpg" length="34699" type="image/jpeg"/>
+   <description><![CDATA[Kozák Danuta egyes döntője után a négyest is kicsomagolják Szabó Gabrielláék. ]]></description>
+   <category>Rio 2016</category>
+   <pubDate>Thu, 18 Aug 2016 09:43:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Újra vízen a kajak Hosszú Katinkája]]></title>
+   <link>http://mno.hu/rio2016/ujra-vizen-a-kajak-hosszu-katinkaja-1357433?utm_source=feed&amp;utm_medium=rss</link>
+   <author>BuL, Lipiczky Ágnes</author>
+   <enclosure url="http://mno.hu/data/cikkek/1357/13574/cikk-1357433/000_F35PE.jpg" length="202689" type="image/jpeg"/>
+   <description><![CDATA[Kozák Dana aranyesélyes 500 méteren (döntő), jelenleg ő és az Iron Lady egyaránt háromszoros olimpiai bajnok.]]></description>
+   <category>Rio 2016</category>
+   <pubDate>Thu, 18 Aug 2016 09:08:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szabó Gabriella: Arannyal a kezemben is csak kattogott az agyam]]></title>
+   <link>http://mno.hu/rio2016/szabo-gabriella-arannyal-a-kezemben-is-csak-kattogott-az-agyam-1357384?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lipiczky Ágnes</author>
+   <enclosure url="http://mno.hu/data/cikkek/1357/13573/cikk-1357384/D__AS20160816021_grid2_fekvo_lead.jpg" length="71796" type="image/jpeg"/>
+   <description><![CDATA[Letörölve örömkönnyeit már a kajaknégyesre koncentrál a kajakos, akit Rióban értünk el.]]></description>
+   <category>Rio 2016</category>
+   <pubDate>Wed, 17 Aug 2016 20:32:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kozák Danuta szétverte a mezőnyt – kétszer]]></title>
+   <link>http://mno.hu/rio2016/kozak-danuta-szetverte-a-mezonyt-ketszer-1357365?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Bucsy Levente, Lipiczky Ágnes</author>
+   <enclosure url="http://mno.hu/data/cikkek/1357/13573/cikk-1357365/D__AS20160817024.jpg" length="208460" type="image/jpeg"/>
+   <description><![CDATA[Mind elő-, mind középfutamában okosan lapátolt, de nem ő szállítja a nap egyetlen jó hírét. Nyugodtan várjuk a csütörtököt.]]></description>
+   <category>Rio 2016</category>
+   <pubDate>Wed, 17 Aug 2016 16:58:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kajak-kenu: jöjjön a következő felvonás!]]></title>
+   <link>http://mno.hu/rio2016/kajak-kenu-johet-a-kovetkezo-felvonas-1357292?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lipiczky Ágnes</author>
+   <enclosure url="http://mno.hu/data/cikkek/1357/13572/cikk-1357292/000_EY663.jpg" length="242977" type="image/jpeg"/>
+   <description><![CDATA[Kozák Danuta a kajak egyes előcsatározásaiban száll vízre, és meglátjuk, mit tud a nyaralásból visszarángatott férfipáros.]]></description>
+   <category>Rio 2016</category>
+   <pubDate>Wed, 17 Aug 2016 10:32:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hogy lehet ez a páros ilyen jó? – Portré ]]></title>
+   <link>http://mno.hu/rio2016/hogy-lehet-ez-a-paros-ilyen-jo-portre-1357158?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lipiczky Ágnes</author>
+   <enclosure url="http://mno.hu/data/cikkek/1357/13571/cikk-1357158/D__AS20160816017_grid2_fekvo_lead.jpg" length="66672" type="image/jpeg"/>
+   <description><![CDATA[Olyan alapok vannak, amelyekre fel lehet építeni a karriert, de nemcsak a sportban, hanem a magánéletben is.]]></description>
+   <category>Rio 2016</category>
+   <pubDate>Tue, 16 Aug 2016 16:10:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Megvan a hatodik arany – Szabó, Kozák kajakduó]]></title>
+   <link>http://mno.hu/rio2016/megvan-a-hatodik-arany-a-szabo-kozak-kajakduoe-1357091?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Bucsy Levente, Lipiczky Ágnes</author>
+   <enclosure url="http://mno.hu/data/cikkek/1357/13570/cikk-1357091/D__AS20160816006.jpg" length="199958" type="image/jpeg"/>
+   <description><![CDATA[Óriásit lapátolva aranyérmet nyert 500 méteren a kajakkettősök női versenyében Szabó Gabriella és Kozák Danuta!]]></description>
+   <category>Rio 2016</category>
+   <pubDate>Tue, 16 Aug 2016 14:25:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Döntős a Szabó, Kozák duó, de baj van]]></title>
+   <link>http://mno.hu/rio2016/donto-gyomorfertozessel-1356990?utm_source=feed&amp;utm_medium=rss</link>
+   <author>BuL, Lipiczky Ágnes</author>
+   <enclosure url="http://mno.hu/data/cikkek/1356/13569/cikk-1356990/D__AS20160815008.jpg" length="325348" type="image/jpeg"/>
+   <description><![CDATA[Csak a Szabó Gabriella, Kozák Danuta páros lesz finalista a keddi versenynapon.]]></description>
+   <category>Rio 2016</category>
+   <pubDate>Mon, 15 Aug 2016 16:54:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A dédi edzi az új világcsúcstartót]]></title>
+   <link>http://mno.hu/rio2016/a-dedi-edzi-az-uj-vilagcsucstartot-1356929?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lipiczky Ágnes</author>
+   <enclosure url="http://mno.hu/data/cikkek/1356/13569/cikk-1356929/000_ET8M3.jpg" length="481493" type="image/jpeg"/>
+   <description><![CDATA[A dél-afrikai Wayde van Niekerk 43,03-mal „kivégezte” Michael Johnson csúcsát.]]></description>
+   <category>Rio 2016</category>
+   <pubDate>Mon, 15 Aug 2016 12:02:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kajak-kenu: rögvest 5 magyarért szorítunk]]></title>
+   <link>http://mno.hu/rio2016/torta-utan-johet-az-elso-akadaly-1356894?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lipiczky Ágnes</author>
+   <enclosure url="http://mno.hu/data/cikkek/1356/13568/cikk-1356894/Szabo__Kozak_grid2_fekvo_lead.jpg" length="100481" type="image/jpeg"/>
+   <description><![CDATA[Ma megkezdik szereplésüket legjobb kajakosaink és kenusaink is Rióban.]]></description>
+   <category>Rio 2016</category>
+   <pubDate>Mon, 15 Aug 2016 09:34:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Berecz kisiklott a legjobb 10-ből]]></title>
+   <link>http://mno.hu/rio2016/elszalasztott-medalfutam-1356861?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lipiczky Ágnes</author>
+   <enclosure url="http://mno.hu/data/cikkek/1356/13568/cikk-1356861/berecz_zsombor.jpg" length="319940" type="image/jpeg"/>
+   <description><![CDATA[Berecz Zsombor az összetett verseny 11. helyén zárt a finn dingi hajóosztályban, lemarad a zárófutamról.]]></description>
+   <category>Rio 2016</category>
+   <pubDate>Sun, 14 Aug 2016 23:58:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Péni István a 12. lett]]></title>
+   <link>http://mno.hu/rio2016/peni-istvan-a-12-1356821?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lipiczky Ágnes</author>
+   <description><![CDATA[Sportlövőink nem jutottak döntőbe a kisöbű szabadpuska 3x40 lövéses számában.]]></description>
+   <category>Rio 2016</category>
+   <pubDate>Sun, 14 Aug 2016 17:10:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Három bivalyerős ember és a világ legjobb vezérevezőse]]></title>
+   <link>http://mno.hu/rio2016/harom-bivalyeros-ember-es-a-vilag-legjobb-sztrokja-1356761?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lipiczky Ágnes</author>
+   <enclosure url="http://mno.hu/data/cikkek/1356/13567/cikk-1356761/Szabo__Kozak_grid2_fekvo_lead.jpg" length="72707" type="image/jpeg"/>
+   <description><![CDATA[Kozák Danuta hasonló utat jár be, mint Hosszú Katinka, akár triplázhat is a riói olimpián.]]></description>
+   <category>Rio 2016</category>
+   <pubDate>Sun, 14 Aug 2016 11:35:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Berecz a nyolcadik összetettben]]></title>
+   <link>http://mno.hu/rio2016/berecz-a-nyolcadik-osszetettben-1356726?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lipiczky Ágnes</author>
+   <enclosure url="http://mno.hu/data/cikkek/1356/13567/cikk-1356726/000_EH0JA.jpg" length="452595" type="image/jpeg"/>
+   <description><![CDATA[Öt helyet csúszott vissza a magyar vitorlázó szombaton.]]></description>
+   <category>Rio 2016</category>
+   <pubDate>Sat, 13 Aug 2016 20:22:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Márton Anita szédületes dobással olimpiai bronzérmes]]></title>
+   <link>http://mno.hu/rio2016/marton-anita-szeduletes-dobassal-olimpiai-bronzermes-1356595?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lipiczky Ágnes</author>
+   <enclosure url="http://mno.hu/data/cikkek/1356/13565/cikk-1356595/000_EM5U0.jpg" length="265775" type="image/jpeg"/>
+   <description><![CDATA[Egyéni csúcsát megjavítva áll fel a dobogó alsó fokára súlylökésben.]]></description>
+   <category>Rio 2016</category>
+   <pubDate>Sat, 13 Aug 2016 03:57:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Sidi Péter: kései „hajrá”]]></title>
+   <link>http://mno.hu/rio2016/sidi-peter-kesei-hajra-1356504?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lipiczky Ágnes</author>
+   <enclosure url="http://mno.hu/data/cikkek/1356/13565/cikk-1356504/MNO_D__AS20160227009_grid2_fekvo_lead.jpg" length="70834" type="image/jpeg"/>
+   <description><![CDATA[A komáromi sportlövő 10. lett a kisöbű szabadpuska 60 fekvő versenyszámban, nem jutott döntőbe.]]></description>
+   <category>Rio 2016</category>
+   <pubDate>Fri, 12 Aug 2016 15:49:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

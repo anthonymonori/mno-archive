@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Papp István]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/papp-istvan-26153</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 05:14:05 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[A kis lépések mestere: a felvidéki politika méltatlanul elfeledett alakjáról]]></title>
+   <link>http://mno.hu/konyveshaz/a-kis-lepesek-mestere-a-felvideki-politika-meltatlanul-elfeledett-alakjarol-2413075?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Papp István</author>
+   <enclosure url="http://mno.hu/data/cikkek/2413/24130/cikk-2413075/52_parlament_896_504_1504769296.jpg" length="53558" type="image/jpeg"/>
+   <description><![CDATA[Szent-Ivány József a Trianon után lassacskán szerveződő szlovenszkói magyarság egyik kulcsfigurája volt.]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Thu, 07 Sep 2017 19:05:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A Práter utcaiak görög parancsnoka]]></title>
+   <link>http://mno.hu/konyveshaz/a-prater-utcaiak-gorog-parancsnoka-1388803?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Papp István</author>
+   <enclosure url="http://mno.hu/data/cikkek/1388/13888/cikk-1388803/fortepan_896_504_1488661993.jpg" length="82094" type="image/jpeg"/>
+   <description><![CDATA[André Konstandinidisz ötvenhatos hős életútja könyvért kiáltott.]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Sun, 05 Mar 2017 14:56:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

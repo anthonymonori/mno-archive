@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - rovat: Tudomány és technika]]></title>
+  <link>http://mno.hu/tudomany</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 05:11:44 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[176 millió kamera kereszttüzében: a kínai Nagy Testvér mindenkire odafigyel]]></title>
+   <link>http://mno.hu/tudomany/176millio-kamera-kereszttuzeben-a-kinai-nagy-testver-mindenkire-odafigyel-2458366?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Molnár Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24583/cikk-2458366/035_pbu607761_01.jpg" length="154146" type="image/jpeg"/>
+   <description><![CDATA[Az, ami Orwell idejében még disztópiának tűnt, a mindent látó kamerának hála szép lassan valósággá válik.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Wed, 11 Apr 2018 13:59:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Veszélyes invazív faj terjed megállíthatatlanul Európában]]></title>
+   <link>http://mno.hu/tudomany/veszelyes-invaziv-faj-terjed-megallithatatlanul-europaban-2457393?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kósa András</author>
+   <enclosure url="http://mno.hu/data/cikkek/2457/24573/cikk-2457393/DVETT20100303024.jpg" length="711078" type="image/jpeg"/>
+   <description><![CDATA[Egyre több erdőt fertőz meg a kontinensen a fagyöngy, egyelőre nem tudunk védekezni a terjedése ellen.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Thu, 05 Apr 2018 12:33:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[333 csukabálnát öltek le a japán bálnavadászok]]></title>
+   <link>http://mno.hu/tudomany/333-csukabalnat-oltek-le-a-japan-balnavadaszok-2457804?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Molnár Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2457/24578/cikk-2457804/K_EPA20081117014.jpg" length="887336" type="image/jpeg"/>
+   <description><![CDATA[A japán bálnavadász flotta hónapokig tartó halászat után visszatért a szigetország kikötőibe.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Thu, 05 Apr 2018 08:15:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A földi evolúció első évmilliárdjainak megismerését segítik magyar kutatók ]]></title>
+   <link>http://mno.hu/tudomany/a-foldi-evolucio-elso-evmilliardjainak-megismereset-segitik-magyar-kutatok-2457576?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <description><![CDATA[Módszerük az örökítőanyag fajok közti átadására épül.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Tue, 03 Apr 2018 12:53:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Felfedezték az eddig ismert legtávolabbi csillagot]]></title>
+   <link>http://mno.hu/urkutatas/felfedeztek-az-eddig-ismert-legtavolabbi-csillagot-2457514?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <description><![CDATA[Az Ikarus 9 milliárd fényévre található, százszor messzebb, mint az eddig tanulmányozott legtávolabbi csillag.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Tue, 03 Apr 2018 09:26:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Teherűrhajót indított a SpaceX cég a Nemzetközi Űrállomásra]]></title>
+   <link>http://mno.hu/urkutatas/teherurhajot-inditott-a-spacex-ceg-a-nemzetkozi-urallomasra-2457484?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <description><![CDATA[Az ellátmánnyal és berendezésekkel megrakott Dragon űrhajó várhatóan szerdán ér úti céljához.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Tue, 03 Apr 2018 06:26:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az óceánba hullott a kínai űrállomás]]></title>
+   <link>http://mno.hu/tudomany/az-atlanti-oceanba-hullott-a-kinai-urallomas-2457293?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <enclosure url="http://mno.hu/data/cikkek/2457/24572/cikk-2457293/042_CSK_32646711.jpg" length="404472" type="image/jpeg"/>
+   <description><![CDATA[2011 szeptemberében bocsátották fel a 10,4 méter hosszú, mintegy 8 tonna tömegű Tiankung-1-et.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Mon, 02 Apr 2018 08:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Budapesti okosszálloda: udvarias fogadtatás recepció nélkül]]></title>
+   <link>http://mno.hu/tudomany/budapesti-okosszalloda-udvarias-fogadtatas-recepcio-nelkul-2453827?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lázár Fruzsina</author>
+   <enclosure url="http://mno.hu/data/cikkek/2453/24538/cikk-2453827/Screen_Shot_2018_03_31_at_12.46.58_896_504_1522493423.png" length="521381" type="image/png"/>
+   <description><![CDATA[A hotelt nyitó cégcsoport célja, hogy alkalmazásuk egész Európában elterjedjen.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Sun, 01 Apr 2018 13:52:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hruscsov szenzációjából nekünk is jutott]]></title>
+   <link>http://mno.hu/urkutatas/hruscsov-szenzaciojabol-nekunk-is-jutott-2455675?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Molnár Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2455/24556/cikk-2455675/sputnik2.jpg" length="368453" type="image/jpeg"/>
+   <description><![CDATA[Az első magyar idegen nyelvű űrkutatási szakcikk története.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Sat, 31 Mar 2018 21:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ha a gyerek sokat öl a számítógépen, megteszi a való életben is?]]></title>
+   <link>http://mno.hu/tudomany/ha-a-gyerek-sokat-ol-a-szamitogepen-megteszi-a-valo-eletben-is-2453600?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Molnár Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2453/24536/cikk-2453600/89523567_l.jpg" length="206243" type="image/jpeg"/>
+   <description><![CDATA[Hosszú ideje vitatkoznak azon, hogy lehet-e szerepük a videojátékoknak az iskolai vérengzésekben.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Sat, 31 Mar 2018 10:59:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Elszabadult a kínai űrállomás, zuhan a Föld felé]]></title>
+   <link>http://mno.hu/urkutatas/elszabadult-a-kinai-urallomas-2456416?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <description><![CDATA[A becsapódás miatti pánikra azonban nincs ok.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Tue, 27 Mar 2018 17:40:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ólommérgezés végzett Magyarország egyik legidősebb parlagi sasával]]></title>
+   <link>http://mno.hu/tudomany/olommergezes-vegzett-magyarorszag-egyik-legidosebb-parlagi-sasaval-2456100?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <description><![CDATA[Kimutatta a boncolás, mekkora kárt okoz az egyre nagyobb mennyiségben természetbe kerülő ólomsörét.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Mon, 26 Mar 2018 17:06:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Tömeges delfinpusztulás történt Argentínában]]></title>
+   <link>http://mno.hu/tudomany/tomeges-delfinpusztulas-tortent-argentinaban-2455958?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <description><![CDATA[A szakértők a boncolás során igyekeznek rájönni, miért vetődtek partra az állatok.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Mon, 26 Mar 2018 08:31:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Barbra Streisand nem tudta elengedni halott kutyáját, inkább klónoztatta]]></title>
+   <link>http://mno.hu/tudomany/barbara-streisand-nem-tudta-elengedni-halott-kutyajat-inkabb-klonoztatta-2455484?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Molnár Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2455/24554/cikk-2455484/RTX8FHB.jpg" length="484068" type="image/jpeg"/>
+   <description><![CDATA[A háziállatok klónozása ma már nem számít különösebb truvájnak, csak elegendően sok pénz szükséges hozzá.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Sun, 25 Mar 2018 20:20:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A Föld órája: kombóképeken mutatjuk, hogy milyenek voltak a budapesti épületek ]]></title>
+   <link>http://mno.hu/tudomany/a-fold-oraja-kombokepeken-mutatjuk-hogy-milyenek-voltak-a-budapesti-epuletek-2455850?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <enclosure url="http://mno.hu/data/cikkek/2455/24558/cikk-2455850/DCOMB20160319003.jpg" length="440417" type="image/jpeg"/>
+   <description><![CDATA[A világ legnagyobb környezetvédelmi akciójában magyar települések is részt vettek.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Sun, 25 Mar 2018 19:16:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Sikerült rakétával fellőnie magát a laposföldhívő Mike Hughesnak]]></title>
+   <link>http://mno.hu/tudomany/sikerult-raketaval-fellonie-magat-a-laposfoldhivo-mike-hughes-nak-2455783?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2455/24557/cikk-2455783/27356025_1735982186454115_4978203530767810366_o.jpg" length="377662" type="image/jpeg"/>
+   <description><![CDATA[Őrült Mike be akarja bizonyítani, hogy a Föld lapos.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Sun, 25 Mar 2018 11:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[2000 napja a Marson a Curiosity]]></title>
+   <link>http://mno.hu/urkutatas/2000-napja-a-marson-a-curiosity-2455731?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Molnár Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2455/24557/cikk-2455731/PIA22207.jpg" length="507453" type="image/jpeg"/>
+   <description><![CDATA[A marsjáró hat éve kutatja a vörös bolygót, és Windows-háttérképek százait küldte már haza.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Sat, 24 Mar 2018 20:13:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az egész Etna a Földközi-tengerbe csúszik]]></title>
+   <link>http://mno.hu/tudomany/az-egesz-etna-a-foldkozi-tengerbe-csuszik-2455725?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Molnár Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2455/24557/cikk-2455725/Mt_Etna_and_Catania1.jpg" length="276050" type="image/jpeg"/>
+   <description><![CDATA[Évi 14 millimétert halad a tűzhányó megállíthatatlanul.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Sat, 24 Mar 2018 16:30:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A római régészek áldják a metróépítést]]></title>
+   <link>http://mno.hu/tudomany/a-romai-regeszek-aldjak-a-metroepitest-2455244?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Favero-Fürjész Judit Éva</author>
+   <enclosure url="http://mno.hu/data/cikkek/2455/24552/cikk-2455244/DSC6654_1600x1068.jpg" length="315151" type="image/jpeg"/>
+   <description><![CDATA[„Antik állomás” jön létre az új leletek bemutatására. A különböző vallások szent helyei is egymásra rétegződnek.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Fri, 23 Mar 2018 09:18:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Több mint százötven cet vetődött partra Ausztráliában]]></title>
+   <link>http://mno.hu/tudomany/tobb-mint-szazotven-cet-vetodott-partra-ausztraliaban-2455435?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <description><![CDATA[A partra vetett tengeri emlősök – többségük rövidszárnyú gömbölyűfejű delfin – csaknem fele kimúlt.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Fri, 23 Mar 2018 06:49:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nyolcvanezer tonnás szemétszörny úszik a Csendes-óceánban]]></title>
+   <link>http://mno.hu/tudomany/nyolcvanezer-tonnas-szemetszorny-uszik-a-csendes-oceanon-2455333?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <enclosure url="http://mno.hu/data/cikkek/2455/24553/cikk-2455333/7_000_HB519.jpg" length="441914" type="image/jpeg"/>
+   <description><![CDATA[Az óriási tömegű műanyaghulladék 1,6 millió négyzetkilométeren terpeszkedik, Magyarország tizenhétszer férne el rajta.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Thu, 22 Mar 2018 17:19:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Videó a gázoló Uberről: az autó későn észlelt, a sofőr elbambult]]></title>
+   <link>http://mno.hu/tudomany/video-a-gazolo-uberrol-az-auto-keson-eszlelt-a-sofor-elbambult-2455189?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2455/24551/cikk-2455189/uber.jpg" length="44828" type="image/jpeg"/>
+   <description><![CDATA[A rendőrség nyilvánosságra hozta a fedélzeti kamerák felvételeit. A jelek szerint a robot és az ember is hibázott.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Thu, 22 Mar 2018 08:14:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nem lehet meggátolni a gleccserek olvadását]]></title>
+   <link>http://mno.hu/tudomany/nem-lehet-meggatolni-a-gleccserek-olvadasat-2455129?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <description><![CDATA[Kutatók csak akkor látnak erre esélyt, ha azonnal leállítjuk az összes üvegházhatású gáz kibocsátását.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Wed, 21 Mar 2018 20:11:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A Facebook történetének legnagyobb válságát éli, Zuckerberg elbújt]]></title>
+   <link>http://mno.hu/tudomany/a-facebook-tortenetenek-legnagyobb-valsagat-eli-zuckerberg-elbujt-2454924?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Molnár Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2454/24549/cikk-2454924/000_Was7919491.jpg" length="249724" type="image/jpeg"/>
+   <description><![CDATA[Meredeken zuhan a társaság értéke az adatkezelési botrány kirobbanása óta.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Wed, 21 Mar 2018 11:57:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Cambridge-ben búcsúztatják el Stephen Hawkingot]]></title>
+   <link>http://mno.hu/tudomany/cambridge-ben-temetik-el-stephen-hawkingot-2454801?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <description><![CDATA[Március 31-én lesz a szertartás.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Tue, 20 Mar 2018 17:08:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Elpusztult a világ utolsó hím fehér rinocérosza]]></title>
+   <link>http://mno.hu/tudomany/elpusztult-a-vilag-utolso-feher-him-rinocerosza-2454659?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2454/24546/cikk-2454659/DYtYtP9XcAAbJ_V.jpg_large.jpeg" length="110055" type="image/jpeg"/>
+   <description><![CDATA[Már csak két nőstény maradt. Sudantól szaporítóanyagot vettek, hogy fennmaradhasson az alfaj.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Tue, 20 Mar 2018 08:32:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kezdődik: önvezető autó gázolt halálra egy gyalogost]]></title>
+   <link>http://mno.hu/tudomany/kezdodik-onvezeto-auto-gazolt-halalra-egy-gyalogost-2454579?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2454/24545/cikk-2454579/000_G4717.jpg" length="554298" type="image/jpeg"/>
+   <description><![CDATA[Az Uber egyelőre nem magyarázta meg a történteket, de felfüggesztette az autói működését.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Mon, 19 Mar 2018 18:53:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ritka dinoszaurusz-csontvázat árvereznek el Párizsban]]></title>
+   <link>http://mno.hu/tudomany/ritka-dinoszaurusz-csontvazat-arvereznek-el-parizsban-2454338?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <description><![CDATA[Az biztos, hogy dinó, csak azt nem tudni, milyen.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Sun, 18 Mar 2018 20:09:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Miről beszélt Stephen Hawking 1987-ben Budapesten?]]></title>
+   <link>http://mno.hu/tudomany/mirol-beszelt-stephen-hawking-1987-ben-budapesten-2453775?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lakner Dávid</author>
+   <enclosure url="http://mno.hu/data/cikkek/2453/24537/cikk-2453775/000_APH2001011234125_896_504_1521135600.jpg" length="80348" type="image/jpeg"/>
+   <description><![CDATA[Szabadkozott amerikai akcentusáért, és az univerzum keletkezéséről beszélt a világhírű elméleti fizikus.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Thu, 15 Mar 2018 18:59:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hawking kisugárzása]]></title>
+   <link>http://mno.hu/tudomany/hawking-kisugarzasa-2453550?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Molnár Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2453/24535/cikk-2453550/000_12H6EL.jpg" length="255525" type="image/jpeg"/>
+   <description><![CDATA[Sokan Einstein óta a legokosabb embernek tartották, mások testi betegségének tulajdonították hírnevét.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Wed, 14 Mar 2018 11:38:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

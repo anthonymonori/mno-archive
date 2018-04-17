@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Babiczky Tibor – Varga Attila]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/babiczky-tibor-varga-attila-23172</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Sat, 14 Apr 2018 23:35:48 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Tóth Krisztina: A világ szíve Kínában dobog]]></title>
+   <link>http://mno.hu/konyveshaz/toth-krisztina-a-vilag-szive-kinaban-dobog-1307958?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Babiczky Tibor – Varga Attila</author>
+   <enclosure url="http://mno.hu/data/cikkek/1307/13079/cikk-1307958/VL20151003_3493_grid2_fekvo_lead.jpg" length="118847" type="image/jpeg"/>
+   <description><![CDATA[Tóth Krisztina írószerepről, anyaságról, Kínáról, a bevándorlásról s pitbullokról is beszélt lapunknak.]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Wed, 07 Oct 2015 17:01:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

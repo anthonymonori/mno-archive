@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - rovat: Számok nyelvén]]></title>
+  <link>http://mno.hu/szamoknyelven</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Wed, 11 Apr 2018 08:34:57 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Irdatlan mennyiségű higany készül rászabadulni a világra]]></title>
+   <link>http://mno.hu/szamoknyelven/irdatlan-mennyisegu-higany-keszul-raszabadulni-a-vilagra-2451083?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Molnár Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2451/24510/cikk-2451083/higany.jpg" length="275413" type="image/jpeg"/>
+   <description><![CDATA[Időzített bomba ketyeg Szibéria olvadó talajában. Egész életközösségeket irthat ki a higany, ha felszínre kerül.]]></description>
+   <category>Számok nyelvén</category>
+   <pubDate>Sun, 04 Mar 2018 18:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A marketingesek kinőtték a Földet]]></title>
+   <link>http://mno.hu/szamoknyelven/a-marketingesek-kinottek-a-foldet-2444640?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Molnár Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2444/24446/cikk-2444640/url.jpg" length="41444" type="image/jpeg"/>
+   <description><![CDATA[Minek még egy csillag az égre? Csak azért, hogy a csillagászokat idegesítse?]]></description>
+   <category>Számok nyelvén</category>
+   <pubDate>Sun, 04 Feb 2018 13:55:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Egyre gyakoribbak, egyre pusztítóbbak a viharok]]></title>
+   <link>http://mno.hu/szamoknyelven/egyre-gyakoribbak-egyre-pusztitobbak-a-viharok-2443046?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Molnár Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2443/24430/cikk-2443046/Tropical_Storm_Katrina_on_August_24_2005_896_504_1516977697.jpg" length="98966" type="image/jpeg"/>
+   <description><![CDATA[Manapság az számít különlegességnek, amikor egy év nem az eddig feljegyzett legrosszabb valamilyen szempontból.]]></description>
+   <category>Számok nyelvén</category>
+   <pubDate>Sun, 28 Jan 2018 20:30:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az erdőirtás megállíthatatlan, de a faültetés segíthet]]></title>
+   <link>http://mno.hu/szamoknyelven/az-erdoirtas-megallithatatlan-de-a-faultetes-segithet-2431547?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Molnár Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2431/24315/cikk-2431547/000_Del488254.jpg" length="672064" type="image/jpeg"/>
+   <description><![CDATA[Új reményt nyújt egy természetvédelmi szervezet faültető projektje, amelyhez foghatót még nem látott a világ.]]></description>
+   <category>Számok nyelvén</category>
+   <pubDate>Sun, 03 Dec 2017 17:54:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A Cassini hattyúdala]]></title>
+   <link>http://mno.hu/szamoknyelven/a-cassini-hattyudala-2418662?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Molnár Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2418/24186/cikk-2418662/cassini.jpg" length="211087" type="image/jpeg"/>
+   <description><![CDATA[20 év, 7,9 milliárd kilométer, 2,5 millió végrehajtott parancs, 635 gigabájt adat.]]></description>
+   <category>Számok nyelvén</category>
+   <pubDate>Tue, 26 Sep 2017 08:13:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nagyanya-hajó – minden Trump új szuperfegyveréről]]></title>
+   <link>http://mno.hu/szamoknyelven/nagyanya-hajo-minden-trump-uj-szuperfegyvererol-2414953?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Molnár Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2414/24149/cikk-2414953/000_NE66O.jpg" length="387314" type="image/jpeg"/>
+   <description><![CDATA[12,9 milliárd dollár (3,4 billió forint) volt a USS Gerald R. Ford építésének költsége. 5000 matróz is elfér rajta.]]></description>
+   <category>Számok nyelvén</category>
+   <pubDate>Sun, 03 Sep 2017 06:25:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Őslakosok dzsungele]]></title>
+   <link>http://mno.hu/szamoknyelven/oslakosok-dzsungele-2406351?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Molnár Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2406/24063/cikk-2406351/000_Mvd6442413.jpg" length="171585" type="image/jpeg"/>
+   <description><![CDATA[Az emberi tevékenység már évszázadokkal ezelőtt is maradandó hatást gyakorolt az Amazonas ökoszisztémájára.]]></description>
+   <category>Számok nyelvén</category>
+   <pubDate>Sat, 26 Aug 2017 18:35:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Minden bombák anyja]]></title>
+   <link>http://mno.hu/szamoknyelven/minden-bombak-anyja-2398710?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Molnár Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2398/23987/cikk-2398710/mindenbombak.png" length="43976" type="image/png"/>
+   <description><![CDATA[]]></description>
+   <category>Számok nyelvén</category>
+   <pubDate>Sat, 29 Apr 2017 21:12:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Minden a hét Föld-szerű bolygóról]]></title>
+   <link>http://mno.hu/szamoknyelven/minden-a-het-fold-szeru-bolygorol-1390131?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Molnár Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/1390/13901/cikk-1390131/000_LW4FF.jpg" length="179864" type="image/jpeg"/>
+   <description><![CDATA[A Trappist–1 körül keringenek, amelynek 2000-szer haloványabb a fénye a Napunkénál.]]></description>
+   <category>Számok nyelvén</category>
+   <pubDate>Tue, 14 Mar 2017 14:19:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kína, a felkelő nap országa]]></title>
+   <link>http://mno.hu/szamoknyelven/kina-a-felkelo-nap-orszaga-1388636?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Molnár Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/1388/13886/cikk-1388636/RTSCXID.jpg" length="575291" type="image/jpeg"/>
+   <description><![CDATA[Kína a világ legnagyobb környezetszennyezőjéből egy huszárvágással a megújuló energia élharcosává válik. ]]></description>
+   <category>Számok nyelvén</category>
+   <pubDate>Sat, 04 Mar 2017 10:12:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[4,8 kilométeres rekordmélységbe fúrtak le a tűzhányó gyomrába]]></title>
+   <link>http://mno.hu/szamoknyelven/48-kilometeres-rekordmelysegbe-furtak-le-a-tuzhanyo-gyomraba-1387966?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Molnár Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/1387/13879/cikk-1387966/4.jpg" length="423841" type="image/jpeg"/>
+   <description><![CDATA[A vulkánok belsejébe fúrnak, hogy az ott csapdába ejtett erőket használják energiatermelésre.]]></description>
+   <category>Számok nyelvén</category>
+   <pubDate>Tue, 28 Feb 2017 08:51:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

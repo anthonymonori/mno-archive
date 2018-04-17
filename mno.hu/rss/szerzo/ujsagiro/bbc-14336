@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: BBC]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/bbc-14336</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 16:21:44 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Elhunyt Zaha Hadid világhírű építész]]></title>
+   <link>http://mno.hu/grund/elhunyt-zaha-hadid-vilaghiru-epitesz-1335465?utm_source=feed&amp;utm_medium=rss</link>
+   <author>BBC, MaPet</author>
+   <enclosure url="http://mno.hu/data/cikkek/1335/13354/cikk-1335465/Zaha_Hadid_-_AFP_grid2_fekvo_lead.jpg" length="88297" type="image/jpeg"/>
+   <description><![CDATA[Hatvanöt éves korában szívroham következtében halt meg az iraki származású londoni sztárépítész.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Thu, 31 Mar 2016 18:35:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Röviden]]></title>
+   <link>http://mno.hu/migr_1834/roviden-473899?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Greenfo.hu, BBC</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Wed, 18 Oct 2006 01:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Erős bástya lesz-e Magyarország?]]></title>
+   <link>http://mno.hu/migr/eros-bastya-lesze-magyarorszag-651818?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MNO, Udvardy Zoltán, BBC</author>
+   <description><![CDATA[A magyar lakosok közül vélhetően többen készülnek arra a pillanatra, amikor személyit lobogtatva, immáron útlevél nélkül léphetik át az ország nyugati határát, miközben alig négy hónapon belül Magyarország több mint ezer kilométeres határvonala az Unió külső határává is válik &#8211; hangzott el a BBC adásában, ahol Nagy János vezérőrnagyot, a Vám- és Pénzügyőrség országos parancsnokát, és Béndek József vezérőrnagyot, a Határőrség országos parancsnokát kérdezték a budapesti stúdió munkatársai.]]></description>
+   <category>Archívum</category>
+   <pubDate>Sat, 24 Jan 2004 12:30:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A BBC lapszemléje]]></title>
+   <link>http://mno.hu/kulfold/a-bbc-lapszemleje-651504?utm_source=feed&amp;utm_medium=rss</link>
+   <author>BBC</author>
+   <description><![CDATA[A kontinens lapjaiban továbbra is ádáz vita zajlik a vallási jelkép iskolai viseléséről. A londoni Financial Times szerint Olaszország ingerülten reagált a francia-német-brit együttműködés megerősítésének hírére. Ismét a brit Konzervatív Párt vezet - számol be a Daily Telegraph.]]></description>
+   <category>Külföld</category>
+   <pubDate>Fri, 23 Jan 2004 08:53:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Bush hivatalba lépésétől a háborút szorgalmazta?]]></title>
+   <link>http://mno.hu/kulfold/bush-hivatalba-lepesetol-a-haborut-szorgalmazta-648852?utm_source=feed&amp;utm_medium=rss</link>
+   <author>BBC</author>
+   <description><![CDATA[A német és az osztrák lapok közül több is kommentálja Paul O'Neill volt amerikai pénzügyminiszter állítását, hogy Bush elnök hivatalba lépése pillanatától kezdve elhatározta, háborút kezd Irak ellen, és utasította beosztottjait, hogy találják meg rá az indokot.]]></description>
+   <category>Külföld</category>
+   <pubDate>Mon, 12 Jan 2004 12:14:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Eladják az El Alt]]></title>
+   <link>http://mno.hu/migr/eladjak-az-el-alt-717032?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MNO, BBC</author>
+   <description><![CDATA[Az 113 millió dollár értékűre becsült El Al társaságot június 10-én adják el. Az eladáshoz a múlt pénteken adott engedélyt egy tel avivi bíróság, amely elvetette a társaság alkalmazottainak keresetét. Az izraeli légitársaság az utóbbi években vergődött, miután az Izraelbe utazó turisták száma nagyot esett a palesztinokkal vívott harc miatt.]]></description>
+   <category>Archívum</category>
+   <pubDate>Fri, 06 Jun 2003 06:06:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Elrabolt repülő körözött Frankfurt felett]]></title>
+   <link>http://mno.hu/kulfold/elrabolt-repulo-korozott-frankfurt-felett-722783?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI, BBC</author>
+   <description><![CDATA[Vasárnap elloptak egy sportrepülőgépet Frankfurtban, amely délután két órán keresztül körözött a város felett, mígnem délután 5 óra után leszállt.]]></description>
+   <category>Külföld</category>
+   <pubDate>Sun, 05 Jan 2003 18:03:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Washington háborúra készül]]></title>
+   <link>http://mno.hu/kulfold/washington-haborura-keszul-752068?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MNO, BBC</author>
+   <description><![CDATA[Az éjszaka folyamán megérkezett New Yorkba az a 12 ezer oldalas dokumentum, amely az iraki vezetés szerint bizonyítja, hogy az arab ország nem rendelkezik sem atom- sem más tömegpusztító fegyverekkel. Egyre többen gondolják azonban, hogy a fegyverzetellenőrzési színjáték ellenére Washington háborúra készül Irak ellen.]]></description>
+   <category>Külföld</category>
+   <pubDate>Mon, 09 Dec 2002 08:57:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Liptovszky Mátyás]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/liptovszky-matyas-22076</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Sun, 15 Apr 2018 05:23:56 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Így lehet kezelni az „özvegycsináló” artériát]]></title>
+   <link>http://mno.hu/tudomany/idoben-lehetne-kezelni-az-ozvegycsinalo-arteriat-1274541?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Liptovszky Mátyás</author>
+   <description><![CDATA[„A magyar ember bírja a fájdalmat, csak sajnos utána nem éli túl.” Mit tehetünk a szívinfarktus ellen?]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Sat, 28 Feb 2015 21:30:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

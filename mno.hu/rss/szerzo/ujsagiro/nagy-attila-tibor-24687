@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Nagy Attila Tibor]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/nagy-attila-tibor-24687</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Wed, 11 Apr 2018 11:42:26 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[A ciklusnak vége]]></title>
+   <link>http://mno.hu/velemeny/a-ciklusnak-vege-2450211?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Nagy Attila Tibor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2450/24502/cikk-2450211/D_YT20171211026.jpg" length="263029" type="image/jpeg"/>
+   <description><![CDATA[A tekintélyes parlamenthez az is kell, hogy a választó érezze: a viták róla szólnak.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Tue, 27 Feb 2018 20:18:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hogyan veszíthet mégis a Fidesz?]]></title>
+   <link>http://mno.hu/velemeny/hogyan-veszithet-megis-a-fidesz-2443749?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Nagy Attila Tibor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2443/24437/cikk-2443749/MNO_IMG_0057_1830_1113_1517311434.jpg" length="413840" type="image/jpeg"/>
+   <description><![CDATA[A ciklus egyik legfontosabb pártpolitikai fejleménye a Jobbik néppártosodási kísérlete.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Tue, 30 Jan 2018 18:17:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Támadás a szabad választások ellen]]></title>
+   <link>http://mno.hu/velemeny/tamadas-a-szabad-valasztasok-ellen-2433088?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Nagy Attila Tibor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2433/24330/cikk-2433088/BD_6511.jpg" length="332848" type="image/jpeg"/>
+   <description><![CDATA[Ma még csak a Jobbik, de holnap akár más is megtapasztalhatja az állam erőfölényét.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Mon, 11 Dec 2017 18:54:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Pecsétnyomóvá vált a magyar Országgyűlés]]></title>
+   <link>http://mno.hu/velemeny/pecsetnyomova-valt-a-magyar-orszaggyules-2421664?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Nagy Attila Tibor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2421/24216/cikk-2421664/MNO_NBB_20170403_9138.jpg" length="851516" type="image/jpeg"/>
+   <description><![CDATA[Egy jól működő parlamentben a viták leképezik az ország lakosságának egymással is szemben álló szempontjait.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Thu, 19 Oct 2017 12:37:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Orbán Viktor függési rendszere]]></title>
+   <link>http://mno.hu/velemeny/orban-viktor-fuggesi-rendszere-2416226?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Nagy Attila Tibor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2416/24162/cikk-2416226/BA20170123_6920.jpg" length="162303" type="image/jpeg"/>
+   <description><![CDATA[Az erős hálózat a többpártrendszerben is hosszabb hatalomgyakorlást tesz lehetővé.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Fri, 08 Sep 2017 17:10:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[És szépen beültek Orbán Viktor uszályába]]></title>
+   <link>http://mno.hu/velemeny/es-szepen-beultek-orban-viktor-uszalyaba-2408999?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Nagy Attila Tibor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2408/24089/cikk-2408999/20170718_25.jpg" length="704435" type="image/jpeg"/>
+   <description><![CDATA[A balliberális oldal abban a kommunikációs térben maradt, amit a Fidesz jelölt ki.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Sat, 22 Jul 2017 09:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az MSZP baloldali fordulata]]></title>
+   <link>http://mno.hu/velemeny/az-mszp-baloldali-fordulata-2402228?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Nagy Attila Tibor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2402/24022/cikk-2402228/8_1szb.jpg" length="118111" type="image/jpeg"/>
+   <description><![CDATA[Botka színre lépése arra is jó volt, hogy a tavalyi temetői hangulathoz képest valamivel kellemesebb a légkör a pártban. ]]></description>
+   <category>Vélemény</category>
+   <pubDate>Wed, 07 Jun 2017 16:11:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Elkoptatás mesterfokon]]></title>
+   <link>http://mno.hu/velemeny/elkoptatas-mesterfokon-1384571?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Nagy Attila Tibor</author>
+   <enclosure url="http://mno.hu/data/cikkek/1384/13845/cikk-1384571/NBB_20151213_7359.jpg" length="256263" type="image/jpeg"/>
+   <description><![CDATA[Mint minden nagy szervezetben, a Fidesz felső szintjein is jelen van a rivalizálás.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Mon, 06 Feb 2017 19:12:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Miért bukott meg Tóbiás József?]]></title>
+   <link>http://mno.hu/velemeny/miert-bukott-meg-tobias-jozsef-1349688?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Nagy Attila Tibor</author>
+   <enclosure url="http://mno.hu/data/cikkek/1349/13496/cikk-1349688/_DA_8300.jpg" length="427930" type="image/jpeg"/>
+   <description><![CDATA[Az Orbán-kormány reflexszerű bírálata helyett alternatív világnézetre volna szükség.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Thu, 30 Jun 2016 12:08:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

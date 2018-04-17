@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Harangozó Éva]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/harangozo-eva-20099</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 18:57:54 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[„Úgy éreztem, be vagyok zárva a testembe”]]></title>
+   <link>http://mno.hu/hetvegimagazin/ugy-ereztem-be-vagyok-zarva-a-testembe-2393860?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Harangozó Éva</author>
+   <enclosure url="http://mno.hu/data/cikkek/2393/23938/cikk-2393860/VL20170310_8573.jpg" length="390635" type="image/jpeg"/>
+   <description><![CDATA[Dolgozik egy különleges lány a Sweet Side kávézóban. Evelin 23 éves, és mozgássérült.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Thu, 20 Apr 2017 19:04:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Van helye a katolicizmusnak a francia politikában?]]></title>
+   <link>http://mno.hu/kulfold/van-helye-a-katolicizmusnak-a-francia-politikaban-1376906?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Harangozó Éva</author>
+   <enclosure url="http://mno.hu/data/cikkek/1376/13769/cikk-1376906/000_II26Hx.jpg" length="296223" type="image/jpeg"/>
+   <description><![CDATA[Befolyásolja-e Francois Fillon bejelentése az esélyeit a tavaszi elnökválasztáson?]]></description>
+   <category>Külföld</category>
+   <pubDate>Sun, 18 Dec 2016 06:59:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Albert Camus ismeretlen levele és ’56]]></title>
+   <link>http://mno.hu/konyveshaz/albert-camus-ismeretlen-levele-es-56-1374327?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Harangozó Éva</author>
+   <enclosure url="http://mno.hu/data/cikkek/1374/13743/cikk-1374327/K_INT19660712004_896_504_1480601482.jpg" length="344705" type="image/jpeg"/>
+   <description><![CDATA[Egy Franciaországban élő magyar fotós küldött szerzőnknek egy mindeddig publikálatlan Camus-levelet.]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Thu, 01 Dec 2016 21:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Tarantino és az ’56-os forradalom]]></title>
+   <link>http://mno.hu/hetvegimagazin/tarantino-es-az-56-os-forradalom-1370392?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Harangozó Éva</author>
+   <enclosure url="http://mno.hu/data/cikkek/1370/13703/cikk-1370392/_BA_0556_896_504_1478269889.jpg" length="72557" type="image/jpeg"/>
+   <description><![CDATA[A Paris Match 1956. december 22-i címlapja Magyarországgal foglalkozott. Megtorlás és vízilabda.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Tue, 08 Nov 2016 15:30:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Újraindult a vérfürdő Marseille-ben ]]></title>
+   <link>http://mno.hu/kulfold/halalos-leszamolas-marseille-ben-1142243?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Harangozó Éva</author>
+   <description><![CDATA[Újabb halálos leszámolás történt Marseille északi részén, melynek hátterében feltehetőleg a helyi kábítószer-maffia áll.]]></description>
+   <category>Külföld</category>
+   <pubDate>Fri, 01 Mar 2013 23:59:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Rossz szemmel nézi a franciák többsége a muzulmánokat]]></title>
+   <link>http://mno.hu/kulfold/rossz-szemmel-nezi-a-franciak-tobbsege-a-muzulmanokat-1133824?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Harangozó Éva</author>
+   <description><![CDATA[A franciák többsége nem tartja összeegyeztethetőnek az iszlámot a demokratikus értékekkel – derül ki egy közelmúltban készült felmérésből.]]></description>
+   <category>Külföld</category>
+   <pubDate>Fri, 25 Jan 2013 18:28:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

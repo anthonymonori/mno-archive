@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Szent-Iványi István]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/szent-ivanyi-istvan-23848</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Sat, 14 Apr 2018 17:30:01 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Liberalizmusvita Magyarországon]]></title>
+   <link>http://mno.hu/velemeny/liberalizmusvita-magyarorszagon-1325474?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szent-Iványi István</author>
+   <enclosure url="http://mno.hu/data/cikkek/1325/13254/cikk-1325474/BA20150118_3770.jpg" length="231168" type="image/jpeg"/>
+   <description><![CDATA[A befogadás kultúrájának zászlóvivői nem a liberális politikusok.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Mon, 25 Jan 2016 19:07:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

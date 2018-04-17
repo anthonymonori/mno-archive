@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Pap Krisztián]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/pap-krisztian-21676</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 06:56:30 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Rejtélyes megtorpanás: Nolan filmje egyoldalúan mutatja be a dunkerque-i napokat?]]></title>
+   <link>http://mno.hu/hetvegimagazin/rejtelyes-megtorpanas-nolan-filmje-egyoldaluan-mutatja-be-a-dunkerque-i-napokat-2412086?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pap Krisztián</author>
+   <enclosure url="http://mno.hu/data/cikkek/2412/24120/cikk-2412086/Dunkirk_jelenetfoto_15_.jpg" length="311341" type="image/jpeg"/>
+   <description><![CDATA[A mai napig nincs végleges válasz a kérdésre: miért állította meg Hitler a német páncélosokat?]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Sun, 13 Aug 2017 15:15:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Trianoni türelemjáték]]></title>
+   <link>http://mno.hu/velemeny/trianoni-turelemjatek-2411904?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pap Krisztián</author>
+   <enclosure url="http://mno.hu/data/cikkek/2411/24119/cikk-2411904/007_P111481.jpg" length="130295" type="image/jpeg"/>
+   <description><![CDATA[A trianoni károkozás kijavítását kizárólag területi autonómiával lehet elérni.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Thu, 10 Aug 2017 17:30:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A vasfüggönytől a kétsebességes Európai Unióig]]></title>
+   <link>http://mno.hu/velemeny/a-vasfuggonytol-a-ketsebesseges-europai-unioig-2403214?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pap Krisztián</author>
+   <enclosure url="http://mno.hu/data/cikkek/2403/24032/cikk-2403214/fortepan_40703x.jpg" length="525760" type="image/jpeg"/>
+   <description><![CDATA[A kétsebességes Európai Unió felgyorsítaná a kontinens útját Eurábia létrejötte felé.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Fri, 16 Jun 2017 11:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nacionalizmus vagy önfeladás?]]></title>
+   <link>http://mno.hu/velemeny/nacionalizmus-vagy-onfeladas-2393766?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pap Krisztián</author>
+   <enclosure url="http://mno.hu/data/cikkek/2393/23937/cikk-2393766/MP20160619_9396.jpg" length="380720" type="image/jpeg"/>
+   <description><![CDATA[Európa politikusai a nemzeti érdekek képviselete híján elszakadtak választóiktól.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Sat, 08 Apr 2017 11:49:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Még kell néhány EU-s „exit”]]></title>
+   <link>http://mno.hu/magazinpublicisztika/meg-kell-nehany-eu-s-exit-1388638?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pap Krisztián</author>
+   <enclosure url="http://mno.hu/data/cikkek/1388/13886/cikk-1388638/ferenc_ferdinand_896_504_1488554759.jpg" length="99458" type="image/jpeg"/>
+   <description><![CDATA[Az Osztrák–Magyar Monarchia intő példa arra, hogy volt olyan időszak, amikor a Duna-medencében is létezett gazdasági jólét.]]></description>
+   <category>Publicisztika a Magazinban</category>
+   <pubDate>Sat, 04 Mar 2017 17:11:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A II. világháborús kitörés emlékezete]]></title>
+   <link>http://mno.hu/velemeny/a-ii-vilaghaborus-kitores-emlekezete-1388003?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pap Krisztián</author>
+   <enclosure url="http://mno.hu/data/cikkek/1388/13880/cikk-1388003/MNO_fortepan_105809.jpg" length="429433" type="image/jpeg"/>
+   <description><![CDATA[Nem segíti a nemzeti trauma feldolgozását, ha átengedjük a szélsőségeseknek.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Tue, 28 Feb 2017 19:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A megrendült liberális világrend]]></title>
+   <link>http://mno.hu/velemeny/a-megrendult-liberalis-vilagrend-1386255?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pap Krisztián</author>
+   <enclosure url="http://mno.hu/data/cikkek/1386/13862/cikk-1386255/NBB_20060528_8878.jpg" length="221372" type="image/jpeg"/>
+   <description><![CDATA[Ez az ideológia is úgy járt, mint a kommunizmus: elhasználódott, lejáratódott.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Thu, 16 Feb 2017 19:35:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A magyar katonai emigráció és 1956]]></title>
+   <link>http://mno.hu/velemeny/a-magyar-katonai-emigracio-es-1956-1381918?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pap Krisztián</author>
+   <enclosure url="http://mno.hu/data/cikkek/1381/13819/cikk-1381918/MNO_fortepan_92463.jpg" length="558970" type="image/jpeg"/>
+   <description><![CDATA[A felkelés hírére több száz egykori honvédtiszt és -altiszt gyülekezett Ausztriában.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Thu, 19 Jan 2017 19:15:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Világháborúk árnyékában]]></title>
+   <link>http://mno.hu/velemeny/vilaghaboruk-arnyekaban-1373441?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pap Krisztián</author>
+   <enclosure url="http://mno.hu/data/cikkek/1373/13734/cikk-1373441/MNO_043_dpa_8972267.jpg" length="655211" type="image/jpeg"/>
+   <description><![CDATA[Európában kinek lenne érdeke egy harcokba torkolló összetűzés Moszkvával?]]></description>
+   <category>Vélemény</category>
+   <pubDate>Sat, 26 Nov 2016 15:16:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az internetes népszavazás lehetőségéről]]></title>
+   <link>http://mno.hu/velemeny/az-internetes-nepszavazas-lehetosegerol-1365943?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pap Krisztián</author>
+   <enclosure url="http://mno.hu/data/cikkek/1365/13659/cikk-1365943/MP20161002_6K1738.jpg" length="159541" type="image/jpeg"/>
+   <description><![CDATA[Egyszerűen nem lehet mindenből viccet csinálni és infantilis módon kifigurázni.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Wed, 12 Oct 2016 19:55:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Donald Trump, aki megtörte a jeget]]></title>
+   <link>http://mno.hu/velemeny/donald-trump-aki-megtorte-a-jeget-1363015?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pap Krisztián</author>
+   <enclosure url="http://mno.hu/data/cikkek/1363/13630/cikk-1363015/000_GE8IQ.jpg" length="198630" type="image/jpeg"/>
+   <description><![CDATA[A republikánus elnökjelölt jól érzékelhetően az amerikai kisemberekhez akar szólni.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Fri, 23 Sep 2016 19:02:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Európa önvédelme és a kereszténység]]></title>
+   <link>http://mno.hu/velemeny/europa-onvedelme-es-a-keresztenyseg-1357827?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pap Krisztián</author>
+   <enclosure url="http://mno.hu/data/cikkek/1357/13578/cikk-1357827/000_9X657_grid2_fekvo_lead.jpg" length="49413" type="image/jpeg"/>
+   <description><![CDATA[Hol vannak azok a vezetőink, akik hitet tesznek a kultúránk bölcsőjének védelmében?]]></description>
+   <category>Vélemény</category>
+   <pubDate>Sun, 21 Aug 2016 11:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Feltámadás, végszóra]]></title>
+   <link>http://mno.hu/velemeny/feltamadas-vegszora-1349026?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pap Krisztián</author>
+   <enclosure url="http://mno.hu/data/cikkek/1349/13490/cikk-1349026/000_C98Z8_grid2_fekvo_lead.jpg" length="80235" type="image/jpeg"/>
+   <description><![CDATA[Bármilyen eredményt is ér el a csapat az Eb-n, megmutatta, hogy ez a generáció képes kitörni a sikertelenségből.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Sun, 26 Jun 2016 13:20:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Köztársaságok végnapjai]]></title>
+   <link>http://mno.hu/velemeny/koztarsasagok-vegnapjai-1346397?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pap Krisztián</author>
+   <enclosure url="http://mno.hu/data/cikkek/1346/13463/cikk-1346397/szent_korona_slide_grid2_fekvo_lead.png" length="469966" type="image/png"/>
+   <description><![CDATA[A köztársasági államforma kapcsán megfigyelhető egy beteges önfeladási, önfelszámolási hajlam.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Thu, 09 Jun 2016 22:06:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Tűzoltás vagy tűzparancs?]]></title>
+   <link>http://mno.hu/velemeny/tuzoltas-vagy-tuzparancs-1308089?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pap Krisztián</author>
+   <enclosure url="http://mno.hu/data/cikkek/1308/13080/cikk-1308089/000_DV2055387_grid2_fekvo_lead.jpg" length="90856" type="image/jpeg"/>
+   <description><![CDATA[A történelmi tapasztalatok azt mutatják, hogy egy a mainál függetlenebb Európára van szükség.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Thu, 08 Oct 2015 14:28:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A nap, amikor a magyarok átgyalogoltak az oroszokon]]></title>
+   <link>http://mno.hu/belfold/langolo-falvak-es-menekulo-orosz-katonak-1284414?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pap Krisztián</author>
+   <description><![CDATA[Száz éve történt a gorlicei áttörés, az Osztrák–Magyar Monarchia első nagy sikere az I. világháborúban.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sat, 02 May 2015 18:17:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az összefogás és a szervezettség forradalma]]></title>
+   <link>http://mno.hu/belfold/az-osszefogas-es-a-szervezettseg-forradalma-1254859?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pap Krisztián</author>
+   <description><![CDATA[A népnek időre volt szüksége ahhoz, hogy kiismerje magát a ráerőszakolt politikai rendszer viszonyai között.]]></description>
+   <category>Belföld</category>
+   <pubDate>Thu, 23 Oct 2014 10:06:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

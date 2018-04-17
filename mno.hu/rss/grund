@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - rovat: Kultúrgrund]]></title>
+  <link>http://mno.hu/grund</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 05:12:23 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Tollal és csipesszel – búcsúzik a Magazin]]></title>
+   <link>http://mno.hu/grund/tollal-es-csipesszel-bucsuzik-a-magazin-2459353?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Wekerle Szabolcs</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24593/cikk-2459353/15540733_10154839731781670_6824292156856334865_o.jpg" length="289183" type="image/jpeg"/>
+   <description><![CDATA[Rám hárul a szomorú kötelesség, hogy a Magazin minden munkatársa nevében elbúcsúzzam kedves olvasóinktól.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Wed, 11 Apr 2018 15:24:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Bella ciao!]]></title>
+   <link>http://mno.hu/grund/bella-ciao-2459360?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hegyi Zoltán</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24593/cikk-2459360/000_SAPA980403381100.jpg" length="1399076" type="image/jpeg"/>
+   <description><![CDATA[Tétova lépések a teljesség igénye nélkül a teljesség felé. Automatikusan most, mint ahogy az Úton készült.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Wed, 11 Apr 2018 14:02:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Liszt Ferenc a beszállókapunál]]></title>
+   <link>http://mno.hu/grund/liszt-ferenc-a-beszallokapunal-2459356?utm_source=feed&amp;utm_medium=rss</link>
+   <author>B. Kovács Gergely</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24593/cikk-2459356/D_AS20180405001_896_504_1523445235.jpg" length="26846" type="image/jpeg"/>
+   <description><![CDATA[Apró szobrot kapott a róla elnevezett budapesti reptéren a zongoravirtuóz, de baj-e az, hogy kicsi?]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Wed, 11 Apr 2018 13:19:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Költészet napja: a vers belső éneklésből nő ki]]></title>
+   <link>http://mno.hu/grund/kolteszet-napja-a-vers-belso-eneklesbol-no-ki-2459358?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24593/cikk-2459358/SZB20170710_5730.jpg" length="429883" type="image/jpeg"/>
+   <description><![CDATA[A költészet napja alkalmából Lackfi János költő-író és Nényei Pál tanár, drámaíró írt nekünk az olvasás hasznáról.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Wed, 11 Apr 2018 13:04:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[„Vajon lőttem volna, ha tűzparancsot kapunk?”]]></title>
+   <link>http://mno.hu/grund/vajon-lottem-volna-ha-tuzparancsot-kapunk-2458998?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sashegyi Zsófia</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24589/cikk-2458998/000_SAPA971205042890.jpg" length="516632" type="image/jpeg"/>
+   <description><![CDATA[Ma is ellentmondásosan emlékeznek az ötven évvel ezelőtti csehszlovák megszállásra a résztvevők.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Tue, 10 Apr 2018 22:22:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szikár ausztrál western és nyomasztó izlandi bűnügy a Titanicon]]></title>
+   <link>http://mno.hu/film/szikar-ausztral-western-es-nyomaszto-izlandi-bunugy-a-titanicon-2459313?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lakner Dávid</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24593/cikk-2459313/8061650_3x2_940x627_1__896_504_1523388731.jpg" length="106395" type="image/jpeg"/>
+   <description><![CDATA[Dylan Howitt elmefilozófiai kérdéseket feszeget, Warwick Thornton kegyetlen világot tár elénk.]]></description>
+   <category>Szuperplán</category>
+   <pubDate>Tue, 10 Apr 2018 21:58:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Megbírságolták a TV2-t, amiért a Fidesz mellett kampányolt]]></title>
+   <link>http://mno.hu/media/megbirsagoltak-a-tv2-t-amiert-a-fidesz-mellett-kampanyolt-2459308?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <description><![CDATA[A HVG.hu úgy tudja, hogy 3,45 milliós bírságot szabtak ki.]]></description>
+   <category>Média</category>
+   <pubDate>Tue, 10 Apr 2018 20:40:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hitét vesztett férfi, felszabadult nő]]></title>
+   <link>http://mno.hu/grund/hitet-vesztett-ferfi-felszabadult-no-2458378?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Makrai Sonja</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24583/cikk-2458378/000_ARP1591212_896_504_1523380748.jpg" length="60600" type="image/jpeg"/>
+   <description><![CDATA[Henrik Ibsen a Rosmersholm című műve reflektál mindarra, ami ma Magyarországon zajlik.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Tue, 10 Apr 2018 20:22:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Létezik olyan, hogy ez a szerelem az égben köttetik]]></title>
+   <link>http://mno.hu/grund/letezik-olyan-hogy-ez-a-szerelem-az-egben-kottetik-2459301?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24593/cikk-2459301/BD20170215_09x.jpg" length="443925" type="image/jpeg"/>
+   <description><![CDATA[A kultúra: fogyasztás. A javából. Kadarkai Endre műsorvezető ezeket fogyasztja mostanában, és ajánlja olvasóinknak.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Tue, 10 Apr 2018 20:17:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ókori hűtőt tesztelnek a kutatók Svájcban]]></title>
+   <link>http://mno.hu/tortenelem/okori-hutot-tesztelnek-a-kutatok-svajcban-2458590?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Balogh Roland</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24585/cikk-2458590/nagutvoeeiwb8xetuswp.jpg" length="96413" type="image/jpeg"/>
+   <description><![CDATA[A Bázel melletti Augusta Rauricában érdekes föld alatti üregre bukkantak. A régészek már egy ideje vizsgálják.]]></description>
+   <category>Múlt idő</category>
+   <pubDate>Tue, 10 Apr 2018 19:52:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[„A magyar nem lóra, hanem filmre termett”]]></title>
+   <link>http://mno.hu/film/a-magyar-nem-lora-hanem-filmre-termett-2458464?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vékony Zsolt</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24584/cikk-2458464/szb20180312_1826.jpg" length="174340" type="image/jpeg"/>
+   <description><![CDATA[Sándor Pál az új filmjéről, Garas Dezsőről, díjakról, színházi rendezésről. Interjú.]]></description>
+   <category>Szuperplán</category>
+   <pubDate>Tue, 10 Apr 2018 19:48:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az egymásra mutogatás sosem vezet eredményre]]></title>
+   <link>http://mno.hu/film/az-egymasra-mutogatas-sosem-vezet-eredmenyre-2459292?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lakner Dávid</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24592/cikk-2459292/szb20180404_0595_896_504_1523379973.jpg" length="116878" type="image/jpeg"/>
+   <description><![CDATA[Bogdán Árpád a héten debütáló Genezisről, a cigányozó kormánypolitikusokról és filmje berlini fogadtatásáról.]]></description>
+   <category>Szuperplán</category>
+   <pubDate>Tue, 10 Apr 2018 19:40:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[RTL: Nem futunk el, maradunk]]></title>
+   <link>http://mno.hu/media/rtl-nem-futunk-el-maradunk-2459294?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kovacsik Ágnes</author>
+   <description><![CDATA[Az RTL bízik a magyar médiapiacban, nincs tervben, hogy eladnák az RTL Klubot vagy más portfóliót.]]></description>
+   <category>Média</category>
+   <pubDate>Tue, 10 Apr 2018 19:25:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Sorsmásító módszerek egy elsüllyedt világból]]></title>
+   <link>http://mno.hu/konyveshaz/sorsmasito-modszerek-egy-elsullyedt-vilagbol-2458553?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vass Norbert</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24585/cikk-2458553/ritus.jpg" length="355395" type="image/jpeg"/>
+   <description><![CDATA[Áfra János a sokszólamú bemutatkozó és szempárközeli második kötetét követően ezúttal a személytelen megszólalást választotta]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Tue, 10 Apr 2018 19:19:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Sötét disztópiában nyűgöznek le minket a sokat látott ebek]]></title>
+   <link>http://mno.hu/film/sotet-disztopiaban-nyugoznek-le-minket-a-sokat-latott-ebek-2459178?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lakner Dávid</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24591/cikk-2459178/merlin_135651585_a7f3c70a_52de_4b8a_b92f_cbc1f91f212a_superJumbo_896_504_1523351283.jpg" length="63056" type="image/jpeg"/>
+   <description><![CDATA[A fantasztikus Róka úr után ismét antropomorf állatokat mozgat Wes Anderson, a végeredmény lebilincselő.]]></description>
+   <category>Szuperplán</category>
+   <pubDate>Tue, 10 Apr 2018 18:15:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A brit beatzene kályhacsövei és a néma sikoltozás]]></title>
+   <link>http://mno.hu/tortenelem/a-brit-beatzene-kalyhacsovei-es-a-nema-sikoltozas-2458323?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Benedek Szabolcs</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24583/cikk-2458323/R_1703506_1401024566_5067.jpeg_896_504_1523273913.jpg" length="128340" type="image/jpeg"/>
+   <description><![CDATA[A Stovepipe No. 4, az első Magyarországon járt nyugati rockzenekar 1965-ös
+turnéjával elkápráztatta a hazai rajongókat.]]></description>
+   <category>Múlt idő</category>
+   <pubDate>Tue, 10 Apr 2018 16:46:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Emberi csontokba kódolt kórtörténetek]]></title>
+   <link>http://mno.hu/tortenelem/emberi-csontokba-kodolt-kortortenetek-2458930?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Balogh Roland</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24589/cikk-2458930/BA_06016.jpg" length="505005" type="image/jpeg"/>
+   <description><![CDATA[A lepráról, a szifiliszről és a tbc-ről is mesél a Móra Ferenc Múzeum Beszélő holtak – Történeti helyszínelők tárlata.]]></description>
+   <category>Múlt idő</category>
+   <pubDate>Tue, 10 Apr 2018 16:23:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ungár Péter ajánlatot tesz a Magyar Nemzetre ]]></title>
+   <link>http://mno.hu/media/ungar-peter-ajanlatot-tesz-a-magyar-nemzetre-2459220?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24592/cikk-2459220/BA_07598.jpg" length="337470" type="image/jpeg"/>
+   <description><![CDATA[Árvita így még lehet, de a szándéka valóban a lap megvásárlása – mondta az LMP megválasztott képviselője.]]></description>
+   <category>Média</category>
+   <pubDate>Tue, 10 Apr 2018 14:30:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A hajdani urak mára senkikké lettek]]></title>
+   <link>http://mno.hu/szo_szerint/a-hajdani-urak-mara-senkikke-lettek-2458579?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Dominka Ede Harald</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24585/cikk-2458579/SzemereBertalan_896_504_1523356882.jpg" length="66797" type="image/jpeg"/>
+   <description><![CDATA[Az „úr” a XII. században az uralkodásra következő méltóságneve volt, majd addig inflálódott, míg most bárkire ráaggatható.]]></description>
+   <category>Szó szerint</category>
+   <pubDate>Tue, 10 Apr 2018 12:58:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Értesítőt küld a Facebook azoknak, akiknek megszerezték az adatait]]></title>
+   <link>http://mno.hu/media/ertesitot-kuld-a-facebook-azoknak-akiknek-megszereztek-az-adatait-2459095?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <description><![CDATA[A Cambridge Analytica 87 millió Facebook-profil adatait szerezte meg.]]></description>
+   <category>Média</category>
+   <pubDate>Mon, 09 Apr 2018 18:39:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Waititi: Új-Zéland rasszista, de a legjobb hely a világon]]></title>
+   <link>http://mno.hu/film/waititi-uj-zeland-rasszista-de-a-legjobb-hely-a-vilagon-2459045?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lakner Dávid</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24590/cikk-2459045/000_11F8NI_896_504_1523288464.jpg" length="37474" type="image/jpeg"/>
+   <description><![CDATA[Megszólalása nagy vihart kavart, ki mellette, ki ellene foglalt állást.]]></description>
+   <category>Szuperplán</category>
+   <pubDate>Mon, 09 Apr 2018 17:56:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Még mindig napi három órát tévéznek az emberek a világon]]></title>
+   <link>http://mno.hu/media/meg-mindig-napi-harom-orat-teveznek-az-emberek-a-vilagon-2459074?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <description><![CDATA[Terjednek az online tartalmak, de a tévé népszerűsége nem csökken. A legtöbbet Észak-Amerikában nézik. ]]></description>
+   <category>Média</category>
+   <pubDate>Mon, 09 Apr 2018 17:46:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A pillanat, amikor a köztévé kérdéseket kezdett feltenni]]></title>
+   <link>http://mno.hu/media/a-pillanat-amikor-a-kozteve-kerdeseket-kezdett-feltenni-2459011?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lakner Dávid</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24590/cikk-2459011/RD_DSC_9688.jpg" length="159720" type="image/jpeg"/>
+   <description><![CDATA[Egész napos migránsozás után elbizonytalanodás, majd dzsordzsibácsizós fölényeskedés. Választási műsorokat néztünk.]]></description>
+   <category>Média</category>
+   <pubDate>Mon, 09 Apr 2018 15:56:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Életműdíjat kapott Enyedi Ildikó]]></title>
+   <link>http://mno.hu/grund/eletmudijat-kapott-enyedi-ildiko-2458959?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <description><![CDATA[A leccei filmfesztivál a rendező összes filmjét műsorra tűzi.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Mon, 09 Apr 2018 12:21:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ami elmúlt, nem tér vissza többé]]></title>
+   <link>http://mno.hu/konyveshaz/ami-elmult-nem-ter-vissza-tobbe-2459023?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lakner Dávid</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24590/cikk-2459023/000_UQ5TC_896_504_1523282588.jpg" length="53408" type="image/jpeg"/>
+   <description><![CDATA[Az Én és Kaminski XXI századi csetlésünk-botlásunk regénye.]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Mon, 09 Apr 2018 12:12:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Így találkozott Han és Lando – új előzetest kapott a Solo]]></title>
+   <link>http://mno.hu/film/igy-talalkozott-han-es-lando-uj-elozetest-kapott-a-solo-2458881?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Földi Bence</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24588/cikk-2458881/HS_FF_002750.jpg" length="129776" type="image/jpeg"/>
+   <description><![CDATA[A galaxis legmenőbb csempésze a stukkerét is megkapta a Solo: Egy Star Wars-történet előzetesében.]]></description>
+   <category>Szuperplán</category>
+   <pubDate>Mon, 09 Apr 2018 06:31:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kis Hajnié lett a legjobb rövidfilm, Für Anikó a legjobb színésznő]]></title>
+   <link>http://mno.hu/film/kis-hajnie-lett-a-legjobb-rovidfilm-fur-aniko-a-legjobb-szineszno-2458791?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lakner Dávid</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24587/cikk-2458791/30261765_1023617851126759_3689753756284485632_n_896_504_1523204446.jpg" length="36590" type="image/jpeg"/>
+   <description><![CDATA[A héten tartották a 6. Friss hús rövidfilmfesztivált.]]></description>
+   <category>Szuperplán</category>
+   <pubDate>Sun, 08 Apr 2018 18:25:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Akik tudják, melyik ajtón kell kopogtatni ]]></title>
+   <link>http://mno.hu/grund/akik-tudjak-melyik-ajton-kell-kopogtatni-2457893?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ficsor Benedek</author>
+   <enclosure url="http://mno.hu/data/cikkek/2457/24578/cikk-2457893/28_02_896_504_1477052466.jpg" length="109890" type="image/jpeg"/>
+   <description><![CDATA[Az elmúlt nyolc év a kultúrában: kivéreztetés, felszámolás, cenzúra és halvány remény a párbeszédre.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Sun, 08 Apr 2018 07:39:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Semmibe révedés közelből, avagy plakátok ötlet nélkül]]></title>
+   <link>http://mno.hu/grund/semmibe-revedes-kozelbol-avagy-plakatok-otlet-nelkul-2458615?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pintér Bence</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24586/cikk-2458615/BD_3118.jpg" length="910605" type="image/jpeg"/>
+   <description><![CDATA[A kampányfinisben az utcákat róttuk, de jó szlogeneket, vizuális gegeket nem láttunk.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Sat, 07 Apr 2018 17:39:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az RTL Klub valóságában jól keresnek a tanárok]]></title>
+   <link>http://mno.hu/media/az-rtl-klub-valosagaban-jol-keresnek-a-tanarok-2458578?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lakner Dávid</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24585/cikk-2458578/jon_a_tanar_vigyazz_nagy_ervin_meg_az_ablakon_is_kiugrik_image_77e3219f2f57f7c1377751a25148_16_9_896_504_1523099894.png" length="772933" type="image/png"/>
+   <description><![CDATA[Nagy Ervin főszereplésével indított sorozatot a csatorna, de sok köszönet nincs benne.]]></description>
+   <category>Média</category>
+   <pubDate>Sat, 07 Apr 2018 13:31:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

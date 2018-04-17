@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Kruppa Géza]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/kruppa-geza-19136</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Fri, 13 Apr 2018 18:26:05 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Időutazás Kádár János koponyája körül]]></title>
+   <link>http://mno.hu/belfold/idoutazas-kadar-janos-koponyaja-korul-2397537?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kruppa Géza</author>
+   <enclosure url="http://mno.hu/data/cikkek/2397/23975/cikk-2397537/BA20130706_4916_896_504_1493983162.jpg" length="62715" type="image/jpeg"/>
+   <description><![CDATA[Senki sem temetkezik már a munkásmozgalmi panteonba. ]]></description>
+   <category>Belföld</category>
+   <pubDate>Sun, 07 May 2017 11:11:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Balatoni kincsvadászok az amerikai gép nyomában]]></title>
+   <link>http://mno.hu/tortenelem/balatoni-kincsvadaszok-az-amerikai-gep-nyomaban-1370416?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kruppa Géza</author>
+   <enclosure url="http://mno.hu/data/cikkek/1370/13704/cikk-1370416/fortepan_15594_896_504_1478260999.jpg" length="316178" type="image/jpeg"/>
+   <description><![CDATA[Véget ért az üdülőszezon, eljött a balatoni kincsvadászok ideje. A vizet már drónokkal is pásztázzák.]]></description>
+   <category>Múlt idő</category>
+   <pubDate>Tue, 08 Nov 2016 17:18:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Egy nehézfiú megtérése]]></title>
+   <link>http://mno.hu/hetvegimagazin/regi-csibeszek-1356801?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kruppa Géza</author>
+   <enclosure url="http://mno.hu/data/cikkek/1356/13568/cikk-1356801/MNO_20_01.jpg" length="255119" type="image/jpeg"/>
+   <description><![CDATA[Kallódó lelkek, avagy börtönben megtért elítéltek és az új élet reménye.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Sun, 14 Aug 2016 18:23:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A Kalef]]></title>
+   <link>http://mno.hu/migr_1834/a-kalef-883499?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kruppa Géza</author>
+   <description><![CDATA[Valamikor a hatvanas évek elején egy borongós hétköznap délelőtt a Moszkva térhez közeli Varsányi Irén utcában iskolakerülő fiatalok házibulin vedelték demizsonból az olcsó bort, táncoltak, a Mambó magnóról Elvis Presley rezegtette a dobhártyákat. A nagy kavarodásban az egyik fiúnak eltűnt kincset érő,  sötétbarna orkánkabátja. A kárvallott diák mozgósította a téren posztoló Jóska rendőrt, aki kisvártatva állig fegyverben a helyszínre érkezett intézkedés foganatosítása végett.]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 06 Sep 2011 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Sárgarépatúra]]></title>
+   <link>http://mno.hu/migr_1834/sargarepatura-873998?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kruppa Géza</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 09 Aug 2011 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Húzd rá!]]></title>
+   <link>http://mno.hu/migr_1834/huzd_ra-190082?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kruppa Géza</author>
+   <description><![CDATA[A Fővárosi Közgyűlés az idén tizenhat díszpolgári cím adományozásáról döntött. Az elismeréseket június 19-én adják át, arra emlékezve, hogy 1991-ben azon a napon vonultak ki Magyarországról az utolsó szovjet csapatok. Díszpolgári címet vehet át ifjabb Sánta Ferenc hegedűművész, zenetanár is, aki mostanában heteken át hiába vár fellépésre: úgy tetszik, Magyarországon kiment a divatból a cigányzene.]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 28 Jun 2011 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Verésre szakosodva]]></title>
+   <link>http://mno.hu/migr_1834/veresre_szakosodva-175536?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kruppa Géza</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 10 May 2011 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Karóra]]></title>
+   <link>http://mno.hu/migr_1834/karora-176848?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kruppa Géza</author>
+   <description><![CDATA[„Ha kiszabadulok, többet rám kommandós ne rúgja az ajtót!” <br />– Új életek a váci fegyházban<br />]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 03 May 2011 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ahová a tyúktolvaj se jár]]></title>
+   <link>http://mno.hu/migr_1834/ahova_a_tyuktolvaj_se_jar-169309?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kruppa Géza</author>
+   <description><![CDATA[Budapesttől alig negyven kilométerre, a 4-es út mentén, Pilis kisváros határában különös szubkultúra alakult ki. A „cocilizmus” és a csáléra sikeredett rendszerváltás valamennyi melléfogása – mint egy elátkozott kísérleti laboratóriumban – itt megtalálható a gaz által felvert kertek alján.]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 22 Mar 2011 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Suttogó csövek]]></title>
+   <link>http://mno.hu/migr_1834/suttogo_csovek-160164?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kruppa Géza</author>
+   <description><![CDATA[A mátyásföldi volt szovjet tiszti lakótelepen jelenleg az ötvenhatos szabadságharc történelmi viharában megtépázott egykori hősök állomásoznak. Beszélgetés közben kerülik az ’56-tal kapcsolatos témákat, miközben belső világuk minden szállal a sorsfordító időkhöz köti őket.]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 25 Jan 2011 00:00:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - rovat: Sport]]></title>
+  <link>http://mno.hu/sport</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 05:11:19 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Bárki szorít le az útról, az álmokat nem szabad feladni]]></title>
+   <link>http://mno.hu/sport/barki-szorit-le-az-utrol-az-almokat-nem-szabad-feladni-2458927?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Bucsy Levente</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24589/cikk-2458927/20180404_NBB1784.JPG" length="160246" type="image/jpeg"/>
+   <description><![CDATA[A friss jogosítványos 17 éves Keszthelyi Vivien autóversenyzőnek nincsenek barátnői, a férfiakkal harcol. Út a műanyag dzsippektől a GT-szériáig. Interjú.]]></description>
+   <category>Sport</category>
+   <pubDate>Wed, 11 Apr 2018 14:25:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Magasabb vagy mint két méter? Nem kosarazhatsz nálunk!]]></title>
+   <link>http://mno.hu/sport/magasabb-vagy-mint-ket-meter-nem-kosarazhatsz-nalunk-2459259?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Radványi Benedek</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24592/cikk-2459259/000_RK7UV.jpg" length="227793" type="image/jpeg"/>
+   <description><![CDATA[A legabszurdabb légiósszabályt hozták meg Koreában. Millimétereken is múlhat egy boldog karrier.]]></description>
+   <category>Sport</category>
+   <pubDate>Wed, 11 Apr 2018 13:22:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Vízilabdásaink egyelőre csengetik a tanulópénzt]]></title>
+   <link>http://mno.hu/sport/vizilabdasaink-egyelore-csengetik-a-tanulopenzt-2459304?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Gabay Balázs</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24593/cikk-2459304/DEBRE20180320008.jpg" length="189222" type="image/jpeg"/>
+   <description><![CDATA[A megfiatalított, az Európa Kupában hatodik helyen végzett csapatban a vezéreket keresi Märcz Tamás. ]]></description>
+   <category>Sport</category>
+   <pubDate>Tue, 10 Apr 2018 20:16:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Történelmi sikerek kovácsa lenne a románból magyarrá váló tornászlány]]></title>
+   <link>http://mno.hu/sport/tortenelmi-sikerek-kovacsa-lenne-a-romanbol-magyarra-valo-tornaszlany-2457597?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Radványi Benedek</author>
+   <enclosure url="http://mno.hu/data/cikkek/2457/24575/cikk-2457597/20180326_NBB9936.JPG" length="255304" type="image/jpeg"/>
+   <description><![CDATA[Cimpian Olivia nem kapott negatív megjegyzést, ám úgy sejti, a románoknak nem könnyű elfogadni az országváltását.]]></description>
+   <category>Sport</category>
+   <pubDate>Tue, 10 Apr 2018 16:44:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Babos Tímeáról ellenfele: „Ő egy kib…tt senki”]]></title>
+   <link>http://mno.hu/sport/babos-timearol-ellenfele-o-egy-senki-2459154?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24591/cikk-2459154/K_EPA20180408104.jpg" length="210001" type="image/jpeg"/>
+   <description><![CDATA[Muguruza edzői segítséget kért a monterreyi döntőben, majd nem épp kedves szavakkal illette Babost. ]]></description>
+   <category>Sport</category>
+   <pubDate>Tue, 10 Apr 2018 08:22:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Meghalt a Párizs–Roubaix versenyen bukott belga kerekes]]></title>
+   <link>http://mno.hu/sport/meghalt-a-parizs-roubaix-versenyen-bukott-belga-kerekes-2458921?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <description><![CDATA[Egyelőre nem tudni, hogy a Véranda’s Willems-Crelan csapat bringása miként bukott.]]></description>
+   <category>Sport</category>
+   <pubDate>Mon, 09 Apr 2018 09:45:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Sallói gólt lőtt és legyőzte Zlatant]]></title>
+   <link>http://mno.hu/foci/salloi-golt-lott-es-legyozte-zlatant-2458906?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24589/cikk-2458906/salloi_daniel_twitter.jpg" length="292566" type="image/jpeg"/>
+   <description><![CDATA[A Sporting Kansas City 2–0-ra legyőzte az Ibrahimovicot is becserélő Los Angeles Galaxyt.]]></description>
+   <category>90 perc</category>
+   <pubDate>Mon, 09 Apr 2018 08:51:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[„A társadalom abban a helyzetben van, mint a magyar foci: nem piaci alapú”]]></title>
+   <link>http://mno.hu/foci/a-tarsadalom-abban-a-helyzetben-van-mint-a-magyar-foci-nem-piaci-alapu-2458890?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24588/cikk-2458890/VL20170705_8332_896_504_1523253311.jpg" length="52553" type="image/jpeg"/>
+   <description><![CDATA[Csizmadia Ervin érdekes párhuzamot vont a választás kapcsán.]]></description>
+   <category>90 perc</category>
+   <pubDate>Mon, 09 Apr 2018 07:56:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Megizzasztotta a világ egyik legjobbját Babos Tímea]]></title>
+   <link>http://mno.hu/sport/megizzasztotta-a-vilag-egyik-legjobbjat-babos-timea-2458894?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Gabay Balázs</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24588/cikk-2458894/167206_191274197568162_3490028_n.jpg" length="30909" type="image/jpeg"/>
+   <description><![CDATA[Szettet tudott nyerni a monterreyi döntőben Muguruza ellen, a mérkőzés viszont a spanyolé lett.]]></description>
+   <category>Sport</category>
+   <pubDate>Mon, 09 Apr 2018 07:48:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Vettel győzött pályafutása 200. futamán]]></title>
+   <link>http://mno.hu/sport/vettel-gyozott-palyafutasa-200-futaman-2458830?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24588/cikk-2458830/K_EPA20180408211.jpg" length="233416" type="image/jpeg"/>
+   <description><![CDATA[F1: az idénynyitó Ausztrál Nagydíj után 2/2 a németnek idén.]]></description>
+   <category>Sport</category>
+   <pubDate>Sun, 08 Apr 2018 20:05:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Brazília férfiválogatottja sem tanúsított túl nagy ellenállást]]></title>
+   <link>http://mno.hu/sport/brazilia-ferfivalogatottja-sem-tanusitott-tul-nagy-ellenallast-2458799?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Arday Attila</author>
+   <description><![CDATA[A mieink legjobb összetételükben simán tudnak gólt lőni egy olyan csapatnak, amely amatőr hibákat követ el.]]></description>
+   <category>Sport</category>
+   <pubDate>Sun, 08 Apr 2018 17:32:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Érdi Mária a harmadik a mallorcai vitorlásversenyen]]></title>
+   <link>http://mno.hu/sport/erdi-maria-harmadik-a-mallorcai-vitorlasversenyen-2458777?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <description><![CDATA[A 20 éves riói olimpikon először nyert érmet világkupaszintű mezőnyben.]]></description>
+   <category>Sport</category>
+   <pubDate>Sun, 08 Apr 2018 16:23:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A Ferencváros kapusának elszakadt a keresztszalagja, és kiakadt a szövetségre]]></title>
+   <link>http://mno.hu/sport/a-ferencvaros-kapusanak-elszakadt-a-keresztszalagja-es-kiakadt-a-szovetsegre-2458722?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Tuser Krisztián</author>
+   <description><![CDATA[Szikora Melinda szeretné, ha egyszer egy Gerflor-ellenes kampány részese lenne.]]></description>
+   <category>Sport</category>
+   <pubDate>Sun, 08 Apr 2018 12:58:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nikolics Nemanja góljával nyert a Chicago]]></title>
+   <link>http://mno.hu/foci/nikolics-nemanja-goljaval-nyert-a-chicago-2458718?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <description><![CDATA[Nikolics 24 góllal volt az MLS előző idényének legeredményesebb játékosa.]]></description>
+   <category>90 perc</category>
+   <pubDate>Sun, 08 Apr 2018 12:41:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Babos Tímea döntős Monterreyben!]]></title>
+   <link>http://mno.hu/sport/babos-timea-dontos-monterreyben-2458655?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24586/cikk-2458655/K_EPA20180407001.jpg" length="283881" type="image/jpeg"/>
+   <description><![CDATA[Másodszor nyerheti meg legjobb női teniszezőnk a mexikói WTA-tornát.]]></description>
+   <category>Sport</category>
+   <pubDate>Sat, 07 Apr 2018 23:03:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Legyőzték a spanyolokat pólósaink]]></title>
+   <link>http://mno.hu/sport/legyoztek-a-spanyolokat-polosaink-2458651?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24586/cikk-2458651/DEBRE20180320008.jpg" length="189222" type="image/jpeg"/>
+   <description><![CDATA[A férfivízilabda-válogatottunk az ötödik helyért játszhat az Európa Kupán.]]></description>
+   <category>Sport</category>
+   <pubDate>Sat, 07 Apr 2018 22:15:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hatgólos győri siker, egy lépés a final four]]></title>
+   <link>http://mno.hu/sport/hatgolos-gyori-siker-egy-lepes-a-final-four-2458648?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24586/cikk-2458648/DKRCS20180310027.jpg" length="531939" type="image/jpeg"/>
+   <description><![CDATA[Görbiczék tizenegyedik alkalommal nyertek a montenegróiak ellen.]]></description>
+   <category>Sport</category>
+   <pubDate>Sat, 07 Apr 2018 21:16:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Pazar mérkőzésen rontotta el Mourinho Guardiola örömét ]]></title>
+   <link>http://mno.hu/foci/pazar-merkozesen-rontotta-el-mourinho-guardiola-oromet-2458642?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24586/cikk-2458642/000_13S6CA_896_504_1523126667.jpg" length="68296" type="image/jpeg"/>
+   <description><![CDATA[Felemás félidők, zseniális Pogba és 3-2-es United-győzelem a City otthonában.]]></description>
+   <category>90 perc</category>
+   <pubDate>Sat, 07 Apr 2018 20:37:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az olimpiai aranyhoz 50 Cent „háborúját” vívták meg Liuék]]></title>
+   <link>http://mno.hu/jegenfoldon/az-olimpiai-aranyhoz-50-cent-haborujat-vivtak-meg-liuek-2457648?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Radványi Benedek</author>
+   <enclosure url="http://mno.hu/data/cikkek/2457/24576/cikk-2457648/BA_04680.jpg" length="323659" type="image/jpeg"/>
+   <description><![CDATA[Liu Shaoang a régi korcsolyájával lett olimpiai bajnok; a sikernek például az is a hozadéka, hogy egy séf ölelgeti, puszilgatja.]]></description>
+   <category>Jégen-földön</category>
+   <pubDate>Sat, 07 Apr 2018 20:18:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Teljes káosz, Michelisz kiesett]]></title>
+   <link>http://mno.hu/sport/teljes-kaosz-michelisz-kiesett-2458641?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24586/cikk-2458641/19300826_dc1670e23359d8c0ddd8e18a238d646c_x.jpg" length="190675" type="image/jpeg"/>
+   <description><![CDATA[Kigyulladt az autója, motort kellett cserélni benne, majd leszakadt a bal első kereke a versenyen.]]></description>
+   <category>Sport</category>
+   <pubDate>Sat, 07 Apr 2018 20:17:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ferencváros: távolodóban a final four]]></title>
+   <link>http://mno.hu/sport/ferencvaros-tavolodoban-a-final-four-2458635?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24586/cikk-2458635/D_CB20180407004.jpg" length="368249" type="image/jpeg"/>
+   <description><![CDATA[A Rosztov-Don kétgólos, 31-29-es győzelmet aratott a Bajnokok Ligája negyeddöntőjében Dabason.]]></description>
+   <category>Sport</category>
+   <pubDate>Sat, 07 Apr 2018 19:18:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Vettel nyerte az időmérőt Bahreinben]]></title>
+   <link>http://mno.hu/sport/vettel-nyerte-az-idomerot-bahreinben-2458625?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24586/cikk-2458625/K_AP20180406070.jpg" length="137024" type="image/jpeg"/>
+   <description><![CDATA[Ferraris első sor az idei második F–1-es vb-futamon.]]></description>
+   <category>Sport</category>
+   <pubDate>Sat, 07 Apr 2018 18:45:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Bajnok a Bayern München]]></title>
+   <link>http://mno.hu/foci/bajnok-a-bayern-munchen-2458614?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24586/cikk-2458614/K_EPA20180407105.jpg" length="348784" type="image/jpeg"/>
+   <description><![CDATA[Zsinórban hatodszor aranyérmesek a bajorok.]]></description>
+   <category>90 perc</category>
+   <pubDate>Sat, 07 Apr 2018 17:45:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A Fradi kiütötte a Mezőkövesdet]]></title>
+   <link>http://mno.hu/sport/a-fradi-kiutotte-a-mezokovesdet-2458609?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24586/cikk-2458609/D_YT20180407006.jpg" length="253947" type="image/jpeg"/>
+   <description><![CDATA[A zöld-fehérek után a Videoton is nyert három góllal, folytatódik a két csapat versenyfutása]]></description>
+   <category>Sport</category>
+   <pubDate>Sat, 07 Apr 2018 16:50:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Michelisz: első sorból az utolsóba]]></title>
+   <link>http://mno.hu/sport/michelisz-az-elso-sorban-2458606?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MN</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24586/cikk-2458606/19300826_dc1670e23359d8c0ddd8e18a238d646c_x.jpg" length="190675" type="image/jpeg"/>
+   <description><![CDATA[Motort kellett cserélni a magyar pilóta autójában, így az utolsó helyről rajtolhat Marrákesben.]]></description>
+   <category>Sport</category>
+   <pubDate>Sat, 07 Apr 2018 16:25:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A rajtrácslányokat kiirthatják, a pilótanőket nem]]></title>
+   <link>http://mno.hu/sport/a-rajtracslanyokat-kiirthatjak-a-pilotanoket-nem-2455249?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Bucsy Levente</author>
+   <enclosure url="http://mno.hu/data/cikkek/2455/24552/cikk-2455249/063_916997012_896_504_1523088248.jpg" length="66003" type="image/jpeg"/>
+   <description><![CDATA[Keszthelyi Vivien autóversenyző nem ért egyet Carmen Jordával, aki szerint áthatolhatatlan fal áll a nők és az F1 között.]]></description>
+   <category>Sport</category>
+   <pubDate>Sat, 07 Apr 2018 12:04:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Bayern, ManCity: épp itt az ideje bajnoknak lenni]]></title>
+   <link>http://mno.hu/sport/bayern-mancity-epp-itt-az-ideje-bajnoknak-lenni-2458513?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Gabay Balázs</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24585/cikk-2458513/000_DV1496850_600_600_1523090741.jpg" length="167438" type="image/jpeg"/>
+   <description><![CDATA[A Guardiola-csapat az ősi ellenfél ellen ünnepelhet, a bajorok Augsburgban.  ]]></description>
+   <category>Sport</category>
+   <pubDate>Sat, 07 Apr 2018 10:35:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Már az elődöntőben Babos Tímea]]></title>
+   <link>http://mno.hu/sport/mar-az-elodontoben-babos-timea-2458538?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24585/cikk-2458538/000_XV6FJ_896_504_1516949020.jpg" length="40324" type="image/jpeg"/>
+   <description><![CDATA[Pénteken legyőzte az olimpiai címvédő Mónica Puigot. ]]></description>
+   <category>Sport</category>
+   <pubDate>Sat, 07 Apr 2018 08:45:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Megalázó vereség az olaszoktól Rijekában]]></title>
+   <link>http://mno.hu/sport/megalazo-vereseg-az-olaszoktol-rijekaban-2458463?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Gabay Balázs</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24584/cikk-2458463/c_03.jpg" length="463994" type="image/jpeg"/>
+   <description><![CDATA[Az ellenfél honosított játékosokkal kiegészítve ütötte ki a mieinket a vízilabda-Európa-kupa szuperdöntőjében. ]]></description>
+   <category>Sport</category>
+   <pubDate>Fri, 06 Apr 2018 17:38:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Marit Björgen bejelentette visszavonulását]]></title>
+   <link>http://mno.hu/sport/marit-bjorgen-bejelentette-visszavonulasat-2458381?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <description><![CDATA[Björgen nemcsak az olimpiákon remekelt, ugyanis 18-szoros világbajnok, illetve 303 egyéni világkupafutamából 114-et megnyert.]]></description>
+   <category>Sport</category>
+   <pubDate>Fri, 06 Apr 2018 14:27:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

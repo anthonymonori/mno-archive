@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Hegyi-Ombódi Brigitta]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/hegyi-ombodi-brigitta-20404</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Fri, 13 Apr 2018 16:29:18 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Családom és egyéb állatfajták]]></title>
+   <link>http://mno.hu/parafazis/csaladom-es-egyeb-allatfajtak-1212711?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hegyi-Ombódi Brigitta</author>
+   <description><![CDATA[Ha azt hiszik, hogy az ormányosmedve nem háziállat, tévednek.]]></description>
+   <category>Parafázis</category>
+   <pubDate>Tue, 25 Feb 2014 10:04:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A ½elem emberi játszmái]]></title>
+   <link>http://mno.hu/parafazis/a-elem-emberi-jatszmai-1210920?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hegyi-Ombódi Brigitta</author>
+   <description><![CDATA[Az a nő jut eszembe, aki egy halottak napján jött össze a szerelmével és a házasság hetén búcsúzik el férjétől.]]></description>
+   <category>Parafázis</category>
+   <pubDate>Sat, 15 Feb 2014 08:43:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Újjászületés]]></title>
+   <link>http://mno.hu/parafazis/ujjaszuletes-1186717?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Hegyi-Ombódi Brigitta</author>
+   <description><![CDATA[Még délután kiolvastam a könyvet, mint akit kiírtak a történetből, úgy maradtam ott estére a lapokból elfogyott betűk végtelen űrével. Utoljára talán Miskin herceg hagyott el így.]]></description>
+   <category>Parafázis</category>
+   <pubDate>Sat, 28 Sep 2013 09:11:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

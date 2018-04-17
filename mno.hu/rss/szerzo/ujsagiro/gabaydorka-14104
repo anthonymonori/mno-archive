@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Gabay Dorka]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/gabaydorka-14104</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Fri, 13 Apr 2018 13:09:24 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Testvérként énekelni a magyar Himnuszt]]></title>
+   <link>http://mno.hu/belfold/testverkent-enekelni-a-himnuszt-1255279?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Gabay Dorka</author>
+   <description><![CDATA[Kilenc kárpátaljai család ismerkedett múlt héten magyarországi testvércsaládjaikkal. 
+]]></description>
+   <category>Belföld</category>
+   <pubDate>Sun, 26 Oct 2014 23:30:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Építőanyag-pályázat akár 6 millió forint értékben]]></title>
+   <link>http://mno.hu/belfold/lakastamogatasi-palyazat-nagcsaladosoknak-1254518?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Gabay Dorka</author>
+   <description><![CDATA[Építkező nagycsaládosok kaphatnak segítséget lakáskörülményeik javítására.
+]]></description>
+   <category>Belföld</category>
+   <pubDate>Tue, 21 Oct 2014 17:35:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kedvezmények kismamáknak: újabb vita  az EU-val?]]></title>
+   <link>http://mno.hu/belfold/a-szulesi-szabadsag-unios-iranyairol-targyaltak-1253878?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Gabay Dorka</author>
+   <description><![CDATA[A magyar családtámogatási eszközök kedvezőbbek a jelenlegi uniós tervezetnél. ]]></description>
+   <category>Belföld</category>
+   <pubDate>Fri, 17 Oct 2014 16:58:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Önkéntes szolgálatban vesz részt több ezer fiatal]]></title>
+   <link>http://mno.hu/belfold/harom-nap-onkentes-munka-1252570?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Gabay Dorka</author>
+   <description><![CDATA[A 72 órás önkéntes szolgálat a három történelmi egyház kezdeményezésére indult.]]></description>
+   <category>Belföld</category>
+   <pubDate>Fri, 10 Oct 2014 18:45:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Tűzifa: több mint kétezer igénylés érkezett]]></title>
+   <link>http://mno.hu/belfold/tuzifa-program-tobb-mint-ketezer-igenyles-1251897?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Gabay Dorka</author>
+   <description><![CDATA[2074 önkormányzat nyújtott be támogatási pályázatot tűzifára és szénre.]]></description>
+   <category>Belföld</category>
+   <pubDate>Tue, 07 Oct 2014 17:24:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Gyermekhospice: segít az állam?]]></title>
+   <link>http://mno.hu/belfold/gyermekhospice-segit-az-allam-1250904?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Gabay Dorka</author>
+   <description><![CDATA[Már októberben tárgyalóasztalhoz ülhet a Szemem Fénye Alapítvány és az Emberi Erőforrások Minisztériuma.]]></description>
+   <category>Belföld</category>
+   <pubDate>Thu, 02 Oct 2014 07:07:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nemzetközi elismerés az Erzsébet-programnak]]></title>
+   <link>http://mno.hu/belfold/nemzetkozi-elismeres-az-erzsebet-programnak-1248764?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Gabay Dorka</author>
+   <description><![CDATA[Az Európai Nagycsaládosok Szövetsége a magyar kormányt díjazta az Erzsébet-programért.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sat, 20 Sep 2014 20:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kibővült a Vakok Intézete]]></title>
+   <link>http://mno.hu/belfold/megujult-a-vakok-intlezete-1248723?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Gabay Dorka</author>
+   <description><![CDATA[600 millió forintból újult meg a Vakok Állami Intézetének épülete.]]></description>
+   <category>Belföld</category>
+   <pubDate>Fri, 19 Sep 2014 16:47:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Újabb ötmillió forint a hazugság ára]]></title>
+   <link>http://mno.hu/migr_1834/ujabb-otmillio-forint-a-hazugsag-ara-423412?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Gabay Dorka</author>
+   <description><![CDATA[Többmilliós megbízást adott a kancellária az INNO-RES Közhasznú Társaságnak, hogy vizsgálja ki a Gyurcsány-féle őszödi beszéd tálalását az egyes elekt-ronikus médiumokban.]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Thu, 06 Dec 2007 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Lakcímváltással Lamperth terve ellen]]></title>
+   <link>http://mno.hu/migr_1834/lakcimvaltassal-lamperth-terve-ellen-421489?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Gabay Dorka</author>
+   <description><![CDATA[Gyermekeik lakcímének ideiglenes megváltoztatását sem zárnák ki egyes szülők annak érdekében, hogy az általuk megfelelőnek ítélt közoktatási intézménybe írathassák be őket, ha a parlament elfogadja azt a felvetést, amely megszüntetné a szabad iskolaválasztás jogát. Árok Antal, a Pedagógusok Szakszervezetének alelnöke fenntartással fogadta a tervezetet.]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Sat, 24 Nov 2007 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Felső kérésre távoztak az avatásról]]></title>
+   <link>http://mno.hu/migr_1834/felso-keresre-tavoztak-az-avatasrol-421290?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Gabay Dorka</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Fri, 23 Nov 2007 00:00:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

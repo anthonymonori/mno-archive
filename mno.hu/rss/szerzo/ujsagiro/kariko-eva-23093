@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Karikó Éva]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/kariko-eva-23093</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 22:06:38 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Lefagy, újraindít]]></title>
+   <link>http://mno.hu/konyveshaz/lefagy-ujraindit-1339443?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Karikó Éva</author>
+   <enclosure url="http://mno.hu/data/cikkek/1339/13394/cikk-1339443/3174092__fekvo.jpg" length="91560" type="image/jpeg"/>
+   <description><![CDATA[Böjte Csaba újabb füveskönyvéről: Zarándoklat az atyai házba.]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Sat, 30 Apr 2016 08:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Böjte Csaba elmondta, hogy mitől félti Európát]]></title>
+   <link>http://mno.hu/hetvegimagazin/a-joisten-nagy-fakanalat-ragadott-1306016?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Karikó Éva</author>
+   <enclosure url="http://mno.hu/data/cikkek/1306/13060/cikk-1306016/IMG_0302_grid2_fekvo_lead.jpg" length="112255" type="image/jpeg"/>
+   <description><![CDATA[Böjte Csaba migrációról, Európa felelősségéről és a keresztények jogos-jogtalan félelmeiről.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Sun, 27 Sep 2015 10:28:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Szemán László]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/szeman-laszlo-23213</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 06:39:01 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Védjék meg a kisembert!]]></title>
+   <link>http://mno.hu/velemeny/vedjek-meg-a-kisembert-1357277?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szemán László</author>
+   <enclosure url="http://mno.hu/data/cikkek/1357/13572/cikk-1357277/bkves.jpg" length="67516" type="image/jpeg"/>
+   <description><![CDATA[Nem kellene alábecsülni a kisemberek által olyannyira hiányolt közbiztonság igényét.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Wed, 17 Aug 2016 09:40:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Fosztogatják a siófoki nyaralókat]]></title>
+   <link>http://mno.hu/belfold/fosztogatjak-a-siofoki-nyaralokat-1356865?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szemán László</author>
+   <enclosure url="http://mno.hu/data/cikkek/1356/13568/cikk-1356865/MNO_D__VG20130716014.jpg" length="633911" type="image/jpeg"/>
+   <description><![CDATA[A készenléti rendőröket a határra vezényelték. Botrányos a helyzet a sétányon, már tömegverekedés is volt.]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 15 Aug 2016 06:40:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Egyre kevesebb autót lopnak el]]></title>
+   <link>http://mno.hu/belfold/egyre-kevesebb-autot-lopnak-el-1356371?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szemán László</author>
+   <description><![CDATA[Budapest vezet a listán. A kocsitolvajok egy része lebukott vagy áttért más bűnözési ágazatra.]]></description>
+   <category>Belföld</category>
+   <pubDate>Fri, 12 Aug 2016 06:36:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Közbiztonságérzet]]></title>
+   <link>http://mno.hu/velemeny/kozbiztonsagerzet-1356071?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szemán László</author>
+   <enclosure url="http://mno.hu/data/cikkek/1356/13560/cikk-1356071/NBB_20151223_1087.jpg" length="210191" type="image/jpeg"/>
+   <description><![CDATA[Kevesebb autót loptak el az év első hat hónapjában, mint tavaly ugyanebben az időszakban.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Wed, 10 Aug 2016 20:02:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Jár a kártérítés a meggyilkolt Balla Irma fiának]]></title>
+   <link>http://mno.hu/belfold/jar-a-karterites-a-meggyilkolt-balla-irma-fianak-1355868?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szemán László</author>
+   <enclosure url="http://mno.hu/data/cikkek/1355/13558/cikk-1355868/MNO_szb20151104_9815.jpg" length="321778" type="image/jpeg"/>
+   <description><![CDATA[Húszmillió forintért folyik a per, szeptember 5-én dönt a bíróság a kártérítés mértékéről.]]></description>
+   <category>Belföld</category>
+   <pubDate>Tue, 09 Aug 2016 10:11:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Orosz szakértők a lőtéren?]]></title>
+   <link>http://mno.hu/belfold/orosz-szakertok-a-loteren-1355026?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szemán László</author>
+   <enclosure url="http://mno.hu/data/cikkek/1355/13550/cikk-1355026/MNO_NBB_20160529_3177.jpg" length="170873" type="image/jpeg"/>
+   <description><![CDATA[Egy hónap alatt sem végeztek a vizsgálattal a Hortobágyon.]]></description>
+   <category>Belföld</category>
+   <pubDate>Thu, 04 Aug 2016 09:50:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Külföldi szakértők a hortobágyi ügyben]]></title>
+   <link>http://mno.hu/belfold/kulfoldi-szakertok-a-hortobagyi-ugyben-1354457?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szemán László</author>
+   <enclosure url="http://mno.hu/data/cikkek/1354/13544/cikk-1354457/DEBRE20150623001_grid2_fekvo_lead.jpg" length="97684" type="image/jpeg"/>
+   <description><![CDATA[Ma vélhetően meghosszabbítják a tűzszerész-tragédia honvédségi vizsgálatának lejáró határidejét.]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 01 Aug 2016 06:57:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Mégis kitől kell félnünk?]]></title>
+   <link>http://mno.hu/velemeny/megis-kitol-kell-felnunk-1354100?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szemán László</author>
+   <enclosure url="http://mno.hu/data/cikkek/1354/13541/cikk-1354100/000_D779M.jpg" length="390500" type="image/jpeg"/>
+   <description><![CDATA[Egy magányos ámokfutó valószínűbb veszélyforrás hazánkban, mint a terrorizmus.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Fri, 29 Jul 2016 10:33:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Éhen halt baba: újabb nyomozás]]></title>
+   <link>http://mno.hu/belfold/ehen-halt-baba-ujabb-nyomozas-1353900?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szemán László</author>
+   <enclosure url="http://mno.hu/data/cikkek/1353/13539/cikk-1353900/szb20160525_~04.jpg" length="321815" type="image/jpeg"/>
+   <description><![CDATA[Több gyanúsított lehet az Emberi Erőforrások Minisztériumának feljelentése nyomán.]]></description>
+   <category>Belföld</category>
+   <pubDate>Thu, 28 Jul 2016 07:07:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nem nyomoznak Rogán után]]></title>
+   <link>http://mno.hu/belfold/nem-nyomoznak-rogan-utan-1353704?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Horváth Csaba László, Szemán László</author>
+   <enclosure url="http://mno.hu/data/cikkek/1353/13537/cikk-1353704/MNO_NBB_20150202_2346.jpg" length="49891" type="image/jpeg"/>
+   <description><![CDATA[Az ügyészség szerint Portik Tamás tanúvallomása „erősen kétséges”.]]></description>
+   <category>Belföld</category>
+   <pubDate>Tue, 26 Jul 2016 19:36:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Magáncég felügyelte a tűzszerészeket]]></title>
+   <link>http://mno.hu/belfold/maganceg-felugyelte-a-tuzszereszeket-1353411?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szemán László</author>
+   <enclosure url="http://mno.hu/data/cikkek/1353/13534/cikk-1353411/MNO_BA20120920_3674.jpg" length="604511" type="image/jpeg"/>
+   <description><![CDATA[A projekt 3,4 milliárdos keretéből pedig mindössze 11 százalékot szántak a tűzszerészeti mentesítésre.]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 25 Jul 2016 05:58:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Életük árán is]]></title>
+   <link>http://mno.hu/velemeny/eletuk-aran-is-1353126?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szemán László</author>
+   <enclosure url="http://mno.hu/data/cikkek/1353/13531/cikk-1353126/BA20120920_3717.jpg" length="171772" type="image/jpeg"/>
+   <description><![CDATA[Vajon ki volt az, aki eldöntötte, hogy időt kell megtakarítaniuk a tűzszerészeknek?]]></description>
+   <category>Vélemény</category>
+   <pubDate>Fri, 22 Jul 2016 11:13:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hortobágy: sürgethették a tűzszerészeket?]]></title>
+   <link>http://mno.hu/belfold/hortobagy-surgethettek-a-tuzszereszeket-1353086?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szemán László</author>
+   <enclosure url="http://mno.hu/data/cikkek/1353/13530/cikk-1353086/5-1szb_grid2_fekvo_lead.jpg" length="110629" type="image/jpeg"/>
+   <description><![CDATA[A vállalkozók alábecsülték a bombák számát, betarthatatlan határidőt vállaltak.]]></description>
+   <category>Belföld</category>
+   <pubDate>Fri, 22 Jul 2016 07:07:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hortobágy, a bombák földje]]></title>
+   <link>http://mno.hu/belfold/hortobagy-a-bombak-foldje-1352916?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Buzna Viktor, Szemán László</author>
+   <enclosure url="http://mno.hu/data/cikkek/1352/13529/cikk-1352916/DEBRE20150623001_grid2_fekvo_lead.jpg" length="97684" type="image/jpeg"/>
+   <description><![CDATA[Jóval több a robbanótest a vártnál. Még két, fokozottan szennyezett terület van.]]></description>
+   <category>Belföld</category>
+   <pubDate>Thu, 21 Jul 2016 06:06:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Közbeszerzést írtak ki a korrupció megelőzésére]]></title>
+   <link>http://mno.hu/belfold/kampanyt-indit-az-elharitas-1352602?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szemán László</author>
+   <enclosure url="http://mno.hu/data/cikkek/1352/13526/cikk-1352602/NBB_20070626_5634.jpg" length="251474" type="image/jpeg"/>
+   <description><![CDATA[295 milliós közbeszerzést írt ki a védelmi szolgálat a korrupció megelőzésére.]]></description>
+   <category>Belföld</category>
+   <pubDate>Tue, 19 Jul 2016 16:17:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Politikusokat kísérthet a múlt]]></title>
+   <link>http://mno.hu/belfold/politikusokat-kiserthet-a-mult-1352567?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szemán László</author>
+   <enclosure url="http://mno.hu/data/cikkek/1352/13525/cikk-1352567/DSZZS20141119003_grid2_fekvo_lead.jpg" length="39224" type="image/jpeg"/>
+   <description><![CDATA[Bár még a választási kampány messze, megnyílhatnak a politikai elit egyes szereplőire nézve terhelő dossziék.]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 18 Jul 2016 22:26:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nem áfamentes a Századvég]]></title>
+   <link>http://mno.hu/gazdasag/nem-afamentes-a-szazadveg-1352212?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szemán László, Hutter Marianna</author>
+   <enclosure url="http://mno.hu/data/cikkek/1352/13522/cikk-1352212/szb20160418_5025.jpg" length="246031" type="image/jpeg"/>
+   <description><![CDATA[A Századvég szerepét továbbra sem firtatja az ügyészség.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Sat, 16 Jul 2016 07:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Poloskairtókkal nézetnék át az állami cégeket]]></title>
+   <link>http://mno.hu/belfold/ujabb-poloskaugy-az-mtva-nal-1352135?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szemán László</author>
+   <enclosure url="http://mno.hu/data/cikkek/1352/13521/cikk-1352135/TZIHZ20160303001.jpg" length="282392" type="image/jpeg"/>
+   <description><![CDATA[Orosz Ferenc biztos abban, hogy politikai érdekek mentén hallgattatta le valaki Várhegyi Attila embereit.]]></description>
+   <category>Belföld</category>
+   <pubDate>Fri, 15 Jul 2016 15:14:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Egér az elefántok között]]></title>
+   <link>http://mno.hu/velemeny/eger-az-elefantok-kozott-1352071?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szemán László</author>
+   <enclosure url="http://mno.hu/data/cikkek/1352/13520/cikk-1352071/BA__6622.jpg" length="259569" type="image/jpeg"/>
+   <description><![CDATA[A politika kegyeltjeiből könnyen lehetnek értetlenkedő kegyvesztettek. Így történt ez Tarsoly Csabával is.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Fri, 15 Jul 2016 14:22:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Anyagi okok vezettek a tűzszerész-tragédiához?]]></title>
+   <link>http://mno.hu/belfold/a-tuzszereszeken-sporolt-a-nemzeti-park-1351853?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Buzna Viktor, Szemán László</author>
+   <enclosure url="http://mno.hu/data/cikkek/1351/13518/cikk-1351853/DEBRE20150623005.jpg" length="884512" type="image/jpeg"/>
+   <description><![CDATA[„Azonnal kezdeményezni kell egy független parlamenti vizsgálóbizottság felállítását.”]]></description>
+   <category>Belföld</category>
+   <pubDate>Thu, 14 Jul 2016 11:53:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Mégis nyomoznak a poloska miatt]]></title>
+   <link>http://mno.hu/belfold/megis-nyomoznak-a-poloska-miatt-1351855?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szemán László</author>
+   <description><![CDATA[Öt héttel az eszköz megtalálása után mégis elrendelték a nyomozást tiltott adatszerzés bűntette miatt.]]></description>
+   <category>Belföld</category>
+   <pubDate>Thu, 14 Jul 2016 10:30:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Mi fizetjük meg a félelem árát]]></title>
+   <link>http://mno.hu/velemeny/mi-fizetjuk-meg-a-felelem-arat-1350457?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szemán László</author>
+   <enclosure url="http://mno.hu/data/cikkek/1350/13504/cikk-1350457/HM20141007_487.jpg" length="213825" type="image/jpeg"/>
+   <description><![CDATA[A hatóság emberei bárkit, bárhol, bármikor ellenőrizhetnek.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Tue, 05 Jul 2016 15:20:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Maradnak a rendőri akciók]]></title>
+   <link>http://mno.hu/belfold/maradnak-a-rendori-akciok-1350197?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szemán László</author>
+   <enclosure url="http://mno.hu/data/cikkek/1350/13501/cikk-1350197/igazoltatas.jpg" length="294974" type="image/jpeg"/>
+   <description><![CDATA[Jogilag aggályosnak tartják a fokozott ellenőrzéseket.]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 04 Jul 2016 06:30:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Milliárdokat csaltak el a brókerek]]></title>
+   <link>http://mno.hu/belfold/milliardokat-csaltak-el-a-brokerek-1349806?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szemán László</author>
+   <enclosure url="http://mno.hu/data/cikkek/1349/13498/cikk-1349806/BA20150224_0714_grid2_fekvo_lead.jpg" length="44982" type="image/jpeg"/>
+   <description><![CDATA[A Buda-Cash Brókerház alapítója, Pintér Zoltán volt az értelmi szerzője a csalássorozatnak. ]]></description>
+   <category>Belföld</category>
+   <pubDate>Fri, 01 Jul 2016 06:37:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Megkezdődött a Buda-Cash-per]]></title>
+   <link>http://mno.hu/gazdasag/megkezdodott-a-buda-cash-per-1349704?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szemán László</author>
+   <description><![CDATA[A Fővárosi Főügyészség öt gyanúsított ellen emelt vádat.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Thu, 30 Jun 2016 12:50:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nem követett el bűncselekményt a tizenhét megosztó]]></title>
+   <link>http://mno.hu/belfold/felmentett-megosztok-1348743?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szemán László</author>
+   <enclosure url="http://mno.hu/data/cikkek/1348/13487/cikk-1348743/MNO_szb20140929_6606_uj_fekvo_lead.jpg" length="68590" type="image/jpeg"/>
+   <description><![CDATA[Az elsőfokú bíróság szerint nem történt bűncselekmény. Balázs Árpád fellebbez.]]></description>
+   <category>Belföld</category>
+   <pubDate>Fri, 24 Jun 2016 11:49:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A Rogán-jelenség]]></title>
+   <link>http://mno.hu/velemeny/a-rogan-jelenseg-1348767?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szemán László</author>
+   <enclosure url="http://mno.hu/data/cikkek/1348/13487/cikk-1348767/NBB_20151213_7265.jpg" length="187346" type="image/jpeg"/>
+   <description><![CDATA[A fideszes politikus neve egyre kényesebb összefüggésekben bukkan elő.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Fri, 24 Jun 2016 11:11:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Feljelentést tett az Emmi]]></title>
+   <link>http://mno.hu/belfold/feljelentest-tett-az-emmi-1348585?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szemán László</author>
+   <enclosure url="http://mno.hu/data/cikkek/1348/13485/cikk-1348585/gyongyosi_gyermek_ehezteto2-foto-police-hu_grid2_fekvo_lead.jpg" length="62294" type="image/jpeg"/>
+   <description><![CDATA[A minisztérium a gyöngyösi gyermekhalál kapcsán fordult a rendőrséghez.]]></description>
+   <category>Belföld</category>
+   <pubDate>Thu, 23 Jun 2016 14:56:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Letöltendő börtönt kértek a volt józsefvárosi jegyzőre]]></title>
+   <link>http://mno.hu/belfold/letoltendo-bortont-kertek-a-volt-jegyzore-1348161?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szemán László</author>
+   <enclosure url="http://mno.hu/data/cikkek/1348/13481/cikk-1348161/EA20050728_5990.jpg" length="194934" type="image/jpeg"/>
+   <description><![CDATA[Xantus Judit ellen korábbi felettese, Kocsis Máté polgármester tett feljelentést.]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 20 Jun 2016 19:39:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Orbán lépéskényszerben]]></title>
+   <link>http://mno.hu/vezercikk/orban-lepeskenyszerben-1347808?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szemán László</author>
+   <enclosure url="http://mno.hu/data/cikkek/1347/13478/cikk-1347808/vezercikk_1000px_2.jpg" length="184848" type="image/jpeg"/>
+   <description><![CDATA[Súlyos vádakkal illette Rogán Antalt tegnap a Fővárosi Törvényszéken Portik Tamás.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Sat, 18 Jun 2016 00:01:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

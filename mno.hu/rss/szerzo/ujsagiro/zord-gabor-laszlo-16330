@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Zord Gábor László]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/zord-gabor-laszlo-16330</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Wed, 11 Apr 2018 10:21:13 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Külföldi hírportálok címlapon a választásról]]></title>
+   <link>http://mno.hu/kulfold/kulfoldi-hirportalok-cimlapon-a-valasztasrol-2458744?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Zord Gábor László</author>
+   <description><![CDATA[A BBC, a CNN, az NBC News, a Deutsche Welle si foglalkozik a magyarországi eseményekkel.]]></description>
+   <category>Külföld</category>
+   <pubDate>Sun, 08 Apr 2018 16:24:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Dollármilliárdokból fegyverkezik térségünk]]></title>
+   <link>http://mno.hu/kulfold/dollarmilliardokbol-fegyverkezik-tersegunk-2458230?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Zord Gábor László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24582/cikk-2458230/NBB_20130803_2694.JPG" length="97980" type="image/jpeg"/>
+   <description><![CDATA[Magyarország jelentős, harci erőt növelő fejlesztéssel még nem rukkolt elő.]]></description>
+   <category>Külföld</category>
+   <pubDate>Fri, 06 Apr 2018 19:44:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Külpolitika néven futtatták a gazdaságdiplomáciát Szijjártó Péterék]]></title>
+   <link>http://mno.hu/kulfold/kulpolitika-neven-futtattak-a-gazdasagdiplomaciat-szijjarto-peterek-2457654?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Zord Gábor László, Buzna Viktor, Ruzsbaczky Zoltán</author>
+   <enclosure url="http://mno.hu/data/cikkek/2457/24576/cikk-2457654/BA20171013_0962_1.jpg" length="514858" type="image/jpeg"/>
+   <description><![CDATA[Mi az unortodoxia világméretűvé tágítása? Szijjártó Péter külügyminiszter keleti nyitásos uniós kardcsörgetése. Plusz migránsellenesség. ]]></description>
+   <category>Külföld</category>
+   <pubDate>Thu, 05 Apr 2018 09:15:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Orosz–török–iráni trió kísérletezik Szíriában]]></title>
+   <link>http://mno.hu/kulfold/orosz-torok-irani-trio-kiserletezik-sziriaban-2457999?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Zord Gábor László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2457/24579/cikk-2457999/K_EPA20180404110.jpg" length="160361" type="image/jpeg"/>
+   <description><![CDATA[Alternatívát kínálnak az amerikaiak teremtette káosszal szemben, ám egyelőre az Egyesült Államok sem hagyta el a terepet.]]></description>
+   <category>Külföld</category>
+   <pubDate>Wed, 04 Apr 2018 20:45:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Most repülik be a honvédség első Airbusát]]></title>
+   <link>http://mno.hu/belfold/most-repulik-be-a-honvedseg-elso-airbusat-2457917?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Zord Gábor László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2457/24579/cikk-2457917/Airbus319_honvedseg.jpg" length="318628" type="image/jpeg"/>
+   <description><![CDATA[Két hónappal Kecskemétre érkezésük után megkezdődtek a honvédség Airbus többfunkciós kormányzati szállítógépeinek repülései.]]></description>
+   <category>Belföld</category>
+   <pubDate>Wed, 04 Apr 2018 16:05:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Visszaüt az amerikai geopolitikára az 1999-es bombázás]]></title>
+   <link>http://mno.hu/kulfold/visszaut-az-amerikai-geopolitikara-az-1999-es-bombazas-2456771?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Zord Gábor László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2456/24567/cikk-2456771/180324_26_Szerbia_001.JPG" length="370917" type="image/jpeg"/>
+   <description><![CDATA[Szerbia euroatlanti integrációjának, Oroszországról való leválasztásának a háborús emlékek is gátat szabnak.]]></description>
+   <category>Külföld</category>
+   <pubDate>Thu, 29 Mar 2018 14:35:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Belövést kapott Trump védelme]]></title>
+   <link>http://mno.hu/kulfold/belovest-kapott-trump-vedelme-2455367?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Zord Gábor László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2455/24553/cikk-2455367/063_GYI0063861812.jpg" length="209591" type="image/jpeg"/>
+   <description><![CDATA[Úgy tudni, az elnök bizalma megingott ügyvédjében. Szakértők szerint azonban John Dowd távozása nem jött jókor.]]></description>
+   <category>Külföld</category>
+   <pubDate>Thu, 22 Mar 2018 19:25:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Honvédség: a Rábák után jönnek a nagyobb falatok?]]></title>
+   <link>http://mno.hu/belfold/honvedseg-a-rabak-utan-jonnek-a-nagyobb-falatok-2454558?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Zord Gábor László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2454/24545/cikk-2454558/Honvedsegi_Raba.jpg" length="799226" type="image/jpeg"/>
+   <description><![CDATA[Huszonhét darab új Rába teherautót vett át a honvédség. Több jel utal arra, hogy jönnek a százmilliárdos beszerzések is.]]></description>
+   <category>Belföld</category>
+   <pubDate>Tue, 20 Mar 2018 16:38:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szkripal-ügy: elítélte a támadást a magyar külügy, komoly csavarral]]></title>
+   <link>http://mno.hu/kulfold/szkripal-ugy-elitelte-a-tamadast-a-magyar-kulugy-ket-komoly-csavarral-2453862?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Zord Gábor László, Földi Bence</author>
+   <enclosure url="http://mno.hu/data/cikkek/2453/24538/cikk-2453862/K_EPA20180310128.jpg" length="518837" type="image/jpeg"/>
+   <description><![CDATA[A tárca meg sem említette az oroszokat és Szergej Szkripalt sem közleményében.]]></description>
+   <category>Külföld</category>
+   <pubDate>Fri, 16 Mar 2018 06:08:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A reálpolitikus, a fundamentalista és a kínvallató]]></title>
+   <link>http://mno.hu/kulfold/a-realpolitikus-a-fundamentalista-es-a-kinvallato-2453464?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Zord Gábor László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2453/24534/cikk-2453464/000_12G24S.jpg" length="156518" type="image/jpeg"/>
+   <description><![CDATA[Az új hidegháborúhoz jobban illő ultrakonzervatív Mike Pompeo követi a külügyminiszteri székben Rex Tillersont. Helyét a CIA élén a kínvallatásban részes Gina Haspel veszi át. ]]></description>
+   <category>Külföld</category>
+   <pubDate>Tue, 13 Mar 2018 19:38:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Titkos százmilliárdok]]></title>
+   <link>http://mno.hu/vezercikk/titkos-szazmilliardok-2451922?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Zord Gábor László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2451/24519/cikk-2451922/Airbus_3.jpg" length="390416" type="image/jpeg"/>
+   <description><![CDATA[A Fidesz–KDNP szavazógépe mintegy 650 milliárd forint elköltésére adott felhatalmazást, mindössze öt-tizenöt perc alatt.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Wed, 07 Mar 2018 00:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hiperszonikus „tőrt” szegez az amerikaiakra a Kreml]]></title>
+   <link>http://mno.hu/kulfold/hiperszonikus-tort-szegez-az-amerikaiakra-a-kreml-2451572?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Zord Gábor László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2451/24515/cikk-2451572/033_2921725.jpg" length="5522451" type="image/jpeg"/>
+   <description><![CDATA[Kinzsal rakétában az orosz aszimmetrikus válaszadás: mivel Moszkva nem versenyezhet a Pentagon tízszeres büdzséjével, sokoldalúbban kell felhasználnia rubeljeit. Erre újabb példa a hiperszonikus fegyver.]]></description>
+   <category>Külföld</category>
+   <pubDate>Mon, 05 Mar 2018 22:06:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Közbeszerzés nélkül vásárolna helikoptereket a kormány]]></title>
+   <link>http://mno.hu/belfold/kozbeszerzes-nelkul-vasarolna-helikoptereket-a-kormany-2451391?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Zord Gábor László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2451/24513/cikk-2451391/szb20160419_6415.jpg" length="354325" type="image/jpeg"/>
+   <description><![CDATA[A norvég légi mentőktől érkezhetnek használt helikopterek a belügyi tárcához, mely átveszi a légi mentést.  ]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 05 Mar 2018 10:38:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Putyin-show a választóknak és az egész világnak]]></title>
+   <link>http://mno.hu/kulfold/putyin-show-a-valasztoknak-es-az-egesz-vilagnak-2450867?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Zord Gábor László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2450/24508/cikk-2450867/fegyver.jpg" length="105100" type="image/jpeg"/>
+   <description><![CDATA[Oroszország új stratégiai fegyvereket fejleszt.]]></description>
+   <category>Külföld</category>
+   <pubDate>Thu, 01 Mar 2018 22:47:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Üzleti vagy futár- és felderítőgépeket vehet a honvédség]]></title>
+   <link>http://mno.hu/belfold/uzleti-vagy-futar-es-felderitogepeket-vehet-a-honvedseg-2450579?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Zord Gábor László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2450/24505/cikk-2450579/OE_IPW_Dassault_Falcon_7X_19847590082_.jpg" length="265274" type="image/jpeg"/>
+   <description><![CDATA[A Falcon 7X-ek beszerzése 12–15 milliárd forintba kerülhet, különleges berendezésekkel a duplájába is.]]></description>
+   <category>Belföld</category>
+   <pubDate>Thu, 01 Mar 2018 05:45:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Patriot rakéták, szállítógépek – hadgyakorlatok országa lettünk]]></title>
+   <link>http://mno.hu/kulfold/patriot-raketak-szallitogepek-hadgyakorlatok-orszaga-lettunk-2450315?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Zord Gábor László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2450/24503/cikk-2450315/NBB_20050806_1296.jpg" length="108035" type="image/jpeg"/>
+   <description><![CDATA[Az EU tagországainak szállítógépei Pápáról gyakorlatoznak, 12 NATO-szövetséges pedig légvédelmi rakétásait küldi Magyarországra.]]></description>
+   <category>Külföld</category>
+   <pubDate>Wed, 28 Feb 2018 09:09:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Mi az igazi tét Kelet-Gútában?]]></title>
+   <link>http://mno.hu/kulfold/mi-az-igazi-tet-kelet-gutaban-2449773?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Zord Gábor László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2449/24497/cikk-2449773/MNO_000_10Q9HX.jpg" length="370151" type="image/jpeg"/>
+   <description><![CDATA[Az ENSZ BT tűzszünetről szóló határozatot fogadott el, de a harcok folytatódtak.]]></description>
+   <category>Külföld</category>
+   <pubDate>Sun, 25 Feb 2018 20:47:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Miért és hogyan hagyták el Magyarországot? Három történet a több százezerből]]></title>
+   <link>http://mno.hu/kulfold/miert-es-hogyan-hagytak-el-magyarorszagot-harom-tortenet-a-tobb-szazezerbol-2449344?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kuthi Áron, Zord Gábor László, Garamvölgyi Flóra</author>
+   <enclosure url="http://mno.hu/data/cikkek/2449/24493/cikk-2449344/Ke_pernyo_foto_2018_02_24_16.21.43.png" length="467936" type="image/png"/>
+   <description><![CDATA[A sebész, akit alig ismertek meg a gyerekei. Egy kutató, akit a szakmája hajt. A házaspár, amelyik ösztöndíjjal ragadt kint.]]></description>
+   <category>Külföld</category>
+   <pubDate>Sat, 24 Feb 2018 16:35:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Súlyos kérdéseket vet fel a fokozódó izraeli aktivitás]]></title>
+   <link>http://mno.hu/kulfold/sulyos-kerdeseket-vet-fel-a-fokozodo-izraeli-aktivitas-2446472?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Zord Gábor László</author>
+   <description><![CDATA[Egyre veszélyesebb a zsidó állam és Irán szembenállása a háború dúlta országban.]]></description>
+   <category>Külföld</category>
+   <pubDate>Mon, 12 Feb 2018 14:21:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Visszatérhet Európába a nukleáris fenyegetés]]></title>
+   <link>http://mno.hu/kulfold/visszaterhet-europaba-a-nuklearis-fenyegetes-2446265?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Zord Gábor László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2446/24462/cikk-2446265/170824_Alabino_Armija2017demo_0559m.jpg" length="513906" type="image/jpeg"/>
+   <description><![CDATA[Az INF-szerződés körüli bizonytalanság közepette Magyarország bázis-szerepe is felértékelődhet.]]></description>
+   <category>Külföld</category>
+   <pubDate>Sat, 10 Feb 2018 10:40:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Egybeforrt az amerikai büdzsé és a fiatal migránsok sorsa]]></title>
+   <link>http://mno.hu/kulfold/egybeforrt-az-amerikai-budzse-es-a-fiatal-migransok-sorsa-2445378?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Zord Gábor László, Garamvölgyi Flóra</author>
+   <enclosure url="http://mno.hu/data/cikkek/2445/24453/cikk-2445378/063_912419826.jpg" length="149965" type="image/jpeg"/>
+   <description><![CDATA[Ketyeg az óra a gyerekként bevándoroltak maradását lehetővé tévő program felett, közel 700-800 ezer fiatal retteg a kitoloncolástól. ]]></description>
+   <category>Külföld</category>
+   <pubDate>Wed, 07 Feb 2018 09:25:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Könyvvizsgálat a Pentagonnál: kínos hiba]]></title>
+   <link>http://mno.hu/kulfold/konyvvizsgalat-a-pentagonnal-kinos-hiba-2445480?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Zord Gábor László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2445/24454/cikk-2445480/000_Was8894757_896_504_1517938735.jpg" length="120817" type="image/jpeg"/>
+   <description><![CDATA[Az amerikai védelmi minisztérium egyik ügynökségénél nem találják a dokumentációját 800 millió dollárnyi (200 milliárd forintnyi) kiadásnak.]]></description>
+   <category>Külföld</category>
+   <pubDate>Tue, 06 Feb 2018 19:05:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Afganisztán: a CIA is háborús bűnös lehet]]></title>
+   <link>http://mno.hu/kulfold/afganisztan-a-cia-is-haborus-bunos-lehet-2444703?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Zord Gábor László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2444/24447/cikk-2444703/MNO_000_Y03PP.jpg" length="598146" type="image/jpeg"/>
+   <description><![CDATA[Nemcsak tálibokat, de nyugatiakat és afgán kormányerőket is megvádolhat a Nemzetközi Büntetőbíróság.]]></description>
+   <category>Külföld</category>
+   <pubDate>Sat, 03 Feb 2018 11:30:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Katonák, kormánytagok és evakuálandók lesznek a honvédségi Airbusok utasai]]></title>
+   <link>http://mno.hu/belfold/katonak-kormanytagok-es-evakualandok-lesznek-a-honvedsegi-airbusok-utasai-2444607?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Zord Gábor László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2444/24446/cikk-2444607/DSC_1457.JPG" length="347599" type="image/jpeg"/>
+   <description><![CDATA[Még titok a gépek beszerzési konstrukciója, és hogy mennyibe kerültek. A honvédelmi miniszter a 70-80 millió eurós új ár kevesebb mint feléről beszél. ]]></description>
+   <category>Belföld</category>
+   <pubDate>Fri, 02 Feb 2018 18:27:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Elrettentésre játszanak az oroszok ellen]]></title>
+   <link>http://mno.hu/kulfold/elrettentesre-jatszanak-az-oroszok-ellen-2443921?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Zord Gábor László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2443/24439/cikk-2443921/MNO_000_O99Q1.jpg" length="351051" type="image/jpeg"/>
+   <description><![CDATA[Egyelőre nincsenek új amerikai szankciók, de jelzik a külföldi partnereknek, kivel ne üzleteljenek. Lényegében senkivel.]]></description>
+   <category>Külföld</category>
+   <pubDate>Wed, 31 Jan 2018 15:06:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Trump: Nyitva marad a hírhedt guantánamói fogolytábor]]></title>
+   <link>http://mno.hu/kulfold/trump-nyitva-marad-a-hirhedt-guantanamoi-fogolytabor-2443991?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Zord Gábor László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2443/24439/cikk-2443991/000_YD9B4.jpg" length="174563" type="image/jpeg"/>
+   <description><![CDATA[Indul a nukleáris újrafegyverkezés, megépül a fal a mexikói határra.]]></description>
+   <category>Külföld</category>
+   <pubDate>Wed, 31 Jan 2018 12:22:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Mobillal a zsebben veszélyes a futás a bázison]]></title>
+   <link>http://mno.hu/kulfold/mobillal-a-zsebben-veszelyes-a-futas-a-bazison-2443553?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Zord Gábor László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2443/24435/cikk-2443553/19294550_6e57851aadd9aab1d0a3d799411d7023_x.jpg" length="182855" type="image/jpeg"/>
+   <description><![CDATA[A helyzetadatokat megosztó mobilalkalmazásokból az ellenség is sokat tanulhat – erre az amerikai és az orosz haderő is kezd rájönni.   ]]></description>
+   <category>Külföld</category>
+   <pubDate>Mon, 29 Jan 2018 18:21:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az elveszett harmóniát keresi Washington és London]]></title>
+   <link>http://mno.hu/kulfold/az-elveszett-harmoniat-keresi-washington-es-london-2442040?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Zord Gábor László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2442/24420/cikk-2442040/000_XH1FS.jpg" length="454275" type="image/jpeg"/>
+   <description><![CDATA[Rex Tillerson európai körútján az Egyesült Államok legfontosabb szövetségesei támogatásáról győződne meg.]]></description>
+   <category>Külföld</category>
+   <pubDate>Mon, 22 Jan 2018 20:07:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Gyöngyösi Márton: Nemzetközileg Fidesz–Jobbik helycsere történt]]></title>
+   <link>http://mno.hu/belfold/gyongyosi-marton-nemzetkozileg-fidesz-jobbik-helycsere-tortent-2441492?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Zord Gábor László, László Dávid</author>
+   <enclosure url="http://mno.hu/data/cikkek/2441/24414/cikk-2441492/BA_02974.jpg" length="386694" type="image/jpeg"/>
+   <description><![CDATA[A Jobbik külpolitikai szakpolitikusa szerint az elmúlt években sikerrel dolgoztak azon, hogy a nyugati országokkal is jó kapcsolatuk legyen.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sat, 20 Jan 2018 06:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nukleáris indítógomb: sokkal bonyolultabb, mint a filmekben]]></title>
+   <link>http://mno.hu/kulfold/nuklearis-inditogomb-sokkal-bonyolultabb-mint-a-filmekben-2437982?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Zord Gábor László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2437/24379/cikk-2437982/000_NK5JB.jpg" length="260548" type="image/jpeg"/>
+   <description><![CDATA[Többszintű, többszörösen biztosított folyamat végén történhet csak meg az atomfegyverek bevetése.]]></description>
+   <category>Külföld</category>
+   <pubDate>Fri, 05 Jan 2018 12:43:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

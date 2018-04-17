@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: éhesvagyok]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/ehesvagyok-19752</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Sat, 14 Apr 2018 03:01:04 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[A Dungeness-rák]]></title>
+   <link>http://mno.hu/nyokki/parolt-rak-az-egyesult-allamokbol-1192357?utm_source=feed&amp;utm_medium=rss</link>
+   <author>éhesvagyok</author>
+   <description><![CDATA[Ami igazán finom, abból nem jut külföldre, mert megeszik a helyiek az összeset :)]]></description>
+   <category>nyokki</category>
+   <pubDate>Tue, 29 Oct 2013 08:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Erzurumi kóstoló, avagy kebab és kadayif Kelet-Anatóliából]]></title>
+   <link>http://mno.hu/nyokki/erzurumi-kostolo-1171362?utm_source=feed&amp;utm_medium=rss</link>
+   <author>éhesvagyok</author>
+   <description><![CDATA[Szereti a kebabot? A cikkben egy őseredeti változat, a közeli Ararát hegyén, Noé bárkájában már tuti ilyet sütöttek :)]]></description>
+   <category>nyokki</category>
+   <pubDate>Tue, 09 Jul 2013 08:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Chili con carne egy farmerállamból]]></title>
+   <link>http://mno.hu/nyokki/chili-egy-farmerallambol-1148719?utm_source=feed&amp;utm_medium=rss</link>
+   <author>éhesvagyok</author>
+   <description><![CDATA[Kedves barátom chilitörténeti áttekintése, beszámolója a tavalyi összamerikai chilifőző-bajnokságról, végül saját chili con carne-receptje.]]></description>
+   <category>nyokki</category>
+   <pubDate>Tue, 09 Apr 2013 08:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Húzott hús]]></title>
+   <link>http://mno.hu/nyokki/huzott-hus-1119974?utm_source=feed&amp;utm_medium=rss</link>
+   <author>éhesvagyok</author>
+   <description><![CDATA[A húzott hús (pulled pork) az egyik legnépszerűbb és legfinomabb BBQ. A lassan, alacsony hőfokon sütött hús olyan puhává válik, hogy villával széthúzható!]]></description>
+   <category>nyokki</category>
+   <pubDate>Tue, 27 Nov 2012 08:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Salsa és guacamole – texmex tirmusok]]></title>
+   <link>http://mno.hu/nyokki/salsa-1089876?utm_source=feed&amp;utm_medium=rss</link>
+   <author>éhesvagyok</author>
+   <description><![CDATA[Három plusz egy gyorsan-könnyen elkészíthető mártogatós meccsnézéshez, vagy baráti látogatások esetére]]></description>
+   <category>nyokki</category>
+   <pubDate>Tue, 10 Jul 2012 10:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Freekeh tabouli]]></title>
+   <link>http://mno.hu/nyokki/freekeh-tabouli-1069912?utm_source=feed&amp;utm_medium=rss</link>
+   <author>éhesvagyok</author>
+   <description><![CDATA[A tabouleh fő alkotóeleme a nagyon apróra vágott petrezselyem, menta összekeverve főtt, tört búzával (bulgur), amit esetünkben a freekeh helyettesít. Az ízesítéshez használjunk sok citromlevet, és 3-4 evőkanál jó minőségű olívaolajat.]]></description>
+   <category>nyokki</category>
+   <pubDate>Tue, 24 Apr 2012 10:00:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

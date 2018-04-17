@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Pilhál Tamás]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/pilhal-tamas-2931</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 05:21:52 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[„Volt egy negatív felhő Tamás körül”]]></title>
+   <link>http://mno.hu/belfold/volt-egy-negativ-felho-tamas-korul-1374252?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pilhál Tamás</author>
+   <enclosure url="http://mno.hu/data/cikkek/1374/13742/cikk-1374252/MNO_szb20140221_6009.jpg" length="402136" type="image/jpeg"/>
+   <description><![CDATA[Nevelőtársainak sem tűnt fel, hogy a tornatanár szexuálisan zaklatja a fiúkat a csepeli iskolában.]]></description>
+   <category>Belföld</category>
+   <pubDate>Thu, 01 Dec 2016 15:36:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Öt év börtön Szima Juditnak]]></title>
+   <link>http://mno.hu/belfold/ot-ev-borton-szima-juditnak-1373851?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pilhál Tamás</author>
+   <enclosure url="http://mno.hu/data/cikkek/1373/13738/cikk-1373851/MP20100211_8025.jpg" length="158121" type="image/jpeg"/>
+   <description><![CDATA[A Tettrekész szakszervezet főtitkárát 22 milliós vagyonelkobzással is sújtották. Az ítélet jogerős.]]></description>
+   <category>Belföld</category>
+   <pubDate>Tue, 29 Nov 2016 13:42:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Rejtélyes fertőzés tizedeli a rendőröket]]></title>
+   <link>http://mno.hu/belfold/rejtelyes-fertozes-tizedeli-a-rendoroket-1373836?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pilhál Tamás</author>
+   <enclosure url="http://mno.hu/data/cikkek/1373/13738/cikk-1373836/D_US20160921004.jpg" length="324619" type="image/jpeg"/>
+   <description><![CDATA[Harminchárom határvédő rendőr megbetegedett az ismeretlen kórtól, hárman közülük kórházban vannak. ]]></description>
+   <category>Belföld</category>
+   <pubDate>Tue, 29 Nov 2016 12:41:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Megmentené Budaházyékat a börtöntől a Jobbik]]></title>
+   <link>http://mno.hu/belfold/megmentene-budahazyekat-a-bortontol-a-jobbik-1373149?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pilhál Tamás</author>
+   <enclosure url="http://mno.hu/data/cikkek/1373/13731/cikk-1373149/toroczmti.jpg" length="228146" type="image/jpeg"/>
+   <description><![CDATA[Több száz, 2006 és 2010 közötti „politikai ellenállót” érinthet az ellenzéki párt közkegyelmi indítványa.]]></description>
+   <category>Belföld</category>
+   <pubDate>Thu, 24 Nov 2016 16:51:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Megszólal az MNA-tag: fideszesekkel is kezet fogtak]]></title>
+   <link>http://mno.hu/belfold/megszolal-az-mna-tag-fideszesekkel-is-kezet-fogtak-1372147?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pilhál Tamás</author>
+   <enclosure url="http://mno.hu/data/cikkek/1372/13721/cikk-1372147/MP20050106_1798.jpg" length="422957" type="image/jpeg"/>
+   <description><![CDATA[Lapunknak nyilatkozott a hírek állandó szereplőjévé vált Magyar Nemzeti Arcvonal korábbi csoportvezetője.]]></description>
+   <category>Belföld</category>
+   <pubDate>Fri, 18 Nov 2016 16:36:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Korlátolt emberijogizmus]]></title>
+   <link>http://mno.hu/velemeny/korlatolt-emberijogizmus-1371881?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pilhál Tamás</author>
+   <enclosure url="http://mno.hu/data/cikkek/1371/13718/cikk-1371881/VL20150416_0478.jpg" length="489738" type="image/jpeg"/>
+   <description><![CDATA[Nem az aktuális főpolgármestert kell okolni a budapesti hajléktalanok helyzetéért.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Thu, 17 Nov 2016 19:35:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Fuldoklunk a mutyiban, de nem baj]]></title>
+   <link>http://mno.hu/belfold/fuldoklunk-a-mutyiban-de-nem-baj-1371696?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pilhál Tamás</author>
+   <enclosure url="http://mno.hu/data/cikkek/1371/13716/cikk-1371696/szb20150308_1202.jpg" length="127940" type="image/jpeg"/>
+   <description><![CDATA[Legalábbis így érzi a magyarok többsége. Korrupciófronton a fehéroroszokkal focizunk egy ligában.]]></description>
+   <category>Belföld</category>
+   <pubDate>Wed, 16 Nov 2016 12:02:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Portikra is életfogytiglant kérnek]]></title>
+   <link>http://mno.hu/belfold/portikra-is-eletfogytiglant-kernek-1370984?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pilhál Tamás</author>
+   <description><![CDATA[Legkésőbb februárban folytatódhat az Aranykéz utcai robbantás, illetve a Fenyő- és Cinóber-gyilkosság pere.]]></description>
+   <category>Belföld</category>
+   <pubDate>Fri, 11 Nov 2016 18:30:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ügynöközés miatt fizethet a Népszava]]></title>
+   <link>http://mno.hu/belfold/ugynokozes-miatt-fizethet-a-nepszava-1370913?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pilhál Tamás</author>
+   <enclosure url="http://mno.hu/data/cikkek/1370/13709/cikk-1370913/MP20100211_8025.jpg" length="158121" type="image/jpeg"/>
+   <description><![CDATA[Helybenhagyta a Népszavát elmarasztaló tavalyi elsőfokú ítéletet a Fővárosi Ítélőtábla.]]></description>
+   <category>Belföld</category>
+   <pubDate>Fri, 11 Nov 2016 12:47:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kiss Szilárd-ügy: vége a titkolózásnak]]></title>
+   <link>http://mno.hu/belfold/kiss-szilard-ugy-vege-a-titkolozasnak-1370576?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pilhál Tamás</author>
+   <description><![CDATA[Pert nyert Szél Bernadett, az LMP társelnöke a Külgazdasági és Külügyminisztérium ellen.]]></description>
+   <category>Belföld</category>
+   <pubDate>Wed, 09 Nov 2016 14:53:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Elutasították Mengyi Roland panaszait]]></title>
+   <link>http://mno.hu/bunugy_baleset/elutasitottak-mengyi-roland-panaszait-1370065?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pilhál Tamás</author>
+   <enclosure url="http://mno.hu/data/cikkek/1370/13700/cikk-1370065/_NBB4075.jpg" length="342388" type="image/jpeg"/>
+   <description><![CDATA[Az ügyészség a hatósági intézkedéseket megalapozottnak, jogszerűnek értékelte.]]></description>
+   <category>Bűnügy és baleset</category>
+   <pubDate>Sun, 06 Nov 2016 14:59:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Emlékezetpolitikai háborúk]]></title>
+   <link>http://mno.hu/velemeny/emlekezetpolitikai-haboruk-1369583?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pilhál Tamás</author>
+   <enclosure url="http://mno.hu/data/cikkek/1369/13695/cikk-1369583/HM20141017_216.jpg" length="846783" type="image/jpeg"/>
+   <description><![CDATA[Több mint három évtizeden át a Havas-féle hazugságokat hallgattuk.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Thu, 03 Nov 2016 10:30:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Új eljárás jöhet a Tátraiék elleni perben]]></title>
+   <link>http://mno.hu/belfold/uj-eljaras-johet-a-tatraiek-elleni-perben-1367918?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pilhál Tamás</author>
+   <enclosure url="http://mno.hu/data/cikkek/1367/13679/cikk-1367918/K_EPA20110209113.jpg" length="253600" type="image/jpeg"/>
+   <description><![CDATA[A vádhatóság szerint az elsőfokú bíróság téves következtetéseket vont le a bizonyítékokból. ]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 24 Oct 2016 07:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Egy meg nem ünnepelt évforduló]]></title>
+   <link>http://mno.hu/belfold/egy-meg-nem-unnepelt-evfordulo-1367724?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pilhál Tamás</author>
+   <enclosure url="http://mno.hu/data/cikkek/1367/13677/cikk-1367724/MP068533.jpg" length="455021" type="image/jpeg"/>
+   <description><![CDATA[Tíz éve kisebb felkeléssel emlékezett Magyarország az 1956-os forradalomra. Gyurcsány lemondását követelték.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sat, 22 Oct 2016 19:09:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Börtönbe záratnák Gyurcsányt]]></title>
+   <link>http://mno.hu/belfold/bortonbe-zaratnak-gyurcsanyt-1367658?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pilhál Tamás</author>
+   <description><![CDATA[Gaudi-Nagy Tamás szerint 2006 őszén népfelkelés volt. A rendőrterror felelőseinek elszámoltatását sürgetik a jogvédők. ]]></description>
+   <category>Belföld</category>
+   <pubDate>Fri, 21 Oct 2016 20:04:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Törvénytelen a Lukács-alapítvány]]></title>
+   <link>http://mno.hu/belfold/torvenytelen-a-lukacs-alapitvany-1367526?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pilhál Tamás</author>
+   <enclosure url="http://mno.hu/data/cikkek/1367/13675/cikk-1367526/MNO_D_TT20101206015.jpg" length="394076" type="image/jpeg"/>
+   <description><![CDATA[Ügyészségi ellenőrzés kezdődhet az egykori kommunista filozófusról elnevezett testület ügyében.]]></description>
+   <category>Belföld</category>
+   <pubDate>Fri, 21 Oct 2016 12:10:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szabadlábon Mengyi társai]]></title>
+   <link>http://mno.hu/belfold/szabadlabon-mengyi-tarsai-1367451?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pilhál Tamás</author>
+   <enclosure url="http://mno.hu/data/cikkek/1367/13674/cikk-1367451/D_TT20160608014x.jpg" length="438898" type="image/jpeg"/>
+   <description><![CDATA[A Voldemort-ügy gyanúsítottjai nincsenek letartóztatásban.]]></description>
+   <category>Belföld</category>
+   <pubDate>Fri, 21 Oct 2016 06:18:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Welt 2000-ügy: tovább nyomoz az adóhivatal]]></title>
+   <link>http://mno.hu/belfold/welt-2000-ugy-tovabb-nyomoz-az-adohivatal-1366968?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pilhál Tamás</author>
+   <enclosure url="http://mno.hu/data/cikkek/1366/13669/cikk-1366968/welt2000.jpg" length="266536" type="image/jpeg"/>
+   <description><![CDATA[Az adócsalás miatt folyó eljárásnak jelenleg nincs gyanúsítottja.]]></description>
+   <category>Belföld</category>
+   <pubDate>Tue, 18 Oct 2016 12:45:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ezrek tüntettek a Népszabadság mellett]]></title>
+   <link>http://mno.hu/belfold/ezrek-tuntettek-a-nepszabadsag-mellett-1366660?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pilhál Tamás</author>
+   <enclosure url="http://mno.hu/data/cikkek/1366/13666/cikk-1366660/szb20161016_8006.jpg" length="1684314" type="image/jpeg"/>
+   <description><![CDATA[Juhász Péter felszólította az embereket, hogy mindenhol, ahol Orbán Viktor megjelenik, fütyüljék ki.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sun, 16 Oct 2016 17:50:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Két panaszt tett a fideszes képviselő]]></title>
+   <link>http://mno.hu/belfold/ket-panaszt-tett-a-fideszes-kepviselo-1366165?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pilhál Tamás</author>
+   <enclosure url="http://mno.hu/data/cikkek/1366/13661/cikk-1366165/D_TT20160608014x.jpg" length="438898" type="image/jpeg"/>
+   <description><![CDATA[Nem csak a korrupciós bűncselekmények miatti meg­gyanúsítása ellen tett panaszt Mengyi Roland.]]></description>
+   <category>Belföld</category>
+   <pubDate>Thu, 13 Oct 2016 13:26:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Egy volt ÁVH-s furcsa emlékei]]></title>
+   <link>http://mno.hu/belfold/egy-volt-avh-s-furcsa-emlekei-1366008?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pilhál Tamás</author>
+   <enclosure url="http://mno.hu/data/cikkek/1366/13660/cikk-1366008/MNO_20161011-_NBB4237.jpg" length="405957" type="image/jpeg"/>
+   <description><![CDATA[Számos furcsasággal szolgált Kanyó András tegnapi könyvbemutatója. ]]></description>
+   <category>Belföld</category>
+   <pubDate>Wed, 12 Oct 2016 18:42:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Egymilliárdért vesz műsorokat a köztévé]]></title>
+   <link>http://mno.hu/belfold/egymilliardert-vesz-musorokat-a-kozteve-1365412?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pilhál Tamás</author>
+   <enclosure url="http://mno.hu/data/cikkek/1365/13654/cikk-1365412/TZIHZ20160303001.jpg" length="282392" type="image/jpeg"/>
+   <description><![CDATA[Egy hónappal ezelőtt föltett kérdéseinkre az MTVA csak most válaszolt. ]]></description>
+   <category>Belföld</category>
+   <pubDate>Sat, 08 Oct 2016 13:26:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Megzsarolt haza]]></title>
+   <link>http://mno.hu/velemeny/megzsarolt-haza-1364668?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pilhál Tamás</author>
+   <enclosure url="http://mno.hu/data/cikkek/1364/13646/cikk-1364668/img_0677_01.jpg" length="215807" type="image/jpeg"/>
+   <description><![CDATA[Emigrálással riogatta rajongóit egy Gyurcsány-párti képviselő.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Tue, 04 Oct 2016 19:13:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Még nem kizárt a magánéleti szál]]></title>
+   <link>http://mno.hu/belfold/meg-nem-kizart-a-maganeleti-szal-1364669?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pilhál Tamás, Szabó Dániel</author>
+   <enclosure url="http://mno.hu/data/cikkek/1364/13646/cikk-1364669/BA20160926_1839.jpg" length="710575" type="image/jpeg"/>
+   <description><![CDATA[Kihallgatták a Teréz körúti bombatámadás során megsérült rendőrnőt.]]></description>
+   <category>Belföld</category>
+   <pubDate>Tue, 04 Oct 2016 09:41:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[„Az elit a tőke szolgájává vált”]]></title>
+   <link>http://mno.hu/belfold/az-elit-a-toke-szolgajava-valt-1364452?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pilhál Tamás</author>
+   <enclosure url="http://mno.hu/data/cikkek/1364/13644/cikk-1364452/ronaszalon.jpg" length="550437" type="image/jpeg"/>
+   <description><![CDATA[Róna Péter és Hossó Andrea beszélgetésének fő témája Nagy-Britannia uniós kilépése és a migráció volt.]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 03 Oct 2016 19:55:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Békétlen visszacsatolások]]></title>
+   <link>http://mno.hu/velemeny/beketlen-visszacsatolasok-1363447?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pilhál Tamás</author>
+   <enclosure url="http://mno.hu/data/cikkek/1363/13634/cikk-1363447/olaszlesifotos.jpg" length="384627" type="image/jpeg"/>
+   <description><![CDATA[Politikai vitarendezés beszólásokkal, pofonokkal és importált paparazzókkal.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Mon, 26 Sep 2016 19:12:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Volt SZDSZ-es indul LMP-s színekben a polgármesteri székért]]></title>
+   <link>http://mno.hu/belfold/akkor-mar-elegge-kilogtam-a-partbol-1363142?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pilhál Tamás</author>
+   <enclosure url="http://mno.hu/data/cikkek/1363/13631/cikk-1363142/EA20070227_9389_896_504_1474661872.jpg" length="127767" type="image/jpeg"/>
+   <description><![CDATA[Kis Zoltánt két nappal azután rúgták ki egy állami cégtől, hogy kiderült, az ellenzéki párt jelöltje lesz.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sat, 24 Sep 2016 06:30:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Jogerősen is felmentették Gaudi-Nagyot]]></title>
+   <link>http://mno.hu/belfold/jogerosen-is-felmentettek-gaudi-nagyot-1363134?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pilhál Tamás</author>
+   <description><![CDATA[Az ügyészség szerint az ő beszédének hatására köpték le Pásztor Istvánt.]]></description>
+   <category>Belföld</category>
+   <pubDate>Fri, 23 Sep 2016 22:14:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[„Kapott egy tockost, de már bánom”]]></title>
+   <link>http://mno.hu/belfold/kapott-egy-tockost-de-mar-banom-1362948?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pilhál Tamás</author>
+   <enclosure url="http://mno.hu/data/cikkek/1362/13629/cikk-1362948/_D_4937.jpg" length="1108229" type="image/jpeg"/>
+   <description><![CDATA[Lapunknak nyilatkozott a férfi, aki inzultálta G. Fodor Gábort. Vajna kaszinóját ment megnézni a bevásárlóközpontba.]]></description>
+   <category>Belföld</category>
+   <pubDate>Fri, 23 Sep 2016 06:06:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Piackutatás volt, referencia nem]]></title>
+   <link>http://mno.hu/belfold/piackutatas-volt-referencia-nem-1361436?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pilhál Tamás</author>
+   <enclosure url="http://mno.hu/data/cikkek/1361/13614/cikk-1361436/MNO_MP20070412_8050.jpg" length="299251" type="image/jpeg"/>
+   <description><![CDATA[Újabb hőkamerákra írt ki tendert a rendőrség, az MSZP–SZDSZ-kormány rendeletére hivatkoznak.]]></description>
+   <category>Belföld</category>
+   <pubDate>Tue, 13 Sep 2016 12:32:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

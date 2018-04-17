@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Szakonyi Károly]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/szakonyi-karoly-17735</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Sat, 14 Apr 2018 03:11:49 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Mese a folyón]]></title>
+   <link>http://mno.hu/migr/mese-a-folyon-753858?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szakonyi Károly</author>
+   <description><![CDATA[<i>&#8222;Years and years and years ago, when<br/>you were a boy &#8211; what was Christmas like?&#8221;</i><br/>(Dylan Thomas)]]></description>
+   <category>Archívum</category>
+   <pubDate>Fri, 20 Dec 2002 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az ősi Somogy]]></title>
+   <link>http://mno.hu/migr_1834/az-osi-somogy-862860?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szakonyi Károly</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Sat, 24 Jun 2000 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Páskándi utca]]></title>
+   <link>http://mno.hu/migr_1834/paskandi-utca-861054?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szakonyi Károly</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Sat, 27 May 2000 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Sikeres emberek]]></title>
+   <link>http://mno.hu/migr_1834/sikeres-emberek-859180?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szakonyi Károly</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Sat, 29 Apr 2000 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Rekviem a nézőkért]]></title>
+   <link>http://mno.hu/sport/rekviem-a-nezokert-858856?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kő András, Szakonyi Károly</author>
+   <description><![CDATA[]]></description>
+   <category>Sport</category>
+   <pubDate>Sat, 22 Apr 2000 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szeged felkészült a tiszai árra]]></title>
+   <link>http://mno.hu/migr_1834/szeged-felkeszult-a-tiszai-arra-858863?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Jezsó-Bálint-MTI, Szakonyi Károly</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Sat, 22 Apr 2000 00:00:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Fehér Boldizsár]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/feher-boldizsar-3051</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Sun, 15 Apr 2018 00:01:31 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Dumaszvingház: zenében és humorban egyaránt rögtönöznek]]></title>
+   <link>http://mno.hu/grund/dumaszvinghaz-zeneben-es-humorban-egyarant-rogtonoznek-1145634?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Fehér Boldizsár</author>
+   <description><![CDATA[A dzsessz és a humor is ezerarcú műfaj, amelyet Kovács András Péter, Janklovics Péter és Illés Ferenc most összeházasított. Így született meg a jazz-up comedy.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Tue, 19 Mar 2013 12:55:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Vihar a hegyekben]]></title>
+   <link>http://mno.hu/grund/vihar-a-hegyekben-1032600?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Fehér Boldizsár</author>
+   <description><![CDATA[Bob Dylan és Mark Knopfler a Föld körül: a közös turné zürichi állomásán állva tapsolt a közönség.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Thu, 17 Nov 2011 14:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Majakovszkij élni fog?]]></title>
+   <link>http://mno.hu/grund/majakovszkij-elni-fog-1030191?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Fehér Boldizsár</author>
+   <description><![CDATA[Kristóf Attila első színdarabját a Budapesti Kamaraszínházban mutatták be Pozsgai Zsolt rendezésében.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Mon, 07 Nov 2011 14:35:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Farkasokkal üvöltő]]></title>
+   <link>http://mno.hu/migr_1834/farkasokkal-uvolto-875200?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Fehér Boldizsár</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 12 Jul 2011 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Erlendur a viharban]]></title>
+   <link>http://mno.hu/migr_1834/erlendur_a_viharban-184189?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Fehér Boldizsár</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 31 May 2011 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Sódervári báró nyomoz]]></title>
+   <link>http://mno.hu/migr_1834/sodervari_baro_nyomoz-162471?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Fehér Boldizsár</author>
+   <description><![CDATA[K Ö N Y V E S H Á Z]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 15 Feb 2011 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Aranka néni függőkertje]]></title>
+   <link>http://mno.hu/migr_1834/aranka_neni_fuggokertje-224799?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Fehér Boldizsár</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 14 Sep 2010 00:00:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

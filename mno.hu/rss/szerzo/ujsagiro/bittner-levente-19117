@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Bittner Levente]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/bittner-levente-19117</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Wed, 11 Apr 2018 10:56:16 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Bármiből lehet kormányhivatal, csak egy filc kell hozzá]]></title>
+   <link>http://mno.hu/belfold/barmibol-lehet-kormanyhivatal-csak-egy-filc-kell-hozza-2458098?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Bittner Levente</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24580/cikk-2458098/20180405_081639_896_504_1522924465.jpg" length="45221" type="image/jpeg"/>
+   <description><![CDATA[Igazán spórolós és igényes megoldás a Fehérvári úti vásárcsarnokból.]]></description>
+   <category>Belföld</category>
+   <pubDate>Thu, 05 Apr 2018 12:42:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A kampányhajrában újabb alapkövet tesznek le Felcsúton]]></title>
+   <link>http://mno.hu/koffein/a-kampanyhajraban-ujabb-alapkovet-tesznek-le-felcsuton-2457740?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Bittner Levente</author>
+   <enclosure url="http://mno.hu/data/cikkek/2457/24577/cikk-2457740/2_3bd.jpg" length="505556" type="image/jpeg"/>
+   <description><![CDATA[Ennek azonban valószínűleg nem fognak örülni Mészáros Lőrincék – íme, szerdai előzetesünk.]]></description>
+   <category>Koffein</category>
+   <pubDate>Wed, 04 Apr 2018 06:51:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Zár alá veszik a Tiborcz-vagyont, új szál kerül elő Kósa 1300 milliárdos ügyében]]></title>
+   <link>http://mno.hu/koffein/zar-ala-veszik-a-tiborcz-vagyont-uj-szal-kerul-elo-kosa-1300-milliardos-ugyeben-2457481?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Bittner Levente</author>
+   <enclosure url="http://mno.hu/data/cikkek/2457/24574/cikk-2457481/6lt0eRuIC1UKKeDjs.jpeg" length="77614" type="image/jpeg"/>
+   <description><![CDATA[Ellenzéki jelöltek léphetnek vissza, Gyurcsány Ferenc elárulja, hogyan bontaná le a NER-t – ez várható ma.]]></description>
+   <category>Koffein</category>
+   <pubDate>Tue, 03 Apr 2018 06:52:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Történelmi nap: egy fideszes képviselő olyat fog tenni, mint pártjából eddig senki]]></title>
+   <link>http://mno.hu/koffein/tortenelmi-nap-egy-fideszes-kepviselo-olyat-fog-tenni-mint-partjabol-eddig-senki-2456193?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Bittner Levente</author>
+   <enclosure url="http://mno.hu/data/cikkek/2456/24561/cikk-2456193/SZB20130521_6173.jpg" length="1316951" type="image/jpeg"/>
+   <description><![CDATA[Választási vita lesz Budapesten, Kövér Csengerre utazik, Kósát pedig Debrecenben keresik – ez várható ma.]]></description>
+   <category>Koffein</category>
+   <pubDate>Tue, 27 Mar 2018 06:51:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Németh Szilárd elmegy a határig]]></title>
+   <link>http://mno.hu/koffein/nemeth-szilard-elmegy-a-hatarig-2455929?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Bittner Levente</author>
+   <enclosure url="http://mno.hu/data/cikkek/2455/24559/cikk-2455929/20180221_NBB1886.JPG" length="328333" type="image/jpeg"/>
+   <description><![CDATA[A Fidesz csepeli öklének Röszkén lesz jelenése, Szabó Zsolt államtitkár utat ad át, Handó Tünde izgulhat – ez várható ma.]]></description>
+   <category>Koffein</category>
+   <pubDate>Mon, 26 Mar 2018 06:22:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Vajon Debrecenben utolérik az újságírók Kósa Lajost?]]></title>
+   <link>http://mno.hu/koffein/vajon-debrecenben-utolerik-az-ujsagirok-kosa-lajost-2454360?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Bittner Levente</author>
+   <enclosure url="http://mno.hu/data/cikkek/2454/24543/cikk-2454360/szb20170915_3839.jpg" length="180215" type="image/jpeg"/>
+   <description><![CDATA[Orbán Viktor Tiszaújvárosban, Georges Leekens Telkiben lesz, Vona Széllel találkozik – ez várható ma.]]></description>
+   <category>Koffein</category>
+   <pubDate>Mon, 19 Mar 2018 06:51:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Németh Szilárd kiteríti a kártyáit, felvonulnak a fideszes nagyágyúk]]></title>
+   <link>http://mno.hu/koffein/nemeth-szilard-kiteriti-a-kartyait-felvonulnak-a-fideszes-nagyagyuk-2453262?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Bittner Levente</author>
+   <enclosure url="http://mno.hu/data/cikkek/2453/24532/cikk-2453262/CM9R8496.jpg" length="88759" type="image/jpeg"/>
+   <description><![CDATA[Leteszik a csepeli birkózóakadémia alapkövét, Bayer Zsolték nemzetközi sajtótájékoztatót tartanak – ez várható ma.]]></description>
+   <category>Koffein</category>
+   <pubDate>Tue, 13 Mar 2018 06:33:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Orbán Viktort hiába hívták, de az ellenfelei elmennek a diákokhoz]]></title>
+   <link>http://mno.hu/koffein/orban-viktort-hiaba-hivtak-de-az-ellenfelei-elmennek-a-diakokhoz-2452997?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Bittner Levente</author>
+   <enclosure url="http://mno.hu/data/cikkek/2452/24529/cikk-2452997/20180131_NBB5020.JPG" length="376611" type="image/jpeg"/>
+   <description><![CDATA[Miniszterelnök-jelölti vitát rendez a Független Diákparlament, a kormányfő inkább Nyírbátorba megy – ez várható ma.]]></description>
+   <category>Koffein</category>
+   <pubDate>Mon, 12 Mar 2018 06:25:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Mit mondana Orbán Viktor Tiborcz Istvánról és Mátyás király Kövér Lászlóról?]]></title>
+   <link>http://mno.hu/koffein/mit-mondana-orban-viktor-tiborcz-istvanrol-es-matyas-kiraly-kover-laszlorol-2451938?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Bittner Levente</author>
+   <enclosure url="http://mno.hu/data/cikkek/2451/24519/cikk-2451938/tiborcz_istvan.jpg" length="390132" type="image/jpeg"/>
+   <description><![CDATA[Ülésezik a vőbotrányt feltáró ellenzéki árnyék-vizsgálóbizottság, Kósa Lajos Zalaegerszegre megy – összegyűjtöttük, hogy mi várható ma.]]></description>
+   <category>Koffein</category>
+   <pubDate>Wed, 07 Mar 2018 06:25:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Eldől, hogy kik indulhatnak az országgyűlési választáson]]></title>
+   <link>http://mno.hu/koffein/eldol-hogy-kik-indulhatnak-az-orszaggyulesi-valasztason-2451412?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Bittner Levente</author>
+   <enclosure url="http://mno.hu/data/cikkek/2451/24514/cikk-2451412/D_AS20140320008.JPG" length="299241" type="image/jpeg"/>
+   <description><![CDATA[Az is kiderül, hogy mire jutottak a kamupártok, döntenek Czeglédy Csabáról – ez várható ma.]]></description>
+   <category>Koffein</category>
+   <pubDate>Mon, 05 Mar 2018 06:20:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Mráz Ágoston Sámuel: Nem Orbán Viktor ellen szavaztak]]></title>
+   <link>http://mno.hu/belfold/mraz-agoston-samuel-nem-orban-viktor-ellen-szavaztak-2449846?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Bittner Levente</author>
+   <enclosure url="http://mno.hu/data/cikkek/2449/24498/cikk-2449846/NBB_20160325_7949.JPG" length="208763" type="image/jpeg"/>
+   <description><![CDATA[A kormányközeli Nézőpont Intézet vezetője öt pontba szedett villámértékelést készített a vásárhelyi időközi után.]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 26 Feb 2018 00:17:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A kormánypárti sajtó szerint nem történt semmi érdekes Vásárhelyen]]></title>
+   <link>http://mno.hu/belfold/a-kormanyparti-sajto-szerint-nem-tortent-semmi-erdekes-vasarhelyen-2449844?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Bittner Levente</author>
+   <enclosure url="http://mno.hu/data/cikkek/2449/24498/cikk-2449844/BA_05164.JPG" length="321730" type="image/jpeg"/>
+   <description><![CDATA[Ne szólj szám, nem fáj fejem?]]></description>
+   <category>Belföld</category>
+   <pubDate>Sun, 25 Feb 2018 23:47:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Vajon meghallja-e Orbán Viktor Brüsszelben a tüntető diákok hangját?]]></title>
+   <link>http://mno.hu/koffein/vajon-meghallja-e-orban-viktor-brusszelben-a-tunteto-diakok-hangjat-2449287?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Bittner Levente</author>
+   <enclosure url="http://mno.hu/data/cikkek/2449/24492/cikk-2449287/_NBB5107.jpg" length="323943" type="image/jpeg"/>
+   <description><![CDATA[Kommunisták, kopaszok, EU-csúcs, demonstráció az oktatási rendszerváltásért – ez várható ma.]]></description>
+   <category>Koffein</category>
+   <pubDate>Fri, 23 Feb 2018 06:28:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Németh Szilárd Csepelen, Soros György a Parlamentben]]></title>
+   <link>http://mno.hu/koffein/nemeth-szilard-csepelen-soros-gyorgy-a-parlamentben-2448518?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Bittner Levente</author>
+   <enclosure url="http://mno.hu/data/cikkek/2448/24485/cikk-2448518/000_QD0L6.jpg" length="436439" type="image/jpeg"/>
+   <description><![CDATA[Elkezdődik a Stop, Soros! törvényjavaslat vitája, Budaházy újra bíróság elé áll – ez várható ma.]]></description>
+   <category>Koffein</category>
+   <pubDate>Tue, 20 Feb 2018 06:24:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kiderül, hogy mennyire fontosak a Fidesznek a bajba jutott családok]]></title>
+   <link>http://mno.hu/koffein/kiderul-hogy-mennyire-fontosak-a-fidesznek-a-bajba-jutott-csaladok-2448228?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Bittner Levente</author>
+   <enclosure url="http://mno.hu/data/cikkek/2448/24482/cikk-2448228/BD_3760.jpg" length="412476" type="image/jpeg"/>
+   <description><![CDATA[Hivatalosan is kezdetét vette a választási kampány, szigorodhatnak a kilakoltatások – ez várható ma.]]></description>
+   <category>Koffein</category>
+   <pubDate>Mon, 19 Feb 2018 06:29:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Mi köze Orbán Viktor vejének Kalocsához? – ez is kiderülhet ma]]></title>
+   <link>http://mno.hu/koffein/mi-koze-orban-viktor-vejenek-kalocsahoz-ez-is-kiderulhet-ma-2447686?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Bittner Levente</author>
+   <enclosure url="http://mno.hu/data/cikkek/2447/24476/cikk-2447686/szb20160228_5573_a.jpg" length="139863" type="image/jpeg"/>
+   <description><![CDATA[A hét utolsó munkanapja is elérkezett, nézzük, mi vár ránk!]]></description>
+   <category>Koffein</category>
+   <pubDate>Fri, 16 Feb 2018 06:35:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Németh Szilárdot sem hagyja hidegen a Valentin-nap]]></title>
+   <link>http://mno.hu/koffein/nemeth-szilardot-sem-hagyja-hidegen-a-valentin-nap-2447139?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Bittner Levente</author>
+   <enclosure url="http://mno.hu/data/cikkek/2447/24471/cikk-2447139/SZB20170531_2310.jpg" length="265607" type="image/jpeg"/>
+   <description><![CDATA[Hamvazószerda és Bálint-nap, Tiborcz és a devizaadósok – ez várható ma.]]></description>
+   <category>Koffein</category>
+   <pubDate>Wed, 14 Feb 2018 06:25:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A baloldali összefogás napja lesz a mai]]></title>
+   <link>http://mno.hu/koffein/a-baloldali-osszefogas-napja-lesz-a-mai-2445016?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Bittner Levente</author>
+   <enclosure url="http://mno.hu/data/cikkek/2445/24450/cikk-2445016/BA_07189.JPG" length="203489" type="image/jpeg"/>
+   <description><![CDATA[A 3-as metró akadálymentesítése és az Oktatási minimum hozza össze őket. No, de nézzük, mi vár ránk a hét első napján.]]></description>
+   <category>Koffein</category>
+   <pubDate>Mon, 05 Feb 2018 06:28:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Igazi nagyágyúk érkeznek Hódmezővásárhelyre]]></title>
+   <link>http://mno.hu/koffein/igazi-nagyagyuk-erkeznek-hodmezovasarhelyre-2443402?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Bittner Levente</author>
+   <enclosure url="http://mno.hu/data/cikkek/2443/24434/cikk-2443402/DMOHA20170427006.jpg" length="302653" type="image/jpeg"/>
+   <description><![CDATA[Folytatódik Kósa Lajos országjárása, Lázár János hazautazik, Izrael egy nap alatt két nagyhatalommal is egyeztet. Ez várható ma.]]></description>
+   <category>Koffein</category>
+   <pubDate>Mon, 29 Jan 2018 06:24:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ma foglalhat először állást a magyar külügy a kényes kérdésben]]></title>
+   <link>http://mno.hu/koffein/ma-foglalhat-eloszor-allast-a-magyar-kulugy-a-kenyes-kerdesben-2441800?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Bittner Levente</author>
+   <enclosure url="http://mno.hu/data/cikkek/2441/24418/cikk-2441800/000_UW09M.jpg" length="249914" type="image/jpeg"/>
+   <description><![CDATA[Ma van a magyar kultúra napja, de persze a politikusok sem alszanak. Nézzük, mi vár ránk!]]></description>
+   <category>Koffein</category>
+   <pubDate>Mon, 22 Jan 2018 06:20:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[1300 menekült: mindenki arra vár, mikor szólal meg Orbán Viktor]]></title>
+   <link>http://mno.hu/koffein/1300-menekult-mindenki-arra-var-mikor-szolal-meg-orban-viktor-2440749?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Bittner Levente</author>
+   <enclosure url="http://mno.hu/data/cikkek/2440/24407/cikk-2440749/x20170410_NBB1001.jpg" length="934639" type="image/jpeg"/>
+   <description><![CDATA[Sorsdöntő meccs a kézi-Eb-n, tovább gyűrűző katalán válság – ezúttal is összegyűjtöttük a nap várható eseményeit.]]></description>
+   <category>Koffein</category>
+   <pubDate>Wed, 17 Jan 2018 06:23:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A következő lépés Kim Dzsongun és Donald Trump telefonbeszélgetése lesz?]]></title>
+   <link>http://mno.hu/koffein/a-kovetkezo-lepes-kim-dzsongun-es-donald-trump-telefonbeszelgetese-lesz-2438796?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Bittner Levente</author>
+   <enclosure url="http://mno.hu/data/cikkek/2438/24387/cikk-2438796/000_JF3QQ.jpg" length="190777" type="image/jpeg"/>
+   <description><![CDATA[Nézzük, mi vár ránk ma!]]></description>
+   <category>Koffein</category>
+   <pubDate>Tue, 09 Jan 2018 06:25:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Tizenegy korábbi kormánytag próbálja megállítani Orbán Viktort]]></title>
+   <link>http://mno.hu/koffein/tizenegy-korabbi-kormanytag-probalja-megallitani-orban-viktort-2437491?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Bittner Levente</author>
+   <enclosure url="http://mno.hu/data/cikkek/2437/24374/cikk-2437491/NBB_20170210_4545.jpg" length="534218" type="image/jpeg"/>
+   <description><![CDATA[Színre lép a „Válasszunk! 2018” csoport, Budapesten találkozik a magyar és a lengyel kormányfő – ez várható szerdán.]]></description>
+   <category>Koffein</category>
+   <pubDate>Wed, 03 Jan 2018 06:23:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az MLSZ szerint egyetlen kapitány sem keresett havi 10 milliónál többet]]></title>
+   <link>http://mno.hu/foci/az-mlsz-szerint-egyetlen-kapitany-sem-keresett-havi-10-millional-tobbet-2436631?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Bittner Levente</author>
+   <enclosure url="http://mno.hu/data/cikkek/2436/24366/cikk-2436631/storck1-2.jpg" length="943975" type="image/jpeg"/>
+   <description><![CDATA[Bernd Storck ugyanakkor több okból is további milliókhoz juthatott.]]></description>
+   <category>90 perc</category>
+   <pubDate>Thu, 28 Dec 2017 17:31:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Közelebb kerül Debrecen Moszkvához]]></title>
+   <link>http://mno.hu/koffein/kozelebb-kerul-debrecen-moszkvahoz-2434561?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Bittner Levente</author>
+   <enclosure url="http://mno.hu/data/cikkek/2434/24345/cikk-2434561/D_MTZ20171031053.jpg" length="249852" type="image/jpeg"/>
+   <description><![CDATA[Pécs után Debrecen a soros, programot hirdet az MSZP, folytatódik a Vona18 – ez várható hétfőn.]]></description>
+   <category>Koffein</category>
+   <pubDate>Mon, 18 Dec 2017 06:20:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Bíróság előtt vizsgázik a sorosozó nemzeti konzultáció]]></title>
+   <link>http://mno.hu/koffein/birosag-elott-vizsgazik-a-sorosozo-nemzeti-konzultacio-2433527?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Bittner Levente</author>
+   <enclosure url="http://mno.hu/data/cikkek/2433/24335/cikk-2433527/BA_08648.jpg" length="408047" type="image/jpeg"/>
+   <description><![CDATA[Szijjártó Péter meghallgatása, magyar úszósikerek, Helsinki Bizottság kontra Miniszterelnöki Kabinetiroda – ez várható ma.]]></description>
+   <category>Koffein</category>
+   <pubDate>Wed, 13 Dec 2017 06:27:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Rogán Antaltól Háry Jánosig: ez vár ránk ma]]></title>
+   <link>http://mno.hu/koffein/rogan-antaltol-hary-janosig-ez-var-rank-ma-2433034?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Bittner Levente</author>
+   <enclosure url="http://mno.hu/data/cikkek/2433/24330/cikk-2433034/BA20161027_8554.jpg" length="1500894" type="image/jpeg"/>
+   <description><![CDATA[Miniszteri meghallgatások, vörösiszapper, Mátyás király emlékév, felújított magyar rajzfilm – íme a hétfői étlap.]]></description>
+   <category>Koffein</category>
+   <pubDate>Mon, 11 Dec 2017 06:21:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A nap, amikor minden kiderülhet Soros Györgyről]]></title>
+   <link>http://mno.hu/koffein/a-nap-amikor-minden-kiderulhet-soros-gyorgyrol-2432323?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Bittner Levente</author>
+   <enclosure url="http://mno.hu/data/cikkek/2432/24323/cikk-2432323/000_Was4276510.jpg" length="165268" type="image/jpeg"/>
+   <description><![CDATA[A magyar jogállamiság lesz a téma Brüsszelben, ajándékot oszt a mulatósherceg, átadják az Aranylabdát. Csütörtöki ajánlónk.]]></description>
+   <category>Koffein</category>
+   <pubDate>Thu, 07 Dec 2017 06:21:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ma kiderül, mivel állnak elő Schmidt Máriáék]]></title>
+   <link>http://mno.hu/koffein/ma-kiderul-mivel-allnak-elo-schmidt-mariaek-2429404?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Bittner Levente</author>
+   <enclosure url="http://mno.hu/data/cikkek/2429/24294/cikk-2429404/HM20150707_008.jpg" length="237088" type="image/jpeg"/>
+   <description><![CDATA[Dózsa László-ügy, lúgos per, Erzsébet-utalványok, népesedés – ez várható csütörtökön.]]></description>
+   <category>Koffein</category>
+   <pubDate>Thu, 23 Nov 2017 06:19:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Budai Gyula: Komcsi az összes bíró]]></title>
+   <link>http://mno.hu/belfold/budai-gyula-komcsi-az-osszes-biro-2429113?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Bittner Levente</author>
+   <enclosure url="http://mno.hu/data/cikkek/2429/24291/cikk-2429113/NBB_20170425_7170.jpg" length="283491" type="image/jpeg"/>
+   <description><![CDATA[Te gyökér! – mondta az egykori elszámoltatási kormánybiztos Bárándy Gergelynek címezve.]]></description>
+   <category>Belföld</category>
+   <pubDate>Tue, 21 Nov 2017 19:40:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

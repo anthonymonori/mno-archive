@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Gion Nándor]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/gion-nandor-19419</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 13:48:30 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Az író mindenhez ért, ismeri az egész világot, és mindenről tud írni]]></title>
+   <link>http://mno.hu/2percproza/gion-nandor-az-iro-mindenhez-ert-ismeri-az-egesz-vilagot-es-mindenrol-tud-irni-2414562?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Gion Nándor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2414/24145/cikk-2414562/C_TO19950120027x.jpg" length="434389" type="image/jpeg"/>
+   <description><![CDATA[Tizenöt éve hunyt el nagy írónk. Gépiratból közöljük korábban publikálatlan írását.]]></description>
+   <category>2 perc próza</category>
+   <pubDate>Mon, 28 Aug 2017 19:25:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Focira kalkulálva]]></title>
+   <link>http://mno.hu/konyveshaz/focira-kalkulalva-1349175?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Gion Nándor</author>
+   <enclosure url="http://mno.hu/data/cikkek/1349/13491/cikk-1349175/fortepan_22086a.jpg" length="530068" type="image/jpeg"/>
+   <description><![CDATA[„Kaptam egy jó labdát valahol a pálya közepén, megcéloztam a kaput, és belőttem.” Gion Nándor írása.]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Sat, 02 Jul 2016 08:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Aranyat talált]]></title>
+   <link>http://mno.hu/migr/aranyat-talalt-769255?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Gion Nándor</author>
+   <description><![CDATA[&#8211; A fejem felett húzták meg a határokat. Engem nem kérdeztek. De ha már idecsatoltak a gyönyörű Jugoszláviához&#8230;<br/>&#8211; Ezt a gyönyörű országot maga nemigen szereti.<br/>&#8211; Vannak itt emberek, akiket kifejezetten kedvelek. Elég sokan vannak.<br/>&#8211; Miattuk a veszélyeket is felvállalja?<br/>&#8211; Nem csak miattuk &#8211; mondtam. &#8211; Megfizetnek a munkámért. És ha megfizetnek, igyekszem jól dolgozni.]]></description>
+   <category>Archívum</category>
+   <pubDate>Fri, 06 Sep 2002 08:00:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

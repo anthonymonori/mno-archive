@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Székely Gergely]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/szekely-gergely-13375</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 13:20:58 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Úgy tűnik, nincs félnivalója az ukrán kormányfőnek]]></title>
+   <link>http://mno.hu/kulfold/ugy-tunik-nincs-felnivaloja-az-ukran-kormanyfonek-2401393?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Székely Gergely</author>
+   <enclosure url="http://mno.hu/data/cikkek/2401/24013/cikk-2401393/043_dpa_pa_170525_99_595080_dpai.jpg" length="234968" type="image/jpeg"/>
+   <description><![CDATA[Hrojszman első éve alatt nőtt a minimálbér, de a korrupció nem csökkent. Júniusban várható évértékelő.]]></description>
+   <category>Külföld</category>
+   <pubDate>Wed, 31 May 2017 19:20:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A kákán is csomót keresnek Kárpátalján?]]></title>
+   <link>http://mno.hu/hatarontul/a-kakan-is-csomot-keresnek-karpataljan-2400900?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Székely Gergely</author>
+   <description><![CDATA[Az oroszokat sejtik a szeparatizmust sugalló, provokatív, a magyarlakta területek határára kikerülő táblák mögött.]]></description>
+   <category>Határon túl</category>
+   <pubDate>Sun, 28 May 2017 21:20:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az ukrán frontról hazatérők gyilkolni is megtanultak]]></title>
+   <link>http://mno.hu/kulfold/az-ukran-frontrol-hazaterok-gyilkolni-is-megtanultak-2395883?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Székely Gergely</author>
+   <enclosure url="http://mno.hu/data/cikkek/2395/23958/cikk-2395883/ukran_gyilok.jpg" length="232975" type="image/jpeg"/>
+   <description><![CDATA[Telített a piac: a háború előtt egy bérgyilkos bére 50-200 ezer dollár volt, ma már kevesebbel is beérik.]]></description>
+   <category>Külföld</category>
+   <pubDate>Mon, 24 Apr 2017 16:55:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ukrajna egy fül nélküli bőrönd]]></title>
+   <link>http://mno.hu/kulfold/ukrajna-egy-ful-nelkuli-borond-2393220?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Székely Gergely</author>
+   <enclosure url="http://mno.hu/data/cikkek/2393/23932/cikk-2393220/000_N58PJ.jpg" length="568488" type="image/jpeg"/>
+   <description><![CDATA[Európa belefásult a sehova nem vezető tárgyalásokba, az Egyesült Államoknak nincs ínyére átvenni a terhet.]]></description>
+   <category>Külföld</category>
+   <pubDate>Thu, 06 Apr 2017 09:19:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Egyik szemünk sír, a másik nevet Kárpátalján]]></title>
+   <link>http://mno.hu/hatarontul/egyik-szemunk-sir-a-masik-nevet-karpataljan-1385477?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Székely Gergely</author>
+   <enclosure url="http://mno.hu/data/cikkek/1385/13854/cikk-1385477/SZB20110516_7574.jpg" length="1367235" type="image/jpeg"/>
+   <description><![CDATA[Az új nyelvtörvénnyel az ukránon kívül minden más, köztük a magyar nyelv használatát is betiltanák.]]></description>
+   <category>Határon túl</category>
+   <pubDate>Sat, 11 Feb 2017 12:52:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ukrajnában semmi nem az, aminek látszik]]></title>
+   <link>http://mno.hu/kulfold/ukrajnaban-semmi-nem-az-aminek-latszik-1379685?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Székely Gergely</author>
+   <enclosure url="http://mno.hu/data/cikkek/1379/13796/cikk-1379685/MNO_10_1afp.jpg" length="590437" type="image/jpeg"/>
+   <description><![CDATA[A szétcsúszó társadalomban vészesen növekszik a nyugtalanság, a pesszimizmus és a kiszolgáltatottság érzése.]]></description>
+   <category>Külföld</category>
+   <pubDate>Thu, 05 Jan 2017 15:12:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Senkinek sem érdeke az orosz–ukrán vita]]></title>
+   <link>http://mno.hu/kulfold/senkinek-sem-erdeke-az-oroszukran-vita-1356664?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Székely Gergely, Stier Gábor</author>
+   <description><![CDATA[Tovább éleződik a feszültség Moszkva és Kijev között.]]></description>
+   <category>Külföld</category>
+   <pubDate>Sat, 13 Aug 2016 14:25:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nagytakarítás: Agymosás zajlik Ukrajnában?]]></title>
+   <link>http://mno.hu/kulfold/a-multat-vegkepp-eltorolnek-1347266?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Székely Gergely</author>
+   <enclosure url="http://mno.hu/data/cikkek/1347/13472/cikk-1347266/MNO_068_AA_29092014_462.jpg" length="329115" type="image/jpeg"/>
+   <description><![CDATA[Agymosás, egyszerű névtáblacsere vagy új identitásépítés zajlik Ukrajnában?]]></description>
+   <category>Külföld</category>
+   <pubDate>Wed, 15 Jun 2016 19:12:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Reménytelen harc a cigarettacsempészettel]]></title>
+   <link>http://mno.hu/kulfold/remenytelen-harc-a-cigarettacsempeszettel-1341601?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Székely Gergely</author>
+   <enclosure url="http://mno.hu/data/cikkek/1341/13416/cikk-1341601/D_ATI20121215002.jpg" length="488912" type="image/jpeg"/>
+   <description><![CDATA[Hennagyij Moszkal megelégelte, hogy Kárpátalját háttéralkuk és kísérletek gyakorlóterének tekintsék.]]></description>
+   <category>Külföld</category>
+   <pubDate>Tue, 10 May 2016 13:39:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szegénység: milliókat ítéltek halálra]]></title>
+   <link>http://mno.hu/kulfold/elszegenyedes-ukrajnaban-1334272?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Székely Gergely</author>
+   <enclosure url="http://mno.hu/data/cikkek/1334/13342/cikk-1334272/MNO_075_teixeira-notitle151013_npXxS.jpg" length="141641" type="image/jpeg"/>
+   <description><![CDATA[Tíz kamaszból legfeljebb hat-hétnek van esélye arra, hogy megéri a hatvan évet.]]></description>
+   <category>Külföld</category>
+   <pubDate>Wed, 23 Mar 2016 19:19:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hadat üzent az ivászatnak az ukrán sereg]]></title>
+   <link>http://mno.hu/kulfold/hadat-uzent-az-ivaszatnak-az-ukran-sereg-1319703?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Székely Gergely</author>
+   <enclosure url="http://mno.hu/data/cikkek/1319/13197/cikk-1319703/MNO_RTX1A5V6_grid2_fekvo_lead.jpg" length="94938" type="image/jpeg"/>
+   <description><![CDATA[A tisztek megregulázásával kezdik a rendteremtő akciót. Már meg is történtek az első elbocsátások.]]></description>
+   <category>Külföld</category>
+   <pubDate>Fri, 18 Dec 2015 07:37:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Tűzijátékra készülnek vasárnap Ukrajnában]]></title>
+   <link>http://mno.hu/kulfold/tuzijatekra-keszulnek-vasarnap-ukrajnaban-1310571?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Székely Gergely</author>
+   <enclosure url="http://mno.hu/data/cikkek/1310/13105/cikk-1310571/ukran_valasztas_uj_fekvo_lead.jpg" length="68572" type="image/jpeg"/>
+   <description><![CDATA[Több mint százezer rendfenntartót vetnek be vasárnap Ukrajnában az önkormányzati választások ideje alatt.]]></description>
+   <category>Külföld</category>
+   <pubDate>Fri, 23 Oct 2015 20:15:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nagyipari méretekben zajlik a csempészet]]></title>
+   <link>http://mno.hu/kulfold/csempeszek-viragkora-kelet-ukrajnaban-1299839?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Székely Gergely</author>
+   <description><![CDATA[Százmilliókat kaszálnak naponta a háború vámszedői. Bedrogozott idősekkel játsszák ki az ellenőrző pontokat.]]></description>
+   <category>Külföld</category>
+   <pubDate>Thu, 13 Aug 2015 18:30:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Janukovics harcba száll]]></title>
+   <link>http://mno.hu/migr_1834/janukovics-harcba-szall-880363?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Székely Gergely</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Thu, 15 Sep 2011 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Moszkvai hang: Janukovics igazi áruló]]></title>
+   <link>http://mno.hu/migr_1834/moszkvai-hang-janukovics-igazi-arulo-877321?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Székely Gergely</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 13 Sep 2011 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kucsmára vallott a gyilkos]]></title>
+   <link>http://mno.hu/migr_1834/kucsmara-vallott-a-gyilkos-878553?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Székely Gergely</author>
+   <description><![CDATA[A tizenegy éve eltűnt ellenzéki újságíró, Georgij Gongadze meggyilkolása  ügyében folyó tárgyalás tegnapi ülésnapján a vádlottak padján ülő  Olekszij Pukacs megnevezte megbízóit. Ezzel együtt az egykori belügyi  tábornok közölte azt is, a gyilkosságot a haza megmentése érdekében  követte el.]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Sun, 11 Sep 2011 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Megcsúfolták a magyar emlékművet]]></title>
+   <link>http://mno.hu/migr_1834/megcsufoltak-a-magyar-emlekmuvet-883491?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Székely Gergely</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Mon, 05 Sep 2011 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Múlt és jelen között a senki földjén]]></title>
+   <link>http://mno.hu/migr_1834/mult-es-jelen-kozott-a-senki-foldjen-883658?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Székely Gergely</author>
+   <description><![CDATA[Húsz éve nyerte el függetlenségét Ukrajna, ám két évtized is kevés volt  ahhoz, hogy megtalálja helyét a világban, és ráleljen a töretlen  fejlődés útjára, mi több, mind a mai napig tisztázatlan saját  létezésének a lényege is. Így foglalható össze egy mondatban az  évforduló alkalmából megjelent elemzések, nyilatkozatok legfőbb  mondanivalója.]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Sun, 04 Sep 2011 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Túszejtés a gyorsvonaton]]></title>
+   <link>http://mno.hu/migr_1834/tuszejtes-a-gyorsvonaton-884623?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Székely Gergely</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Fri, 02 Sep 2011 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Útlevél a külföldön élő ukránoknak?]]></title>
+   <link>http://mno.hu/migr_1834/utlevel-a-kulfoldon-elo-ukranoknak-884895?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Székely Gergely</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Thu, 01 Sep 2011 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Timosenko ellen vallott Juscsenko]]></title>
+   <link>http://mno.hu/migr_1834/timosenko-ellen-vallott-juscsenko-885185?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Székely Gergely</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Sun, 28 Aug 2011 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Bűnözők országának tartják Ukrajnát]]></title>
+   <link>http://mno.hu/migr_1834/bunozok-orszaganak-tartjak-ukrajnat-885601?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Székely Gergely</author>
+   <description><![CDATA[Két évtizede vált függetlenné Ukrajna, ám az ország jövőjét, fejlődési irányvonalát illetően ma sincs egység az ukránok körében. A lakosság fele az európai integrációban, a másik fele viszont az egykori szovjet birodalomhoz hasonló államforma létrehozásában reménykedik. Egyvalamiben azonban szinte teljes az egyetértés az ukránok között: nem bíznak sem az államban, sem a politikusokban. Szerintük ugyanis a jelenlegi áldatlan állapotok kialakulásáért egyformán felelősek mindazok a politikai erők, amelyek az eltelt húsz évben a hatalmat gyakorolták.]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Fri, 26 Aug 2011 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Orosz–ukránborúlátás csúcs után]]></title>
+   <link>http://mno.hu/migr_1834/orosz–ukranborulatas-csucs-utan-885924?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Székely Gergely</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 23 Aug 2011 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kettős állampolgár Kijev élén]]></title>
+   <link>http://mno.hu/migr_1834/kettos-allampolgar-kijev-elen-886146?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Székely Gergely</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Mon, 22 Aug 2011 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Célkeresztben a sátortábor ]]></title>
+   <link>http://mno.hu/migr_1834/celkeresztben-a-satortabor-886233?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Székely Gergely</author>
+   <description><![CDATA[Szerdán reggel a rendőrség a Julija Timosenko elleni bíróság eljárás  megkezdése előtt már nem csupán a bíróság épületét zárta körül, hanem  környező utcákat is ellenőrzése alá vonta, jóllehet egyelőre semmi jelét  nem lehet látni annak, hogy a fokozott biztonsági intézkedésekre  szükség lenne. A Timosenko támogatására megjelent parlamenti képviselők  szerint a rendőrök minden bizonnyal a Hrescsatikon felállított mintegy  harminc sátor lebontására és a bennük éjszakázó tüntetők szétzavarására  készül.]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Sun, 21 Aug 2011 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Fogdában Timosenko, csapdában Janukovics]]></title>
+   <link>http://mno.hu/migr_1834/fogdaban-timosenko-csapdaban-janukovics-878102?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Székely Gergely</author>
+   <description><![CDATA[Washington másodszor is arra szólította fel Kijevet, hogy haladéktalanul bocsássa szabadon Julija Timosenkót. Az Egyesült Államok megismételte, hogy a volt miniszterelnök letartóztatása megannyi kérdést vet fel az ukrajnai jogalkalmazással kapcsolatban, s mind erősebbé válik az a vélemény, amely szerint az eljárásban az ukrán hatalmat politikai szempontok motiválják.]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Sat, 20 Aug 2011 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Aggódik a világ Timosenko miatt]]></title>
+   <link>http://mno.hu/migr_1834/aggodik-a-vilag-timosenko-miatt-886486?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Székely Gergely</author>
+   <description><![CDATA[Felbolydult méhkashoz hasonlított tegnap Kijev főutcája, ahol is a Julija Timosenko őrizetbe vételét elrendelő bíróság előtt a politikus asszony hívei mintegy harminc sátrat állítottak fel, közölve, hogy mindaddig maradnak, amíg vezetőjüket a hatóságok szabadon nem engedik. A kijevi fellebbviteli bíróság ugyan betiltott mindennemű tiltakozó megmozdulást a főváros központjában, de a törvényszék és fogház épületét körülvevő kommandósok nem kaptak parancsot a tiltakozók szétzavarására.]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Thu, 18 Aug 2011 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Őrizetbe vették Timosenkót]]></title>
+   <link>http://mno.hu/migr_1834/orizetbe-vettek-timosenkot-886623?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Székely Gergely</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 16 Aug 2011 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Tömeges ukrán amnesztia]]></title>
+   <link>http://mno.hu/migr_1834/tomeges-ukran-amnesztia-886636?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Székely Gergely</author>
+   <description><![CDATA[Az ukrán börtönökben fogva tartott 157 ezer ember közül 13 ezer nyeri vissza szabadságát az elkövetkező három hónapban. Az ország függetlenné válása óta eltelt két évtized alatt ez már a tizenhetedik, de minden korábbinál szélesebb körű amnesztia.]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 16 Aug 2011 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Gyásznap Ukrajnában]]></title>
+   <link>http://mno.hu/migr_1834/gyasznap-ukrajnaban-878740?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Székely Gergely</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Thu, 11 Aug 2011 00:00:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

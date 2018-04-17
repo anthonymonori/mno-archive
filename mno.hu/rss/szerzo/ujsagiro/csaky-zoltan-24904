@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Csáky Zoltán]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/csaky-zoltan-24904</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Sat, 14 Apr 2018 21:00:55 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA['56-os magyar focicsapat Macedóniában]]></title>
+   <link>http://mno.hu/hetvegimagazin/56-os-magyar-focicsapat-macedoniaban-1356477?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Csáky Zoltán</author>
+   <enclosure url="http://mno.hu/data/cikkek/1356/13564/cikk-1356477/2014-08-09_12.29.16_grid2_fekvo_lead.jpg" length="60532" type="image/jpeg"/>
+   <description><![CDATA[Mindmáig szeretettel emlékeznek az ötvenhatos magyar menekültekre Macedóniában.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Sun, 14 Aug 2016 19:50:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

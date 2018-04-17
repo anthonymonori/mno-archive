@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Szathmáry István]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/szathmary-istvan-18932</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 15:33:25 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[A lengyel, aki tönkrealázta a bolsevikokat]]></title>
+   <link>http://mno.hu/tortenelem/a-lengyel-aki-tonkre-alazta-a-bolsikat-2431209?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szathmáry István</author>
+   <enclosure url="http://mno.hu/data/cikkek/2431/24312/cikk-2431209/f9ec81350abbfff8fd2714d849ef10ac.jpg" length="874566" type="image/jpeg"/>
+   <description><![CDATA[Százötven éve született Józef Pilsudski marsall, a független lengyel állam megteremtője.]]></description>
+   <category>Múlt idő</category>
+   <pubDate>Sun, 03 Dec 2017 15:30:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Borsody László, az elfeledett magyar géniusz]]></title>
+   <link>http://mno.hu/konyveshaz/borsody-laszlo-az-elfeledett-magyar-geniusz-2424008?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szathmáry István</author>
+   <enclosure url="http://mno.hu/data/cikkek/2424/24240/cikk-2424008/Kardparbaj.jpg" length="850237" type="image/jpeg"/>
+   <description><![CDATA[Máday Norbert munkája most mérföldkő lehet a büszkeségre ösztönző értékeinek megismeréséhez vezető úton.]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Sun, 29 Oct 2017 14:43:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Lesz-e olajsejkség az Alföldön?]]></title>
+   <link>http://mno.hu/belfold/lesz-e-olajsejkseg-az-alfoldon-1386570?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szathmáry István</author>
+   <enclosure url="http://mno.hu/data/cikkek/1386/13865/cikk-1386570/Nagyhegyes_11_896_504_1487340718.jpg" length="54672" type="image/jpeg"/>
+   <description><![CDATA[Kőolajat találtak Szolnokon, de korai az öröm. Viszont a hazai földtani kutatás története aranyat ér.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sat, 18 Feb 2017 15:05:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[„Akkorát kell rúgni, hogy ne tudjon felállni”]]></title>
+   <link>http://mno.hu/nagyinterju_magazinban/akkorat-kell-rugni-hogy-ne-tudjon-felallni-1374587?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szathmáry István</author>
+   <enclosure url="http://mno.hu/data/cikkek/1374/13745/cikk-1374587/VL20161114_0071_896_504_1480689813.jpg" length="30693" type="image/jpeg"/>
+   <description><![CDATA[Furkó Kálmán nyugállományú ezredes neve fogalom a közelharc világában. Egy szó szerint küzdelmes életút.]]></description>
+   <category>Nagyinterjú a Magazinban</category>
+   <pubDate>Sun, 04 Dec 2016 19:55:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Magyar katonai sikertörténet]]></title>
+   <link>http://mno.hu/konyveshaz/magyar-katonai-sikertortenet-1357119?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szathmáry István</author>
+   <enclosure url="http://mno.hu/data/cikkek/1357/13571/cikk-1357119/NBB_20100818_0379.jpg" length="373054" type="image/jpeg"/>
+   <description><![CDATA[A Monarchia haditengerészete és egy hősies hajómentés históriája.]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Sat, 20 Aug 2016 17:54:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Sűrű valóság]]></title>
+   <link>http://mno.hu/konyveshaz/suru-valosag-1350435?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szathmáry István</author>
+   <enclosure url="http://mno.hu/data/cikkek/1350/13504/cikk-1350435/Gutai-Istvan-Foldonfutok-hontalanok_grid2_fekvo_lead.jpg" length="69832" type="image/jpeg"/>
+   <description><![CDATA[Nem az elfojtás, hanem a kibeszélés oldhatja fel a régi görcsöket. Gutai István író bácskai menekültekről szóló könyvéről.]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Sun, 10 Jul 2016 17:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Megszólalt az egyik utolsó élő csendőr]]></title>
+   <link>http://mno.hu/hetvegimagazin/megszolalt-az-egyik-utolso-elo-csendor-1347736?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pethő Tibor, Szathmáry István</author>
+   <enclosure url="http://mno.hu/data/cikkek/1347/13477/cikk-1347736/fortepan_72409_grid2_fekvo_lead.jpg" length="84034" type="image/jpeg"/>
+   <description><![CDATA[Lapunknak beszélt az egyik utolsó élő csendőr. És így gondolják a történészek: Szakály vs Ungváry.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Sun, 19 Jun 2016 18:26:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Jogi szégyenfolt: Kristóf csendőrnyomozó ügye]]></title>
+   <link>http://mno.hu/hetvegimagazin/jogi-szegyenfolt-kristof-csendornyomozo-ugye-1346493?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szathmáry István</author>
+   <enclosure url="http://mno.hu/data/cikkek/1346/13464/cikk-1346493/26_02_grid2_fekvo_lead.jpg" length="56908" type="image/jpeg"/>
+   <description><![CDATA[A magyar kommunista mártírok sorába emelt Ságvári Endre halála mások életére is tragikus hatással volt.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Sat, 11 Jun 2016 19:09:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A rendszerváltoztatók illúziói]]></title>
+   <link>http://mno.hu/konyveshaz/a-rendszervaltoztatok-illuzioi-1345783?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szathmáry István</author>
+   <enclosure url="http://mno.hu/data/cikkek/1345/13457/cikk-1345783/MP20051004_1331.jpg" length="198453" type="image/jpeg"/>
+   <description><![CDATA[Az Antall-kormány részleges kudarca is mutatja, hogy a politika már régen nem az úriemberek sportja.]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Fri, 10 Jun 2016 12:30:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Külön bejáratú világvége]]></title>
+   <link>http://mno.hu/konyveshaz/kulon-bejaratu-vilagvege-1342023?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szathmáry István</author>
+   <enclosure url="http://mno.hu/data/cikkek/1342/13420/cikk-1342023/Korosi_AzIteletido_20160201_02_grid2_fekvo_lead.jpg" length="114268" type="image/jpeg"/>
+   <description><![CDATA[Humor és mágia, pusztulás és szerelem különös fordulatai keverednek Kőrösi Zoltán utolsó regényében.]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Tue, 17 May 2016 10:06:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Martfűi rém: a sorozatgyilkos visszatért]]></title>
+   <link>http://mno.hu/hetvegimagazin/martfui-rem-a-sorozatgyilkos-visszatert-1342258?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szathmáry István</author>
+   <enclosure url="http://mno.hu/data/cikkek/1342/13422/cikk-1342258/D__KB20150903036_grid2_fekvo_lead.jpg" length="85053" type="image/jpeg"/>
+   <description><![CDATA[Film készül a szocialista idők egyik legbrutálisabb gyilkosságsorozatáról. ]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Sun, 15 May 2016 12:37:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Gránáttal kaszát élezni]]></title>
+   <link>http://mno.hu/hetvegimagazin/hazi-bombagyarak-nyomaban-1317356?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szathmáry István, Szemán László, György Zsombor</author>
+   <enclosure url="http://mno.hu/data/cikkek/1317/13173/cikk-1317356/_P111128_grid2_fekvo_lead.jpg" length="64954" type="image/jpeg"/>
+   <description><![CDATA[Házi bombalabort leplezett le a Terrorelhárítási Központ. Háborús relikviák otthon. Veszély vagy hobbi?]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Sun, 06 Dec 2015 10:08:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Lengyel lapok: ez már háború]]></title>
+   <link>http://mno.hu/kulfold/lengyel-lapok-ez-mar-haboru-1314016?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szathmáry István</author>
+   <enclosure url="http://mno.hu/data/cikkek/1314/13140/cikk-1314016/000_DV1935912.jpg" length="681742" type="image/jpeg"/>
+   <description><![CDATA[„Szomorúság, sajnálat és harag”. ]]></description>
+   <category>Külföld</category>
+   <pubDate>Sat, 14 Nov 2015 14:17:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Tilos az Á Könyvek: tanulság izzadságszag nélkül]]></title>
+   <link>http://mno.hu/grund/tilos-az-a-konyvek-tanulsag-izzadsagszag-nelkul-1208149?utm_source=feed&amp;utm_medium=rss</link>
+   <author>rKissNelli, Szathmáry István, Ficsor Benedek</author>
+   <description><![CDATA[Új kiadó színesíti a magyar gyerek- és ifjúsági irodalom palettáját.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Fri, 31 Jan 2014 07:36:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szenzációs régészeti lelet: a törzsfő hagyatéka]]></title>
+   <link>http://mno.hu/grund/szenzacios-regeszeti-lelet-a-torzsfo-hagyateka-1197338?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szathmáry István</author>
+   <description><![CDATA[Az utóbbi évek egyik legfontosabb magyar régészeti felfedezése a szolnoki Damjanich János Múzeumban.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Tue, 26 Nov 2013 14:23:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Elhunyt Slawomir Mrozek, a világhírű lengyel drámaíró]]></title>
+   <link>http://mno.hu/grund/elhunyt-slawomir-mrozek-a-vilaghiru-lengyel-dramairo-1178638?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szathmáry István</author>
+   <description><![CDATA[Nyolcvanhárom éves korában elhunyt Slawomir Mrozek, az abszurd humor nemzetközi hírű mestere. A legtöbbet fordított lengyel író volt Magyarországon.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Thu, 15 Aug 2013 14:03:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Álmok, mítoszok, mesék Szolnokon]]></title>
+   <link>http://mno.hu/migr_1834/almok-mitoszok-mesek-szolnokon-885383?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szathmáry István</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Sat, 27 Aug 2011 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Áldomás fejfedőből]]></title>
+   <link>http://mno.hu/migr_1834/aldomas-fejfedobol-888063?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szathmáry István</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 02 Aug 2011 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Honfoglalók nyomai Nagykörűnél]]></title>
+   <link>http://mno.hu/migr_1834/honfoglalok_nyomai_nagykorunel-207932?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szathmáry István</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Sat, 25 Dec 2010 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Gőz és történelem Szolnokon]]></title>
+   <link>http://mno.hu/migr_1834/goz_es_tortenelem_szolnokon-216320?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szathmáry István</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Fri, 10 Sep 2010 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Elvérzett gyalogezred]]></title>
+   <link>http://mno.hu/migr_1834/elverzett_gyalogezred-254417?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szathmáry István</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 02 Mar 2010 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Jókai magyar nábobja]]></title>
+   <link>http://mno.hu/migr_1834/jokai_magyar_nabobja-251403?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szathmáry István</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 16 Feb 2010 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Baráti tűz]]></title>
+   <link>http://mno.hu/migr_1834/barati_tuz-265546?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szathmáry István</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 10 Nov 2009 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Menő üzletember régi ketyeréi]]></title>
+   <link>http://mno.hu/migr_1834/meno_uzletember_regi_ketyerei-290665?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szathmáry István</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Sat, 22 Aug 2009 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Miksa császár Szolnokra érkezik]]></title>
+   <link>http://mno.hu/migr_1834/miksa_csaszar_szolnokra_erkezik-309129?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szathmáry István</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 12 May 2009 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ereklyék, rejtett emlékek Szolnokon]]></title>
+   <link>http://mno.hu/migr_1834/ereklyek_rejtett_emlekek_szolnokon-339500?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szathmáry István</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 24 Mar 2009 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Huszárdaráló]]></title>
+   <link>http://mno.hu/migr_1834/huszardaralo-355998?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szathmáry István</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 06 Jan 2009 16:58:59 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Régészeti lelőhelyek útépítéseknél]]></title>
+   <link>http://mno.hu/migr_1834/regeszeti_lelohelyek_utepiteseknel-356630?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szathmáry István</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Halóruha]]></title>
+   <link>http://mno.hu/migr_1834/haloruha-354839?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szathmáry István</author>
+   <description><![CDATA[A jászok Magyarország egyik különös öntudatú népcsoportja. Évszázadokon át megőrzött szabadságuk emléke az elmúlt évtizedekben éledt újjá, amikor érdeklődéssel fordultak régi kultúrájuk, hagyományaik felé. Feltámadt népviseletük, újra tanulják táncaikat – amiben meghatározó része volt H. Bathó Edit néprajzkutatónak, a jászberényi Jász Múzeum közelmúltban Jászságért Díjjal kitüntetett igazgatójának.]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 09 Dec 2008 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Úszógumi]]></title>
+   <link>http://mno.hu/migr_1834/uszogumi-353263?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szathmáry István</author>
+   <description><![CDATA[Csaknem ötven évvel ezelőtt, 1963. június 16-án ötfős személyzetével és huszonkilenc utassal a fedélzetén Münchenből Constantába tartott a Tarom román repülőtársaság YR–ILL <br />lajstromjelű, IL–14 P típusú utasszállító gépe. A fekete-tengeri nyaralásra utazó turistákat szállító repülőgépen Budapest környékén jelentkeztek az első problémák, amikor a jobb oldali motortérből vékony füstcsík kezdett szivárogni.]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 18 Nov 2008 00:00:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

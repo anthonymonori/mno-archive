@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Tamás Gáspár Miklós]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/tamas-gaspar-miklos-13217</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Wed, 11 Apr 2018 12:10:35 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Egyszerű választás]]></title>
+   <link>http://mno.hu/velemeny/egyszeru-valasztas-2424118?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Tamás Gáspár Miklós</author>
+   <enclosure url="http://mno.hu/data/cikkek/2424/24241/cikk-2424118/BA_07968.JPG" length="388970" type="image/jpeg"/>
+   <description><![CDATA[Orbán Viktor a fehér konszenzus embere, tehát egyáltalán nem magányos harcos.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Sat, 28 Oct 2017 18:59:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Vakság és balsors]]></title>
+   <link>http://mno.hu/magazinpublicisztika/vaksag-es-balsors-tamas-gaspar-miklos-esszeje-2410152?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Tamás Gáspár Miklós</author>
+   <enclosure url="http://mno.hu/data/cikkek/2410/24101/cikk-2410152/DBELO20140421010.jpg" length="318506" type="image/jpeg"/>
+   <description><![CDATA[Aki még foglalkozik közügyekkel Kelet-Európában, jól teszi, ha tudomásul veszi: magunkra maradtunk.]]></description>
+   <category>Publicisztika a Magazinban</category>
+   <pubDate>Sun, 30 Jul 2017 11:11:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Visszanézve a liberalizmusra]]></title>
+   <link>http://mno.hu/velemeny/visszanezve-a-liberalizmusra-1327656?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Tamás Gáspár Miklós</author>
+   <enclosure url="http://mno.hu/data/cikkek/1327/13276/cikk-1327656/liberalizmusvelemenycikk.jpg" length="575277" type="image/jpeg"/>
+   <description><![CDATA[A magyar kormány politikája, bár mást állít magáról, ma minden tekintetben ortodox és neoliberális.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Mon, 08 Feb 2016 18:09:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[No de jó Puzsérom!]]></title>
+   <link>http://mno.hu//no-de-jo-puzserom-1282634?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Tamás Gáspár Miklós</author>
+   <description><![CDATA[Tamás Gáspár Miklós levele a Magyar Nemzetben.]]></description>
+   <category/>
+   <pubDate>Mon, 20 Apr 2015 10:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kedvetlen válasz Seszták Ágnesnak]]></title>
+   <link>http://mno.hu/migr_1834/kedvetlen_valasz_sesztak_agnesnak-271988?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Tamás Gáspár Miklós</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Sat, 28 Nov 2009 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Válasz a jobboldalnak]]></title>
+   <link>http://mno.hu/migr_1834/valasz_a_jobboldalnak-295176?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Tamás Gáspár Miklós</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 18 Aug 2009 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Levél a jobboldalnak]]></title>
+   <link>http://mno.hu/migr_1834/level_a_jobboldalnak-321088?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Tamás Gáspár Miklós</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 23 Jun 2009 00:00:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - rovat: Bitvilág]]></title>
+  <link>http://mno.hu/bitvilag</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Fri, 13 Apr 2018 12:01:45 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Nem szabad telefonnal vizsgálni a bőrrákot]]></title>
+   <link>http://mno.hu/bitvilag/nem-szabad-telefonnal-vizsgalni-a-borrakot-1133923?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Harangi László</author>
+   <description><![CDATA[A Pittsburghi Egyetem kutatása szerint az okostelefonokra készült appok pontatlanok.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Sun, 03 Feb 2013 07:28:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Letölthető lesz a The Pirate Bayről készült film]]></title>
+   <link>http://mno.hu/bitvilag/letoltheto-lesz-a-the-pirate-bayrol-keszult-film-1133915?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Wiezner István</author>
+   <description><![CDATA[Az alkotás akkor válik elérhetővé, amikor a berlini filmfesztiválon is debütál.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Sat, 02 Feb 2013 08:13:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Arculatot vált a Google képkeresője]]></title>
+   <link>http://mno.hu/bitvilag/arculatot-valt-a-google-kepkeresoje-1133918?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Wiezner István</author>
+   <description><![CDATA[A népszerű kereső mind a külsejében, mind funkcionalitásait tekintve megújul.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Fri, 01 Feb 2013 07:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Feltörték az adabázisát, majd meg is büntették ezért]]></title>
+   <link>http://mno.hu/bitvilag/megbuntettek-a-sonyt-a-psn-feltorese-miatt-1133920?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Wiezner István</author>
+   <description><![CDATA[Az Egyesült Királyság adatvédelmi biztosa úgy gondolja, a vállalat elkerülhette volna a biztonsági szempontból katasztrófának számító esetet.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Thu, 31 Jan 2013 06:31:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nem gyárt több Symbian-alapú telefont a Nokia]]></title>
+   <link>http://mno.hu/bitvilag/nem-gyart-tobb-symbian-alapu-telefont-a-nokia-1133916?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Wiezner István</author>
+   <description><![CDATA[A finn gyártó terveiben szerepel azonban egy WP8-as PureView kameramobil.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Wed, 30 Jan 2013 06:16:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Megtriplázta népszerűségét a Windows Phone 8]]></title>
+   <link>http://mno.hu/bitvilag/megtriplazta-nepszeruseget-a-windows-phone-8-1133922?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Harangi László</author>
+   <description><![CDATA[Bár Amerikában nincs nagy sikere, Európában egyre kedveltebb a Microsoft mobilos platformja.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Tue, 29 Jan 2013 08:11:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Tilos lesz ételt fotózni]]></title>
+   <link>http://mno.hu/bitvilag/tilos-lesz-etelt-fotozni-1133919?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Wiezner István</author>
+   <description><![CDATA[Az éttermek tulajdonosainak elege van a vakukból és a kameraállványokból.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Mon, 28 Jan 2013 07:20:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Buknak a hazai boltok a spóroláson]]></title>
+   <link>http://mno.hu/bitvilag/buknak-a-hazai-boltok-a-sporolason-1132086?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Computerworld</author>
+   <description><![CDATA[Az informatikán próbálnak meg spórolni a hazai kereskedők, pedig a régi eszközpark cseréjével sok pénzt tudnának megtakarítani, a halogatás csak pluszköltségeket jelenthet.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Sun, 27 Jan 2013 06:41:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[1100 állásba kerül a Nokia újraszervezése]]></title>
+   <link>http://mno.hu/bitvilag/1100-allasba-kerul-a-nokia-ujraszervezese-1132081?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Harangi László</author>
+   <description><![CDATA[Az IT-s szervezeti átalakítás összesen több mint 1100 alkalmazottat érint.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Sat, 26 Jan 2013 06:38:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Dotcom 50 GB ingyen tárhelyet ígér a megásoknak]]></title>
+   <link>http://mno.hu/bitvilag/dotcom-50-gb-ingyen-tarhelyet-iger-a-megasoknak-1132083?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Harangi László</author>
+   <description><![CDATA[Elindult a Mega, amelyet a Megaupload alapítója indított útjára.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Fri, 25 Jan 2013 06:39:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Újabb „gyilkos” funkcióval bővít a Facebook]]></title>
+   <link>http://mno.hu/bitvilag/ingyentelefonalassal-ujit-a-facebook-1132088?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Wiezner István</author>
+   <description><![CDATA[Egyes kanadai és amerikai iPhone-tulajok számára már elérhető az ismerősök hívásának lehetősége.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Thu, 24 Jan 2013 06:03:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A tinik szerint már nem olyan menő az Apple]]></title>
+   <link>http://mno.hu/bitvilag/a-tinik-szerint-mar-nem-olyan-meno-az-apple-1132089?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Wiezner István</author>
+   <description><![CDATA[Egyre kevésbé találják vonzónak az Apple-t a tinédzserek – derül ki egy felmérésből. Egyre divatosabbak a Samsung mobilok és Surface táblák.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Wed, 23 Jan 2013 06:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Dokumentumokat loptak, majd az Nvidiához igazoltak az AMD emberei]]></title>
+   <link>http://mno.hu/bitvilag/dokumentumokat-loptak-majd-az-nvidia-hoz-igazoltak-az-amd-emberei-1132080?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Harangi László</author>
+   <description><![CDATA[Négy korábbi alkalmazottját több mint százezer bizalmas dokumentum ellopásával vádolja az AMD.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Tue, 22 Jan 2013 06:36:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Megint beperelték az Apple-t]]></title>
+   <link>http://mno.hu/bitvilag/megint-bepereltek-az-apple-t-1132091?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pavlovic Jovan</author>
+   <description><![CDATA[Az Apple a belga törvényi előírásokhoz képest kevesebb garanciát ad, ráadásul nem megfelelően tájékoztatja ügyfeleit a jótállásról.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Mon, 21 Jan 2013 06:45:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Március közepén áll le a Live Messenger]]></title>
+   <link>http://mno.hu/bitvilag/marcius-kozepen-all-le-a-live-messenger-1130488?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Wiezner István</author>
+   <description><![CDATA[Kínán kívül villámgyorsan megszabadul régi csevegőjétől a Microsoft.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Sun, 20 Jan 2013 07:13:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[8K-s kijelzővel rohamoz a Sharp]]></title>
+   <link>http://mno.hu/bitvilag/8k-s-kijelzovel-rohamoz-a-sharp-1130485?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Harangi László</author>
+   <description><![CDATA[Az Ultra HD felbontású panelek mellett frissült az AQUOS család, de egy 8k-s felbontású tévét is magával vitt a Sharp a CES-re.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Sat, 19 Jan 2013 07:07:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A vártnál jobb negyedik negyed a Nokiánál]]></title>
+   <link>http://mno.hu/bitvilag/a-vartnal-jobb-negyedik-negyed-a-nokianal-1130486?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Dávid Imre</author>
+   <description><![CDATA[A gyártó erős karácsonyi szezont zárt, és a Q4-ben a Windos Phone-t futtató Lumia okostelefonok eladásait is számottevően növelni tudta.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Fri, 18 Jan 2013 07:08:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Újabb mérföldkőhöz érkezett a LinkedIn]]></title>
+   <link>http://mno.hu/bitvilag/ujabb-merfoldkohoz-erkezett-a-linkedin-1130484?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Harangi László</author>
+   <description><![CDATA[A 19 nyelven elérhető közösségi oldal 200 országban működik.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Thu, 17 Jan 2013 06:05:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szabadalomháború: a Google meghátrált]]></title>
+   <link>http://mno.hu/bitvilag/szabadalomhaboru-a-google-meghatralt-1130487?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Dávid Imre</author>
+   <description><![CDATA[A Google Motorola Mobility divíziója arra kérte az ITC-t, hogy „söpörje a szőnyeg alá” két, a Microsoft ellen benyújtott szabadalmi keresetüket.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Wed, 16 Jan 2013 07:10:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Apple: olcsó iPhone? Azt nem!]]></title>
+   <link>http://mno.hu/bitvilag/apple-olcso-iphone-azt-nem-1130483?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Harangi László</author>
+   <description><![CDATA[Phil Schiller, az Apple marketingalelnöke cáfolta, hogy olcsó iPhone érkezne.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Tue, 15 Jan 2013 07:14:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kettészelik a Lenovo márkanevet]]></title>
+   <link>http://mno.hu/bitvilag/ketteszelik-a-lenovo-markanevet-1130490?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Harangi László</author>
+   <description><![CDATA[A Lenovo ezentúl két márkanévvel lesz jelen a piacon, amelyből az egyik az Apple kifejezett riválisa.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Mon, 14 Jan 2013 07:14:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Új országokat hódított meg a Facebook]]></title>
+   <link>http://mno.hu/bitvilag/uj-orszagokat-hoditott-meg-a-facebook-1128789?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Harangi László</author>
+   <description><![CDATA[A világon már csak öt domináns közösségi hálózat maradt 2012 decemberére.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Sun, 13 Jan 2013 08:36:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Game over a Zynga játékainak]]></title>
+   <link>http://mno.hu/bitvilag/game-over-a-zynga-jatekainak-1128790?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Harangi László</author>
+   <description><![CDATA[Összesen 11 játéktól szabadul meg a túlterhelt fejlesztőcsapat.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Sat, 12 Jan 2013 13:36:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Böngészőben él tovább a Windows 3.1]]></title>
+   <link>http://mno.hu/bitvilag/bongeszoben-el-tovabb-a-windows-31-1128793?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Wiezner István</author>
+   <description><![CDATA[Bárki elüthet pár nosztalgikus percet a szoftver „emulátorával”.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Fri, 11 Jan 2013 10:34:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kibabrálna riválisaival Ausztriában a T-Mobile]]></title>
+   <link>http://mno.hu/bitvilag/kibabralna-rivalisaival-ausztriaban-a-t-mobile-1128791?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Wiezner István</author>
+   <description><![CDATA[A vállalat nem nézi jó szemmel a Three és Orange helyi leányvállalatainak egyesülését.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Thu, 10 Jan 2013 18:27:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[USA: két államban már illegális a Facebook-jelszavak elkérése]]></title>
+   <link>http://mno.hu/bitvilag/usa-ket-allamban-mar-illegalis-a-facebook-jelszavak-elkerese-1128792?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Wiezner István</author>
+   <description><![CDATA[Több helyen törvénybe kellett foglalni a munkáltatók visszatetsző gyakorlatának tiltását.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Wed, 09 Jan 2013 07:32:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nincs Haswell a CES 2013-on]]></title>
+   <link>http://mno.hu/bitvilag/nincs-haswell-a-ces-2013-on-1128787?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Harangi László</author>
+   <description><![CDATA[Az Intel következő generációs processzorai, úgy tűnik, nem érkeznek meg az első negyedévben.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Tue, 08 Jan 2013 17:16:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Három hónapig ingyen használható a Flickr Pro]]></title>
+   <link>http://mno.hu/bitvilag/harom-honapig-ingyen-hasznalhato-a-flickr-pro-1127596?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Wiezner István</author>
+   <description><![CDATA[A Yahoo is meglovagolná az Instagram körüli botrányt.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Mon, 07 Jan 2013 07:13:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[200 millió dollárra vágyik a Hulu főnöke]]></title>
+   <link>http://mno.hu/bitvilag/200-millio-dollarra-vagyik-a-hulu-fonoke-1127595?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Wiezner István</author>
+   <description><![CDATA[Jason Kilar szerint nem ártana az üzletnek, ha jövőre az ideinél több műsort tudnának kínálni az ügyfeleknek.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Sun, 06 Jan 2013 12:47:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Jön a rózsaszín iPhone 5S]]></title>
+   <link>http://mno.hu/bitvilag/jon-a-rozsaszin-iphone-5s-1128788?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Harangi László</author>
+   <description><![CDATA[Elemzők szerint májusban érkezhet az új modell, az iPod Touch színeiben.]]></description>
+   <category>Bitvilág</category>
+   <pubDate>Sat, 05 Jan 2013 14:24:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Tölgyesi Gábor]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/tolgyesi-gabor-26157</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 13:52:54 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[A metrópótló hajó sem szent a kalózoknak]]></title>
+   <link>http://mno.hu/grund/a-metropotlo-hajo-sem-szent-a-kalozoknak-2390805?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Tölgyesi Gábor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2390/23908/cikk-2390805/MP20170314_9305.jpg" length="325213" type="image/jpeg"/>
+   <description><![CDATA[A csodák világa és a legősibb színházi forma kel holnap életre: országhatáron innen és túl ünnepelnek a bábosok.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Mon, 20 Mar 2017 15:43:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kár volt a régi Erika foteleket a szemétre dobni]]></title>
+   <link>http://mno.hu/grund/kar-volt-a-regi-erika-foteleket-a-szemetre-dobni-1389710?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Tölgyesi Gábor</author>
+   <enclosure url="http://mno.hu/data/cikkek/1389/13897/cikk-1389710/20170308_NBB2225.JPG" length="347731" type="image/jpeg"/>
+   <description><![CDATA[Breuer Marcell, a világhírű sztárépítész, aki magyar maradt. Rendhagyó tárlatvezetés Térey Jánossal.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Fri, 10 Mar 2017 20:41:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Művészek kérnek segítséget az elesetteknek]]></title>
+   <link>http://mno.hu/grund/muveszek-kernek-segitseget-az-elesetteknek-1389475?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Tölgyesi Gábor</author>
+   <enclosure url="http://mno.hu/data/cikkek/1389/13894/cikk-1389475/HM_20090210_05341.jpg" length="320464" type="image/jpeg"/>
+   <description><![CDATA[Punkzenekar gyűjt életműdíjas színésznek, a Vidám Színpad a dévai árváknak rendez jótékonysági estet.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Thu, 09 Mar 2017 17:21:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Vajon tud-e beszélni a zöld szamár a piedesztálon?]]></title>
+   <link>http://mno.hu/grund/vajon-tud-e-beszelni-a-zold-szamar-a-piedesztalon-1389257?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Tölgyesi Gábor</author>
+   <enclosure url="http://mno.hu/data/cikkek/1389/13892/cikk-1389257/MNO_Zold_szamar.jpg" length="469108" type="image/jpeg"/>
+   <description><![CDATA[Mesék a kiállítótérben: szombaton kezdődik a nemzeti galéria összművészeti sorozatának gyerekverziója.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Wed, 08 Mar 2017 13:10:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Jordán Tamás emberei]]></title>
+   <link>http://mno.hu/velemeny/jordan-tamas-emberei-1388892?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Tölgyesi Gábor</author>
+   <enclosure url="http://mno.hu/data/cikkek/1388/13888/cikk-1388892/BA20130123_4832.jpg" length="167504" type="image/jpeg"/>
+   <description><![CDATA[A közéletben is láthatjuk: a képtelen állításokra is van fogadókészség.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Mon, 06 Mar 2017 10:30:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: MTI/MNO]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/mtimno-22550</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Fri, 13 Apr 2018 18:03:55 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Újabb őrület: mezőgazdasági oktatás az általánosban]]></title>
+   <link>http://mno.hu/belfold/ujabb-orulet-mezogazdasagi-oktatas-az-altalanosban-1331808?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI/MNO</author>
+   <description><![CDATA[A Kisgazda Polgári Egyesület elnöke szerint a felső tagozatosoknak kellene tanítani a tárgyat.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sat, 05 Mar 2016 13:12:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Bestseller lett a „betiltott" regény Izraelben]]></title>
+   <link>http://mno.hu/konyveshaz/bestseller-lett-a-betiltott-regeny-izraelben-1322029?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI/MNO</author>
+   <enclosure url="http://mno.hu/data/cikkek/1322/13220/cikk-1322029/DoritR_grid2_fekvo_lead.jpg" length="87534" type="image/jpeg"/>
+   <description><![CDATA[Elősegíti az asszimilációt és szítja a viszályt: az arab Rómeó és a zsidó Júlia története.]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Tue, 05 Jan 2016 05:48:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Márciusban lesz az újabb magyar filmhét]]></title>
+   <link>http://mno.hu/film/marciusban-lesz-az-ujabb-magyar-filmhet-1320682?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI/MNO</author>
+   <enclosure url="http://mno.hu/data/cikkek/1320/13206/cikk-1320682/filmhet_vajna_havas_grid2_fekvo_lead.jpg" length="48943" type="image/jpeg"/>
+   <description><![CDATA[Tavaly három év játékfilmes termését mutatták be, jövőre már négy évét. Ezúttal lesz díjazás is, ígérik.]]></description>
+   <category>Szuperplán</category>
+   <pubDate>Sat, 26 Dec 2015 09:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Plusz 8,4 milliárd Andy Vajnáéknak]]></title>
+   <link>http://mno.hu/film/plusz-84-milliard-andy-vajnaeknak-1320681?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI/MNO</author>
+   <enclosure url="http://mno.hu/data/cikkek/1320/13206/cikk-1320681/filmtekercs_grid2_fekvo_lead.jpg" length="60199" type="image/jpeg"/>
+   <description><![CDATA[Ezzel az átcsoportosítással idén már plusz 12,3 milliárd forintot kapott a filmalap a kormánytól.]]></description>
+   <category>Szuperplán</category>
+   <pubDate>Fri, 25 Dec 2015 10:20:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ellopta Adele egy kurd dalszerző számát?]]></title>
+   <link>http://mno.hu/grund/ellopta-adele-egy-kurd-dalszerzo-szamat-1317861?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI/MNO</author>
+   <enclosure url="http://mno.hu/data/cikkek/1317/13178/cikk-1317861/adele_britawards2012_enekesno_afp_grid2_fekvo_lead.jpg" length="43471" type="image/jpeg"/>
+   <description><![CDATA[Végre egy újabb plágiumvád, pedig még nincs is itt az Eurovíziós Dalfesztivál. Most Adele-t találták meg.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Mon, 07 Dec 2015 22:54:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Elkészült a Déri Múzeum felújítása]]></title>
+   <link>http://mno.hu/grund/elkeszult-a-deri-muzeum-felujitasa-1316664?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI/MNO</author>
+   <enclosure url="http://mno.hu/data/cikkek/1316/13166/cikk-1316664/Golgota1_uj_fekvo_lead_grid2_fekvo_lead.jpg" length="87811" type="image/jpeg"/>
+   <description><![CDATA[A debreceni múzeum kedden nyitja meg a kapuit a nagyközönség előtt. A Golgotán továbbra is lepel marad.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Mon, 30 Nov 2015 21:20:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Megkezdték az állami földek eladását]]></title>
+   <link>http://mno.hu/gazdasag/elkezdtek-az-allami-foldek-eladasat-1308981?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI/MNO</author>
+   <description><![CDATA[Mintegy 2700 – 3 hektár alatti – földrészlet hirdetményét jelentette meg a honlapján az NFA.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Tue, 13 Oct 2015 17:15:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Zsidó fesztivál: súlyos vád az antiszemitizmus ]]></title>
+   <link>http://mno.hu/grund/zsido-kulturalis-fesztival-sulyos-vad-az-antiszemitizmus-1302335?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI/MNO</author>
+   <enclosure url="http://mno.hu/data/cikkek/1302/13023/cikk-1302335/zsinagoga_dohany_mn.jpg" length="462469" type="image/jpeg"/>
+   <description><![CDATA[A hazugság megöli a párbeszédet – mondta Latorcai Csaba helyettes államtitkár a Zsidó fesztivál megnyitóján.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Sun, 30 Aug 2015 21:27:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Piszoárral is „tisztelegnek” az anyaság előtt]]></title>
+   <link>http://mno.hu/grund/piszoarral-is-tisztelegnek-az-anyasag-elott-1301796?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI/MNO</author>
+   <enclosure url="http://mno.hu/data/cikkek/1301/13017/cikk-1301796/000_Par8255040_grid2_fekvo_lead.jpg" length="55249" type="image/jpeg"/>
+   <description><![CDATA[Az anyaságnak szentelt milánói tárlaton Marcel Duchamp híres piszoárja is helyet kapott.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Thu, 27 Aug 2015 07:35:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hetvenéves Ian Gillan, a Deep Purple énekese]]></title>
+   <link>http://mno.hu/grund/hetveneves-ian-gillan-a-deep-purple-enekese-1300671?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI/MNO</author>
+   <description><![CDATA[Ian Gillan, a Deep Purple énekese augusztus 19-én hetvenéves. A kerek évfordulót amerikai turnén ünnepli.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Wed, 19 Aug 2015 11:22:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kárpátaljai segélyezési programról beszélt Lázár]]></title>
+   <link>http://mno.hu/belfold/karpataljai-segelyezesi-programrol-beszelt-lazar-1295865?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI/MNO</author>
+   <description><![CDATA[A miniszter szerint a bevándorlás az egész európai baloldal Waterlooja. ]]></description>
+   <category>Belföld</category>
+   <pubDate>Sat, 18 Jul 2015 08:59:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Ungváry Krisztián]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/ungvary-krisztian-14694</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 13:47:50 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Csicskák és mamelukok a centrális erőtérben]]></title>
+   <link>http://mno.hu/velemeny/csicskak-es-mamelukok-a-centralis-eroterben-2408241?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ungváry Krisztián</author>
+   <enclosure url="http://mno.hu/data/cikkek/2408/24082/cikk-2408241/orban_bethlen.jpg" length="442234" type="image/jpeg"/>
+   <description><![CDATA[A történelmi példák adottak, a Nemzeti Együttműködés Rendszere azonban egyáltalán nem érthető meg a Horthy-korszakból.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Tue, 18 Jul 2017 13:06:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Egy beszéd utóélete]]></title>
+   <link>http://mno.hu/velemeny/egy-beszed-utoelete-1389566?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ungváry Krisztián</author>
+   <enclosure url="http://mno.hu/data/cikkek/1389/13895/cikk-1389566/MNO_000_HG0V0.jpg" length="540559" type="image/jpeg"/>
+   <description><![CDATA[A kormány kritikusainak is mondaniuk kell valamit a bevándorlás problémájáról.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Fri, 10 Mar 2017 08:56:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Csak nálunk: Szent-Györgyi ismeretlen levele]]></title>
+   <link>http://mno.hu/hetvegimagazin/csak-nalunk-szent-gyorgyi-ismeretlen-levele-1348936?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ungváry Krisztián</author>
+   <enclosure url="http://mno.hu/data/cikkek/1348/13489/cikk-1348936/Nevtelen-1(1)_grid2_fekvo_lead.jpg" length="63584" type="image/jpeg"/>
+   <description><![CDATA[Szent-Györgyi Albert ismeretlen – német nyelven, kézzel írt – levele Malinovszkij marsallnak.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Sun, 26 Jun 2016 18:07:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A Jány Gusztáv-perről és a népbíróságokról]]></title>
+   <link>http://mno.hu/velemeny/a-jany-gusztav-perrol-1326428?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ungváry Krisztián, Jásdi István</author>
+   <enclosure url="http://mno.hu/data/cikkek/1326/13264/cikk-1326428/FMAFI19473827001.jpg" length="113570" type="image/jpeg"/>
+   <description><![CDATA[Jásdi István és Ungváry Krisztián levélváltása.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Sun, 31 Jan 2016 16:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kollektív bűnök]]></title>
+   <link>http://mno.hu/migr_1834/kollektiv-bunok-578846?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ungváry Krisztián</author>
+   <description><![CDATA[K ö n y v e s h á z]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Sat, 04 Jun 2005 01:00:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

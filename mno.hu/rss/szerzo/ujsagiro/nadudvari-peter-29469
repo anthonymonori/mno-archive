@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Nádudvari Péter]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/nadudvari-peter-29469</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Sat, 14 Apr 2018 18:45:11 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Maratonista lenne a súlyos betegséggel harcoló kisfiú]]></title>
+   <link>http://mno.hu/belfold/maratonista-lenne-a-sulyos-betegseggel-harcolo-kisfiu-2437955?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Nádudvari Péter</author>
+   <enclosure url="http://mno.hu/data/cikkek/2437/24379/cikk-2437955/26654675_10155521138114440_1032142675_o_896_504_1515516195.jpg" length="65556" type="image/jpeg"/>
+   <description><![CDATA[2016-ban a Magyar Nemzet olvasói is segítettek Katona Mikin, az idei ismét fontos év lesz a számára.]]></description>
+   <category>Belföld</category>
+   <pubDate>Tue, 09 Jan 2018 15:45:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ha nem tudsz a lábaddal, fuss a szíveddel!]]></title>
+   <link>http://mno.hu/velemeny/ha-nem-tudsz-a-labaddal-fuss-a-sziveddel-2434327?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Nádudvari Péter</author>
+   <enclosure url="http://mno.hu/data/cikkek/2434/24343/cikk-2434327/22688773_10155325863739440_6752391658013262444_n_896_504_1513428652.jpg" length="373998" type="image/jpeg"/>
+   <description><![CDATA[Aki ezt a távot teljesíti, időeredménytől függetlenül győztes. Tomi is az: szívével futva teljesítette a 42 195 métert.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Sat, 16 Dec 2017 12:12:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

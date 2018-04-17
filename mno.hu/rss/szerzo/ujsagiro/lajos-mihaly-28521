@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Lajos Mihály]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/lajos-mihaly-28521</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 13:20:50 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Őket tekintik hőseiknek Ukrajnában]]></title>
+   <link>http://mno.hu/velemeny/oket-tekintik-hoseiknek-ukrajnaban-2451742?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lajos Mihály</author>
+   <enclosure url="http://mno.hu/data/cikkek/2451/24517/cikk-2451742/fortepan_7314.jpg" length="400753" type="image/jpeg"/>
+   <description><![CDATA[Avgusztin Volosin mohó rendszerében kőkeményen elnyomták a magyarokat is.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Wed, 07 Mar 2018 11:57:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Különben jönnek az ukrán nacionalisták]]></title>
+   <link>http://mno.hu/velemeny/kulonben-jonnek-az-ukran-nacionalistak-2431168?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lajos Mihály</author>
+   <enclosure url="http://mno.hu/data/cikkek/2431/24311/cikk-2431168/MNO_59128b0_3_1_.jpg" length="385699" type="image/jpeg"/>
+   <description><![CDATA[Nemzetrészünk a legnagyobb mértékben épp most vált a sovén támadások céltáblájává.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Fri, 01 Dec 2017 11:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Magyarország ad, Ukrajna pedig elvesz]]></title>
+   <link>http://mno.hu/velemeny/magyarorszag-ad-ukrajna-pedig-elvesz-2410122?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lajos Mihály</author>
+   <enclosure url="http://mno.hu/data/cikkek/2410/24101/cikk-2410122/MNO_K_EPA20150213114.jpg" length="616710" type="image/jpeg"/>
+   <description><![CDATA[A nacionalista politikát, bármilyennek mutatja is magát, nem lehet megszelídíteni.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Fri, 28 Jul 2017 21:00:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

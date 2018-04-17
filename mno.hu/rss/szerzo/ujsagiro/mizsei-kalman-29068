@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Mizsei Kálmán]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/mizsei-kalman-29068</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Fri, 13 Apr 2018 06:44:41 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Az eurócsatlakozás nemzeti cél]]></title>
+   <link>http://mno.hu/velemeny/az-eurocsatlakozas-nemzeti-cel-2421345?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Mizsei Kálmán</author>
+   <enclosure url="http://mno.hu/data/cikkek/2421/24213/cikk-2421345/MNO_043_dpa_pa_1233_88405732.jpg" length="225723" type="image/jpeg"/>
+   <description><![CDATA[Az euróövezetből való kimaradás perifériára szorulást, elszegényedést jelentene.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Fri, 13 Oct 2017 19:34:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

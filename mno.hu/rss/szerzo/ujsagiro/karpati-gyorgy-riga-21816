@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Kárpáti György (Riga)]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/karpati-gyorgy-riga-21816</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Sat, 14 Apr 2018 16:28:17 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Az ember, aki a YouTube alapján rendezett filmet]]></title>
+   <link>http://mno.hu/grund/az-ember-aki-a-youtube-alapjan-rendezett-remek-filmet-1269637?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kárpáti György (Riga)</author>
+   <description><![CDATA[A 2014-es év egyik legjobb európai filmje volt a Lavina, Ruben Östlund legújabb rendezése. Rigában beszélgettünk vele.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Mon, 26 Jan 2015 13:57:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Éreztük, valami történelmi részesei lehetünk]]></title>
+   <link>http://mno.hu/grund/ereztuk-valami-tortenelmi-reszesei-lehetunk-1263337?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kárpáti György (Riga)</author>
+   <description><![CDATA[Agnés Varda rendező kapta idén az Európai Filmakadémia életműdíját Lettországban.
+]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Mon, 15 Dec 2014 13:50:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Európai Filmdíj-átadó: Az Ida ül Európa trónján]]></title>
+   <link>http://mno.hu/grund/europai-filmdij-atado-az-ida-ul-europa-tronjan-1263237?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kárpáti György (Riga)</author>
+   <description><![CDATA[Az Ida lett a 27. Európai Filmdíj-átadó nagy nyertese, amely öt díjat, köztük a legjobb film díját is elnyerte.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Sat, 13 Dec 2014 21:42:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

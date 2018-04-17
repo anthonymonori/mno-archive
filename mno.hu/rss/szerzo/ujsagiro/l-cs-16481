@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: L. Cs.]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/l-cs-16481</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Sun, 15 Apr 2018 04:28:30 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Hétezer ügy – a nő, akit egy ország tisztel]]></title>
+   <link>http://mno.hu/hetvegimagazin/hetezer-ugy-1282361?utm_source=feed&amp;utm_medium=rss</link>
+   <author>L. Cs.</author>
+   <description><![CDATA[Kinevezésekor ő volt a legfiatalabb főügyész Romániában, emellett pedig az első nő, aki korrupcióellenes intézmény élére került. Laura Codruta Kövesi most először nyilatkozik magyar újságírónak.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Sun, 19 Apr 2015 07:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Magyar járőrök]]></title>
+   <link>http://mno.hu/migr_1834/magyar-jarorok-844684?utm_source=feed&amp;utm_medium=rss</link>
+   <author>L. Cs.</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Sat, 10 Mar 2001 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Tőkés egyezséget sürget]]></title>
+   <link>http://mno.hu/migr_1834/tokes-egyezseget-surget-847001?utm_source=feed&amp;utm_medium=rss</link>
+   <author>L. Cs.</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 17 Oct 2000 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Magyarság vagy etnobiznisz?]]></title>
+   <link>http://mno.hu/migr_1834/magyarsag-vagy-etnobiznisz-855496?utm_source=feed&amp;utm_medium=rss</link>
+   <author>L. Cs.</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Sat, 02 Sep 2000 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Halálra vertek egy magyart]]></title>
+   <link>http://mno.hu/migr_1834/halalra-vertek-egy-magyart-854228?utm_source=feed&amp;utm_medium=rss</link>
+   <author>L. Cs.</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Sat, 12 Aug 2000 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Jóllakott komputer]]></title>
+   <link>http://mno.hu/sport/jollakott-komputer-852802?utm_source=feed&amp;utm_medium=rss</link>
+   <author>L. Cs.</author>
+   <description><![CDATA[]]></description>
+   <category>Sport</category>
+   <pubDate>Wed, 19 Jul 2000 00:00:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

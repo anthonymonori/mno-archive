@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Pottyondy Ede]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/pottyondy-ede-29864</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Wed, 11 Apr 2018 17:58:12 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Kósa Lajos kontra Orbán Viktor ingerküszöbe]]></title>
+   <link>http://mno.hu/belfold/kosa-lajos-kontra-orban-viktor-ingerkuszobe-2453583?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pottyondy Ede</author>
+   <enclosure url="http://mno.hu/data/cikkek/2453/24535/cikk-2453583/szb20180208_7626.jpg" length="295147" type="image/jpeg"/>
+   <description><![CDATA[Mi kell ma Magyarországon ahhoz, hogy valakire ne bízzanak állami pénzt, városok fejlesztését? Bakiparádé.]]></description>
+   <category>Belföld</category>
+   <pubDate>Wed, 14 Mar 2018 15:18:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kósa Lajos menekül]]></title>
+   <link>http://mno.hu/belfold/kosa-lajos-menekul-2453397?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pottyondy Ede</author>
+   <enclosure url="http://mno.hu/data/cikkek/2453/24533/cikk-2453397/kosa.jpg" length="187451" type="image/jpeg"/>
+   <description><![CDATA[A politikust a rábízott négymilliárd-háromszázötvenhárommillió euróról szerettük volna kérdezni a 444 riporterével. Videó.]]></description>
+   <category>Belföld</category>
+   <pubDate>Tue, 13 Mar 2018 16:35:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Fekete-Győr kontra Juhász: ha az ellenzék győzni akar, csak egyikük maradhat!]]></title>
+   <link>http://mno.hu/belfold/fekete-gyor-kontra-juhasz-ha-az-ellenzek-gyozni-akar-csak-egyikuk-maradhat-2453352?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pottyondy Ede</author>
+   <enclosure url="http://mno.hu/data/cikkek/2453/24533/cikk-2453352/Feketegyor_Juhasz.jpg" length="191475" type="image/jpeg"/>
+   <description><![CDATA[Budapest V. kerületében fej fej mellett állnak az ellenzéki jelöltek: Fekete-Győr Andrást és Juhász Pétert kérdeztük. Videó!]]></description>
+   <category>Belföld</category>
+   <pubDate>Tue, 13 Mar 2018 15:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kémszoftvert találtak Márki-Zay számítógépén]]></title>
+   <link>http://mno.hu/belfold/kemszoftvert-talaltak-marki-zay-szamitogepen-2452627?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pottyondy Ede</author>
+   <enclosure url="http://mno.hu/data/cikkek/2452/24526/cikk-2452627/BA_06215.jpg" length="295817" type="image/jpeg"/>
+   <description><![CDATA[A frissen megválasztott hódmezővásárhelyi polgármester arra lett figyelmes, hogy megváltozott laptopjának a működése.  ]]></description>
+   <category>Belföld</category>
+   <pubDate>Fri, 09 Mar 2018 17:54:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A nőcsábász adócsaló és Orbán Viktor barátsága]]></title>
+   <link>http://mno.hu/kulfold/a-nocsabasz-adocsalo-es-orban-viktor-baratsaga-2451189?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pottyondy Ede</author>
+   <enclosure url="http://mno.hu/data/cikkek/2451/24511/cikk-2451189/bbb.jpg" length="571652" type="image/jpeg"/>
+   <description><![CDATA[Annak a Berlusconinak szurkol a magyar miniszterelnök, aki ellen az elmúlt húsz évben több mint harminc eljárás indult.]]></description>
+   <category>Külföld</category>
+   <pubDate>Sat, 03 Mar 2018 14:05:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ha nem lép a Fidesz, gyerekek százait szakíthatják el szüleiktől]]></title>
+   <link>http://mno.hu/belfold/ha-nem-lep-a-fidesz-gyerekek-szazait-szakithatjak-el-szuleiktol-2447530?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kovacsik Ágnes, Pottyondy Ede</author>
+   <enclosure url="http://mno.hu/data/cikkek/2447/24475/cikk-2447530/DSZZS20180214004.jpg" length="334200" type="image/jpeg"/>
+   <description><![CDATA[Bár fennen hirdeti keresztényi és családbarát politikáját, a kormány hallgat a kilakoltatási moratórium sorsáról. Videóriport.]]></description>
+   <category>Belföld</category>
+   <pubDate>Thu, 15 Feb 2018 19:10:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Farkas Viktor]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/farkas-viktor-22944</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Sat, 14 Apr 2018 12:51:35 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Az utolsó vetítés]]></title>
+   <link>http://mno.hu/film/az-utolso-vetites-1307023?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Farkas Viktor</author>
+   <enclosure url="http://mno.hu/data/cikkek/1307/13070/cikk-1307023/Earl_grid2_fekvo_lead.jpg" length="52471" type="image/jpeg"/>
+   <description><![CDATA[Én, Earl és a csaj, aki meg fog halni: a Sundance nagydíjasa az elmúlás távoli lidércével riogatja különc középiskolásait.]]></description>
+   <category>Szuperplán</category>
+   <pubDate>Sat, 03 Oct 2015 09:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nem lehet elég későn kezdeni]]></title>
+   <link>http://mno.hu/film/nem-lehet-eleg-keson-kezdeni-1305889?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Farkas Viktor</author>
+   <enclosure url="http://mno.hu/data/cikkek/1305/13058/cikk-1305889/intern_grid2_fekvo_lead.jpg" length="53129" type="image/jpeg"/>
+   <description><![CDATA[Nancy Meyers szerethető dolgozatot kerekített De Niróék jutalomjátéka köré.]]></description>
+   <category>Szuperplán</category>
+   <pubDate>Fri, 25 Sep 2015 19:49:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kritikaírás: csak megélhetési hazárdjátékosoknak]]></title>
+   <link>http://mno.hu/grund/kritikairas-csak-megelhetesi-hazardjatekosoknak-1305366?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Farkas Viktor</author>
+   <enclosure url="http://mno.hu/data/cikkek/1305/13053/cikk-1305366/filmtekercs_grid2_fekvo_lead.jpg" length="60199" type="image/jpeg"/>
+   <description><![CDATA[A műítész Neil Young szerint a filmkritikus szakma olyan, mint egy oszlásban lévő zombi.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Tue, 22 Sep 2015 09:15:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az Útvesztő: Tűzpróba csak egy terjengős akciójelenet]]></title>
+   <link>http://mno.hu/film/az-utveszto-tuzproba-csak-egy-terjengos-akciojelenet-1305073?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Farkas Viktor</author>
+   <description><![CDATA[Két felvonás között: pelyhedzőbajszos akcióhősök tejszagú látványorgiája lett Az útvesztő: Tűzpróba.]]></description>
+   <category>Szuperplán</category>
+   <pubDate>Sat, 19 Sep 2015 17:02:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Öreg rocker (nem) vén rocker]]></title>
+   <link>http://mno.hu/grund/oreg-rocker-nem-ven-rocker-1303705?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Farkas Viktor</author>
+   <enclosure url="http://mno.hu/data/cikkek/1303/13037/cikk-1303705/Meryl_Streep_uj_fekvo_lead.jpg" length="83884" type="image/jpeg"/>
+   <description><![CDATA[Dübörög a szív: Mi történik, ha sok tehetséges csillagot összezárunk? Kioltják egymás fényét.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Sat, 12 Sep 2015 11:35:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Mexikóból a detoxba]]></title>
+   <link>http://mno.hu/film/mexikobol-a-detoxba-1303192?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Farkas Viktor</author>
+   <enclosure url="http://mno.hu/data/cikkek/1303/13031/cikk-1303192/Cake_grid2_fekvo_lead.jpg" length="38934" type="image/jpeg"/>
+   <description><![CDATA[Boldogság bármi áron: Jennifer Aniston az ötvenhez közel gyógyszermámorban igyekszik rehabilitálni karrierjét.]]></description>
+   <category>Szuperplán</category>
+   <pubDate>Sun, 06 Sep 2015 12:35:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hitman: az ész a fontos, nem a haj]]></title>
+   <link>http://mno.hu/grund/hitman-az-esz-a-fontos-nem-a-haj-1302874?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Farkas Viktor</author>
+   <enclosure url="http://mno.hu/data/cikkek/1302/13028/cikk-1302874/hitman1-gallery-image_uj_fekvo_lead.jpg" length="58314" type="image/jpeg"/>
+   <description><![CDATA[Alsópolcos zsánerdarabok pókhálós süllyesztője: a Hitman 2007 után újra szerencsét próbál a mozivásznon.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Thu, 03 Sep 2015 15:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kémek Trabantban]]></title>
+   <link>http://mno.hu/grund/kemek-trabantban-1302435?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Farkas Viktor</author>
+   <description><![CDATA[Guy Ritchie kémfilmje, Az U.N.C.L.E. embere üdeséget visz a pattogatott kukorica szagú vetítőtermekbe.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Mon, 31 Aug 2015 15:13:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

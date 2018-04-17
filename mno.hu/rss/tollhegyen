@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - rovat: Tollhegyen]]></title>
+  <link>http://mno.hu/tollhegyen</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 05:12:09 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Bakakesergő]]></title>
+   <link>http://mno.hu/tollhegyen/bakakesergo-1380970?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pilhál György</author>
+   <enclosure url="http://mno.hu/data/cikkek/1380/13804/cikk-1380402/tollhegyen.jpg" length="48178" type="image/jpeg"/>
+   <description><![CDATA[Országszerte várja a katonának jelentkezőket a Magyar Honvédség. ]]></description>
+   <category>Tollhegyen</category>
+   <pubDate>Fri, 13 Jan 2017 14:28:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Dilemma a Rubiconnál]]></title>
+   <link>http://mno.hu/tollhegyen/dilemma-a-rubiconnal-1380402?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pilhál György</author>
+   <enclosure url="http://mno.hu/data/cikkek/1380/13804/cikk-1380402/tollhegyen.jpg" length="48178" type="image/jpeg"/>
+   <description><![CDATA[A mai emléknap jó alkalmat kínál elmélyülésre a cézári pályával kacérkodóknak.]]></description>
+   <category>Tollhegyen</category>
+   <pubDate>Tue, 10 Jan 2017 14:53:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kesergő veteránok]]></title>
+   <link>http://mno.hu/tollhegyen/kesergo-veteranok-1380244?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pilhál György</author>
+   <enclosure url="http://mno.hu/data/cikkek/1380/13802/cikk-1380244/tollhegyen.jpg" length="48178" type="image/jpeg"/>
+   <description><![CDATA[Az amerikai veteránok visszailleszkedése a civil társadalomba sosem működött.]]></description>
+   <category>Tollhegyen</category>
+   <pubDate>Mon, 09 Jan 2017 13:30:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Börtönbuli]]></title>
+   <link>http://mno.hu/tollhegyen/bortonbuli-1380056?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pilhál György</author>
+   <enclosure url="http://mno.hu/data/cikkek/1380/13800/cikk-1380056/tollhegyen.jpg" length="48178" type="image/jpeg"/>
+   <description><![CDATA[A hazai büntetés-végrehajtási intézetekben is vidáman telt a szilveszter. ]]></description>
+   <category>Tollhegyen</category>
+   <pubDate>Sun, 08 Jan 2017 12:59:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Közszolgálati hideglelés]]></title>
+   <link>http://mno.hu/tollhegyen/kozszolgalati-hidegleles-1379830?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pilhál György</author>
+   <enclosure url="http://mno.hu/data/cikkek/1379/13798/cikk-1379830/tollhegyen.jpg" length="48178" type="image/jpeg"/>
+   <description><![CDATA[Ha szerencsénk van, a mai rádióműsorban csak az időjárástól kapunk hideglelést.]]></description>
+   <category>Tollhegyen</category>
+   <pubDate>Fri, 06 Jan 2017 14:10:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A Tiszánál]]></title>
+   <link>http://mno.hu/tollhegyen/a-tiszanal-1379443?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pilhál György</author>
+   <enclosure url="http://mno.hu/data/cikkek/1379/13794/cikk-1379443/tollhegyen.jpg" length="48178" type="image/jpeg"/>
+   <description><![CDATA[Az uniós pénz csak a folyó „helyreállításáért” jár.]]></description>
+   <category>Tollhegyen</category>
+   <pubDate>Wed, 04 Jan 2017 14:05:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Egy másik Ágnes asszony]]></title>
+   <link>http://mno.hu/tollhegyen/egy-masik-agnes-asszony-1379240?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pilhál György</author>
+   <enclosure url="http://mno.hu/data/cikkek/1379/13792/cikk-1379240/tollhegyen.jpg" length="48178" type="image/jpeg"/>
+   <description><![CDATA[Az MSZP budapesti elnök asszonyának előadása kenterbe verte az esti programok szellemtelen produkcióit.]]></description>
+   <category>Tollhegyen</category>
+   <pubDate>Tue, 03 Jan 2017 14:35:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Csak hivatalból hörögtek]]></title>
+   <link>http://mno.hu/tollhegyen/csak-hivatalbol-horogtek-1379048?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pilhál György</author>
+   <enclosure url="http://mno.hu/data/cikkek/1379/13790/cikk-1379048/tollhegyen.jpg" length="48178" type="image/jpeg"/>
+   <description><![CDATA[Elsőre több szocialista vezető is felhördült Havas Szófia nyilatkozatán.]]></description>
+   <category>Tollhegyen</category>
+   <pubDate>Mon, 02 Jan 2017 15:23:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Mentőkérdés]]></title>
+   <link>http://mno.hu/tollhegyen/mentokerdes-1378721?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pilhál György</author>
+   <enclosure url="http://mno.hu/data/cikkek/1378/13787/cikk-1378721/tollhegyen.jpg" length="48178" type="image/jpeg"/>
+   <description><![CDATA[Innen üzenjük: „Kolléganőnk – dacára az OMSZ-nek – jobban van. És önök?”]]></description>
+   <category>Tollhegyen</category>
+   <pubDate>Fri, 30 Dec 2016 14:28:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Vigyázat, ingyenszűrés!]]></title>
+   <link>http://mno.hu/tollhegyen/vigyazat-ingyenszures-1378458?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pilhál György</author>
+   <enclosure url="http://mno.hu/data/cikkek/1378/13784/cikk-1378458/tollhegyen.jpg" length="48178" type="image/jpeg"/>
+   <description><![CDATA[Markosabb műtősfiúk „elbeszélgethetnének” ezekkel az állapotfelmérős kalmárokkal.]]></description>
+   <category>Tollhegyen</category>
+   <pubDate>Wed, 28 Dec 2016 13:41:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Jeruzsálemi anziksz]]></title>
+   <link>http://mno.hu/tollhegyen/jeruzsalemi-anziksz-1378309?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pilhál György</author>
+   <enclosure url="http://mno.hu/data/cikkek/1378/13783/cikk-1378309/tollhegyen.jpg" length="48178" type="image/jpeg"/>
+   <description><![CDATA[Betlehemben idén az izraeli biztonsági erők is bekapcsolódtak a karácsonyi eseményekbe.]]></description>
+   <category>Tollhegyen</category>
+   <pubDate>Tue, 27 Dec 2016 15:05:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nemhogy örvendeznénk]]></title>
+   <link>http://mno.hu/tollhegyen/nemhogy-orvendeznenk-1378021?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pilhál György</author>
+   <enclosure url="http://mno.hu/data/cikkek/1378/13780/cikk-1378021/tollhegyen.jpg" length="48178" type="image/jpeg"/>
+   <description><![CDATA[A karácsonyi cikk nem olyan, mint a többi.]]></description>
+   <category>Tollhegyen</category>
+   <pubDate>Sat, 24 Dec 2016 12:40:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Most Botkában bíznak]]></title>
+   <link>http://mno.hu/tollhegyen/most-botkaban-biznak-1377911?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pilhál György</author>
+   <enclosure url="http://mno.hu/data/cikkek/1377/13779/cikk-1377911/tollhegyen.jpg" length="48178" type="image/jpeg"/>
+   <description><![CDATA[Legújabban Botka László szegedi polgármesterben véli megtalálni 2018-as miniszterelnök-jelöltjét az MSZP.]]></description>
+   <category>Tollhegyen</category>
+   <pubDate>Fri, 23 Dec 2016 15:55:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Vízöntő a negyedikről]]></title>
+   <link>http://mno.hu/tollhegyen/vizonto-a-negyedikrol-1377735?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pilhál György</author>
+   <enclosure url="http://mno.hu/data/cikkek/1377/13777/cikk-1377735/tollhegyen.jpg" length="48178" type="image/jpeg"/>
+   <description><![CDATA[Nyelvében él a nemzet.]]></description>
+   <category>Tollhegyen</category>
+   <pubDate>Thu, 22 Dec 2016 14:44:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szédítők, szédíthetők]]></title>
+   <link>http://mno.hu/tollhegyen/szeditok-szedithetok-1377557?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pilhál György</author>
+   <enclosure url="http://mno.hu/data/cikkek/1377/13775/cikk-1377557/tollhegyen.jpg" length="48178" type="image/jpeg"/>
+   <description><![CDATA[Aki azt gondolná, szétszéledtek a hazai bűbájosok, az téved.]]></description>
+   <category>Tollhegyen</category>
+   <pubDate>Wed, 21 Dec 2016 15:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szellemi sasmadár]]></title>
+   <link>http://mno.hu/tollhegyen/szellemi-sasmadar-1377383?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pilhál György</author>
+   <enclosure url="http://mno.hu/data/cikkek/1377/13773/cikk-1377383/tollhegyen.jpg" length="48178" type="image/jpeg"/>
+   <description><![CDATA[Talán a jellem és a bátorság nem tükre a szellemi állapotnak?]]></description>
+   <category>Tollhegyen</category>
+   <pubDate>Tue, 20 Dec 2016 15:35:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Adótrükk a NAV-telepen]]></title>
+   <link>http://mno.hu/tollhegyen/adotrukk-a-nav-telepen-1376758?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pilhál György</author>
+   <enclosure url="http://mno.hu/data/cikkek/1376/13767/cikk-1376758/tollhegyen.jpg" length="48178" type="image/jpeg"/>
+   <description><![CDATA[Ki finánc bajszát huzigálja, veszedelmet hoz magára.]]></description>
+   <category>Tollhegyen</category>
+   <pubDate>Fri, 16 Dec 2016 15:33:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szociális kiskarácsony]]></title>
+   <link>http://mno.hu/tollhegyen/szocialis-kiskaracsony-1376568?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pilhál György</author>
+   <enclosure url="http://mno.hu/data/cikkek/1376/13765/cikk-1376568/tollhegyen.jpg" length="48178" type="image/jpeg"/>
+   <description><![CDATA[Az adóhivatalnál nincs megállás, a hírek szerint még karácsony másnapján, 26-án is dolgoznak szegények.]]></description>
+   <category>Tollhegyen</category>
+   <pubDate>Thu, 15 Dec 2016 16:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Dinnyeper]]></title>
+   <link>http://mno.hu/tollhegyen/dinnyeper-1375470?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pilhál György</author>
+   <enclosure url="http://mno.hu/data/cikkek/1375/13754/cikk-1375470/tollhegyen.jpg" length="48178" type="image/jpeg"/>
+   <description><![CDATA[Minden jel arra utal, hogy dinnyeügyben a hatóság nem ismer tréfát.]]></description>
+   <category>Tollhegyen</category>
+   <pubDate>Thu, 08 Dec 2016 15:53:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Simon egyre ártatlanabb]]></title>
+   <link>http://mno.hu/tollhegyen/simon-egyre-artatlanabb-1375206?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pilhál György</author>
+   <enclosure url="http://mno.hu/data/cikkek/1375/13752/cikk-1375206/tollhegyen.jpg" length="48178" type="image/jpeg"/>
+   <description><![CDATA[Elnézve a fölpaprikázott Simont, még a végén mi húzzuk a rövidebbet.]]></description>
+   <category>Tollhegyen</category>
+   <pubDate>Wed, 07 Dec 2016 14:02:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Közérzetjavítás Szegeden]]></title>
+   <link>http://mno.hu/tollhegyen/kozerzetjavitas-szegeden-1374482?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pilhál György</author>
+   <enclosure url="http://mno.hu/data/cikkek/1374/13744/cikk-1374482/tollhegyen.jpg" length="48178" type="image/jpeg"/>
+   <description><![CDATA[Vajon hallottak-e már a trükkös „gyógyászokról” odafönt? És terveznek-e valami terápiát?]]></description>
+   <category>Tollhegyen</category>
+   <pubDate>Fri, 02 Dec 2016 21:14:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Vasasalkony]]></title>
+   <link>http://mno.hu/tollhegyen/vasasalkony-1374010?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pilhál György</author>
+   <enclosure url="http://mno.hu/data/cikkek/1374/13740/cikk-1374010/tollhegyen.jpg" length="48178" type="image/jpeg"/>
+   <description><![CDATA[Áthidaló javaslatom a kigyógyíthatatlan „vasasoknak”.]]></description>
+   <category>Tollhegyen</category>
+   <pubDate>Wed, 30 Nov 2016 15:35:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Házkutatás]]></title>
+   <link>http://mno.hu/tollhegyen/hazkutatas-1373071?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pilhál György</author>
+   <enclosure url="http://mno.hu/data/cikkek/1373/13730/cikk-1373071/tollhegyen.jpg" length="48178" type="image/jpeg"/>
+   <description><![CDATA[Az ember nem dicsekszik, ha történetesen enyveskezű bejárónővel hozta össze a sors.]]></description>
+   <category>Tollhegyen</category>
+   <pubDate>Thu, 24 Nov 2016 15:58:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Volt szabály, csak kikerülték]]></title>
+   <link>http://mno.hu/tollhegyen/volt-szabaly-csak-kikerultek-1372857?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pilhál György</author>
+   <enclosure url="http://mno.hu/data/cikkek/1372/13728/cikk-1372857/tollhegyen.jpg" length="48178" type="image/jpeg"/>
+   <description><![CDATA[Az Európai Bíróság nemrég meghozott hitelszerződéses döntésének az az érdekessége, hogy nincs benne semmi új.]]></description>
+   <category>Tollhegyen</category>
+   <pubDate>Wed, 23 Nov 2016 14:08:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az elmaradt csengőszó]]></title>
+   <link>http://mno.hu/tollhegyen/az-elmaradt-csengoszo-1372721?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pilhál György</author>
+   <enclosure url="http://mno.hu/data/cikkek/1372/13727/cikk-1372721/tollhegyen.jpg" length="48178" type="image/jpeg"/>
+   <description><![CDATA[Ha a „forradalom olimpiája” (Mel­bourne, 1956) szóba kerül, mindig eszembe jut Iharos Sándor, a csodafutó.]]></description>
+   <category>Tollhegyen</category>
+   <pubDate>Tue, 22 Nov 2016 16:16:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A vacsora­csata zaja]]></title>
+   <link>http://mno.hu/tollhegyen/a-vacsoracsata-zaja-1372050?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pilhál György</author>
+   <enclosure url="http://mno.hu/data/cikkek/1372/13720/cikk-1372050/tollhegyen.jpg" length="48178" type="image/jpeg"/>
+   <description><![CDATA[Miért kellene Donald Trumpnak minden lépéséről értesítenie a sajtót?]]></description>
+   <category>Tollhegyen</category>
+   <pubDate>Fri, 18 Nov 2016 15:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[„Forradalmi, munkás, paraszt…”]]></title>
+   <link>http://mno.hu/tollhegyen/forradalmi-munkas-paraszt-1371275?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pilhál György</author>
+   <enclosure url="http://mno.hu/data/cikkek/1371/13712/cikk-1371275/tollhegyen.jpg" length="48178" type="image/jpeg"/>
+   <description><![CDATA[Bár a harcok véget értek 1956 novemberének közepére, Kádár János bábkormánya mégsem érezhette jól magát.]]></description>
+   <category>Tollhegyen</category>
+   <pubDate>Mon, 14 Nov 2016 15:52:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A pizzázást is lefújták]]></title>
+   <link>http://mno.hu/tollhegyen/a-pizzazast-is-lefujtak-1371163?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pilhál György</author>
+   <enclosure url="http://mno.hu/data/cikkek/1371/13711/cikk-1371163/tollhegyen.jpg" length="48178" type="image/jpeg"/>
+   <description><![CDATA[Iskolába sem mentek a voksolás másnapján. Idő kell ahhoz, hogy feldolgozzák Clinton vereségét.]]></description>
+   <category>Tollhegyen</category>
+   <pubDate>Sun, 13 Nov 2016 11:17:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Balsors tépi őket]]></title>
+   <link>http://mno.hu/tollhegyen/balsors-tepi-oket-1369968?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pilhál György</author>
+   <enclosure url="http://mno.hu/data/cikkek/1369/13699/cikk-1369968/tollhegyen.jpg" length="48178" type="image/jpeg"/>
+   <description><![CDATA[„Csak 500 napot kell kibírniuk együtt” a baloldali pártoknak, de az is kérdés, hogy az elsőig eljutnak-e.]]></description>
+   <category>Tollhegyen</category>
+   <pubDate>Sat, 05 Nov 2016 15:04:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szívélyes, baráti baki]]></title>
+   <link>http://mno.hu/tollhegyen/szivelyes-barati-baki-1369845?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pilhál György</author>
+   <enclosure url="http://mno.hu/data/cikkek/1369/13698/cikk-1369845/tollhegyen.jpg" length="48178" type="image/jpeg"/>
+   <description><![CDATA[Valaki alighanem átverte az ukrán vezetőt.]]></description>
+   <category>Tollhegyen</category>
+   <pubDate>Fri, 04 Nov 2016 16:23:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

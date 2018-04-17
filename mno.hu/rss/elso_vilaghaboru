@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - rovat: I. világháború]]></title>
+  <link>http://mno.hu/elso_vilaghaboru</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Wed, 11 Apr 2018 08:45:39 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Emlékművet állítanak az első világháború hőseinek]]></title>
+   <link>http://mno.hu/elso_vilaghaboru/emlekmuvet-allitanak-az-elso-vilaghaboru-hoseinek-1290573?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <description><![CDATA[Budapesti emlékmű felállításáról döntött a kormány.]]></description>
+   <category>I. világháború</category>
+   <pubDate>Fri, 12 Jun 2015 22:51:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Vetítéssorozat az Uránia moziban]]></title>
+   <link>http://mno.hu/elso_vilaghaboru/vetitessorozat-az-urania-moziban-1253224?utm_source=feed&amp;utm_medium=rss</link>
+   <author>LR</author>
+   <description><![CDATA[Az első világháborút feldolgozó filmalkotásokat felvonultató vetítéssorozatot szervez havonta az Uránia Nemzeti Filmszínház Csortos termében. ]]></description>
+   <category>I. világháború</category>
+   <pubDate>Tue, 14 Oct 2014 12:18:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Háború a balkáni Risorgimentóért]]></title>
+   <link>http://mno.hu/elso_vilaghaboru/haboru-a-balkani-risorgimentoert-1240041?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ligeti Dávid PhD</author>
+   <description><![CDATA[Az I. világháború kitörésének körülményeiről, valamint a politikai háttérről tudhatunk meg többet. ]]></description>
+   <category>I. világháború</category>
+   <pubDate>Thu, 31 Jul 2014 11:32:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

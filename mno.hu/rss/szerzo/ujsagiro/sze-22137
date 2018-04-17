@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: SzE.]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/sze-22137</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 19:53:11 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Aranyárban is napok alatt elkapkodják az albérleteket]]></title>
+   <link>http://mno.hu/ingatlan/aranyarban-is-napok-alatt-elkapkodjak-az-alberleteket-1358291?utm_source=feed&amp;utm_medium=rss</link>
+   <author>SzE.</author>
+   <enclosure url="http://mno.hu/data/cikkek/1358/13582/cikk-1358291/alberlet_NBB_20070828_5425_uj_fekvo_lead_grid2_fekvo_lead.jpg" length="52743" type="image/jpeg"/>
+   <description><![CDATA[A leggyorsabban a paneleket lehet kiadni, de gyakorlatilag semmi nem marad sokáig a piacon. ]]></description>
+   <category>Két szoba, hall</category>
+   <pubDate>Tue, 23 Aug 2016 20:22:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Egyre több befektető vesz lakást hitelből]]></title>
+   <link>http://mno.hu/gazdasag/egyre-tobb-befekteto-vesz-lakast-hitelbol-1277942?utm_source=feed&amp;utm_medium=rss</link>
+   <author>SzE.</author>
+   <description><![CDATA[Ma minden harmadik-negyedik ingatlanvásárló befektetési céllal vesz lakást. Az alacsony kamatok miatt újabban többet is.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Thu, 19 Mar 2015 11:38:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

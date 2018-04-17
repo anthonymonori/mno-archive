@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Sarnyai Gábor]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/sarnyai-gabor-22064</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 12:03:42 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Cseberből vederbe: az állami központosítás sem tett jót a felnőttképzésnek]]></title>
+   <link>http://mno.hu/gazdasag/cseberbol-vederbe-az-allami-kozpontositas-sem-tett-jot-a-felnottkepzesnek-2445098?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sarnyai Gábor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2445/24450/cikk-2445098/NBB_20170214_5927.jpg" length="255470" type="image/jpeg"/>
+   <description><![CDATA[Továbbra is rengeteg pénz megy el fölösleges, ellenőrizhetetlen képzésekre. ]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Mon, 12 Feb 2018 16:38:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Határon túl]]></title>
+   <link>http://mno.hu/velemeny/hataron-tul-2442120?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sarnyai Gábor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2442/24421/cikk-2442120/D_MTI20170212103x_tudose.jpg" length="248829" type="image/jpeg"/>
+   <description><![CDATA[A magyar nemzetpolitika általában akkor csinál botrányt valamiből, amikor nem kellene.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Tue, 23 Jan 2018 11:21:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nem divat az élethosszig tartó tanulás, de az állam se ösztönöz rá]]></title>
+   <link>http://mno.hu/gazdasag/nem-divat-az-elethosszig-tarto-tanulas-de-az-allam-se-osztonoz-ra-2440205?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sarnyai Gábor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2440/24402/cikk-2440205/NBB_20170214_5931.jpg" length="252655" type="image/jpeg"/>
+   <description><![CDATA[Magyarországon nehéz karriert váltani, új szakmát tanulni, ráadásul színvonalas képzésen részt venni.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Mon, 15 Jan 2018 19:26:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szellemnegyedre is futotta Mórahalmon]]></title>
+   <link>http://mno.hu/gazdasag/szellemnegyedre-is-futotta-morahalmon-2436435?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sarnyai Gábor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2436/24364/cikk-2436435/20171223_NBB7515.jpg" length="431061" type="image/jpeg"/>
+   <description><![CDATA[A sikeres pénzszórás valóságos mementója az a létesítmény, amely a fideszes mintatelepülés szélén található. ]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Thu, 28 Dec 2017 05:52:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Lehetne mindenkinek akár 100 szavazata, talán még a gyerekeknek is]]></title>
+   <link>http://mno.hu/belfold/lehetne-mindenkinek-akar-100-szavazata-talan-meg-a-gyerekeknek-is-2427520?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sarnyai Gábor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2427/24275/cikk-2427520/BD20161002_1870.jpg" length="497313" type="image/jpeg"/>
+   <description><![CDATA[Mi legyen azokkal, akik szavaznának ugyan, de nem tudnak kire? És a nagycsaládok tényleg kapjanak plusz szavazati jogot? ]]></description>
+   <category>Belföld</category>
+   <pubDate>Fri, 24 Nov 2017 13:13:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Otthonról dolgoznánk, de a főnök nem engedi]]></title>
+   <link>http://mno.hu/gazdasag/otthonrol-dolgoznank-de-a-fonok-nem-engedi-2428711?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sarnyai Gábor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2428/24287/cikk-2428711/SZB20121030_1804.jpg" length="250969" type="image/jpeg"/>
+   <description><![CDATA[Bár egyre többen szeretnének távmunkában dolgozni, idehaza még csak kevés vállalat támogatja.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Mon, 20 Nov 2017 10:12:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Informatikus kerestetik, de nem mindegy, hogy milyen!]]></title>
+   <link>http://mno.hu/gazdasag/informatikus-kerestetik-de-nem-mindegy-hogy-milyen-2427088?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sarnyai Gábor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2427/24270/cikk-2427088/65501900_l.jpg" length="250014" type="image/jpeg"/>
+   <description><![CDATA[Az ágazat leginkább a programozók hiányától szenved, de az állam rendszergazdák képzésére költi a pénzt.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Mon, 13 Nov 2017 12:33:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Párhuzamos valóságok: vajon miért drága a magyar lakáshitel? ]]></title>
+   <link>http://mno.hu/gazdasag/parhuzamos-valosagok-a-lakashitellel-kapcsolatban-vajon-miert-draga-a-magyar-hitel-2408201?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sarnyai Gábor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2408/24082/cikk-2408201/szb20090610_1702.jpg" length="229070" type="image/jpeg"/>
+   <description><![CDATA[Megpróbáltunk utánajárni, hogy sokba kerülnek-e a magyar lakáshitelek. És ha igen, akkor annak mi az oka. ]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Mon, 24 Jul 2017 10:53:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Orbán Lukasenkával is találkozik Szerbiában]]></title>
+   <link>http://mno.hu/kulfold/orban-lukasenkaval-is-talalkozik-szerbiaban-2399719?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sarnyai Gábor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2399/23997/cikk-2399719/K_EPA20161121215.jpg" length="481912" type="image/jpeg"/>
+   <description><![CDATA[A magyar kormány nem dicsekszik a találkozóval, a szerb államfő azonban elszólta magát. ]]></description>
+   <category>Külföld</category>
+   <pubDate>Fri, 19 May 2017 20:45:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Embercsempész mikrobuszt kapcsolhattak le a rendőrök Budapesten]]></title>
+   <link>http://mno.hu/bunugy_baleset/embercsempesz-mikrobuszt-kapcsoltak-le-a-rendorok-budapesten-1293035?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sarnyai Gábor</author>
+   <description><![CDATA[Körülbelül három órán át tartott a helyszínelés a VIII. kerületben.]]></description>
+   <category>Bűnügy és baleset</category>
+   <pubDate>Tue, 30 Jun 2015 14:25:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Semmit sem ér a határzár?]]></title>
+   <link>http://mno.hu/belfold/nagyon-draga-lesz-es-lehet-hogy-semmit-sem-er-a-hatarzar-1291218?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sarnyai Gábor</author>
+   <description><![CDATA[Veszélyes, költséges és haszontalan lehet a szerb határon felhúzandó kerítés vagy fal – ezt mutatják a nemzetközi példák, és így véli a szakértő.]]></description>
+   <category>Belföld</category>
+   <pubDate>Thu, 18 Jun 2015 19:30:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hónapokig hányódnak, kőkemény maffiózókkal üzletelnek]]></title>
+   <link>http://mno.hu/belfold/a-menekultek-akiknek-sikerult-eljutniuk-becsig-1290009?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sarnyai Gábor</author>
+   <description><![CDATA[Nehéz lenne megmondani, hogyan fest egy átlagos ausztriai menekülttábor. Mi minden bizonnyal most egy átlagon felülire bukkantunk a szlovén határ mellett.]]></description>
+   <category>Belföld</category>
+   <pubDate>Thu, 11 Jun 2015 17:56:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Újpesten előkerültek a Marx- és a Lenin-képek]]></title>
+   <link>http://mno.hu/belfold/ujpestre-koltozott-a-munkaspart-1286458?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sarnyai Gábor</author>
+   <description><![CDATA[A rendezvényen összegyűltek a világ proletárjai.]]></description>
+   <category>Belföld</category>
+   <pubDate>Fri, 15 May 2015 19:03:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Menekülttáborrá válhat a Délvidék]]></title>
+   <link>http://mno.hu/hatarontul/menekulttaborra-valtozhat-a-delvidek-1285730?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sarnyai Gábor</author>
+   <description><![CDATA[Szerbiában, Magyarkanizsán jártunk. A Tisza-parti kisvárosba özönlenek a menekültek. Az unióból kiutasított migránsok is itt találnak menedéket.]]></description>
+   <category>Határon túl</category>
+   <pubDate>Tue, 12 May 2015 19:24:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Magyarországról indulnak az új európai állam megalapítására]]></title>
+   <link>http://mno.hu/kulfold/magyarorszagrol-veszik-be-liberlandot-1284899?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sarnyai Gábor</author>
+   <description><![CDATA[Budapesten tartottak találkozót Liberland jövendőbeli állampolgárai. Hétvégén szeretnének partra szállni az általuk alapítandó országban, és a magyaroktól „naszádot” kérnek.]]></description>
+   <category>Külföld</category>
+   <pubDate>Wed, 06 May 2015 16:48:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Megyesy: Nem voltam zsoldos, engem behívtak szolgálatra]]></title>
+   <link>http://mno.hu/kulfold/negy-honap-kikepzes-utan-egyenesen-vietnamba-mentek-1283964?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sarnyai Gábor</author>
+   <description><![CDATA[Dr. Megyesy Jenő híradósként szolgált a harctéren. Ma itthon, a miniszterelnök tanácsadójaként dolgozik. Interjú. ]]></description>
+   <category>Külföld</category>
+   <pubDate>Sat, 02 May 2015 13:20:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Slavoj Zizek: bohóc vagy látnok?]]></title>
+   <link>http://mno.hu/kulfold/slavoj-zizek-bohoc-vagy-latnok-1281596?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sarnyai Gábor</author>
+   <description><![CDATA[Az angolszász világ igencsak felkapta, Magyarországon keveset tudunk róla. Ki is valójában a szlovén Slavoj Zizek, a marxista popfilozófus?]]></description>
+   <category>Külföld</category>
+   <pubDate>Sun, 19 Apr 2015 20:22:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Bedönti-e az atomegyezséget a kongresszus?]]></title>
+   <link>http://mno.hu/kulfold/bedonti-e-az-atomegyezseget-a-kongresszus-1282155?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sarnyai Gábor</author>
+   <description><![CDATA[Úgy tűnik, inkább csak megnehezíti az amerikai elnök dolgát.]]></description>
+   <category>Külföld</category>
+   <pubDate>Fri, 17 Apr 2015 16:40:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Sokkal drágább a mobiltelefonálás Magyarországon, mint a környező országokban ]]></title>
+   <link>http://mno.hu/fogyasztovedelem/sokkal-dragabb-a-mobiltelefonalas-magyarorszagon-mint-a-kornyezo-orszagokban-1280068?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sarnyai Gábor</author>
+   <description><![CDATA[Három szomszédos ország árait vetettük össze a magyarokkal.]]></description>
+   <category>Fogyasztóvédelem</category>
+   <pubDate>Mon, 13 Apr 2015 12:54:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Magyar fejlesztés: jöhet az égetés nélküli fűtés]]></title>
+   <link>http://mno.hu/gazdasag/eges-nelkul-is-lehet-meleget-termelni-csak-kell-hozza-komposztkazan-1278202?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sarnyai Gábor</author>
+   <description><![CDATA[Mit kezdhetünk a háztáji szerves hulladékainkkal és a mezőgazdasági melléktermékeinkkel? A válasz egyszerű: készítsünk komposztot és akár a fűtésköltségeinken is csökkenthetünk.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Sun, 29 Mar 2015 15:13:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Pénzbüntetés járhat az Uber használatáért]]></title>
+   <link>http://mno.hu/gazdasag/az-ubert-egyre-tobb-orszagban-tiltjak-be-1279296?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sarnyai Gábor</author>
+   <description><![CDATA[Az Uber többfrontos háborút vív a világ számos kormányzatával. Hogy ki nyer, az még kétséges. Ám a cég a tiltások ellenére továbbra is óriási hasznot hoz.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Sun, 29 Mar 2015 11:24:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Új trend Szerbiában: ezrével akarnak „magyarok” lenni]]></title>
+   <link>http://mno.hu/hatarontul/szerbiaban-nagyon-nepszeru-lett-a-magyar-nyelv-1277044?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sarnyai Gábor</author>
+   <description><![CDATA[Új trend született Szerbiában: ezrével akarnak „magyarok” lenni, és már tanulják a nyelvet is.]]></description>
+   <category>Határon túl</category>
+   <pubDate>Tue, 17 Mar 2015 12:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Párizsban regulázták meg először az internetes cégóriást]]></title>
+   <link>http://mno.hu/gazdasag/az-airbnb-letarolta-a-vilag-szallodaiparat-1276760?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sarnyai Gábor</author>
+   <description><![CDATA[Az internetes szállásfoglalási rendszer már több országban is kiverte a biztosítékot. Párizsban értek el először eredményt a cég megregulázásában.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Wed, 11 Mar 2015 20:36:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Magyar sírokat is rejtenek a donecki bányák]]></title>
+   <link>http://mno.hu/hatarontul/magyar-sirokat-is-rejtenek-a-donecki-banyak-1276022?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sarnyai Gábor</author>
+   <description><![CDATA[Már nagyon sok embert temettek maguk alá. Nem csak múlt heti omlás követelt áldozatokat, a térség a magyarságnak is tragikus helyszíne. ]]></description>
+   <category>Határon túl</category>
+   <pubDate>Tue, 10 Mar 2015 19:30:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Amerikai mesterlövész: a szürkének is elég sok hely marad]]></title>
+   <link>http://mno.hu/kulfold/kinn-a-barany-benn-a-farkas-1274112?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sarnyai Gábor</author>
+   <description><![CDATA[Megnéztük a filmet, elolvastuk a könyvet: sok kérdés merült fel. Elsősorban az, vajon hogyan lehet 2015-ben Chris Kyle példakép.]]></description>
+   <category>Külföld</category>
+   <pubDate>Mon, 23 Feb 2015 09:14:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

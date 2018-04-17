@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Kovács András - Tompos Ádám]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/kovacs-andras-tompos-adam-2760</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Sat, 14 Apr 2018 18:37:22 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Bankkártyát hamisított a népszavás szoci „leleplező"]]></title>
+   <link>http://mno.hu/belfold/bankkartyat-hamisitott-a-nepszavas-szoci-leleplezo-1051969?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kovács András - Tompos Ádám</author>
+   <description><![CDATA[Bankkártyával való csalás miatt ítélték börtönre még 2009-ben Németh Gábort, aki korábban az MSZP ifjúsági szervezetének fővárosi alelnöke volt.  ]]></description>
+   <category>Belföld</category>
+   <pubDate>Wed, 15 Feb 2012 13:30:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Orbán: Senkit nem hagyunk az út szélén ]]></title>
+   <link>http://mno.hu/belfold/orban-senkit-nem-hagyunk-az-ut-szelen-3094?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kovács András - Tompos Ádám</author>
+   <description><![CDATA[Az évek óta tartó válság aligha orvosolható a jelenlegi keretek között – hívta fel a figyelmet Orbán Viktor egy pénteki kongresszuson.]]></description>
+   <category>Belföld</category>
+   <pubDate>Fri, 07 Oct 2011 15:34:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

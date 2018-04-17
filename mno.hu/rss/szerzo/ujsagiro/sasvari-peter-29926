@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Sasvári Péter]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/sasvari-peter-29926</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Wed, 11 Apr 2018 09:55:54 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Magyar Titanic(ok): a Drina és Sophie]]></title>
+   <link>http://mno.hu/hetvegimagazin/magyar-titanicok-a-drina-es-sophie-2458497?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sasvári Péter</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24584/cikk-2458497/Untitled_1.jpg" length="454221" type="image/jpeg"/>
+   <description><![CDATA[Április 7-én volt az évfordulója egy kevésbé ismert, magyar vonatkozású hajókatasztrófának.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Mon, 09 Apr 2018 12:57:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A letelepedési kötvénnyel hazánkban élő szír bűnözők otthonánál jártunk]]></title>
+   <link>http://mno.hu/belfold/a-letelepedesi-kotvennyel-hazankban-elo-szir-bunozok-otthonanal-jartunk-2456703?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Molnár Richárd, Sasvári Péter</author>
+   <enclosure url="http://mno.hu/data/cikkek/2456/24567/cikk-2456703/01.jpg" length="123182" type="image/jpeg"/>
+   <description><![CDATA[Pesterzsébet, Valéria utca. Itt él évek óta az elfogott férfi és népes családja. A kormányzati kötvényprogram miatt lehetett az országban.]]></description>
+   <category>Belföld</category>
+   <pubDate>Wed, 28 Mar 2018 20:23:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Fagyhalál: ködösít a kormány, a szociális fórum 185 áldozatról tud]]></title>
+   <link>http://mno.hu/belfold/fagyhalal-kodosit-a-kormany-a-szocialis-forum-185-aldozatrol-tud-2452088?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sasvári Péter</author>
+   <enclosure url="http://mno.hu/data/cikkek/2452/24520/cikk-2452088/DBZOL20180225002.jpg" length="603101" type="image/jpeg"/>
+   <description><![CDATA[Nyomják a sikerpropagandát a vörös kódról, a pontos adatokat viszont gondosan titkolja a humántárca.]]></description>
+   <category>Belföld</category>
+   <pubDate>Wed, 07 Mar 2018 17:15:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Negyven ember lélegeztetőgépen – nem a madárinfluenza támad]]></title>
+   <link>http://mno.hu/belfold/negyven-ember-lelegeztetogepen-nem-a-madarinfluenza-tamad-2451792?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sasvári Péter</author>
+   <enclosure url="http://mno.hu/data/cikkek/2451/24517/cikk-2451792/EA20060616_3238.jpg" length="203237" type="image/jpeg"/>
+   <description><![CDATA[A H1, vagyis az influenza A vírusának H1 típusa okozta egy középkorú férfi halálát a sátoraljaújhelyi kórházban.]]></description>
+   <category>Belföld</category>
+   <pubDate>Tue, 06 Mar 2018 16:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A temetkezési cég dolgozói kampányolnak a Fidesznek Esztergomban]]></title>
+   <link>http://mno.hu/belfold/a-temetkezesi-ceg-dolgozoi-kampanyolnak-a-fidesznek-esztergomban-2450877?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sasvári Péter</author>
+   <enclosure url="http://mno.hu/data/cikkek/2450/24508/cikk-2450877/NBB_20130502_9495.jpg" length="194586" type="image/jpeg"/>
+   <description><![CDATA[Állítólag az önkormányzati társaság alkalmazottai gyűjtenek aláírást Völner Pálnak. A helyi ellenzék nem tud róla.]]></description>
+   <category>Belföld</category>
+   <pubDate>Fri, 02 Mar 2018 07:44:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Novák Katalin úgy véli, hogy a fideszes politikusok nem arrogánsak]]></title>
+   <link>http://mno.hu/belfold/novak-katalin-szerint-a-fideszes-politikusok-nem-arrogansok-2450377?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sasvári Péter</author>
+   <enclosure url="http://mno.hu/data/cikkek/2450/24503/cikk-2450377/szb20160118_3481.jpg" length="265260" type="image/jpeg"/>
+   <description><![CDATA[Az államtitkár úgy véli, a választókra való oda nem figyelés nem jellemzi a nagyobbik kormánypártot.]]></description>
+   <category>Belföld</category>
+   <pubDate>Wed, 28 Feb 2018 07:15:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Stumpf András]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/stumpf-andras-13022</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Sat, 14 Apr 2018 17:31:00 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Tiszteld a nememet!]]></title>
+   <link>http://mno.hu/hetvegimagazin/tiszteld-a-nememet-1289833?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Stumpf András</author>
+   <description><![CDATA[„A nemed a te dolgod. Nekem csak tisztelnem kell” – írta nemrég például Colleen Bell is. ]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Thu, 11 Jun 2015 13:47:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Lélek? Ugyan már!]]></title>
+   <link>http://mno.hu/hetvegimagazin/lelek-ugyan-mar-1282677?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Stumpf András</author>
+   <description><![CDATA[A lélekvesztés egyáltalán nem fél éve történt. Sokkal régebben. Tizenhárom éve, a bukott választás után.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Mon, 20 Apr 2015 13:44:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Fül nélkül nem megy]]></title>
+   <link>http://mno.hu/migr_1834/ful_nelkul_nem_megy-204596?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Stumpf András</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Sun, 21 Nov 2010 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Jobb, mint az eredeti]]></title>
+   <link>http://mno.hu/migr_1834/jobb_mint_az_eredeti-196429?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Stumpf András</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Fri, 22 Oct 2010 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Tükröt tudott tartani]]></title>
+   <link>http://mno.hu/migr_1834/tukrot_tudott_tartani-223442?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Stumpf András</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 28 Sep 2010 00:00:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

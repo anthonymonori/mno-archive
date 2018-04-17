@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Ujváry Gábor]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/ujvary-gabor-22746</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Fri, 13 Apr 2018 01:32:57 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Hóman és az antiszemitizmus]]></title>
+   <link>http://mno.hu/hetvegimagazin/homan-es-antiszemitizmus-1305438?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ujváry Gábor</author>
+   <enclosure url="http://mno.hu/data/cikkek/1305/13054/cikk-1305438/Homan_Balint_uj_fekvo_lead.jpg" length="60875" type="image/jpeg"/>
+   <description><![CDATA[Antiszemita volt-e Hóman Bálint? Ujváry Gábor válasza Kovács M. Mária cikkére.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Tue, 22 Sep 2015 14:32:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hómant még a népbíróság sem illette ilyen súlyos vádakkal]]></title>
+   <link>http://mno.hu/hetvegimagazin/homant-meg-a-nepbirosag-sem-illette-olyan-sulyos-vadakkal-mint-mai-biraloi-1297119?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ujváry Gábor</author>
+   <description><![CDATA[Rég vitatkoztak annyit magyar historikusról, mint Hóman Bálintról.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Mon, 27 Jul 2015 08:35:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

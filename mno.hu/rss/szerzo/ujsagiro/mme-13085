@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: MME]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/mme-13085</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Fri, 13 Apr 2018 05:19:24 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[2014 év madara a túzok]]></title>
+   <link>http://mno.hu/korabbipartnereink/2014-ev-madara-a-tuzok-1191870?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MME</author>
+   <description><![CDATA[1979 óta választják meg az év madarát, ezt a megtisztelő címet a túzok viselheti 2014-ben.]]></description>
+   <category>Korábbi partnereink</category>
+   <pubDate>Sat, 26 Oct 2013 17:09:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A figyelem középpontjában a madarak]]></title>
+   <link>http://mno.hu/korabbipartnereink/a-figyelem-kozeppontjaban-a-madarak-1187813?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MME</author>
+   <description><![CDATA[Sokakat csábíthat ki a szabadba a Magyar Madártani Egyesület programja.]]></description>
+   <category>Korábbi partnereink</category>
+   <pubDate>Sat, 05 Oct 2013 11:07:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Röviden]]></title>
+   <link>http://mno.hu/migr_1834/roviden-229768?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Munkatársunktól, MME</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Sat, 24 Apr 2010 00:00:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Zgut Edit]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/zgut-edit-24694</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 08:38:44 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Tartson-e Orbán Viktor Berlin haragjától?]]></title>
+   <link>http://mno.hu/kulfold/tartson-e-orban-viktor-berlin-haragjatol-2418339?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Zgut Edit</author>
+   <enclosure url="http://mno.hu/data/cikkek/2418/24183/cikk-2418339/043_dpa_pa_170920_99_136160_dpai.jpg" length="182357" type="image/jpeg"/>
+   <description><![CDATA[A német kormány elsősorban a régió politikai és gazdasági stabilitásában érdekelt.]]></description>
+   <category>Külföld</category>
+   <pubDate>Sat, 23 Sep 2017 17:38:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Teljes gázzal egy képmutatóbb unió felé]]></title>
+   <link>http://mno.hu/velemeny/teljes-gazzal-egy-kepmutatobb-unio-fele-2393936?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Zgut Edit</author>
+   <enclosure url="http://mno.hu/data/cikkek/2393/23939/cikk-2393936/csoportkep.jpg" length="167153" type="image/jpeg"/>
+   <description><![CDATA[„Mindig ugyanabban az irányban” cselekszenek majd a tagállamok. Állítólag.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Sat, 08 Apr 2017 19:32:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Választóvonalak]]></title>
+   <link>http://mno.hu/magazinpublicisztika/valasztovonalak-1349896?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Zgut Edit</author>
+   <enclosure url="http://mno.hu/data/cikkek/1349/13498/cikk-1349896/img058_grid2_fekvo_lead.jpg" length="120300" type="image/jpeg"/>
+   <description><![CDATA[A visegrádi négyek ráborították az asztalt az Európai Bizottságra.]]></description>
+   <category>Publicisztika a Magazinban</category>
+   <pubDate>Sun, 03 Jul 2016 07:59:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - rovat: Magyarázó]]></title>
+  <link>http://mno.hu/magyarazo</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Wed, 11 Apr 2018 08:00:06 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[A homeopátia útvesztője: miben hisznek tömegek?]]></title>
+   <link>http://mno.hu/magyarazo/a-homeopatia-utvesztoje-miben-hisznek-tomegek-2429129?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabó Emese</author>
+   <enclosure url="http://mno.hu/data/cikkek/2429/24291/cikk-2429129/Belo20150805_001.jpg" length="172532" type="image/jpeg"/>
+   <description><![CDATA[Összeszedtük a lényeget erről az erősen vitatott hatékonyságú módszerről.]]></description>
+   <category>Magyarázó</category>
+   <pubDate>Wed, 22 Nov 2017 21:05:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Milliárdos üzlet volt a kamupárt, de lehet, hogy ennek most vége? ]]></title>
+   <link>http://mno.hu/magyarazo/milliardos-uzlet-volt-kamupart-de-lehet-hogy-ennek-most-vege-2427564?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kovács Áron</author>
+   <enclosure url="http://mno.hu/data/cikkek/2427/24275/cikk-2427564/HM20140404_0115.jpg" length="327503" type="image/jpeg"/>
+   <description><![CDATA[Mitől lesz egy párt kamupárt, miért éri meg, és mit lehet ellenük tenni? Elmagyarázzuk.]]></description>
+   <category>Magyarázó</category>
+   <pubDate>Tue, 14 Nov 2017 17:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Jótékony támogatók nélkül megrendülne sok hazai hospice-ellátó]]></title>
+   <link>http://mno.hu/magyarazo/jotekony-tamogatok-nelkul-megrendulne-sok-hazai-hospice-ellato-2426769?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabó Emese</author>
+   <enclosure url="http://mno.hu/data/cikkek/2426/24267/cikk-2426769/BA20171103_0106.jpg" length="467621" type="image/jpeg"/>
+   <description><![CDATA[Bajba került a Magyar Hospice Alapítvány, de a probléma túlmutat egyetlen szervezetén. Összeszedtük a lényeget.]]></description>
+   <category>Magyarázó</category>
+   <pubDate>Mon, 13 Nov 2017 14:50:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ezer ágy, százmilliárdos beruházás, huszonnégy órás készenlét – mi lehet ez? ]]></title>
+   <link>http://mno.hu/magyarazo/ezer-agy-szazmilliardos-beruhazas-24-oras-keszenlet-mi-lehet-ez-2425633?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabó Emese</author>
+   <enclosure url="http://mno.hu/data/cikkek/2425/24256/cikk-2425633/20161126_Belo15.jpg" length="350858" type="image/jpeg"/>
+   <description><![CDATA[Budapestnek is lesz szuperkórháza. De hol is, mikor is és egyáltalán: pontosan miért is? Összeszedtük a lényeget!]]></description>
+   <category>Magyarázó</category>
+   <pubDate>Mon, 06 Nov 2017 06:08:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

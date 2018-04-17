@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Ficsor – R. Kiss]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/ficsor-r-kiss-22598</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 22:05:27 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Az olvasó, az író meg az Isten]]></title>
+   <link>http://mno.hu/konyveshaz/az-olvaso-az-iro-meg-az-isten-1346263?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ficsor – R. Kiss</author>
+   <enclosure url="http://mno.hu/data/cikkek/1346/13462/cikk-1346263/MNO_SZB20150604_6399.JPG_grid2_fekvo_lead.jpg" length="91002" type="image/jpeg"/>
+   <description><![CDATA[Kezdődik a könyvhét, az idei kínálatából válogattunk. Hiányoznak az '56-os kötetek – és a humor is.]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Thu, 09 Jun 2016 14:29:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A kulturális élet sem unatkozott tavaly]]></title>
+   <link>http://mno.hu/grund/a-kulturalis-elet-sem-unatkozott-tavaly-1321821?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ficsor – R. Kiss</author>
+   <enclosure url="http://mno.hu/data/cikkek/1321/13218/cikk-1321821/Milanoi_Pavilon_K_EPA201505060762-1024x681_grid2_fekvo_lead.jpg" length="96949" type="image/jpeg"/>
+   <description><![CDATA[Sűrű év volt 2015 a kultúrában, és a legnagyobb visszhangot kiváltó ügyeknek egyáltalán nincs vége.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Mon, 04 Jan 2016 13:33:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Állambiztonsági szolgálatok A-tól Z-ig]]></title>
+   <link>http://mno.hu/grund/allambiztonsagi-szolgalatok-a-tol-z-ig-1296516?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ficsor – R. Kiss</author>
+   <description><![CDATA[Összeszedtük az olyan idén megjelent könyveket, amelyek a diktatúráról és az állambiztonsági szolgálatokról szólnak. Laikusoknak is!]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Wed, 22 Jul 2015 17:45:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ez várhat a piacra az Ulpius bukása után]]></title>
+   <link>http://mno.hu/grund/epitkezes-az-ulpius-haz-romjain-1292486?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Ficsor – R. Kiss</author>
+   <description><![CDATA[Miként változik meg a hazai könyvpiac az Ulpius-ház bukása után? Ennek jártunk utána. ]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Fri, 26 Jun 2015 11:49:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

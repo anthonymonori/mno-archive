@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Szemán]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/szeman-23368</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Sat, 14 Apr 2018 01:33:30 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[A hónap végén szabadul a gyilkos?]]></title>
+   <link>http://mno.hu/belfold/a-honap-vegen-szabadul-a-gyilkos-1347246?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szemán</author>
+   <enclosure url="http://mno.hu/data/cikkek/1347/13472/cikk-1347246/NBB_20051028_1208.jpg" length="159578" type="image/jpeg"/>
+   <description><![CDATA[E hónap 29-én dönt a bíróság arról, továbbra is börtönben marad-e Bene László.]]></description>
+   <category>Belföld</category>
+   <pubDate>Wed, 15 Jun 2016 16:09:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hatalmi harc: Pintér Sándor legyőzte Lázár Jánost?]]></title>
+   <link>http://mno.hu/belfold/pinter-sandor-legyozte-lazar-janost-1343683?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Katona, Szemán</author>
+   <enclosure url="http://mno.hu/data/cikkek/1343/13436/cikk-1343683/pinter_sandor_szb20130826_2008.jpg" length="344807" type="image/jpeg"/>
+   <description><![CDATA[Úgy látszik, felülkerekedett a Belügyminisztérium a kormányon belül zajló hatalmi harcban.]]></description>
+   <category>Belföld</category>
+   <pubDate>Tue, 24 May 2016 08:50:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Elítélték a daraboló drogdílert]]></title>
+   <link>http://mno.hu/belfold/eliteltek-a-darabolo-drogdilert-1336251?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szemán</author>
+   <description><![CDATA[Életfogytiglani fegyháztüntetésre ítélték jogerősen a minap Földes-Szabó Attilát.]]></description>
+   <category>Belföld</category>
+   <pubDate>Wed, 06 Apr 2016 13:45:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Egy hónapot késik a vádemelés]]></title>
+   <link>http://mno.hu/belfold/egy-honapot-kesik-a-vademeles-1313962?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szemán</author>
+   <description><![CDATA[A kilenc éve meggyilkolt Balla Irma ügyében nem hibázhatnak még egyet a hatóságok.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sat, 14 Nov 2015 07:03:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Elfogult szentendrei rendőrök?]]></title>
+   <link>http://mno.hu/belfold/elfogult-szentendrei-rendorok-1313383?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szemán</author>
+   <description><![CDATA[Dombay és Rédei nézeteltérésének tisztázását nem a helyi nyomozókra bíznák.]]></description>
+   <category>Belföld</category>
+   <pubDate>Wed, 11 Nov 2015 05:00:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

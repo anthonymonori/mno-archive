@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Szegő Szilvia]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/szego-szilvia-19492</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Sun, 15 Apr 2018 03:05:54 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Devizahitelek: háromszor is megfizethet az adós]]></title>
+   <link>http://mno.hu/velemeny/ket-ut-all-elottunk-1290103?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szegő Szilvia</author>
+   <description><![CDATA[A legmagasabb jogi fórumok döntése komoly dilemma elé állítja a devizahiteleseket.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Wed, 10 Jun 2015 13:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Pénzköltésben nagyvonalú bankok]]></title>
+   <link>http://mno.hu/migr_1834/penzkoltesben-nagyvonalu-bankok-876979?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Giday András, Szegő Szilvia</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Sat, 17 Sep 2011 00:00:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

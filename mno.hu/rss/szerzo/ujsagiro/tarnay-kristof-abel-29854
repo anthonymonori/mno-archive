@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Tarnay Kristóf Ábel]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/tarnay-kristof-abel-29854</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 08:15:47 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Adjanak egy esélyt a jövőnknek!]]></title>
+   <link>http://mno.hu/velemeny/adjanak-egy-eselyt-a-jovonknek-2447217?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Tarnay Kristóf Ábel</author>
+   <enclosure url="http://mno.hu/data/cikkek/2447/24472/cikk-2447217/20180131_NBB5100.jpg" length="333111" type="image/jpeg"/>
+   <description><![CDATA[A történelem folyamán a diákmozgalmak tiszták voltak, lendületesek és sikeresek.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Wed, 14 Feb 2018 21:22:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

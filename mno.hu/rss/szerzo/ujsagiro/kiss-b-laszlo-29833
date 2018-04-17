@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Kiss B. László]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/kiss-b-laszlo-29833</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Wed, 11 Apr 2018 10:03:26 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Lezárult a sztrájk Hódmezővásárhelyen]]></title>
+   <link>http://mno.hu/belfold/lezarult-a-sztrajk-hodmezovasarhelyen-2458204?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kiss B. László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24582/cikk-2458204/D_KZG20151008025.jpg" length="336403" type="image/jpeg"/>
+   <description><![CDATA[Ma reggel zárult a Multinacionális Cégek Dolgozóinak Szakszervezetének kétnapos sztrájkja a Villeroy & Boch Magyarország Kft. hódmezővásárhelyi üzemében.]]></description>
+   <category>Belföld</category>
+   <pubDate>Thu, 05 Apr 2018 18:18:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Heteket kell várni a gumicserére]]></title>
+   <link>http://mno.hu/gazdasag/heteket-kell-varni-a-gumicserere-2458053?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kiss B. László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24580/cikk-2458053/HM20141122_419.jpg" length="268106" type="image/jpeg"/>
+   <description><![CDATA[Áremelést és hosszú várólistát okoz a szakemberhiány.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Thu, 05 Apr 2018 09:33:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Milliárdos játszmák reflektorfényben]]></title>
+   <link>http://mno.hu/gazdasag/milliardos-jatszmak-reflektorfenyben-2455917?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kiss B. László</author>
+   <description><![CDATA[A Forbes szerint a Dallas Cowboys még a Manchester Unitednál és a Real Madridnál is többet ér.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Mon, 02 Apr 2018 18:04:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A választás előtt zárná le Ferihegyet egy taxisszervezet]]></title>
+   <link>http://mno.hu/gazdasag/a-valasztas-elott-zarna-le-ferihegyet-egy-taxisszervezet-2456188?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kiss B. László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2456/24561/cikk-2456188/7_3szb.jpg" length="427340" type="image/jpeg"/>
+   <description><![CDATA[A megmozdulást egyetlen egyesület szervezi gyakorlatilag egy cég képviseletében. Levelükben ez áll: A repteret akarjuk és a kormány leváltását!]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Tue, 27 Mar 2018 05:36:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Lassan szerzi vissza piacait a Lada]]></title>
+   <link>http://mno.hu/gazdasag/lassan-szerzi-vissza-piacait-a-lada-2455920?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kiss B. László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2455/24559/cikk-2455920/LADA_Vesta_Kombi_es_SW_Cross2.jpg" length="988487" type="image/jpeg"/>
+   <description><![CDATA[Hibrid vagy elektromos modell jó ideig nem lesz az orosz márkánál.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Sun, 25 Mar 2018 21:21:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az okosgyártás felé halad a Suzuki]]></title>
+   <link>http://mno.hu/gazdasag/az-okos-gyartas-fele-halad-a-suzuki-2454995?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kiss B. László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2454/24549/cikk-2454995/HM_20070801_05.jpg" length="397764" type="image/jpeg"/>
+   <description><![CDATA[A gyár hálózatba köti a hegesztőrobotjait, az állam is beszállt anyagilag  a fejlesztésbe.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Wed, 21 Mar 2018 16:42:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Külföldről behozott, öreg járgánnyal jár az átlag magyar]]></title>
+   <link>http://mno.hu/gazdasag/kulfoldrol-behozott-oreg-jargannyal-jar-az-atlagmagyar-2451752?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kiss B. László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2451/24517/cikk-2451752/5_1szb.jpg" length="475381" type="image/jpeg"/>
+   <description><![CDATA[Azt is eláruljuk, hogy milyen új autókat vásárolnak a tehetős kiváltságosok. Még a csehekhez viszonyítva is elkeserítő a helyzet. ]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Tue, 06 Mar 2018 16:35:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kérdés, mikor készül el a gödi ugrótorony]]></title>
+   <link>http://mno.hu/gazdasag/kerdes-mikor-keszul-el-a-godi-ugrotorony-2450390?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kiss B. László</author>
+   <description><![CDATA[Az eredetileg Dunakeszire tervezett fejlesztésről bő egy évvel ezelőtt döntöttek.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Wed, 28 Feb 2018 08:30:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[400 forintos üzemanyagárat hozhat a nyár]]></title>
+   <link>http://mno.hu/gazdasag/400-forintos-uzemanyagot-hozhat-a-nyar-2449706?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kiss B. László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2449/24497/cikk-2449706/szb20160622_6425.jpg" length="125118" type="image/jpeg"/>
+   <description><![CDATA[Elképzelhető, hogy egy liter benzinért négyszáz forintnál is többet fizethetünk majd.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Sun, 25 Feb 2018 13:40:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Újabb rekordra számíthat a német autóipar]]></title>
+   <link>http://mno.hu/gazdasag/ujabb-rekordra-szamithat-a-nemet-autoipar-2449022?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kiss B. László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2449/24490/cikk-2449022/000_UC7LS.jpg" length="173220" type="image/jpeg"/>
+   <description><![CDATA[A botrányok ellenére hasítanak a német autógyártók. Hazánk beszállítóként járul hozzá a kimagasló eredményekhez, ennek ára az alacsony munkabér.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Thu, 22 Feb 2018 13:54:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Milliárdos születésnapi ajándék az Audinak]]></title>
+   <link>http://mno.hu/gazdasag/milliardos-szuletesnapi-ajandek-az-audinak-2448341?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kiss B. László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2448/24483/cikk-2448341/DSZZS20180219003_896_504_1519052762.jpg" length="41679" type="image/jpeg"/>
+   <description><![CDATA[Az idén tartja huszonötödik születésnapját a győri Audi Hungaria Zrt., s ezt egy új modell, az új Q3-as gyártásával ünnepli. ]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Mon, 19 Feb 2018 13:46:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Magyarországi munkásokra is vadászik a nyitrai Jaguar-gyár]]></title>
+   <link>http://mno.hu/gazdasag/magyar-munkasokra-is-vadaszik-a-nyitrai-jaguar-gyar-2447604?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kiss B. László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2447/24476/cikk-2447604/HM_20070801_01.jpg" length="443552" type="image/jpeg"/>
+   <description><![CDATA[Megéri szlovákiai autóipari cégeknél dolgozni, mert általában magasabb bért fizetnek, mint itthon.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Fri, 16 Feb 2018 08:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Sokan sztrájkoltak béremelésért a miskolci Boschnál]]></title>
+   <link>http://mno.hu/gazdasag/sokan-sztrajkoltak-beremelesert-a-miskolci-bosch-nal-2446715?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kiss B. László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2446/24467/cikk-2446715/D_VAJ201171005068.jpg" length="328812" type="image/jpeg"/>
+   <description><![CDATA[Az alkalmazottak 19 százalékos fizetésemelést szeretnének. Legtöbbjük bruttó 820 forintot keres óránként.]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Mon, 12 Feb 2018 15:50:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Las Vegasban is feltűnést keltett az autókat vezetni tanító magyar cég]]></title>
+   <link>http://mno.hu/gazdasag/las-vegasban-is-feltunest-keltet-az-autokat-vezetni-tanito-magyar-ceg-2446655?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kiss B. László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2446/24466/cikk-2446655/MNO_hero_video_cover.jpg" length="276633" type="image/jpeg"/>
+   <description><![CDATA[Nagy világcégek – a Volvo, a Peugeot Citroën – is partnerei az élvonalba kerülő budapesti vállalatnak. ]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Mon, 12 Feb 2018 12:37:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

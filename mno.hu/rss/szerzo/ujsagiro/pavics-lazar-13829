@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Pavics Lázár]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/pavics-lazar-13829</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Sat, 14 Apr 2018 12:30:27 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Egy ökológiai adóreform előnyei]]></title>
+   <link>http://mno.hu/migr_1834/egy_okologiai_adoreform_elonyei-360940?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kiss Károly, Pavics Lázár</author>
+   <description><![CDATA[Szerkesztőségünk Németh György közgazdász Vitairat az adóreform részleteiről (Magyar Nemzet, május 24.) című írásával vitaindító cikket közölt. A vitában eddig Komár Lajos (Az adóreform csak félmegoldás lehet, május 30.), Mészáros József (Törvényjavaslat a családi adózásra, május 30.), Bod Péter Ákos (Komoly átalakításra szorul a magyar állam, június 7.), Mádi László (Adórendszer és felemelkedés, június 13.), Bogár László (Az állam és az adósság, június 13.) Zara László (Elmúlt az utolsó pillanat is az adóreform ügyében, június 17.), Krekó Péter (Az adócsökkentés politikamentesítése, június 21.) és Gyöngyösi Márton (Válságkezelés legitim, szavahihető kormánnyal, június 24.) hozzászólásait közöltük.]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Fri, 11 Jul 2008 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A stabilizáció ökoszociális útja]]></title>
+   <link>http://mno.hu/migr_1834/a-stabilizacio-okoszocialis-utja-387021?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kiss Károly, Pavics Lázár</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Sat, 10 May 2008 00:00:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Vadász Vilmos]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/vadasz-vilmos-20331</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Sat, 14 Apr 2018 07:40:29 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Fagymentes lesz november eleje]]></title>
+   <link>http://mno.hu/idojaras_rovat/fagymentes-lesz-november-eleje-1192463?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vadász Vilmos</author>
+   <description><![CDATA[Szerencsére a talajban van elég nedvesség, nincs veszélyben az őszi vetés.]]></description>
+   <category>Időjárás</category>
+   <pubDate>Mon, 28 Oct 2013 20:24:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Jó hír a vidéki gazdáknak]]></title>
+   <link>http://mno.hu/idojaras_rovat/kedvez-a-foldmuvelesnek-az-oktober-vegi-osz-1191409?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vadász Vilmos</author>
+   <description><![CDATA[Továbbra sem akadályozza tartósan az időjárás az őszi munkákat.]]></description>
+   <category>Időjárás</category>
+   <pubDate>Tue, 22 Oct 2013 12:56:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ez vár a mezőgazdászokra a héten]]></title>
+   <link>http://mno.hu/tudomany/kesik-a-talaj-menti-fagy-1190027?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vadász Vilmos</author>
+   <description><![CDATA[A hét közepének kiadós esői után többnapos csapadékszünet várható, talaj menti fagy nélkül.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Mon, 14 Oct 2013 18:33:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ami tönkrevághatja a házikertet]]></title>
+   <link>http://mno.hu/idojaras_rovat/eros-lehules-sokfele-kora-oszi-fagyokkal-1187743?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vadász Vilmos</author>
+   <description><![CDATA[Érdemes betakargatni a növényeket, elzárni a kerti csapokat, mert az őszi talaj menti fagy nagy károkat tud okozni.]]></description>
+   <category>Időjárás</category>
+   <pubDate>Wed, 02 Oct 2013 15:02:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Eső zavarhatja az őszi munkákat]]></title>
+   <link>http://mno.hu/idojaras_rovat/eso-zavarhatja-az-oszi-munkakat-1185893?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vadász Vilmos</author>
+   <description><![CDATA[A mezőgazdaságban élni kell a mostani kedvezőbb időjárású napok kínálta lehetőséggel, mert szeptember végére több eső várható.]]></description>
+   <category>Időjárás</category>
+   <pubDate>Mon, 23 Sep 2013 15:03:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Megkeseríti az időjárás a betakarítást]]></title>
+   <link>http://mno.hu/idojaras_rovat/a-szaraz-nyar-utan-csapadekos-kora-osz-1183596?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vadász Vilmos</author>
+   <description><![CDATA[Megannyi ősszel betakarítandó gyümölcs van veszélyben a csapadékos időszak által, ha az időjárás nem kegyes, oda lehet az őszi termés.]]></description>
+   <category>Időjárás</category>
+   <pubDate>Wed, 11 Sep 2013 19:38:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Egyre nagyobb területen mérséklődik a szárazság]]></title>
+   <link>http://mno.hu/idojaras_rovat/egyre-nagyobb-teruleten-merseklodik-a-szarazsag-1180511?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vadász Vilmos</author>
+   <description><![CDATA[Későn érkezett az eső, de legalább megjött, és végre elkezdett csökkenni a talaj szárazsága.]]></description>
+   <category>Időjárás</category>
+   <pubDate>Mon, 26 Aug 2013 15:45:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Tovább kínoz minket a szárazság]]></title>
+   <link>http://mno.hu/idojaras_rovat/szarazsag-ne-remenykedjunk-az-esoben-1178081?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vadász Vilmos</author>
+   <description><![CDATA[A múlt hét végén átvonult hidegfrontot az ország nagy részén alig kísérte csapadék. 10 milliméternél több eső nagyobb területen csak Veszprém megyében esett.]]></description>
+   <category>Időjárás</category>
+   <pubDate>Mon, 12 Aug 2013 17:35:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

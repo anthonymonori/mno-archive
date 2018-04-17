@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Kercsó Alpár]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/kercso-alpar-19623</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Sat, 14 Apr 2018 22:50:57 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Dániel Péter ügyvéd úrnak]]></title>
+   <link>http://mno.hu/civil_ujsagiras/daniel-peter-ugyved-urnak-1132062?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kercsó Alpár</author>
+   <description><![CDATA[]]></description>
+   <category>Civil újságírás</category>
+   <pubDate>Sun, 20 Jan 2013 13:51:22 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Magyar "nemzeti" matematika]]></title>
+   <link>http://mno.hu/civil_ujsagiras/magyar-nemzeti-matematika-1092817?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kercsó Alpár</author>
+   <description><![CDATA[Volt egyszer, hol nem volt a légiesülő határokon túl, a Kárpátok zord bérceinek ölében, a Gyergyói-medence északkeleti részén, 770 méterrel a tengerszint fölött egy szép nagy székely község. Utcái kövét általában 6300 ember koptatta, nem számítva az alkalmi látogatókat.]]></description>
+   <category>Civil újságírás</category>
+   <pubDate>Tue, 24 Jul 2012 15:44:44 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Túl sok az erdélyi]]></title>
+   <link>http://mno.hu/civil_ujsagiras/tul-sok-az-erdelyi-1077029?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kercsó Alpár</author>
+   <description><![CDATA[A Magyartanárok Egyesülete közleményben nehezményezte három erdélyi író bekerülését a Nemzeti Alaptantervbe. Szerintük az illetők inkább nemzeti radikálisnak, mint nemzeti konzervatívnak minősíthetők.]]></description>
+   <category>Civil újságírás</category>
+   <pubDate>Fri, 25 May 2012 11:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A vastag bőr jutalma]]></title>
+   <link>http://mno.hu/civil_ujsagiras/a-vastag-bor-jutalma-1055248?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kercsó Alpár</author>
+   <description><![CDATA[Én egyetértek önnel, kedves Andor László. Ön, mint Magyarországról Brüsszelbe exportált afféle európai biztos, nem tartozik semmiféle beszámolóval felém. Sem a hozzám hasonlók felé. Európai biztosként önt annyira átitatta a nemzetállamok feletti szellemiség, hogy képes elfelejteni küldő országát, az ön kiváló képességeinek hála, talán magyar barátait, szomszédját is, a boltos nénit a sarki kis piacon.  ]]></description>
+   <category>Civil újságírás</category>
+   <pubDate>Fri, 02 Mar 2012 12:30:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

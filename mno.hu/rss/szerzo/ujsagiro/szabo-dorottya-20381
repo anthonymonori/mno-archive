@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Szabó Dorottya]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/szabo-dorottya-20381</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Sat, 14 Apr 2018 20:59:05 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Pax vagy Snochi – A téli viharok elnevezéséről]]></title>
+   <link>http://mno.hu/tudomany/pax-vagy-snochi-a-teli-viharok-elnevezeserol-1211516?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabó Dorottya</author>
+   <description><![CDATA[Egy viharnak több neve is lehet, és ez összezavarhatja az embereket.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Mon, 17 Feb 2014 19:45:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[11 durva, szélsőséges időjárási rekord]]></title>
+   <link>http://mno.hu/tudomany/szelsoseges-idojarasi-rekordok-1205312?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabó Dorottya</author>
+   <description><![CDATA[Mindenkit érdekelnek a szélsőségek: összeszedtük a 11 legmegdöbbentőbbet.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Wed, 15 Jan 2014 08:35:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Több volt a hideg-, mint a melegrekord]]></title>
+   <link>http://mno.hu/tudomany/tobb-volt-a-hideg-mint-a-melegrekord-1203969?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabó Dorottya</author>
+   <description><![CDATA[Huszonegy év után most fordult elő először, hogy több hidegrekord dőlt meg, mint meleg.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Tue, 07 Jan 2014 19:56:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Így változtak az erdők a Földön]]></title>
+   <link>http://mno.hu/tudomany/igy-valtoztak-az-erdok-a-foldon-1196838?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabó Dorottya</author>
+   <description><![CDATA[Elkészültek az első térképek, amelyek nagy felbontásban dokumentálják a változást.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Sun, 24 Nov 2013 11:38:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Rekordméretű műhold kilövésére készülnek]]></title>
+   <link>http://mno.hu/urkutatas/rekordmeretu-muhold-kilovesere-keszulnek-1195481?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabó Dorottya</author>
+   <description><![CDATA[A hatalmas szerkezetet időjárás-előrejelzésre használnák.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Fri, 15 Nov 2013 11:49:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nagy baj fenyeget]]></title>
+   <link>http://mno.hu/tudomany/rekordmagas-az-uveghazhatasu-gazok-koncentracioja-1194104?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabó Dorottya</author>
+   <description><![CDATA[Soha nem látott magasságban a szén-dioxid-kibocsátás a világon.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Thu, 07 Nov 2013 19:08:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[44 ezer évvel ezelőtt sem volt ilyen meleg]]></title>
+   <link>http://mno.hu/tudomany/44-ezer-evvel-ezelott-sem-volt-ilyen-meleg-1192438?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabó Dorottya</author>
+   <description><![CDATA[A kulcskérdés az, mennyire példátlan a felmelegedés mértéke.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Mon, 28 Oct 2013 15:43:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Éves mélyponton az antarktiszi ózonréteg]]></title>
+   <link>http://mno.hu/tudomany/eves-melyponton-az-antarktiszi-ozonreteg-1191484?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabó Dorottya</author>
+   <description><![CDATA[20,9 millió négyzetkilométer területen volt megfigyelhető az ózonréteg elvékonyodása.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Thu, 24 Oct 2013 06:44:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[140 éves melegrekord dőlt meg]]></title>
+   <link>http://mno.hu/tudomany/a-leghosszabb-nyar-sanghajban-1190428?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabó Dorottya</author>
+   <description><![CDATA[Megváltásként jött a hidegfront a sanghajiaknak a több mint másfél száz napig tartó folyamatos meleg után.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Wed, 16 Oct 2013 17:43:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Egyre több lesz az aszály és az árvíz?]]></title>
+   <link>http://mno.hu/idojaras_rovat/globalis-felmelegedes-akcioban-az-el-nino-1190229?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabó Dorottya</author>
+   <description><![CDATA[A globális felmelegedés növeli az El Nino intenzitását. ]]></description>
+   <category>Időjárás</category>
+   <pubDate>Tue, 15 Oct 2013 20:10:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hurrikánszezon: már nincs sok hátra]]></title>
+   <link>http://mno.hu/tudomany/hurrikanszezon-mar-nincs-sok-hatra-1189182?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabó Dorottya</author>
+   <description><![CDATA[Idén szerencsések voltak a veszélyeztetett területen élők, azt is sejtik, hogy miért.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Thu, 10 Oct 2013 14:50:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Megdőlhet az esőzés rekordja]]></title>
+   <link>http://mno.hu/idojaras_rovat/57-eves-rekord-dolhet-meg-1187965?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabó Dorottya</author>
+   <description><![CDATA[Újdelhi környékén a monszun általában csak 85 nap szokott lenni, ez időszak alatt átlagosan 780 milliméter csapadék hullik le.]]></description>
+   <category>Időjárás</category>
+   <pubDate>Fri, 04 Oct 2013 05:37:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Olvadnak a tibeti gleccserek]]></title>
+   <link>http://mno.hu/tudomany/olvadnak-a-tibeti-gleccserek-1187734?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabó Dorottya</author>
+   <description><![CDATA[A tibeti gleccserek zsugorodnak. Sokan azt gondolják, hogy lassú növekedés zajlik, de a kutatások azt mutatják, hogy 6000 méter felett is csökken a jégmennyiség.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Wed, 02 Oct 2013 16:22:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[NASA: modellen a 21. század hőmérséklet- és csapadékváltozása]]></title>
+   <link>http://mno.hu/tudomany/nasa-modellen-a-21-szazad-homerseklet-es-csapadekvaltozasa-1187314?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabó Dorottya</author>
+   <description><![CDATA[A század végéig akár 10 fokkal is emelkedhet az átlaghőmérséklet, és sok helyen megduplázódhat a csapadék mennyisége.]]></description>
+   <category>Tudomány és technika</category>
+   <pubDate>Mon, 30 Sep 2013 16:53:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ahol az átlagosnál gyorsabb a felmelegedés]]></title>
+   <link>http://mno.hu/idojaras_rovat/ahol-az-atlagosnal-gyorsabb-a-felmelegedes-1184974?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabó Dorottya</author>
+   <description><![CDATA[Európa több pontján egyre több forró nyári nap tapasztalható, míg a hideg téli napok száma folyamatosan csökken.]]></description>
+   <category>Időjárás</category>
+   <pubDate>Wed, 18 Sep 2013 16:33:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

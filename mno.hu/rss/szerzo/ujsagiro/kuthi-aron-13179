@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Kuthi Áron]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/kuthi-aron-13179</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Wed, 11 Apr 2018 09:10:52 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Pozsony múltjának fanatikus szerelmesei]]></title>
+   <link>http://mno.hu/hatarontul/pozsony-multjanak-fanatikus-szerelmesei-2458985?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kuthi Áron</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24589/cikk-2458985/kifli_03.jpg" length="388717" type="image/jpeg"/>
+   <description><![CDATA[„Ennivaló történelmet” kínál a Pozsonyi Kifli Polgári Társulás.]]></description>
+   <category>Határon túl</category>
+   <pubDate>Tue, 10 Apr 2018 21:20:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nyögvenyelősen halad Babis fülkeforradalma ]]></title>
+   <link>http://mno.hu/kulfold/nyogvenyelosen-halad-babis-fulkeforradalma-2459017?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kuthi Áron</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24590/cikk-2459017/000_VP5HP.jpg" length="216299" type="image/jpeg"/>
+   <description><![CDATA[Oligarchavádak a talán megalakuló cseh kormánynál: a milliárdos üzletember cégbirodalmának beosztottja lenne a miniszterelnök.]]></description>
+   <category>Külföld</category>
+   <pubDate>Mon, 09 Apr 2018 20:16:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Lengyel, magyar két jó bölény: a Zubrówka és az ellenálló képesség]]></title>
+   <link>http://mno.hu/kulfold/lengyel-magyar-ket-jo-boleny-a-zubrowka-es-az-ellenallo-kepesseg-2458453?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kuthi Áron</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24584/cikk-2458453/20180406_NBB1973.JPG" length="175541" type="image/jpeg"/>
+   <description><![CDATA[Jaroslaw Kaczynski a nemzetállamok elsőségéről beszélt Budapesten, a Fidesz választási győzelmét kívánva. ]]></description>
+   <category>Külföld</category>
+   <pubDate>Fri, 06 Apr 2018 21:04:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Franciaországban újra itt a fehérek elleni rasszizmus ]]></title>
+   <link>http://mno.hu/kulfold/franciaorszagban-ujra-itt-a-feherek-elleni-rasszizmus-2457113?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kuthi Áron</author>
+   <enclosure url="http://mno.hu/data/cikkek/2457/24571/cikk-2457113/000_12L600.jpg" length="263209" type="image/jpeg"/>
+   <description><![CDATA[Szakítás a demokratikus értékekkel: az elnyomó állam vonzó lehet a nehezebben érvényesülő bevándorlók számára.]]></description>
+   <category>Külföld</category>
+   <pubDate>Thu, 05 Apr 2018 20:36:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Három nagykövetséget gyújtott fel valaki Stockholmban]]></title>
+   <link>http://mno.hu/kulfold/harom-nagykovetseget-gyujtott-fel-valaki-stockholmban-2457972?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kuthi Áron</author>
+   <enclosure url="http://mno.hu/data/cikkek/2457/24579/cikk-2457972/K_EPA20180404063.jpg" length="552608" type="image/jpeg"/>
+   <description><![CDATA[Egy szecessziós sorház részben kiégett. ]]></description>
+   <category>Külföld</category>
+   <pubDate>Wed, 04 Apr 2018 18:49:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hosszú még az út a Minority SafePack sikeréig]]></title>
+   <link>http://mno.hu/hatarontul/hosszu-meg-az-ut-a-minority-safepack-sikereig-2457938?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kuthi Áron</author>
+   <enclosure url="http://mno.hu/data/cikkek/2457/24579/cikk-2457938/MNO_14889883_10210490089107483_8361273932707882501_o.jpg" length="343617" type="image/jpeg"/>
+   <description><![CDATA[A kisebbségvédelmet először lepattintotta magáról az Európai Bizottság. Most majd nem fogja. ]]></description>
+   <category>Határon túl</category>
+   <pubDate>Wed, 04 Apr 2018 18:32:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Bőröndben hordozhatjuk az előfizetéses online tartalmainkat]]></title>
+   <link>http://mno.hu/kulfold/borondben-hordozhatjuk-az-elofizeteses-online-tartalmainkat-2456573?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kuthi Áron</author>
+   <enclosure url="http://mno.hu/data/cikkek/2456/24565/cikk-2456573/000_1315O9.jpg" length="170365" type="image/jpeg"/>
+   <description><![CDATA[Áprilistól indulhat a határok nélküli online videófogyasztás az EU-n belül. A roamingdíjak eltörléséhez hasonlítják a lépést. ]]></description>
+   <category>Külföld</category>
+   <pubDate>Thu, 29 Mar 2018 10:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Rendületlenül sorosozik a szlovák szélsőjobb, és úgy tűnik, bejön neki]]></title>
+   <link>http://mno.hu/kulfold/renduletlenul-sorosozik-a-szlovak-szelsojobb-es-ugy-tunik-bejon-neki-2455926?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kuthi Áron</author>
+   <enclosure url="http://mno.hu/data/cikkek/2455/24559/cikk-2455926/000_9107M.jpg" length="298725" type="image/jpeg"/>
+   <description><![CDATA[A szélsőséges cigányellenes szlovák párt a középre zárást választotta, mert egyesek tőlük jobbra is helyet kérnek a politikai palettán.]]></description>
+   <category>Külföld</category>
+   <pubDate>Wed, 28 Mar 2018 13:32:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Budapestre költözött az Orbánnak köszönetet mondó svéd politikus]]></title>
+   <link>http://mno.hu/kulfold/budapestre-koltozott-az-orbannak-koszonetet-mondo-sved-politikus-2456263?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kuthi Áron</author>
+   <enclosure url="http://mno.hu/data/cikkek/2456/24562/cikk-2456263/000_Par6359307.jpg" length="378297" type="image/jpeg"/>
+   <description><![CDATA[Vállalhatatlan lett a régebben vasrúddal fenyegetőző Kent Ekeroth a szelídülő Svéd Demokratáknak. ]]></description>
+   <category>Külföld</category>
+   <pubDate>Tue, 27 Mar 2018 19:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Versenyt fut az idővel a Minority SafePack kisebbségvédelmi akció]]></title>
+   <link>http://mno.hu/hatarontul/versenyt-fut-az-idovel-a-minority-safepack-kisebbsegvedelmi-akcio-2455857?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kuthi Áron</author>
+   <enclosure url="http://mno.hu/data/cikkek/2455/24558/cikk-2455857/D_NOE20180324009.jpg" length="284821" type="image/jpeg"/>
+   <description><![CDATA[A biztos sikerhez száztíz százalékra kellene teljesíteni az egymilliós aláírási küszöböt. Kilenc nap van a határidőig. ]]></description>
+   <category>Határon túl</category>
+   <pubDate>Mon, 26 Mar 2018 06:36:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Egészen nyárig megbénulhat a francia közlekedés]]></title>
+   <link>http://mno.hu/kulfold/egeszen-nyarig-megbenulhat-a-francia-kozlekedes-2455149?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kuthi Áron</author>
+   <enclosure url="http://mno.hu/data/cikkek/2455/24551/cikk-2455149/000_12T5ET.jpg" length="474838" type="image/jpeg"/>
+   <description><![CDATA[Nem suhan a TGV, a busztársaságok viszont jól járnak. A vasutasok azt akarják, maradjon minden a régiben. De Macronnál ez nem fog menni.]]></description>
+   <category>Külföld</category>
+   <pubDate>Thu, 22 Mar 2018 05:45:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Bezárnák a svéd szocdemek az egyházi iskolákat]]></title>
+   <link>http://mno.hu/kulfold/bezarnak-a-sved-szocdemek-az-egyhazi-iskolakat-2454465?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kuthi Áron</author>
+   <enclosure url="http://mno.hu/data/cikkek/2454/24544/cikk-2454465/MNO_000_PAR2003102509245.jpg" length="305180" type="image/jpeg"/>
+   <description><![CDATA[A kormány a felekezeti intézmények eltörlésén gondolkodik. A katolikusok felháborodtak, nemzetközi fórumon keresnék igazukat.]]></description>
+   <category>Külföld</category>
+   <pubDate>Tue, 20 Mar 2018 21:36:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Visszaüt Nicolas Sarkozyre a líbiai kaland]]></title>
+   <link>http://mno.hu/kulfold/visszaut-nicholas-sarkozyre-a-libiai-kaland-2454721?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kuthi Áron</author>
+   <enclosure url="http://mno.hu/data/cikkek/2454/24547/cikk-2454721/K_AP20180320051.jpg" length="325325" type="image/jpeg"/>
+   <description><![CDATA[Festmény és fegyverkereskedő: krimibe illő részletek övezik az állítólag Kadhafitól kapott kampánypénzek útját.]]></description>
+   <category>Külföld</category>
+   <pubDate>Tue, 20 Mar 2018 16:42:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Taktikai áldozat]]></title>
+   <link>http://mno.hu/vezercikk/taktikai-aldozat-2454076?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kuthi Áron</author>
+   <enclosure url="http://mno.hu/data/cikkek/2454/24540/cikk-2454076/DKRCS20161103005x.jpg" length="332967" type="image/jpeg"/>
+   <description><![CDATA[Fico távozásával még az az alku is kijátszható, hogy a szlovákok most könnyedén ejtik a harcias kvótaellenességet egy uniópárti hangnem érdekében.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Sat, 17 Mar 2018 00:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Felvidéki magyar EP-képviselő: A magyar kormány ellenséget formál az unióból]]></title>
+   <link>http://mno.hu/kulfold/felvideki-magyar-ep-kepviselo-a-magyar-kormany-ellenseget-formal-az-uniobol-2453331?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kuthi Áron</author>
+   <enclosure url="http://mno.hu/data/cikkek/2453/24533/cikk-2453331/Nagy_Jozsef_foto_1.JPG" length="226506" type="image/jpeg"/>
+   <description><![CDATA[„Ne csodálkozzunk, ha jön egy még nagyobb szájú valaki, és azt mondja, lépjünk ki” – mondja Nagy József. ]]></description>
+   <category>Külföld</category>
+   <pubDate>Tue, 13 Mar 2018 21:35:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az autópálya reménytelen, repülővel is drága eljutni egy prágai kocsmába]]></title>
+   <link>http://mno.hu/eletmod/az-autopalya-remenytelen-repulovel-is-draga-eljutni-egy-pragai-kocsmaba-2452256?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kuthi Áron</author>
+   <enclosure url="http://mno.hu/data/cikkek/2452/24522/cikk-2452256/IMG_20180312_085643.jpg" length="148351" type="image/jpeg"/>
+   <description><![CDATA[Sokkal előbb kell indulni sörözni a cseh fővárosba a hosszú hétvége előtt. Jó előre szóltunk.]]></description>
+   <category>Életmód</category>
+   <pubDate>Mon, 12 Mar 2018 18:46:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Csak a szégyen marad]]></title>
+   <link>http://mno.hu/velemeny/csak-a-szegyen-marad-2452528?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kuthi Áron</author>
+   <enclosure url="http://mno.hu/data/cikkek/2452/24525/cikk-2452528/D_MTI20150820011.jpg" length="492199" type="image/jpeg"/>
+   <description><![CDATA[Még negyedmillió aláírás kellene a kisebbségvédelmi polgári kezdeményezéshez.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Sat, 10 Mar 2018 11:11:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Egyre több cégnek okoz gondot a munkaerőhiány]]></title>
+   <link>http://mno.hu/kulfold/egyre-tobb-cegnek-okoz-gondot-a-munkaerohiany-2452418?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kuthi Áron</author>
+   <description><![CDATA[A kamarai tagok többsége szerint tavaly óta nem csökkent az itthoni szakemberhiány.]]></description>
+   <category>Külföld</category>
+   <pubDate>Thu, 08 Mar 2018 20:09:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Talán most már lesz Ipoly-híd Helembánál]]></title>
+   <link>http://mno.hu/hatarontul/talan-most-mar-lesz-ipoly-hid-helembanal-2452029?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kuthi Áron</author>
+   <enclosure url="http://mno.hu/data/cikkek/2452/24520/cikk-2452029/20170928_NBB5292.jpg" length="601904" type="image/jpeg"/>
+   <description><![CDATA[Az eredetinél kisebb híd épülhet a szlovák–magyar határon. De a kerékpárosok örülhetnek. ]]></description>
+   <category>Határon túl</category>
+   <pubDate>Thu, 08 Mar 2018 12:18:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Senki földjén bolyonganak a bevándorlók]]></title>
+   <link>http://mno.hu/kulfold/senki-foldjen-bolyonganak-a-bevandorlok-2451928?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kuthi Áron</author>
+   <enclosure url="http://mno.hu/data/cikkek/2451/24519/cikk-2451928/000_V21G8.jpg" length="390674" type="image/jpeg"/>
+   <description><![CDATA[Majdnem kilencszázezer menedékkérő sorsáról képtelen dönteni az amerikai kormányzat.]]></description>
+   <category>Külföld</category>
+   <pubDate>Wed, 07 Mar 2018 21:37:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Jobban védik ezentúl a fiatalokat Franciaországban]]></title>
+   <link>http://mno.hu/kulfold/jobban-vedik-ezentul-a-fiatalokat-franciaorszagban-2451929?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kuthi Áron</author>
+   <enclosure url="http://mno.hu/data/cikkek/2451/24519/cikk-2451929/000_U97VE.jpg" length="299263" type="image/jpeg"/>
+   <description><![CDATA[Macron bevezetné a szexuális aktus beleegyezéses korhatárát. Még kiderül, hogy rendpárti ez a liberális exüzletember. A gyerekek mobilozása körül is matatnak. ]]></description>
+   <category>Külföld</category>
+   <pubDate>Tue, 06 Mar 2018 22:36:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Svihákország visszavág]]></title>
+   <link>http://mno.hu/vezercikk/svihakorszag-visszavag-2451653?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kuthi Áron</author>
+   <enclosure url="http://mno.hu/data/cikkek/2451/24516/cikk-2451653/Octopus_vulgaris2.jpg" length="309024" type="image/jpeg"/>
+   <description><![CDATA[A szlovákok tudatában még élénken él a 90-es évek zűrös világa, az újszülött Szlovákiában elharapózó maffialeszámolások emléke.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Tue, 06 Mar 2018 00:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Megköszönte a gyertyagyújtást a budapesti szlovák nagykövet ]]></title>
+   <link>http://mno.hu/belfold/megkoszonte-a-gyertyagyujtast-a-budapesti-szlovak-nagykovet-2451370?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kuthi Áron, Földi Bence</author>
+   <enclosure url="http://mno.hu/data/cikkek/2451/24513/cikk-2451370/11_2bd.jpg" length="484889" type="image/jpeg"/>
+   <description><![CDATA[A szlovák államfő nagyot lépett: kormányátalakítást vagy előre hozott választás kiírását kéri Robert Ficótól.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sun, 04 Mar 2018 19:38:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ír vandálok markolóval fosztogattak egy Lidlt, de a német széf ellenállt ]]></title>
+   <link>http://mno.hu/kulfold/ir-vandalok-markoloval-fosztogattak-egy-lidlt-de-a-nemet-szef-ellenallt-2451348?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kuthi Áron</author>
+   <description><![CDATA[Viszonylag könnyen rátaláltak a mackóra, de az nem adta meg magát. A hó miatti bénultságot használták ki. ]]></description>
+   <category>Külföld</category>
+   <pubDate>Sun, 04 Mar 2018 17:42:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ferrari a nappaliban, avagy zűrös olaszok Kelet-Szlovákiában]]></title>
+   <link>http://mno.hu/kulfold/ferrari-a-nappaliban-avagy-zuros-olaszok-kelet-szlovakiaban-2450730?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kuthi Áron</author>
+   <enclosure url="http://mno.hu/data/cikkek/2450/24507/cikk-2450730/K_AP20180301194.jpg" length="285966" type="image/jpeg"/>
+   <description><![CDATA[Egyre inkább úgy tűnik, hogy csupán a jéghegy csúcsára akadt rá a maffiakapcsolatokra rámutató meggyilkolt újságíró.]]></description>
+   <category>Külföld</category>
+   <pubDate>Thu, 01 Mar 2018 20:38:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Olasz maffiahálózat szlovák szálai után nyomozott a meggyilkolt újságíró]]></title>
+   <link>http://mno.hu/kulfold/olasz-maffiahalozat-szlovak-szalai-utan-nyomozott-a-meggyilkolt-ujsagiro-2450190?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kuthi Áron</author>
+   <enclosure url="http://mno.hu/data/cikkek/2450/24501/cikk-2450190/000_11D4JO.jpg" length="442879" type="image/jpeg"/>
+   <description><![CDATA[Nem sokkal Ján Kuciak megölése után kigyulladt a kassai adóhatóság épülete. ]]></description>
+   <category>Külföld</category>
+   <pubDate>Tue, 27 Feb 2018 14:54:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ficóéknak is üzenhetett a szlovák újságíró gyilkosa]]></title>
+   <link>http://mno.hu/kulfold/ficoeknak-is-uzenhetett-a-szlovak-ujsagiro-gyilkosa-2449919?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kuthi Áron</author>
+   <enclosure url="http://mno.hu/data/cikkek/2449/24499/cikk-2449919/7boykmh2s2vq1t1hzjjftw_j_n_kuciak.jpg" length="19047" type="image/jpeg"/>
+   <description><![CDATA[Ján Kuciak kormányközeli nagyvállalkozók ügyeiben turkált. Több újságíró is rendőri védelmet kap a leszámolás után.]]></description>
+   <category>Külföld</category>
+   <pubDate>Mon, 26 Feb 2018 15:30:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Karácsony Gergely: A Fidesz az ország legszervezettebb kisebbsége]]></title>
+   <link>http://mno.hu/belfold/karacsony-gergely-a-fidesz-az-orszag-legszervezettebb-kisebbsege-2449900?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kuthi Áron</author>
+   <enclosure url="http://mno.hu/data/cikkek/2449/24499/cikk-2449900/VL20161027_9487.jpg" length="617552" type="image/jpeg"/>
+   <description><![CDATA[Az MSZP–Párbeszéd továbbra sem tárgyal a Jobbikkal. Az LMP-t viszont várják. ]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 26 Feb 2018 11:31:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ha friss a jogsid, irány a Hungaroring, befizet egy körre a miniszter]]></title>
+   <link>http://mno.hu/belfold/ha-friss-a-jogsid-irany-a-hungaroring-befizet-egy-korre-a-miniszter-2449887?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kuthi Áron</author>
+   <description><![CDATA[Vezetéstechnika-tanulás a legjobbaktól. Még ma beiratkozol. ]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 26 Feb 2018 10:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Békés együttműködésre számít a Fidesszel Márki-Zay Péter]]></title>
+   <link>http://mno.hu/belfold/bekes-egyuttmukodesre-szamit-a-fidesszel-marki-zay-peter-2449879?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kuthi Áron</author>
+   <enclosure url="http://mno.hu/data/cikkek/2449/24498/cikk-2449879/BA_06012.JPG" length="180420" type="image/jpeg"/>
+   <description><![CDATA[Első dolgai között lesz belenézni az Elios-aktákba az új hódmezővásárhelyi polgármesternek.]]></description>
+   <category>Belföld</category>
+   <pubDate>Mon, 26 Feb 2018 09:13:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

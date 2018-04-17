@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Kovács  Tamás]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/kovacs-tamas-30136</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Wed, 11 Apr 2018 10:30:36 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[A szerb állam ismét a délvidéki magyarok megalázására készül]]></title>
+   <link>http://mno.hu/hetvegimagazin/a-szerb-allam-ismet-a-delvideki-magyarok-megalazasara-keszul-2456832?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kovács  Tamás</author>
+   <enclosure url="http://mno.hu/data/cikkek/2456/24568/cikk-2456832/86815_1_896_504_1522485789.jpg" length="66965" type="image/jpeg"/>
+   <description><![CDATA[Ha megszavazza a vajdasági parlament, a magyaroknak is meg kell ünnepelniük a Délvidék elcsatolását hazánktól.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Sun, 01 Apr 2018 10:51:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Rénszarvas, akasztva]]></title>
+   <link>http://mno.hu/vezercikk/renszarvas-akasztva-2452700?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kovács  Tamás</author>
+   <enclosure url="http://mno.hu/data/cikkek/2452/24527/cikk-2452700/IMG_1900.jpg" length="377268" type="image/jpeg"/>
+   <description><![CDATA[Aki arra számít, hogy Semjént egyszer majd Stüszi-vadászkalapban, vállán a puskájával ábrázolják, valószínűleg téved. Ő annyira vadász, amennyire kereszténydemokrata.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Sat, 10 Mar 2018 00:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Túltolt esélyek]]></title>
+   <link>http://mno.hu/vezercikk/tultolt-eselyek-2447134?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kovács  Tamás</author>
+   <enclosure url="http://mno.hu/data/cikkek/2447/24471/cikk-2447134/HM20140406_2009.jpg" length="1389703" type="image/jpeg"/>
+   <description><![CDATA[A fideszes vezetők igazán tudhatnák, hogy egy választást sosem elég otthon megnyerni, a nemzetközi színtér legalább ennyire fontos.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Wed, 14 Feb 2018 00:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[2026: az ellenzéki összefogás éve]]></title>
+   <link>http://mno.hu/velemeny/2026-az-ellenzeki-osszefogas-eve-2417872?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kovács  Tamás</author>
+   <enclosure url="http://mno.hu/data/cikkek/2417/24178/cikk-2417872/1.jpg" length="320095" type="image/jpeg"/>
+   <description><![CDATA[Miután a HunLeaks nyilvánosságra hozta a magyar ellenzék vezetőinek levelezését, minden megváltozott.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Wed, 20 Sep 2017 17:37:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A mi kis migránsunk]]></title>
+   <link>http://mno.hu/velemeny/a-mi-kis-migransunk-2414356?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kovács  Tamás</author>
+   <enclosure url="http://mno.hu/data/cikkek/2414/24143/cikk-2414356/vucic_nuri.jpg" length="65536" type="image/jpeg"/>
+   <description><![CDATA[A menekültválság politikai marketingtermékké süllyesztése máshol is előforduló jelenség.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Sun, 27 Aug 2017 15:28:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az illiberálisok paradicsoma]]></title>
+   <link>http://mno.hu/velemeny/az-illiberalisok-paradicsoma-2403639?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kovács  Tamás</author>
+   <enclosure url="http://mno.hu/data/cikkek/2403/24036/cikk-2403639/fortepan_51429_1_.jpg" length="506650" type="image/jpeg"/>
+   <description><![CDATA[Miért éppen most következett be Magyarországon az autoriter politikai fordulat?]]></description>
+   <category>Vélemény</category>
+   <pubDate>Fri, 16 Jun 2017 16:47:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ennyire egyszerű a világ?]]></title>
+   <link>http://mno.hu/velemeny/ennyire-egyszeru-a-vilag-2399601?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kovács  Tamás</author>
+   <enclosure url="http://mno.hu/data/cikkek/2399/23996/cikk-2399601/SZB20170424_6904.jpg" length="657120" type="image/jpeg"/>
+   <description><![CDATA[Soros és Putyin – íme az univerzum megoldóképlete a politikusaink szerint.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Fri, 19 May 2017 13:59:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

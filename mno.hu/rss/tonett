@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - rovat: Tonett]]></title>
+  <link>http://mno.hu/tonett</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Wed, 11 Apr 2018 08:35:41 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[„Konfliktuskerülő vagyok, ez sokszor nem jó”]]></title>
+   <link>http://mno.hu/tonett/konfliktuskerulo-vagyok-ez-sokszor-nem-jo-2393743?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Herczeg Szonja</author>
+   <enclosure url="http://mno.hu/data/cikkek/2393/23937/cikk-2393743/MP20170206_8066.jpg" length="382544" type="image/jpeg"/>
+   <description><![CDATA[Villámkérdésekre villámválaszok a The Biebers frontemberétől, Puskás Petitől. Tonett.]]></description>
+   <category>Tonett</category>
+   <pubDate>Thu, 06 Apr 2017 20:52:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Herczku Ágnes: Nem hiszem, hogy lenne következő életem]]></title>
+   <link>http://mno.hu/tonett/nem-hiszem-hogy-lenne-kovetkezo-eletem-1388682?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabó Emese</author>
+   <enclosure url="http://mno.hu/data/cikkek/1388/13886/cikk-1388682/CD6K7854.jpg" length="220595" type="image/jpeg"/>
+   <description><![CDATA[Herczku Ágnes népdalénekes a szellemi sivárságtól és az ostobaságtól tart a leginkább. De mire a legbüszkébb?]]></description>
+   <category>Tonett</category>
+   <pubDate>Sat, 04 Mar 2017 12:35:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kaptam egy gombot anyukámtól a nadrágomra]]></title>
+   <link>http://mno.hu/tonett/kaptam-egy-gombot-anyukamtol-a-nadragomra-1386296?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Varga Attila</author>
+   <enclosure url="http://mno.hu/data/cikkek/1386/13862/cikk-1386296/SZB20170210_1900.jpg" length="481095" type="image/jpeg"/>
+   <description><![CDATA[Villámkérdések és őszinte válaszok lélekről, életről, döntésekről. Aki válaszol: Bolyki Jani borász.]]></description>
+   <category>Tonett</category>
+   <pubDate>Thu, 16 Feb 2017 17:03:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Csak olyan vicceket ismerek, amiken sírva nevetünk]]></title>
+   <link>http://mno.hu/tonett/csak-olyan-vicceket-ismerek-amiken-sirva-nevetunk-1385487?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Varga Attila</author>
+   <enclosure url="http://mno.hu/data/cikkek/1385/13854/cikk-1385487/MP20170201_8060_896_504_1486652174.jpg" length="74906" type="image/jpeg"/>
+   <description><![CDATA[„Már nincs ébresztőórám, próbálok úgy élni, hogy ne kelljen kikapcsolódnom.” Beri Aryval beszélgettünk.]]></description>
+   <category>Tonett</category>
+   <pubDate>Sun, 12 Feb 2017 08:57:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[„Mint dühödt vaddisznó túrtam az éjszakát”]]></title>
+   <link>http://mno.hu/tonett/mint-duhodt-vaddiszno-turtam-az-ejszakat-1384105?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sashegyi Zsófia</author>
+   <enclosure url="http://mno.hu/data/cikkek/1384/13841/cikk-1384105/BA20170126_7846_896_504_1485960282.jpg" length="90131" type="image/jpeg"/>
+   <description><![CDATA[Milyen étellel lehet kikergetni a világból Ferenczi Györgyöt? És milyen szuperhősképességet szeretne?]]></description>
+   <category>Tonett</category>
+   <pubDate>Sun, 05 Feb 2017 15:53:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szentesi József: A biliárd és a bor egyaránt túlnőtte önmagát]]></title>
+   <link>http://mno.hu/tonett/kulonleges-dolgot-nem-latok-csak-mulik-az-ido-1382908?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabó Emese</author>
+   <enclosure url="http://mno.hu/data/cikkek/1382/13829/cikk-1382908/TT20170125_003003.jpg" length="348888" type="image/jpeg"/>
+   <description><![CDATA[Szentesi József borász boldogságról, bánatról, döntésekről és arról, miért vitték el bilincsben.]]></description>
+   <category>Tonett</category>
+   <pubDate>Thu, 26 Jan 2017 16:27:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Harry Potter köpenye és a farkába harapó kígyó]]></title>
+   <link>http://mno.hu/tonett/harry-potter-kopenye-es-a-farkaba-harapo-kigyo-1381104?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lázár Fruzsina</author>
+   <enclosure url="http://mno.hu/data/cikkek/1381/13811/cikk-1381104/VL20160112_3793x.jpg" length="204496" type="image/jpeg"/>
+   <description><![CDATA[Villámkérdések és őszinte válaszok családról, munkáról, alázatról. Aki a székre ült: Kormos Anett.  ]]></description>
+   <category>Tonett</category>
+   <pubDate>Sat, 14 Jan 2017 14:17:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Bényei Tamás: Paul Newman simán eljátszhatna filmen]]></title>
+   <link>http://mno.hu/tonett/benyei-tamas-paul-newman-siman-eljatszhatna-filmen-1379751?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sashegyi Zsófia</author>
+   <enclosure url="http://mno.hu/data/cikkek/1379/13797/cikk-1379751/BA20170105_4695_896_504_1483639269.jpg" length="57299" type="image/jpeg"/>
+   <description><![CDATA[Villámkérdések és őszinte válaszok lélekről, életről, döntésekről. Aki válaszol: Bényei Tamás dzsesszzenész.
+]]></description>
+   <category>Tonett</category>
+   <pubDate>Thu, 05 Jan 2017 19:22:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hiába vagyok énekes, főállásban kórházi ápolóként dolgozom]]></title>
+   <link>http://mno.hu/tonett/rozsafa-kavesasztal-1378585?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Varga Attila</author>
+   <enclosure url="http://mno.hu/data/cikkek/1378/13785/cikk-1378585/BA20161228_2958_896_504_1482976819.jpg" length="41018" type="image/jpeg"/>
+   <description><![CDATA[Villámkérdések és őszinte válaszok lélekről, életről, döntésekről. Aki válaszol: Judie Jay énekesnő.]]></description>
+   <category>Tonett</category>
+   <pubDate>Thu, 29 Dec 2016 05:32:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Növényi: Most is annyi eszem van, mint háromévesen]]></title>
+   <link>http://mno.hu/tonett/novenyi-most-is-annyi-eszem-van-mint-haromevesen-1377640?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Molnár Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/1377/13776/cikk-1377640/szb20161210_5764_896_504_1482334271.jpg" length="33906" type="image/jpeg"/>
+   <description><![CDATA[Villámkérdések és őszinte válaszok lélekről, életről, döntésekről – csak felnőtteknek.]]></description>
+   <category>Tonett</category>
+   <pubDate>Wed, 21 Dec 2016 16:47:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[„A gyerekek születésekor azért elsírtam magam”]]></title>
+   <link>http://mno.hu/tonett/a-gyerekek-szuletesekor-azert-elsirtam-magam-1376526?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Herczeg Szonja</author>
+   <enclosure url="http://mno.hu/data/cikkek/1376/13765/cikk-1376526/MP20161212_5503.jpg" length="534720" type="image/jpeg"/>
+   <description><![CDATA[Villámkérdések és őszinte válaszok lélekről, életről, döntésekről. Aki válaszol: az Animal Cannibals.]]></description>
+   <category>Tonett</category>
+   <pubDate>Wed, 14 Dec 2016 20:48:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Gyémánt Bálint: „Vonzott a nindzsaság, de győzött a zenélés”]]></title>
+   <link>http://mno.hu/tonett/vonzott-a-nindzsasag-de-gyozott-a-zeneles-1375276?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabó Emese</author>
+   <enclosure url="http://mno.hu/data/cikkek/1375/13752/cikk-1375276/CD6K4289x.jpg" length="500740" type="image/jpeg"/>
+   <description><![CDATA[Villámkérdések és őszinte válaszok: Gyémánt Bálint lélekről, életről, döntésekről.]]></description>
+   <category>Tonett</category>
+   <pubDate>Wed, 07 Dec 2016 20:52:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Babos Tímea: Passz. Illetve szeretnék jól énekelni]]></title>
+   <link>http://mno.hu/tonett/babos-timea-elarulta-mitol-fel-a-legjobban-1373829?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabó Emese</author>
+   <enclosure url="http://mno.hu/data/cikkek/1373/13738/cikk-1373829/20161128_NBB3892.JPG" length="524098" type="image/jpeg"/>
+   <description><![CDATA[Villámkérdések és őszinte válaszok lélekről, életről, döntésekről.]]></description>
+   <category>Tonett</category>
+   <pubDate>Wed, 30 Nov 2016 19:05:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Bede-Fazekas Szabolcs: „Egy mackós nézésért le tudok menni kutyába”]]></title>
+   <link>http://mno.hu/tonett/egy-mackos-nezesert-le-tudok-menni-kutyaba-1372672?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabó Emese</author>
+   <enclosure url="http://mno.hu/data/cikkek/1372/13726/cikk-1372672/VL20161122_0001.jpg" length="510809" type="image/jpeg"/>
+   <description><![CDATA[Villámkérdések és őszinte válaszok lélekről, életről, döntésekről. Aki válaszol: Bede-Fazekas Szabolcs.]]></description>
+   <category>Tonett</category>
+   <pubDate>Wed, 23 Nov 2016 17:40:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[„A holnapba mennék, a múlt nem érdekel, azt lezártam”]]></title>
+   <link>http://mno.hu/tonett/a-holnapba-mennek-a-mult-nem-erdekel-azt-lezartam-1371710?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabó Emese</author>
+   <enclosure url="http://mno.hu/data/cikkek/1371/13717/cikk-1371710/VL20161116_0690x.jpg" length="387461" type="image/jpeg"/>
+   <description><![CDATA[Villámkérdések és őszinte válaszok lélekről, életről, döntésekről. Aki válaszol: Zacher Gábor.]]></description>
+   <category>Tonett</category>
+   <pubDate>Wed, 16 Nov 2016 16:55:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Palya Bea: Az egész életem egy szabálysértés]]></title>
+   <link>http://mno.hu/tonett/az-egesz-eletem-egy-szabalysertes-1370632?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabó Emese</author>
+   <enclosure url="http://mno.hu/data/cikkek/1370/13706/cikk-1370632/_BA_2834x.jpg" length="445673" type="image/jpeg"/>
+   <description><![CDATA[Villámkérdések és őszinte válaszok lélekről, életről, döntésekről. Aki válaszol: Palya Bea.]]></description>
+   <category>Tonett</category>
+   <pubDate>Wed, 09 Nov 2016 19:19:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Pion István]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/pion-istvan-26135</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Fri, 13 Apr 2018 21:13:07 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Licitáljon Esterházy-kéziratra, segít vele]]></title>
+   <link>http://mno.hu/grund/licitaljon-esterhazy-keziratra-segit-vele-2390177?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pion István</author>
+   <enclosure url="http://mno.hu/data/cikkek/2390/23901/cikk-2390177/EP_kezirat_896_504_1489577669.jpg" length="337645" type="image/jpeg"/>
+   <description><![CDATA[Számos más író, költő kézirata és ereklyéje is kalapács alá kerül: a befolyt összegből jótékonykodnak.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Wed, 15 Mar 2017 15:35:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Jordán Tamás újra pályázni fog az igazgatói posztra]]></title>
+   <link>http://mno.hu/grund/jordan-tamas-ujra-palyazni-fog-az-igazgatoi-posztra-1388573?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Makrai Sonja, Pion István</author>
+   <enclosure url="http://mno.hu/data/cikkek/1388/13885/cikk-1388573/BA20130123_4832.jpg" length="167504" type="image/jpeg"/>
+   <description><![CDATA[Az alapító-igazgató a közgyűlés döntésére reagált lapunknak. A budapesti Trafóra is kiírták a pályázatot.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Fri, 03 Mar 2017 12:53:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nem volt riválisa, mégsem támogatták Jordán Tamást]]></title>
+   <link>http://mno.hu/grund/nem-volt-rivalisa-megsem-tamogattak-jordan-tamast-1388494?utm_source=feed&amp;utm_medium=rss</link>
+   <author>R. Kiss Kornélia, Pion István</author>
+   <enclosure url="http://mno.hu/data/cikkek/1388/13884/cikk-1388494/BA20130123_4832.jpg" length="321708" type="image/jpeg"/>
+   <description><![CDATA[Ő a szombathelyi színház alapító igazgatója, riválisa visszalépett, mégsem támogatta a közgyűlés Jordán Tamást.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Thu, 02 Mar 2017 22:25:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

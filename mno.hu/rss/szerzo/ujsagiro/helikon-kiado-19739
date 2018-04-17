@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Helikon Kiadó]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/helikon-kiado-19739</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Fri, 13 Apr 2018 21:15:00 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Irodalmi huncutságok a Helikonnál]]></title>
+   <link>http://mno.hu/grund/irodalmi-huncutsagok-a-helikonnal-1231946?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Helikon Kiadó</author>
+   <description><![CDATA[Weöres Sándort, a székely góbékat és a menyecskéket is más oldalukról ismerhetjük meg idén.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Fri, 13 Jun 2014 17:59:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Könyvheti újdonságok a Helikon Kiadónál]]></title>
+   <link>http://mno.hu/grund/konyvheti-ujdonsagok-a-helikon-kiadonal-1231616?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Helikon Kiadó</author>
+   <description><![CDATA[Kiadatlan, megfejtett és újra felfedezett művek a Helikon Kiadó könyvheti kínálatában. ]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Thu, 12 Jun 2014 18:59:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Egy erdélyi grófkisasszony emlékei]]></title>
+   <link>http://mno.hu/grund/egy-erdelyi-grofkisasszony-emlekei-1230410?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Helikon Kiadó</author>
+   <description><![CDATA[Ének az életből című kötetében meséli el gróf Bánffy Katalin a Bánffy család 20. századi történetét.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Wed, 04 Jun 2014 19:45:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Elveszett és megkerült a Hazajáró lélek]]></title>
+   <link>http://mno.hu/grund/elveszett-es-megkerult-a-hazajaro-lelek-1229599?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Helikon Kiadó</author>
+   <description><![CDATA[Kerouac elveszettnek hitt kisregénye, a Hazajáró lélek most a magyar olvasóközönség ajtaján kopogtat.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Sat, 31 May 2014 15:51:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Pannonica Rotschild, a rebellis bárónő]]></title>
+   <link>http://mno.hu/grund/pannonica-rotschild-a-rebellis-barono-1229596?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Helikon Kiadó</author>
+   <description><![CDATA[Thelonious Monk muzsikája kíséri Pannonica Rotschildet a szülői háztól a New York-i dzsesszvilágig.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Fri, 30 May 2014 16:12:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Tolnay-est a Hadik kávéházban]]></title>
+   <link>http://mno.hu/grund/tolnay-est-a-hadik-kavehazban-1226312?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Helikon Kiadó</author>
+   <description><![CDATA[A 100 éve született Tolnay Klári pályáját feldolgozó Tolnay 100 című kötetet május 21-én mutatják be.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Thu, 15 May 2014 13:10:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Márai Sándorról az elmúlt 25 év tükrében]]></title>
+   <link>http://mno.hu/grund/marai-sandorrol-az-elmult-25-ev-tukreben-1220178?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Helikon Kiadó</author>
+   <description><![CDATA[Márai Sándorra emlékeznek a Petőfi Irodalmi Múzeumban halálának 25. évfordulóján]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Tue, 08 Apr 2014 11:33:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Mágiával a csúcson]]></title>
+   <link>http://mno.hu/korabbipartnereink/marai-az-elegans-gyujtogato-1067388?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Helikon Kiadó</author>
+   <description><![CDATA[112 éve ezen a napon született Márai Sándor]]></description>
+   <category>Korábbi partnereink</category>
+   <pubDate>Tue, 10 Apr 2012 16:10:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

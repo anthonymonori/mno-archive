@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Dabis Balázs Silvius]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/dabisbalazssilvius-21400</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Sat, 14 Apr 2018 10:03:29 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Edelényi lelemény – izgalmas kastélytúra időutazással]]></title>
+   <link>http://mno.hu/eletmod/edelenyi-lelemeny-izgalmas-kastelytura-idoutazassal-1253659?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Dabis Balázs Silvius</author>
+   <description><![CDATA[A közelmúltban felújított L’Huillier–Coburg-kastély izgalmas és tartalmas időutazást kínál.]]></description>
+   <category>Életmód</category>
+   <pubDate>Thu, 16 Oct 2014 18:31:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Huculokkal húzatva]]></title>
+   <link>http://mno.hu/eletmod/huculokkal-huzatva-1240100?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Dabis Balázs Silvius</author>
+   <description><![CDATA[Aggtelek környékén nemcsak túrázni és barlangászkodni érdemes.]]></description>
+   <category>Életmód</category>
+   <pubDate>Thu, 31 Jul 2014 18:54:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

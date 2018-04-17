@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Egedy Tamás]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/egedy-tamas-19271</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Wed, 11 Apr 2018 21:11:30 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Az Elios–Tiborcz-ügy két tanulsága]]></title>
+   <link>http://mno.hu/velemeny/az-eliostiborcz-ugy-ket-tanulsaga-2449319?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Egedy Tamás</author>
+   <enclosure url="http://mno.hu/data/cikkek/2449/24493/cikk-2449319/szb20160228_5575.jpg" length="402847" type="image/jpeg"/>
+   <description><![CDATA[Itt nem nemzeti tőkésosztály épül, csak éhes disznókat engedtünk a vetésbe.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Sat, 24 Feb 2018 20:27:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Két büntetés Magyarországon]]></title>
+   <link>http://mno.hu/velemeny/ket-buntetes-magyarorszagon-2437009?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Egedy Tamás</author>
+   <enclosure url="http://mno.hu/data/cikkek/2437/24370/cikk-2437009/8_1szb.jpg" length="356329" type="image/jpeg"/>
+   <description><![CDATA[Amíg nem lesz erősebb a civil társadalom, addig a bürokraták maradnak. Ők az állam janicsárjai.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Wed, 03 Jan 2018 17:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[PISA-sokk: amiről nem beszélünk]]></title>
+   <link>http://mno.hu/velemeny/pisa-sokk-amirol-nem-beszelunk-1376571?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Egedy Tamás</author>
+   <enclosure url="http://mno.hu/data/cikkek/1376/13765/cikk-1376571/8_1bd.jpg" length="476403" type="image/jpeg"/>
+   <description><![CDATA[Jó tankönyvek és megbecsült pedagógusok nélkül nincs színvonalas oktatás.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Thu, 15 Dec 2016 20:05:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Van képük képtelen válaszokat adni]]></title>
+   <link>http://mno.hu/migr_1834/van_kepuk_keptelen_valaszokat_adni-225619?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Egedy Tamás</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 21 Sep 2010 00:00:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

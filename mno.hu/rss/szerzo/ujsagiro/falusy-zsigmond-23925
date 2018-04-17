@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Falusy Zsigmond]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/falusy-zsigmond-23925</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 16:05:55 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Reménytelen menekültek Pilisen]]></title>
+   <link>http://mno.hu/hetvegimagazin/preshazblues-1343204?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Falusy Zsigmond</author>
+   <enclosure url="http://mno.hu/data/cikkek/1343/13432/cikk-1343204/VL20160505_5464_grid2_fekvo_lead.jpg" length="79717" type="image/jpeg"/>
+   <description><![CDATA[Több ezren lehetnek azok a budapestiek, akik a kilátástalanság elől Pilis présházaiba költöztek.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Sun, 22 May 2016 15:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Időutazókat találtunk Somogyban]]></title>
+   <link>http://mno.hu/hetvegimagazin/robinzonok-somogyban-1338813?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Falusy Zsigmond</author>
+   <enclosure url="http://mno.hu/data/cikkek/1338/13388/cikk-1338813/VL20160405_4284_grid2_fekvo_lead.jpg" length="134520" type="image/jpeg"/>
+   <description><![CDATA[„Gyepűrágók” Visnyeszéplakon, avagy az önfenntartó falu, mely nem kér az EU-ból.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Sun, 24 Apr 2016 07:09:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Thorpe: Orbán a főorvos a nagyviziten]]></title>
+   <link>http://mno.hu/nagyinterju_magazinban/nick-thorpe-orban-a-foorvos-a-nagyviziten-1337683?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Falusy Zsigmond</author>
+   <enclosure url="http://mno.hu/data/cikkek/1337/13376/cikk-1337683/VL20160404_4075_grid2_fekvo_lead.jpg" length="45717" type="image/jpeg"/>
+   <description><![CDATA[A BBC tudósítója az egymás szemébe néző magyarokról és arról, mikor készít interjút Orbán Viktorral.]]></description>
+   <category>Nagyinterjú a Magazinban</category>
+   <pubDate>Sun, 17 Apr 2016 06:30:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hálapénz helyett kifest - bemutatjuk az ország legújabb hősét]]></title>
+   <link>http://mno.hu/hetvegimagazin/a-hala-festoje-1335623?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Falusy Zsigmond</author>
+   <enclosure url="http://mno.hu/data/cikkek/1335/13356/cikk-1335623/VL20160330_4003_grid2_fekvo_lead.jpg" length="64566" type="image/jpeg"/>
+   <description><![CDATA[Lakatos Norbert nemrég hálából kifestette a kistarcsai Flór Ferenc Kórház egyik osztályát. Portré.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Sun, 03 Apr 2016 16:54:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Üzentek Lajcsinak a börtönből]]></title>
+   <link>http://mno.hu/hetvegimagazin/rabok-hullamhosszan-1335625?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Falusy Zsigmond</author>
+   <enclosure url="http://mno.hu/data/cikkek/1335/13356/cikk-1335625/VL20160317_3385_grid2_fekvo_lead.jpg" length="42768" type="image/jpeg"/>
+   <description><![CDATA[A kardio-tuc-tuctól a mélyinterjúig számtalan műsort hallgathatnak immár két magyar büntetés-végrehajtási intézetben a rabok.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Sat, 02 Apr 2016 15:10:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Klapka György: Voltam embercsempész is]]></title>
+   <link>http://mno.hu/hetvegimagazin/klapka-gyorgy-voltam-embercsempesz-is-1332753?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Falusy Zsigmond</author>
+   <enclosure url="http://mno.hu/data/cikkek/1332/13327/cikk-1332753/VL20160308_2760_grid2_fekvo_lead.jpg" length="84116" type="image/jpeg"/>
+   <description><![CDATA[Sőt, minden más is volt, csak akasztott ember nem. Élete kész regény – és mintha Rejtő Jenő írta volna.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Sun, 13 Mar 2016 18:50:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A pokol és a pokol tornáca Tiszavasváriban]]></title>
+   <link>http://mno.hu/hetvegimagazin/az-idegen-legio-1330613?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Falusy Zsigmond</author>
+   <enclosure url="http://mno.hu/data/cikkek/1330/13306/cikk-1330613/VL20160222_2500_grid2_fekvo_lead.jpg" length="97872" type="image/jpeg"/>
+   <description><![CDATA[Tiszavasváriban is az érpataki modell alapján „tenne rendet” a jobbikos vezetés. Helyszíni riport.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Sun, 28 Feb 2016 06:30:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hatvan forint az élet – egy alkoholista vallomásai]]></title>
+   <link>http://mno.hu/hetvegimagazin/hatvan-forint-az-elet-egy-alkoholista-vallomasai-1329566?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Falusy Zsigmond</author>
+   <enclosure url="http://mno.hu/data/cikkek/1329/13295/cikk-1329566/Fucking_Miserable.2002_uj_fekvo_lead.jpg" length="115965" type="image/jpeg"/>
+   <description><![CDATA[Egy anonim alkoholista vallomása lecsúszásról és felemelkedésről. Pénz, börtön, megváltás.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Sat, 20 Feb 2016 15:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Betiltott halászat, megélhetés nélküli családok]]></title>
+   <link>http://mno.hu/hetvegimagazin/kotott-fogas-1327270?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Falusy Zsigmond</author>
+   <enclosure url="http://mno.hu/data/cikkek/1327/13272/cikk-1327270/halasz.jpg" length="488764" type="image/jpeg"/>
+   <description><![CDATA[Hej, halászok!  – Természetes vizeinken már csak horgászni lehet.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Sun, 07 Feb 2016 20:24:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

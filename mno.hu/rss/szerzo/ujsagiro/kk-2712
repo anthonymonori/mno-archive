@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: KK]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/kk-2712</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 22:37:48 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[„Rejtély, mi történt abban a néhány hétben”]]></title>
+   <link>http://mno.hu/hirtv_gazdasagi_hirei/rejtely-mi-tortent-abban-a-nehany-hetben-1405357?utm_source=feed&amp;utm_medium=rss</link>
+   <author>KK</author>
+   <enclosure url="http://mno.hu/data/cikkek/1405/14053/cikk-1405357/mezohegyes.jpg" length="444756" type="image/jpeg"/>
+   <description><![CDATA[A korábban privatizált, majd ismét államosított Mezőhegyesi Ménesbirtokba a kormány milliárdokat fektet.]]></description>
+   <category>A Hír TV gazdasági hírei</category>
+   <pubDate>Fri, 13 Oct 2017 11:30:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nate: az Egyesült Államok még úgy-ahogy megúszta]]></title>
+   <link>http://mno.hu/hirtvkulfold/nate-az-egyesult-allamok-meg-ugy-ahogy-meguszta-1405014?utm_source=feed&amp;utm_medium=rss</link>
+   <author>KK</author>
+   <enclosure url="http://mno.hu/data/cikkek/1405/14050/cikk-1405014/usanate.jpg" length="285158" type="image/jpeg"/>
+   <description><![CDATA[Utakat árasztott el és fákat döntött ki, de nagyobb pusztítást nem okozott a hurrikán.]]></description>
+   <category>A Hír TV külföldi hírei</category>
+   <pubDate>Sun, 08 Oct 2017 22:42:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Fekete György: A politika nem folyt bele az MMA életébe]]></title>
+   <link>http://mno.hu/ahirtvhirei/fekete-gyorgy-nem-folyt-bele-a-politika-az-mma-mukodesebe-1405012?utm_source=feed&amp;utm_medium=rss</link>
+   <author>KK</author>
+   <enclosure url="http://mno.hu/data/cikkek/1405/14050/cikk-1405012/fekete_gyorgy.jpg" length="303159" type="image/jpeg"/>
+   <description><![CDATA[„Minden igyekezetünk arra irányul, hogy a politikai mezőbe ne tartozzunk bele” – fogalmazott a Magyar Művészeti Akadémia leköszönő elnöke a Hír TV-nek.]]></description>
+   <category>A Hír TV belföldi hírei</category>
+   <pubDate>Sun, 08 Oct 2017 21:44:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[„Sajnálom, de csak egyetlen dolog fog működni!”]]></title>
+   <link>http://mno.hu/hirtvkulfold/sajnalom-de-csak-egyetlen-dolog-fog-mukodni-1405009?utm_source=feed&amp;utm_medium=rss</link>
+   <author>KK</author>
+   <enclosure url="http://mno.hu/data/cikkek/1405/14050/cikk-1405009/trump.jpg" length="353505" type="image/jpeg"/>
+   <description><![CDATA[Csak egy megoldás van az észak-koreai válság kezelésére, és az nem a párbeszéd – erről twittelt Trump.]]></description>
+   <category>A Hír TV külföldi hírei</category>
+   <pubDate>Sun, 08 Oct 2017 19:25:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nadal Kína ura is]]></title>
+   <link>http://mno.hu/hirtvsport/nadal-kina-ura-is-1405008?utm_source=feed&amp;utm_medium=rss</link>
+   <author>KK</author>
+   <enclosure url="http://mno.hu/data/cikkek/1405/14050/cikk-1405008/nadal.png" length="373102" type="image/png"/>
+   <description><![CDATA[Karrierje hetvenötödik egyéni tornagyőzelmét aratta a spanyol világelső.]]></description>
+   <category>A Hír TV sporthírei</category>
+   <pubDate>Sun, 08 Oct 2017 19:13:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hibás emléktáblát avatott Németh Szilárd]]></title>
+   <link>http://mno.hu/ahirtvhirei/hibas-emlektablat-avatott-nemeth-szilard-1405007?utm_source=feed&amp;utm_medium=rss</link>
+   <author>KK</author>
+   <enclosure url="http://mno.hu/data/cikkek/1405/14050/cikk-1405007/hibas.jpeg" length="385270" type="image/jpeg"/>
+   <description><![CDATA[Két helyen is elírták az évszámot az aradi vértanúk Csepelen felavatott emléktábláján.]]></description>
+   <category>A Hír TV belföldi hírei</category>
+   <pubDate>Sun, 08 Oct 2017 19:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Botka feladta, nyomoznak a Jobbik ellen]]></title>
+   <link>http://mno.hu/ahirtvhirei/ossze-1404782?utm_source=feed&amp;utm_medium=rss</link>
+   <author>KK</author>
+   <enclosure url="http://mno.hu/data/cikkek/1404/14047/cikk-1404782/heti.jpg" length="264678" type="image/jpeg"/>
+   <description><![CDATA[A hét belpolitikai történései röviden. ]]></description>
+   <category>A Hír TV belföldi hírei</category>
+   <pubDate>Sun, 08 Oct 2017 18:36:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kifizetőbb lehet a csere, mint a javítás]]></title>
+   <link>http://mno.hu/ahirtvhirei/kifizetobb-lehet-a-csere-mint-a-javitas-1405003?utm_source=feed&amp;utm_medium=rss</link>
+   <author>KK</author>
+   <enclosure url="http://mno.hu/data/cikkek/1405/14050/cikk-1405003/HM20141028_007.jpg" length="187249" type="image/jpeg"/>
+   <description><![CDATA[Ha nem szakember ellenőrzi az elavult készüléket, az akár életveszélyes is lehet.]]></description>
+   <category>A Hír TV belföldi hírei</category>
+   <pubDate>Sun, 08 Oct 2017 18:23:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Készülhetünk a poloskainvázióra]]></title>
+   <link>http://mno.hu/ahirtvhirei/keszulhetunk-a-poloskainvaziora-1405004?utm_source=feed&amp;utm_medium=rss</link>
+   <author>KK</author>
+   <enclosure url="http://mno.hu/data/cikkek/1405/14050/cikk-1405004/poloska.jpg" length="185507" type="image/jpeg"/>
+   <description><![CDATA[A hideg elől legtöbbször a házakba, lakásokba menekülnek.]]></description>
+   <category>A Hír TV belföldi hírei</category>
+   <pubDate>Sun, 08 Oct 2017 18:08:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ellentmondásosan nyilatkoznak kormányoldalon]]></title>
+   <link>http://mno.hu/ahirtvhirei/ellentmondasosan-nyilatkoznak-kormanyoldalon-1405002?utm_source=feed&amp;utm_medium=rss</link>
+   <author>KK</author>
+   <enclosure url="http://mno.hu/data/cikkek/1405/14050/cikk-1405002/kormold.jpg" length="248861" type="image/jpeg"/>
+   <description><![CDATA[Újra napirendre került a Fideszben, hogy az élelmiszer-kereskedelemben is a magyar tulajdonú láncok kerüljenek többségbe?]]></description>
+   <category>A Hír TV belföldi hírei</category>
+   <pubDate>Sun, 08 Oct 2017 17:29:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Jó és gusztusos: menzakoszt 450 forintból]]></title>
+   <link>http://mno.hu/ahirtvhirei/jo-minosegu-etelek-gusztusosan-talalva-450-forintbol-1405001?utm_source=feed&amp;utm_medium=rss</link>
+   <author>KK</author>
+   <enclosure url="http://mno.hu/data/cikkek/1405/14050/cikk-1405001/menza.jpg" length="329423" type="image/jpeg"/>
+   <description><![CDATA[A 2017-es közétkeztetési szakácsverseny döntőjében négy csapat mérte össze tudását.
+]]></description>
+   <category>A Hír TV belföldi hírei</category>
+   <pubDate>Sun, 08 Oct 2017 15:52:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[LMP: Hihetetlen Áder szájából a kritika]]></title>
+   <link>http://mno.hu/ahirtvhirei/lmp-hihetetlen-ader-szajabol-a-kritika-1404999?utm_source=feed&amp;utm_medium=rss</link>
+   <author>KK</author>
+   <enclosure url="http://mno.hu/data/cikkek/1404/14049/cikk-1404999/ungar_peter.jpg" length="376061" type="image/jpeg"/>
+   <description><![CDATA[Nem biztos, hogy az elmúlt hónapok tragikus szintjéről még lejjebb süllyedhet a magyar közbeszéd állapota – így reagált az LMP elnökségi tagja az államfő kijelentéseire.]]></description>
+   <category>A Hír TV belföldi hírei</category>
+   <pubDate>Sun, 08 Oct 2017 15:39:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hamilton egy lépésnyire a vb-címtől]]></title>
+   <link>http://mno.hu/hirtvsport/hamilton-egy-lepesnyire-a-vb-cimtol-1405000?utm_source=feed&amp;utm_medium=rss</link>
+   <author>KK</author>
+   <enclosure url="http://mno.hu/data/cikkek/1405/14050/cikk-1405000/hamilton.jpg" length="318461" type="image/jpeg"/>
+   <description><![CDATA[A brit versenyző rajt-cél győzelmet aratott a szuzukai Japán Nagydíjon.]]></description>
+   <category>A Hír TV sporthírei</category>
+   <pubDate>Sun, 08 Oct 2017 15:27:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Felfüggeszthetik Katalónia autonómiáját ]]></title>
+   <link>http://mno.hu/hirtvkulfold/felfuggeszthetik-katalonia-autonomiajat-1404995?utm_source=feed&amp;utm_medium=rss</link>
+   <author>NT, KK</author>
+   <enclosure url="http://mno.hu/data/cikkek/1404/14049/cikk-1404995/ray.jpg" length="275316" type="image/jpeg"/>
+   <description><![CDATA[Erre még soha nem volt példa az ország történetében.]]></description>
+   <category>A Hír TV külföldi hírei</category>
+   <pubDate>Sun, 08 Oct 2017 15:20:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Börtönkórházról szavaz Berettyóújfalu]]></title>
+   <link>http://mno.hu/ahirtvhirei/bortonkorhazrol-szavaz-berettyoujfalu-1404997?utm_source=feed&amp;utm_medium=rss</link>
+   <author>KK</author>
+   <enclosure url="http://mno.hu/data/cikkek/1404/14049/cikk-1404997/berettyoujfalu.jpg" length="272918" type="image/jpeg"/>
+   <description><![CDATA[Arról kérdezik a helyieket, hogy épülhet-e a 15 ezer lakosú városban.
+
+
+
+]]></description>
+   <category>A Hír TV belföldi hírei</category>
+   <pubDate>Sun, 08 Oct 2017 15:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Pirlo: vége]]></title>
+   <link>http://mno.hu/hirtvsport/bejelentette-visszavonulasat-andrea-pirlo-1404996?utm_source=feed&amp;utm_medium=rss</link>
+   <author>KK</author>
+   <enclosure url="http://mno.hu/data/cikkek/1404/14049/cikk-1404996/pirlo01.jpg" length="56673" type="image/jpeg"/>
+   <description><![CDATA[A 38 esztendős olasz középpályás egy lapinterjúban közölte, hogy az amerikai bajnokság végén felhagy a labdarúgással.]]></description>
+   <category>A Hír TV sporthírei</category>
+   <pubDate>Sun, 08 Oct 2017 14:49:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Egy éve szűnt meg a Népszabadság]]></title>
+   <link>http://mno.hu/ahirtvhirei/egy-eve-szunt-meg-a-nepszabadsag-1404990?utm_source=feed&amp;utm_medium=rss</link>
+   <author>NT, KK</author>
+   <enclosure url="http://mno.hu/data/cikkek/1404/14049/cikk-1404990/7.jpg" length="30507" type="image/jpeg"/>
+   <description><![CDATA[Az újság egykori munkatársai és több száz szimpatizáns demonstrációval emlékezett Budapesten az évfordulóra. ]]></description>
+   <category>A Hír TV belföldi hírei</category>
+   <pubDate>Sun, 08 Oct 2017 14:15:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Semjén beszólt Navracsicsnak]]></title>
+   <link>http://mno.hu/ahirtvhirei/semjen-beszolt-navracsicsnak-1404991?utm_source=feed&amp;utm_medium=rss</link>
+   <author>NT, KK</author>
+   <enclosure url="http://mno.hu/data/cikkek/1404/14049/cikk-1404991/semjen.jpg" length="68316" type="image/jpeg"/>
+   <description><![CDATA[Navracsics Tibornak tudnia kell, hogy kollégái Brüsszelben Soros György zsebében vannak – erről Semjén Zsolt beszélt a Kossuth Rádiónak. ]]></description>
+   <category>A Hír TV belföldi hírei</category>
+   <pubDate>Sun, 08 Oct 2017 11:56:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Juhász Ferenc páros lábbal szált be Molnár Zsoltba]]></title>
+   <link>http://mno.hu/ahirtvhirei/juhasz-ferenc-paros-labbal-szalt-be-molnar-zsoltba-1404914?utm_source=feed&amp;utm_medium=rss</link>
+   <author>KK</author>
+   <enclosure url="http://mno.hu/data/cikkek/1404/14049/cikk-1404914/juh.jpg" length="121504" type="image/jpeg"/>
+   <description><![CDATA[„Az elnöksége ahelyett, hogy megszabadult volna tőle, inkább hagyta, hogy Botka visszalépjen”, írja.]]></description>
+   <category>A Hír TV belföldi hírei</category>
+   <pubDate>Fri, 06 Oct 2017 15:14:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az elvett kilencvenmilliójuk miatt tekertek]]></title>
+   <link>http://mno.hu/ahirtvhirei/az-elvett-kilencvenmilliojuk-miatt-tekertek-1404900?utm_source=feed&amp;utm_medium=rss</link>
+   <author>KK, ÁA</author>
+   <enclosure url="http://mno.hu/data/cikkek/1404/14049/cikk-1404900/2_(1).jpg" length="36018" type="image/jpeg"/>
+   <description><![CDATA[Kerékpáros demonstrációt tartott a Szociális Ágazatban Dolgozók Szakszervezete. ]]></description>
+   <category>A Hír TV belföldi hírei</category>
+   <pubDate>Fri, 06 Oct 2017 13:57:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Lázadással vádolják a katalán rendőrfőnököt]]></title>
+   <link>http://mno.hu/hirtvkulfold/lazadassal-vadoljak-a-katalan-rendorfonokot-1404896?utm_source=feed&amp;utm_medium=rss</link>
+   <author>KK</author>
+   <enclosure url="http://mno.hu/data/cikkek/1404/14048/cikk-1404896/4.jpg" length="21642" type="image/jpeg"/>
+   <description><![CDATA[Madrid szerint a helyi rendőrség nem védte meg a népszavazást megakadályozó spanyol kollégáikat.]]></description>
+   <category>A Hír TV külföldi hírei</category>
+   <pubDate>Fri, 06 Oct 2017 13:39:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Elkelt az idei béke és irodalmi Nobel-díj]]></title>
+   <link>http://mno.hu/hirtvkulfold/elkelt-az-idei-nobel-bekedij-1404897?utm_source=feed&amp;utm_medium=rss</link>
+   <author>KK, ÁA</author>
+   <enclosure url="http://mno.hu/data/cikkek/1404/14048/cikk-1404897/nobel.jpg" length="323662" type="image/jpeg"/>
+   <description><![CDATA[Az ICAN nevű nukleáris fegyverek elleni szervezet és Kazuo Ishiguro író részesültek elismerésben.]]></description>
+   <category>A Hír TV külföldi hírei</category>
+   <pubDate>Fri, 06 Oct 2017 12:38:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Vona nyílt levelet írt a baloldali szavazókhoz]]></title>
+   <link>http://mno.hu/ahirtvhirei/vona-nyilt-levelet-irt-a-baloldali-szavazokhoz-1404893?utm_source=feed&amp;utm_medium=rss</link>
+   <author>KK</author>
+   <enclosure url="http://mno.hu/data/cikkek/1404/14048/cikk-1404893/vona.jpg" length="261171" type="image/jpeg"/>
+   <description><![CDATA[A Jobbik elnöke Facebook-oldalán tette közzé az írást.]]></description>
+   <category>A Hír TV belföldi hírei</category>
+   <pubDate>Fri, 06 Oct 2017 11:57:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Trump vihar előtti csendről beszélt Észak-Koreával kapcsolatban]]></title>
+   <link>http://mno.hu/hirtvkulfold/trump-vihar-elotti-csendrol-beszelt-eszak-koreaval-kapcsolatban-1404885?utm_source=feed&amp;utm_medium=rss</link>
+   <author>KK</author>
+   <enclosure url="http://mno.hu/data/cikkek/1404/14048/cikk-1404885/donald_trump.jpg" length="275890" type="image/jpeg"/>
+   <description><![CDATA[Az amerikai elnök katonai vezetőivel tanácskozott a Fehér Házban.]]></description>
+   <category>A Hír TV külföldi hírei</category>
+   <pubDate>Fri, 06 Oct 2017 10:43:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Egy vírusirtón keresztül hackelték meg az NSA-t]]></title>
+   <link>http://mno.hu/hirtvkulfold/egy-virusirton-keresztul-hackeltek-meg-az-nsa-t-1404883?utm_source=feed&amp;utm_medium=rss</link>
+   <author>KK</author>
+   <enclosure url="http://mno.hu/data/cikkek/1404/14048/cikk-1404883/kap.jpg" length="259180" type="image/jpeg"/>
+   <description><![CDATA[Orosz hackerek a – szintén orosz – Kaspersky Lab vírusirtó programján keresztül jutottak hozzá az amerikai Nemzetbiztonsági Ügynökség titkos adataihoz és dokumentumokhoz.]]></description>
+   <category>A Hír TV külföldi hírei</category>
+   <pubDate>Fri, 06 Oct 2017 10:27:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Halálos vihar pusztított Németországban]]></title>
+   <link>http://mno.hu/hirtvkulfold/halalos-vihar-pusztitott-nemetorszagba-1404879?utm_source=feed&amp;utm_medium=rss</link>
+   <author>KK</author>
+   <enclosure url="http://mno.hu/data/cikkek/1404/14048/cikk-1404879/vihar.jpg" length="466086" type="image/jpeg"/>
+   <description><![CDATA[Több nagyvárosban is leállt a kötött pályás közlekedés.]]></description>
+   <category>A Hír TV külföldi hírei</category>
+   <pubDate>Fri, 06 Oct 2017 09:58:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Orbán közröhej tárgyának tartja a brüsszeli eljárást]]></title>
+   <link>http://mno.hu/ahirtvhirei/orban-a-kozrohej-targyanak-tartja-a-brusszeli-velemenyt-1404878?utm_source=feed&amp;utm_medium=rss</link>
+   <author>KK</author>
+   <enclosure url="http://mno.hu/data/cikkek/1404/14048/cikk-1404878/orban_viktor_mti.jpg" length="42168" type="image/jpeg"/>
+   <description><![CDATA[Nevetségesnek nevezte a civiltörvény miatt indított kötelezettségszegési procedúrát. ]]></description>
+   <category>A Hír TV belföldi hírei</category>
+   <pubDate>Fri, 06 Oct 2017 09:46:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Jobbik: A Fidesz beindította a diktatúra kiépítését]]></title>
+   <link>http://mno.hu/ahirtvhirei/jobbik-a-fidesz-beinditotta-a-diktatura-kiepiteset-1404876?utm_source=feed&amp;utm_medium=rss</link>
+   <author>KK</author>
+   <enclosure url="http://mno.hu/data/cikkek/1404/14048/cikk-1404876/gyongyosi_marton_jobbik_RJ.jpg" length="364012" type="image/jpeg"/>
+   <description><![CDATA[Gyöngyösi Márton szerint úgy tűnik, hogy nemcsak egy Soros-terv van, hanem egy Orbán-terv is.]]></description>
+   <category>A Hír TV belföldi hírei</category>
+   <pubDate>Fri, 06 Oct 2017 09:23:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az aradi vértanúkra emlékezik a magyarság]]></title>
+   <link>http://mno.hu/ahirtvhirei/az-aradi-vertanukra-emlekezik-a-magyarsag-1404874?utm_source=feed&amp;utm_medium=rss</link>
+   <author>KK</author>
+   <enclosure url="http://mno.hu/data/cikkek/1404/14048/cikk-1404874/felarboc_nemzeti_lobogo.jpg" length="264096" type="image/jpeg"/>
+   <description><![CDATA[Országszerte megemlékezéseket tartanak a 13 honvédtábornok és Batthyány Lajos kivégzésének 168. évfordulóján.]]></description>
+   <category>A Hír TV belföldi hírei</category>
+   <pubDate>Fri, 06 Oct 2017 08:40:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Demeter: Egy Rogánhoz köthető cég szakította a legnagyobbat]]></title>
+   <link>http://mno.hu/ahirtvhirei/demeter-egy-roganhoz-kotheto-ceg-szakitotta-a-legnagyobbat-1404873?utm_source=feed&amp;utm_medium=rss</link>
+   <author>KK</author>
+   <enclosure url="http://mno.hu/data/cikkek/1404/14048/cikk-1404873/demeter_marta_lmp_RJ.jpg" length="349187" type="image/jpeg"/>
+   <description><![CDATA[Kiperelte a Magyar Nemzet az eddig eltitkolt adatokat a letelepedési kötvényeket forgalmazó cégekről.]]></description>
+   <category>A Hír TV belföldi hírei</category>
+   <pubDate>Fri, 06 Oct 2017 08:01:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

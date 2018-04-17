@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Vona Gábor]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/vona-gabor-14474</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Fri, 13 Apr 2018 02:19:39 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Néplélek és nemzettudat]]></title>
+   <link>http://mno.hu/velemeny/neplelek-es-nemzettudat-2390489?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vona Gábor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2390/23904/cikk-2390489/fortepan_92491.jpg" length="373135" type="image/jpeg"/>
+   <description><![CDATA[Végre túl kell jutnunk a bal- és jobboldal meddő, XX. századi küzdelmén.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Fri, 17 Mar 2017 08:54:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nem illúzió az ökoszociális nemzetgazdaság]]></title>
+   <link>http://mno.hu/migr_1834/nem_illuzio_az_okoszocialis_nemzetgazdasag-188440?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vona Gábor</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Fri, 24 Jun 2011 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A tábor egy, de zászlóból több kell]]></title>
+   <link>http://mno.hu/migr_1834/a-tabor-egy-de-zaszlobol-tobb-kell-510102?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vona Gábor</author>
+   <description><![CDATA[V o k s 2 0 0 6]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Fri, 02 Jun 2006 01:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Tetszettek volna nemmel szavazni&#8230;]]></title>
+   <link>http://mno.hu/velemeny/tetszettek-volna-nemmel-szavazni-690288?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vona Gábor</author>
+   <description><![CDATA[]]></description>
+   <category>Vélemény</category>
+   <pubDate>Thu, 31 Jul 2003 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szellemi terrorizmus]]></title>
+   <link>http://mno.hu/migr_1834/szellemi-terrorizmus-710937?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Vona Gábor</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Fri, 09 May 2003 00:00:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

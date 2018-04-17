@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Gabay]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/gabay-25833</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 08:43:21 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Nem akarták, hogy kihűljön a termálvíz a meccs miatt]]></title>
+   <link>http://mno.hu/foci/nem-akartak-hogy-kihuljon-a-termalviz-a-meccs-miatt-1386740?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Gabay</author>
+   <enclosure url="http://mno.hu/data/cikkek/1386/13867/cikk-1386740/IMG_0897.jpg" length="130689" type="image/jpeg"/>
+   <description><![CDATA[Az NB II-es Balmazújvárosnál sokallották a pályafűtés költségeit, így mérkőzést kellett halasztaniuk. ]]></description>
+   <category>90 perc</category>
+   <pubDate>Mon, 20 Feb 2017 04:45:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Vb-győztes érkezik a Veszprém és a válogatott kispadjára]]></title>
+   <link>http://mno.hu/sport/ljubomir-vranjes-lesz-a-telekom-veszprem-edzoje-1383918?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Gabay</author>
+   <enclosure url="http://mno.hu/data/cikkek/1383/13839/cikk-1383918/043_dpa_pa_160501_99_790133_dpai.jpg" length="344299" type="image/jpeg"/>
+   <description><![CDATA[A svéd Ljubomir Vranjes végül tényleg csomagban kapja meg a két posztot. 
+]]></description>
+   <category>Sport</category>
+   <pubDate>Wed, 01 Feb 2017 13:55:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Éles József: Ebben a rendszerben megöljük a játékosokat]]></title>
+   <link>http://mno.hu/sport/eles-jozsef-ebben-a-rendszerben-megoljuk-a-jatekosokat-1380974?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Gabay</author>
+   <enclosure url="http://mno.hu/data/cikkek/1380/13809/cikk-1380974/D_YT20081230034x.jpg" length="475022" type="image/jpeg"/>
+   <description><![CDATA[A veszprémi világklasszis súlyos, rendszerszintű problémára hívja fel a figyelmet.]]></description>
+   <category>Sport</category>
+   <pubDate>Fri, 13 Jan 2017 14:55:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

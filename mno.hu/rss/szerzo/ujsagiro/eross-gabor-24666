@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Erőss Gábor]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/eross-gabor-24666</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Sat, 14 Apr 2018 07:44:34 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Az alapjövedelem nem erkölcstelen]]></title>
+   <link>http://mno.hu/velemeny/az-alapjovedelem-nem-erkolcstelen-1349027?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Erőss Gábor</author>
+   <enclosure url="http://mno.hu/data/cikkek/1349/13490/cikk-1349027/MNO_GD20141016_109.jpg" length="341196" type="image/jpeg"/>
+   <description><![CDATA[A javaslat nem az egyenlősdiről szól, hanem a nincstelenség felszámolásáról.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Sun, 26 Jun 2016 19:50:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

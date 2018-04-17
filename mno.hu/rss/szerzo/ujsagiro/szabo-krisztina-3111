@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Szabó Krisztina]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/szabo-krisztina-3111</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Fri, 13 Apr 2018 02:32:42 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Tintaleves, papírgaluska: véget vet nekik a klaviatúra?]]></title>
+   <link>http://mno.hu/civil_ujsagiras/tintaleves-papirgaluska-veget-vet-nekik-a-klaviatura-1037871?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabó Krisztina</author>
+   <description><![CDATA[Az ókori egyiptomiak úgy gondolták, hogy az írás szent tevékenység, „isteni ajándék”. Manapság azonban egyre kevesebbszer ragadunk tollat gondolataink kifejezésére, helyette inkább valamilyen elektronikus eszköz segítségével írunk üzeneteket.]]></description>
+   <category>Civil újságírás</category>
+   <pubDate>Fri, 16 Dec 2011 15:45:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kifestő: mit mutat, mit takar a sminkelt gyermekarc?]]></title>
+   <link>http://mno.hu/civil_ujsagiras/kifesto-mit-mutat-mit-takar-a-sminkelt-gyermekarc-1033144?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szabó Krisztina</author>
+   <description><![CDATA[Rózsás arc, vörös száj, kontúros szem. Kihívó vagy visszafogott, extravagáns vagy szelíden természetes: a smink szinte nélkülözhetetlen eleme a mai nők eszköztárának.]]></description>
+   <category>Civil újságírás</category>
+   <pubDate>Tue, 22 Nov 2011 20:38:25 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

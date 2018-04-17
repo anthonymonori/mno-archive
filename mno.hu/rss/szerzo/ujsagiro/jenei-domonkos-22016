@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Jenei Domonkos]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/jenei-domonkos-22016</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Sat, 14 Apr 2018 15:18:34 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Lehet-e pozitív hozadéka a brókerbotránynak?]]></title>
+   <link>http://mno.hu/nezopontok/lehet-e-pozitiv-hozadeka-a-brokerbotranynak-1277117?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Jenei Domonkos</author>
+   <description><![CDATA[Az elmúlt hetek eseményei az egyik legnagyobb magyarországi brókerbotránnyá kezdenek terebélyesedni.]]></description>
+   <category>Nézőpontok</category>
+   <pubDate>Fri, 13 Mar 2015 16:15:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Felminősítés előtt?]]></title>
+   <link>http://mno.hu/nezopontok/felminosites-elott-1274400?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Jenei Domonkos</author>
+   <description><![CDATA[Ha növekszik a hitelezési hajlandóság és erősödik a befektetői bizalom, közelebb juthatunk a felminősítéshez.]]></description>
+   <category>Nézőpontok</category>
+   <pubDate>Tue, 24 Feb 2015 16:40:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Monetáris játéktér]]></title>
+   <link>http://mno.hu/nezopontok/monetaris-jatekter-1272355?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Jenei Domonkos</author>
+   <description><![CDATA[Az Európai Uniót továbbra is komoly deflációs kockázatok hátráltatják.]]></description>
+   <category>Nézőpontok</category>
+   <pubDate>Wed, 11 Feb 2015 14:00:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

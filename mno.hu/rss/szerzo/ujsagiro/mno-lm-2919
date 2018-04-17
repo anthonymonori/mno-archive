@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: MNO-LM]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/mno-lm-2919</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Sat, 14 Apr 2018 15:27:51 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Cibulkova Moszkva bajnoka]]></title>
+   <link>http://mno.hu/sport/cibulkova-moszkva-bajnoka-900116?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MNO-LM</author>
+   <description><![CDATA[Három játszmában, bő két és fél óra alatt a nyolcadik helyen kiemelt szlovák Dominika Cibulkova nyerte a vasárnapi döntőt az észt Kaia Kanepi ellen a moszkvai fedettpályás tenisztorna női versenyében.]]></description>
+   <category>Sport</category>
+   <pubDate>Sun, 23 Oct 2011 15:27:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Rémesen a kisállatokért]]></title>
+   <link>http://mno.hu/eletmod/remesen-a-kisallatokert-900100?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MNO-LM</author>
+   <description><![CDATA[Gyermekek próbálnak a lehető legijesztőbbek lenni, hogy ezzel elhagyott kedvenceken segítsenek. A Fülöp-szigeteken megrendezett jótékonysági verseny bevételét egy állatmenhely kapja.]]></description>
+   <category>Életmód</category>
+   <pubDate>Sun, 23 Oct 2011 14:44:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kivezetik a különadókat]]></title>
+   <link>http://mno.hu/belfold/kivezetik-a-kulonadokat-5399?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MNO-LM</author>
+   <description><![CDATA[2013-tól megszűnnek az ágazati különadók, míg a bankadó mértékét a felére csökkentik.]]></description>
+   <category>Belföld</category>
+   <pubDate>Tue, 18 Oct 2011 15:15:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A képviselők fizetését veszik górcső alá]]></title>
+   <link>http://mno.hu/belfold/a-kepviselok-fizetesevel-foglalkoznak-5321?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MNO-LM</author>
+   <description><![CDATA[Megalakult az albizottság az országgyűlési képviselők fizetéséről szóló új szabályozás előkészítésére kedden.]]></description>
+   <category>Belföld</category>
+   <pubDate>Tue, 18 Oct 2011 11:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Simor százmillióit vizsgálják]]></title>
+   <link>http://mno.hu/gazdasag/simor-szazmillioit-vizsgaljak-5329?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MNO-LM</author>
+   <description><![CDATA[Az Országgyűlés számvevőszéki és költségvetési bizottsága bekéri Simor Andrástól, a Magyar Nemzeti Bank elnökétől egyebek mellett azokat a dokumentumokat, amelyek igazolják az elnök ciprusi cégének eladását. ]]></description>
+   <category>Gazdaság </category>
+   <pubDate>Tue, 18 Oct 2011 09:58:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

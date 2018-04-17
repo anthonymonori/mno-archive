@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: PZ]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/pz-19565</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Fri, 13 Apr 2018 05:14:13 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Szlovén összefogás a magyar huszár emlékművéért]]></title>
+   <link>http://mno.hu/grund/szloven-osszefogas-a-magyar-huszar-emlekmuveert-1050361?utm_source=feed&amp;utm_medium=rss</link>
+   <author>PZ</author>
+   <description><![CDATA[Megható, a magyarok számára különösen szép szlovéniai civil kezdeményezésre hívta fel a figyelmünket Máthé László, a ljubljanai magyar nagykövetség tanácsosa. A történet középpontjában egy régi szobor áll, egy bátor magyar huszár síremléke, aki a napóleoni háborúkban tett bizonyságot bátorságról és önfeláldozásról.
+]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Thu, 09 Feb 2012 16:16:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

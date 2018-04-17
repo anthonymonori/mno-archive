@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Ránky Lili]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/ranky-lili-15509</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 06:48:49 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[&#132;Harc van&#148;]]></title>
+   <link>http://mno.hu/migr/harc-van-797284?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Sashegyi Zsófia, Ránky Lili</author>
+   <description><![CDATA[A Nemzeti Egységmozgalom és a TF-esték január 15-i rendezvényén Bayer Zsolt és Lovas István telt ház előtt tartott előadást <i>"A magyar média a győzelem után" </i> címmel.            ]]></description>
+   <category>Archívum</category>
+   <pubDate>Wed, 16 Jan 2002 13:15:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

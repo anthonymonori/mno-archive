@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - kiemelt címke: Európa jövője]]></title>
+  <link>http://mno.hu/kiemeltcimke/cimke/Europa_jovoje-10</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 20:56:28 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Európai integráció: utak és tévutak]]></title>
+   <link>http://mno.hu/velemeny/europai-integracio-utak-es-tevutak-2395492?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Becsey Zsolt</author>
+   <enclosure url="http://mno.hu/data/cikkek/2395/23954/cikk-2395492/000_MJ5MP_896_504_1492758598.jpg" length="48733" type="image/jpeg"/>
+   <description><![CDATA[Nem szakmai, hanem politikai szempontok határozták meg az unió bővítését.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Fri, 21 Apr 2017 12:59:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hogyan védi Ausztria a magyar munkást?]]></title>
+   <link>http://mno.hu/velemeny/hogyan-vedi-ausztria-a-magyar-munkast-2395344?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Techet Péter</author>
+   <enclosure url="http://mno.hu/data/cikkek/2395/23953/cikk-2395344/MNO_000_GG0PQ.jpg" length="236993" type="image/jpeg"/>
+   <description><![CDATA[A közép-európai adópolitika és bérverseny a kétsebességes Európai Unió felé vezet.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Thu, 20 Apr 2017 12:47:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Teljes gázzal egy képmutatóbb unió felé]]></title>
+   <link>http://mno.hu/velemeny/teljes-gazzal-egy-kepmutatobb-unio-fele-2393936?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Zgut Edit</author>
+   <enclosure url="http://mno.hu/data/cikkek/2393/23939/cikk-2393936/csoportkep.jpg" length="167153" type="image/jpeg"/>
+   <description><![CDATA[„Mindig ugyanabban az irányban” cselekszenek majd a tagállamok. Állítólag.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Sat, 08 Apr 2017 19:32:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Európa és a politika alapkérdései]]></title>
+   <link>http://mno.hu/velemeny/europa-es-a-politika-alapkerdesei-2393249?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Böcskei Balázs</author>
+   <enclosure url="http://mno.hu/data/cikkek/2393/23932/cikk-2393249/000_MZ8F5.jpg" length="388092" type="image/jpeg"/>
+   <description><![CDATA[Az unió válsága szükségessé teszi a képviselet fogalmának újragondolását.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Tue, 04 Apr 2017 18:40:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az unió kisiklott vonata]]></title>
+   <link>http://mno.hu/velemeny/az-unio-kisiklott-vonata-2392790?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Dobozi István</author>
+   <enclosure url="http://mno.hu/data/cikkek/2392/23927/cikk-2392790/000_MZ7H5.jpg" length="137066" type="image/jpeg"/>
+   <description><![CDATA[Az EU jövőjét leginkább a nemzetek feletti politikai integráció erőltetése veszélyezteti.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Sat, 01 Apr 2017 20:30:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Mi a baj a Juncker-féle fehér könyvvel?]]></title>
+   <link>http://mno.hu/velemeny/mi-a-baj-a-juncker-fele-feher-konyvvel-2392213?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Csath Magdolna</author>
+   <enclosure url="http://mno.hu/data/cikkek/2392/23922/cikk-2392213/000_MZ71F.jpg" length="541089" type="image/jpeg"/>
+   <description><![CDATA[Hiába az ötletelés az unió jövőjéről, ha a valódi cél az erősebb centralizáció.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Tue, 28 Mar 2017 21:38:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az Európai Unióról – illúziók nélkül]]></title>
+   <link>http://mno.hu/velemeny/az-europai-uniorol-illuziok-nelkul-2391077?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kiss Károly</author>
+   <enclosure url="http://mno.hu/data/cikkek/2391/23910/cikk-2391077/K_EPA20170302166.jpg" length="330764" type="image/jpeg"/>
+   <description><![CDATA[Kétsebességes változat? A visegrádiaknak egy hatodik opciót kellene kidolgozniuk.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Wed, 22 Mar 2017 08:08:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Milyen EU-t akarunk – és milyet kapunk?]]></title>
+   <link>http://mno.hu/velemeny/milyen-eu-t-akarunk-es-milyet-kapunk-2390844?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Árva László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2390/23908/cikk-2390844/000_Par2763482.jpg" length="451215" type="image/jpeg"/>
+   <description><![CDATA[A kontinensen négy egymást kizáró értékrendszerű csoport él egymás mellett.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Mon, 20 Mar 2017 06:41:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Józanodik-e Juncker a brexit után?]]></title>
+   <link>http://mno.hu/velemeny/jozanodik-e-juncker-a-brexit-utan-1389069?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Bakó Beáta</author>
+   <enclosure url="http://mno.hu/data/cikkek/1389/13890/cikk-1389069/000_CJ1CY.jpg" length="392799" type="image/jpeg"/>
+   <description><![CDATA[Az Európai Bizottság öt forgatókönyvet vázolt az unió jövőjével kapcsolatban.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Tue, 07 Mar 2017 19:39:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Milyen Európai Uniót akarunk?]]></title>
+   <link>http://mno.hu/velemeny/milyen-europai-uniot-akarunk-1389061?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Magyar Nemzet</author>
+   <enclosure url="http://mno.hu/data/cikkek/1389/13890/cikk-1389061/000_KL6B8_1_.jpg" length="155722" type="image/jpeg"/>
+   <description><![CDATA[A brexit óta a lecke föl van adva az unió vezetőinek, s két szóban összefoglalható: hogyan tovább? ]]></description>
+   <category>Vélemény</category>
+   <pubDate>Tue, 07 Mar 2017 15:15:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

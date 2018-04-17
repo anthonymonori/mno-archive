@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Kiss Eszter Veronika-Makrai Sonja]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/kiss-eszter-veronika-makrai-sonja-23672</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Fri, 13 Apr 2018 03:01:02 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[A diótörőtől a Csík-ünnepig  ]]></title>
+   <link>http://mno.hu/grund/a-diotorotol-a-csik-unnepig-1320515?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kiss Eszter Veronika-Makrai Sonja</author>
+   <enclosure url="http://mno.hu/data/cikkek/1320/13205/cikk-1320515/Muzsikas-Foto_TamasOpitz-02_uj_fekvo_lead_grid2_fekvo_lead.jpg" length="90347" type="image/jpeg"/>
+   <description><![CDATA[A két ünnep és két bejgli közötti zenei programajánló.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Thu, 24 Dec 2015 12:18:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

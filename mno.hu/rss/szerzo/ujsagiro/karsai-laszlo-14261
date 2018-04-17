@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Karsai László]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/karsai-laszlo-14261</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 23:51:00 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Az örmény népirtás és tagadói]]></title>
+   <link>http://mno.hu/velemeny/az-ormeny-nepirtas-es-tagadoi-1347371?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Karsai László</author>
+   <enclosure url="http://mno.hu/data/cikkek/1347/13473/cikk-1347371/MNO_000_ARP3782495.jpg" length="506616" type="image/jpeg"/>
+   <description><![CDATA[Tanúvallomások sora bizonyította, hogy a genocídiumot előre kitervelték.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Wed, 15 Jun 2016 19:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Megnyílt a torinói filmfesztivál]]></title>
+   <link>http://mno.hu/migr_1834/megnyilt_a_torinoi_filmfesztival-275709?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Karsai László</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Tue, 24 Nov 2009 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Tények és érvek Horthy Miklósról]]></title>
+   <link>http://mno.hu/migr_1834/tenyek-es-ervek-horthy-miklosrol-457147?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Karsai László</author>
+   <description><![CDATA[]]></description>
+   <category>Archívum - Magyarnemzet</category>
+   <pubDate>Wed, 03 Jan 2007 01:00:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - rovat: Fogyasztóvédelem]]></title>
+  <link>http://mno.hu/fogyasztovedelem</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Wed, 11 Apr 2018 08:49:28 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Hamarosan robotok vehetik át az ügyfélszolgálatosok feladatait]]></title>
+   <link>http://mno.hu/fogyasztovedelem/hamarosan-robotok-vehetik-at-az-ugyfelszolgalatosok-feladatait-2455229?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Barna Bálint</author>
+   <enclosure url="http://mno.hu/data/cikkek/2455/24552/cikk-2455229/84619126_l.jpg" length="182234" type="image/jpeg"/>
+   <description><![CDATA[Megkerestük a közlekedési vállalatokat, hogy bepillantást nyerhessünk a panaszkezelés rejtelmeibe.]]></description>
+   <category>Fogyasztóvédelem</category>
+   <pubDate>Sat, 24 Mar 2018 18:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Csak óvatosan a termékbemutatókkal!]]></title>
+   <link>http://mno.hu/fogyasztovedelem/csak-ovatosan-a-termekbemutatokkal-2454486?utm_source=feed&amp;utm_medium=rss</link>
+   <author>B. Molnár László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2454/24544/cikk-2454486/42655427_l.jpg" length="180917" type="image/jpeg"/>
+   <description><![CDATA[Legyen óvatos, ha kozmetikumot igyekeznek a nyakába sózni, szinte lehetetlen visszaváltani ezeket a termékeket!]]></description>
+   <category>Fogyasztóvédelem</category>
+   <pubDate>Mon, 19 Mar 2018 18:49:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Enyhült a szigor a fizetős utakon]]></title>
+   <link>http://mno.hu/fogyasztovedelem/enyhult-a-szigor-a-fizetos-utakon-2454214?utm_source=feed&amp;utm_medium=rss</link>
+   <author>B. Molnár László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2454/24542/cikk-2454214/BA20141231_0460.jpg" length="1213278" type="image/jpeg"/>
+   <description><![CDATA[Noha a szabálymódosítások már az év eleje óta érvényben vannak, még mindig nagyon sokan nincsenek velük tisztában.]]></description>
+   <category>Fogyasztóvédelem</category>
+   <pubDate>Sun, 18 Mar 2018 10:59:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Vissza kell cserélniük a fehérneműt is az üzleteknek]]></title>
+   <link>http://mno.hu/fogyasztovedelem/vissza-kell-cserelniuk-a-fehernemut-is-az-uzleteknek-2450181?utm_source=feed&amp;utm_medium=rss</link>
+   <author>B. Molnár László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2450/24501/cikk-2450181/77006870_l.jpg" length="250271" type="image/jpeg"/>
+   <description><![CDATA[Hat hónapig az eladónak kell bizonyítania, hogy az értékesített áru hibátlan volt.]]></description>
+   <category>Fogyasztóvédelem</category>
+   <pubDate>Wed, 28 Feb 2018 18:33:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Felbontsam, vagy ne bontsam, ez itt a kérdés]]></title>
+   <link>http://mno.hu/fogyasztovedelem/felbontsam-vagy-ne-bontsam-ez-itt-a-kerdes-2439219?utm_source=feed&amp;utm_medium=rss</link>
+   <author>B. Molnár László</author>
+   <enclosure url="http://mno.hu/data/cikkek/2439/24392/cikk-2439219/szb20151127_6262_896_504_1515661553.jpg" length="45321" type="image/jpeg"/>
+   <description><![CDATA[Az áruházak olykor trükkösen fogalmaznak a jótállással kapcsolatban, ezért nem árt ismerni a szabályokat.]]></description>
+   <category>Fogyasztóvédelem</category>
+   <pubDate>Sat, 13 Jan 2018 16:07:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Jól vizsgázott a magyar hal]]></title>
+   <link>http://mno.hu/fogyasztovedelem/jol-vizsgazott-a-magyar-hal-2435020?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Bodacz Péter</author>
+   <enclosure url="http://mno.hu/data/cikkek/2435/24350/cikk-2435020/MNO_BA20141220_8333.jpg" length="438823" type="image/jpeg"/>
+   <description><![CDATA[Laborba küldték a kereskedelemben kapható halakat. A hekkel jobb óvatosan bánni.]]></description>
+   <category>Fogyasztóvédelem</category>
+   <pubDate>Wed, 20 Dec 2017 12:45:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[25 fényfüzér nem felelt meg a követelményeknek az ellenőrzések során]]></title>
+   <link>http://mno.hu/fogyasztovedelem/25-fenyfuzer-nem-felelt-meg-a-kovetelmenyeknek-az-ellenorzesek-soran-2434680?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <enclosure url="http://mno.hu/data/cikkek/2434/24346/cikk-2434680/DMOHA20161218011.jpg" length="488260" type="image/jpeg"/>
+   <description><![CDATA[Az ellenőrök a bolti árak feltüntetésével kapcsolatban is sok szabálytalanságot találtak.]]></description>
+   <category>Fogyasztóvédelem</category>
+   <pubDate>Mon, 18 Dec 2017 14:10:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Médiakampány indult, hogy jelentsék az emberek a gyógyszerek mellékhatásait]]></title>
+   <link>http://mno.hu/fogyasztovedelem/mediakampany-indult-hogy-jelentsek-az-emberek-a-gyogyszerek-mellekhatasait-2428775?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <enclosure url="http://mno.hu/data/cikkek/2428/24287/cikk-2428775/5_1ba.jpg" length="310353" type="image/jpeg"/>
+   <description><![CDATA[A hatóságok uniószerte szeretnék tudatosítani a fogyasztókkal a vény nélküli készítmények kockázatait.]]></description>
+   <category>Fogyasztóvédelem</category>
+   <pubDate>Mon, 20 Nov 2017 14:41:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Újabb parlagfűkészítményeket vont ki a forgalomból a Nébih]]></title>
+   <link>http://mno.hu/fogyasztovedelem/ujabb-parlagfukeszitmenyeket-vont-ki-a-forgalombol-a-nebih-2426473?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <enclosure url="http://mno.hu/data/cikkek/2426/24264/cikk-2426473/szb20080904_3393.jpg" length="325062" type="image/jpeg"/>
+   <description><![CDATA[Az engedély nélkül árult termékek előállítói ellen hatósági eljárás indult.]]></description>
+   <category>Fogyasztóvédelem</category>
+   <pubDate>Thu, 09 Nov 2017 11:11:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hogy szabaduljunk meg a mérgező gyerekruháktól és sportcipőktől?]]></title>
+   <link>http://mno.hu/fogyasztovedelem/hogy-szabaduljunk-meg-a-mergezo-gyerekruhaktol-es-sportcipoktol-2424018?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lázár Fruzsina</author>
+   <enclosure url="http://mno.hu/data/cikkek/2424/24240/cikk-2424018/000_Par7395509.jpg" length="255928" type="image/jpeg"/>
+   <description><![CDATA[A legújabb jelentés szerint éppen a luxusmárkák nem tesznek semmit a divatipar méregtelenítése érdekében.]]></description>
+   <category>Fogyasztóvédelem</category>
+   <pubDate>Wed, 01 Nov 2017 17:27:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Váratlan brüsszeli segítséget kapott Orbán Viktor szupermarketek elleni „harca”]]></title>
+   <link>http://mno.hu/fogyasztovedelem/varatlan-brusszeli-segitseget-kapott-oban-szupermarketek-elleni-harca-2421550?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Kósa András</author>
+   <enclosure url="http://mno.hu/data/cikkek/2421/24215/cikk-2421550/szb20161123_9214.jpg" length="560312" type="image/jpeg"/>
+   <description><![CDATA[Az Európai Bizottság szerint az áruházláncok visszaélnek fölényükkel, így szigorításokat vezethetnek be jövőre.]]></description>
+   <category>Fogyasztóvédelem</category>
+   <pubDate>Tue, 17 Oct 2017 12:15:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Akciós pofonba szaladtak bele a Bestbyte vevői]]></title>
+   <link>http://mno.hu/fogyasztovedelem/akcios-pofonba-szaladtak-bele-a-bestbyte-vevoi-2398959?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Koncz Tamás</author>
+   <enclosure url="http://mno.hu/data/cikkek/2398/23989/cikk-2398959/59974774_l.jpg" length="195297" type="image/jpeg"/>
+   <description><![CDATA[Fillérekért árultak több százezres készülékeket, aztán törölték a megrendeléseket. Sokan fizethettek rá az akcióra.]]></description>
+   <category>Fogyasztóvédelem</category>
+   <pubDate>Mon, 15 May 2017 15:55:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Penészes szlovák juhtúróval verte át a vásárlókat]]></title>
+   <link>http://mno.hu/fogyasztovedelem/peneszes-szlovak-juhturoval-verte-at-a-vasarlokat-1383165?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MNO</author>
+   <enclosure url="http://mno.hu/data/cikkek/1383/13831/cikk-1383165/01.27_kistermelo_08_896_504_1485508989.jpg" length="42993" type="image/jpeg"/>
+   <description><![CDATA[A kistermelő megvette a terméket, majd kicsomagolta, és sajátjaként eladta a gödöllői piacon.]]></description>
+   <category>Fogyasztóvédelem</category>
+   <pubDate>Fri, 27 Jan 2017 10:32:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Körömsérülést okozhat az IKEA egyik strandszéke]]></title>
+   <link>http://mno.hu/fogyasztovedelem/koromserulest-okozhat-az-ikea-egyik-strandszeke-1382578?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MNO</author>
+   <enclosure url="http://mno.hu/data/cikkek/1382/13825/cikk-1382578/ikea_strandszek_896_504_1485242184.jpg" length="91203" type="image/jpeg"/>
+   <description><![CDATA[A svéd bútorgyártó cég arra kéri vásárlóit, hogy aki 2017 előtt vásárolt a termékből, vigye vissza.]]></description>
+   <category>Fogyasztóvédelem</category>
+   <pubDate>Tue, 24 Jan 2017 08:24:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szennyezett lazacot vontak ki a forgalomból]]></title>
+   <link>http://mno.hu/fogyasztovedelem/szennyezett-lazacot-vontak-ki-a-forgalombol-1381001?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MNO</author>
+   <description><![CDATA[Élelmiszer-biztonsági kockázat miatt vont ki a forgalomból egy Olaszországból származó füstöltlazac-terméket a Nébih.]]></description>
+   <category>Fogyasztóvédelem</category>
+   <pubDate>Fri, 13 Jan 2017 16:39:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Thm-es csali miatt büntetett az MNB]]></title>
+   <link>http://mno.hu/fogyasztovedelem/thm-es-csali-miatt-buntetett-az-mnb-1373625?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <description><![CDATA[Tíz-tízmillió forint bírsággal sújtották a Mecsekvidéke Takarékszövetkezetet, valamint a Zálog és Hitelt.]]></description>
+   <category>Fogyasztóvédelem</category>
+   <pubDate>Mon, 28 Nov 2016 10:58:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Műanyagdarabok miatt ne egye meg ezt a kompótot]]></title>
+   <link>http://mno.hu/fogyasztovedelem/muanyagdarabok-miatt-ne-egye-meg-ezt-a-kompotot-1373269?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MNO</author>
+   <enclosure url="http://mno.hu/data/cikkek/1373/13732/cikk-1373269/efko_660_220.jpg" length="53163" type="image/jpeg"/>
+   <description><![CDATA[Az osztrák Efko Frischfrucht und Delikatessen GmbH által gyártott termékekről van szó. ]]></description>
+   <category>Fogyasztóvédelem</category>
+   <pubDate>Fri, 25 Nov 2016 10:54:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Horrorvideót készített a Nébih a lefoglalt húsról]]></title>
+   <link>http://mno.hu/fogyasztovedelem/horrorvideot-keszitett-a-nebih-a-lefoglalt-husrol-1371662?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MNO</author>
+   <description><![CDATA[Két megyében, négy helyszínen csaptak le az ellenőrök. Meglepő dolgokat találtak.]]></description>
+   <category>Fogyasztóvédelem</category>
+   <pubDate>Wed, 16 Nov 2016 10:02:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Spórás baktériumot találtak a hortobágyi palacsintában]]></title>
+   <link>http://mno.hu/fogyasztovedelem/sporas-bakteriumot-talaltak-a-hortobagyi-palacsintaban-1370714?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <description><![CDATA[A Nébih most a házhoz szállított termékeket vizsgálta. Minden harmadik elbukott a teszten.]]></description>
+   <category>Fogyasztóvédelem</category>
+   <pubDate>Thu, 10 Nov 2016 12:57:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Megalapozatlan gyógyhatások reklámozása miatt bírságoltak]]></title>
+   <link>http://mno.hu/fogyasztovedelem/megalapozatlan-gyogyhatasok-reklamozasa-miatt-birsagoltak-1367527?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <description><![CDATA[A kereskedelmi gyakorlat elsősorban a sérülékeny fogyasztókat célozta meg.]]></description>
+   <category>Fogyasztóvédelem</category>
+   <pubDate>Fri, 21 Oct 2016 12:28:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hogyan lehet olcsó jeggyel drágán repülni?]]></title>
+   <link>http://mno.hu/fogyasztovedelem/hogyan-lehet-olcso-jeggyel-dragan-repulni-1367389?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lukács Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/1367/13673/cikk-1367389/HM20151216_105.jpg" length="242661" type="image/jpeg"/>
+   <description><![CDATA[Fapados történet fapados fordulatokkal.]]></description>
+   <category>Fogyasztóvédelem</category>
+   <pubDate>Thu, 20 Oct 2016 18:45:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szivároghat a gáz az öngyújtókból]]></title>
+   <link>http://mno.hu/fogyasztovedelem/szivaroghat-a-gaz-az-ongyujtokbol-1361612?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <description><![CDATA[26 megvizsgált termékből 8 nem volt biztonságos.]]></description>
+   <category>Fogyasztóvédelem</category>
+   <pubDate>Wed, 14 Sep 2016 13:37:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Sok sót és zsírt találtak a péksütikben]]></title>
+   <link>http://mno.hu/fogyasztovedelem/sok-sot-es-zsirt-talaltak-a-peksutikben-1360711?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <description><![CDATA[Nyolcvan különféle sütőipari termékből harminc esetében találtak kifogást a fogyasztóvédők.]]></description>
+   <category>Fogyasztóvédelem</category>
+   <pubDate>Thu, 08 Sep 2016 16:58:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Veszélyes tűzijátékot vontak ki a piacról]]></title>
+   <link>http://mno.hu/fogyasztovedelem/veszelyes-tuzijatekot-vontak-ki-a-piacrol-1358766?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <enclosure url="http://mno.hu/data/cikkek/1358/13587/cikk-1358766/20162608112614.jpg" length="149869" type="image/jpeg"/>
+   <description><![CDATA[A termék működése közben olyan intenzív hangot bocsát ki, hogy halláskárosodást okozhat.]]></description>
+   <category>Fogyasztóvédelem</category>
+   <pubDate>Fri, 26 Aug 2016 17:11:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Árazási baki miatt szívhatja fogát a H&M]]></title>
+   <link>http://mno.hu/fogyasztovedelem/arazasi-baki-miatt-szivhatja-fogat-a-hm-1358221?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MNO</author>
+   <enclosure url="http://mno.hu/data/cikkek/1358/13582/cikk-1358221/1589147_shorts2_grid2_fekvo_lead.jpg" length="62787" type="image/jpeg"/>
+   <description><![CDATA[Annyiért kell kiszállítania a megrendelt árut, amennyiért meghirdette webshopján. ]]></description>
+   <category>Fogyasztóvédelem</category>
+   <pubDate>Tue, 23 Aug 2016 10:20:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Újabb távol-keleti éttermet zárattak be Pesten]]></title>
+   <link>http://mno.hu/fogyasztovedelem/ujabb-tavol-keleti-ettermet-zarattak-be-pesten-1357299?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <description><![CDATA[Lejárt szavatosság, kosz és raktárlakás.]]></description>
+   <category>Fogyasztóvédelem</category>
+   <pubDate>Wed, 17 Aug 2016 12:46:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kötelező lesz feltüntetni a tápérteket az élelmiszeren]]></title>
+   <link>http://mno.hu/fogyasztovedelem/kotelezo-lesz-feltuntetni-a-taperteket-az-elelmiszeren-1357088?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <description><![CDATA[December 13-tól jön az új rendszer.]]></description>
+   <category>Fogyasztóvédelem</category>
+   <pubDate>Tue, 16 Aug 2016 09:58:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Édességeket hív vissza az IKEA]]></title>
+   <link>http://mno.hu/fogyasztovedelem/edessegeket-hiv-vissza-az-ikea-1353939?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <enclosure url="http://mno.hu/data/cikkek/1353/13539/cikk-1353939/ikea.jpg" length="155155" type="image/jpeg"/>
+   <description><![CDATA[Allergének vannak a termékekben. A héten ez már a második visszahívás az IKEA-nál.]]></description>
+   <category>Fogyasztóvédelem</category>
+   <pubDate>Thu, 28 Jul 2016 11:15:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Húsrazzia a Hold utcai piacon]]></title>
+   <link>http://mno.hu/fogyasztovedelem/husrazzia-a-hold-utcai-piacon-1353773?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <description><![CDATA[Fél tonna jelöletlen, tiltott módon lefagyasztott húst foglaltak le.]]></description>
+   <category>Fogyasztóvédelem</category>
+   <pubDate>Wed, 27 Jul 2016 12:17:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Fulladásveszélyes játszószőnyegeket találtak]]></title>
+   <link>http://mno.hu/fogyasztovedelem/fulladasveszelyes-jatszoszonyegeket-talaltak-1353632?utm_source=feed&amp;utm_medium=rss</link>
+   <author>MTI</author>
+   <description><![CDATA[Tizenkétfajta játszószőnyegből hétnél az előírt húzóvizsgálat során darabkák váltak le.]]></description>
+   <category>Fogyasztóvédelem</category>
+   <pubDate>Tue, 26 Jul 2016 11:39:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

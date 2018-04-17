@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: BM]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/bm-674</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 23:41:43 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Magyar–amerikai egyezményt írnak alá jövő héten]]></title>
+   <link>http://mno.hu/belfold/magyar-amerikai-egyezmenyt-irnak-ala-jovo-heten-1270694?utm_source=feed&amp;utm_medium=rss</link>
+   <author>BM</author>
+   <description><![CDATA[Ennek révén kedvezőbb jogszabályi környezet jön létre, amely élénkítheti a kétoldalú gazdasági kapcsolatokat is. ]]></description>
+   <category>Belföld</category>
+   <pubDate>Sun, 01 Feb 2015 17:48:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nyilatkozott Polt és Matolcsy is]]></title>
+   <link>http://mno.hu/belfold/nyilatkozott-polt-es-matolcsy-is-1270686?utm_source=feed&amp;utm_medium=rss</link>
+   <author>BM</author>
+   <description><![CDATA[Egyes tisztségviselőknek, köztük az Állami Számvevőszék, a Magyar Nemzeti Bank, a Gazdasági Versenyhivatal, a Nemzeti Média- és Hírközlési Hatóság elnökének, valamint a legfőbb ügyésznek is nyilatkoznia kellett a tavaly év végi vagyoni helyzetéről. ]]></description>
+   <category>Belföld</category>
+   <pubDate>Sun, 01 Feb 2015 11:02:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Ismét csak ikszelt a Roma]]></title>
+   <link>http://mno.hu/foci/ismet-csak-ikszelt-a-roma-1270666?utm_source=feed&amp;utm_medium=rss</link>
+   <author>BM</author>
+   <description><![CDATA[A második helyen álló AS Roma csak egy pontot szerzett szombat esti mérkőzésén az olasz labdarúgó-bajnokság 21. fordulójában az Empoli ellen.]]></description>
+   <category>90 perc</category>
+   <pubDate>Sun, 01 Feb 2015 01:15:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Valószínűleg kivégezték a másik japán túszt is]]></title>
+   <link>http://mno.hu/kulfold/valoszinuleg-kivegeztek-a-masik-japan-tuszt-is-1270665?utm_source=feed&amp;utm_medium=rss</link>
+   <author>BM</author>
+   <description><![CDATA[Az amerikai kormány elítélte az Iszlám Állam (IÁ) terrorszervezet fogságában lévő japán túsz állítólagos kivégzését.]]></description>
+   <category>Külföld</category>
+   <pubDate>Sat, 31 Jan 2015 22:45:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hosszú, Verrasztó és Cseh ismét hozta az aranyakat]]></title>
+   <link>http://mno.hu/sport/hosszu-verraszto-es-cseh-ismet-hozta-az-aranyakat-1270664?utm_source=feed&amp;utm_medium=rss</link>
+   <author>BM</author>
+   <description><![CDATA[Három döntőben győzött, egyben ezüstöt, egyben pedig bronzot érdemelt ki Hosszú Katinka a Nizzában zajló nemzetközi úszóversenyen. Három döntős szereplése után a dobogó mindhárom fokára felállhatott Cseh László a luxembourgi nemzetközi úszóverseny szombati versenynapján.]]></description>
+   <category>Sport</category>
+   <pubDate>Sat, 31 Jan 2015 22:02:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nem bírt a Leverkusen a Dortmunddal]]></title>
+   <link>http://mno.hu/foci/nem-birt-a-leverkusen-a-dortmunddal-1270662?utm_source=feed&amp;utm_medium=rss</link>
+   <author>BM</author>
+   <description><![CDATA[Gól nélküli döntetlennel zárult a harmadik helyen álló Bayer Leverkusen és az utolsó Borussia Dortmund mérkőzése.]]></description>
+   <category>90 perc</category>
+   <pubDate>Sat, 31 Jan 2015 21:39:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Dánia legyőzve a horvátokat, ötödik]]></title>
+   <link>http://mno.hu/sport/dania-legyozve-a-horvatokat-otodik-1270645?utm_source=feed&amp;utm_medium=rss</link>
+   <author>BM</author>
+   <description><![CDATA[A legutóbbi vb-n és Eb-n ezüstérmes dán válogatott lett az ötödik a katari, olimpiai kvalifikációs férfikézilabda-világbajnokságon, miután a szombati helyosztón legyőzte az olimpiai harmadik horvát csapatot.]]></description>
+   <category>Sport</category>
+   <pubDate>Sat, 31 Jan 2015 19:31:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Értékes könyvtárakat semmisítettek meg a dzsihadisták]]></title>
+   <link>http://mno.hu/kulfold/ertekes-konyvtarakat-semmisitettek-meg-a-dzsihadistak-1270587?utm_source=feed&amp;utm_medium=rss</link>
+   <author>BM</author>
+   <description><![CDATA[Az Iszlám Állam (IÁ) fegyveresei kifosztották az észak-iraki Moszul központi könyvtárát, csupán az iszlám szövegeket tartalmazó írásokat hagyták meg, minden más irodalmat eltávolítottak.]]></description>
+   <category>Külföld</category>
+   <pubDate>Sat, 31 Jan 2015 17:44:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nyilvánosságra hozta vagyonnyilatkozatát Orbán Viktor]]></title>
+   <link>http://mno.hu/belfold/nyilvanossagra-hozta-vagyonnyilatkozatat-orban-viktor-1270628?utm_source=feed&amp;utm_medium=rss</link>
+   <author>BM</author>
+   <description><![CDATA[Ugyanannyi ingatlana van, a tartozása kevesebb, a bankban lévő, feleségével közös pénze viszont valamivel több lett tavaly májushoz képest.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sat, 31 Jan 2015 16:53:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Jutalmat kaptak a bronzkori lelet megtalálói]]></title>
+   <link>http://mno.hu/belfold/jutalmat-kaptak-a-bronzkori-lelet-megtalaloi-1270615?utm_source=feed&amp;utm_medium=rss</link>
+   <author>BM</author>
+   <description><![CDATA[Oklevelet és pénzjutalmat adott át szombaton Zalaegerszegen Kövér László, az Országgyűlés elnöke és Rigó Csaba Zala megyei kormánymegbízott annak a három embernek, akik tavaly ősszel egy 73 darabból álló bronz kincsleletet adtak át a Göcseji Múzeumnak.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sat, 31 Jan 2015 16:46:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Másodfokú árvízvédelmi készültség Ipolytarnócon]]></title>
+   <link>http://mno.hu/belfold/masodfoku-arvizvedelmi-keszultseg-ipolytarnocon-1270595?utm_source=feed&amp;utm_medium=rss</link>
+   <author>BM</author>
+   <description><![CDATA[Másodfokú árvízvédelmi készültséget rendeltek el szombaton a Nógrád megyei Ipolytarnócon, mert a település közelében folyamatosan emelkedik az Ipoly folyó vízszintje – közölte a megyei katasztrófavédelmi igazgatóság szóvivője.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sat, 31 Jan 2015 15:28:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Eltemették Hankiss Elemért]]></title>
+   <link>http://mno.hu/grund/eltemettek-hankiss-elemert-1270612?utm_source=feed&amp;utm_medium=rss</link>
+   <author>BM</author>
+   <description><![CDATA[Utolsó útjára kísérték szombaton a Farkasréti temetőben Hankiss Elemér szociológust, irodalomtörténészt.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Sat, 31 Jan 2015 15:19:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Megöltek több mint száz Boko Haram-os iszlamistát]]></title>
+   <link>http://mno.hu/kulfold/megoltek-tobb-mint-szaz-boko-haram-os-iszlamistat-1270580?utm_source=feed&amp;utm_medium=rss</link>
+   <author>BM</author>
+   <description><![CDATA[Meghalt a Boko Haram nigériai szélsőséges iszlamista szervezet 123 fegyverese a csádi hadsereggel való összecsapásokban Kamerun északi részén.]]></description>
+   <category>Külföld</category>
+   <pubDate>Sat, 31 Jan 2015 15:10:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Megvan az új olasz köztársasági elnök]]></title>
+   <link>http://mno.hu/kulfold/megvan-az-uj-olasz-koztarsasagi-elnok-1270603?utm_source=feed&amp;utm_medium=rss</link>
+   <author>BM</author>
+   <description><![CDATA[Sergio Mattarellát, a balközép kormánypárt, a Demokrata Párt (PD) jelöltjét választották meg szombaton új olasz köztársasági elnöknek.]]></description>
+   <category>Külföld</category>
+   <pubDate>Sat, 31 Jan 2015 13:24:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Elhunyt Gordon Zsuzsa]]></title>
+   <link>http://mno.hu/grund/elhunyt-gordon-zsuzsa-1270598?utm_source=feed&amp;utm_medium=rss</link>
+   <author>BM</author>
+   <description><![CDATA[A kétszeres Jászai Mari-díjas színésznő, érdemes művész nyolcvanöt éves volt.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Sat, 31 Jan 2015 13:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Elhunyt a volt német államfő]]></title>
+   <link>http://mno.hu/kulfold/elhunyt-a-volt-nemet-allamfo-1270593?utm_source=feed&amp;utm_medium=rss</link>
+   <author>BM</author>
+   <description><![CDATA[Richard von Weizsäcker 94 éves volt. 1984 és 1994 között töltötte be a szövetségi elnöki tisztséget.]]></description>
+   <category>Külföld</category>
+   <pubDate>Sat, 31 Jan 2015 12:51:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Serena Williams hatodjára győzött Melbourne-ben]]></title>
+   <link>http://mno.hu/sport/serena-williams-hatodjara-gyozott-melbourne-ben-1270590?utm_source=feed&amp;utm_medium=rss</link>
+   <author>BM</author>
+   <description><![CDATA[Az amerikai Serena Williams hatodszor nyerte meg a Melbourne-ben zajló ausztrál nyílt teniszbajnokság női egyesét, miután a szombati döntőben 1 óra 51 perces csatában legyőzte az orosz Marija Sarapovát.]]></description>
+   <category>Sport</category>
+   <pubDate>Sat, 31 Jan 2015 12:28:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Feloldották az útlezárásokat Borsodban]]></title>
+   <link>http://mno.hu/bunugy_baleset/utlezarasok-borsodban-1270575?utm_source=feed&amp;utm_medium=rss</link>
+   <author>BM</author>
+   <description><![CDATA[Feloldották az útlezárást a 3-as és a 37-es úton Borsodban, ahol korábban a havazás miatt kamionok torlódtak fel.]]></description>
+   <category>Bűnügy és baleset</category>
+   <pubDate>Sat, 31 Jan 2015 11:25:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Helyreállt a rend az utakon]]></title>
+   <link>http://mno.hu/bunugy_baleset/helyreallt-a-rend-az-utakon-1270545?utm_source=feed&amp;utm_medium=rss</link>
+   <author>BM</author>
+   <description><![CDATA[Feloldották a tehergépjárművekre vonatkozó korlátozást a 2-es és a 82-es főúton.]]></description>
+   <category>Bűnügy és baleset</category>
+   <pubDate>Sat, 31 Jan 2015 08:12:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hókotró gázolt gyalogost]]></title>
+   <link>http://mno.hu/bunugy_baleset/hokotro-gazolt-gyalogost-1270541?utm_source=feed&amp;utm_medium=rss</link>
+   <author>BM</author>
+   <description><![CDATA[Egy hókotró gázolt halálra egy gyalogos nőt a Veszprém megyei Gyulafirátót térségében.]]></description>
+   <category>Bűnügy és baleset</category>
+   <pubDate>Sat, 31 Jan 2015 07:21:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Beszakadt a jég, meghalt a jégszörfös]]></title>
+   <link>http://mno.hu/belfold/beszakadt-a-jeg-meghalt-a-jegszorfos-1266126?utm_source=feed&amp;utm_medium=rss</link>
+   <author>BM</author>
+   <description><![CDATA[Meghalt egy jégszörfös a Balatonon vasárnap Örvényesnél – közölte az MTI-vel a Vízimentők Magyarországi Szakszolgálata (VMSZ) szóvivője.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sun, 04 Jan 2015 23:07:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szerb és zsidó áldozatokra emlékeztek Csúrogon]]></title>
+   <link>http://mno.hu/kulfold/szerb-es-zsido-aldozatokra-emlekeztek-csurogon-1266100?utm_source=feed&amp;utm_medium=rss</link>
+   <author>BM</author>
+   <description><![CDATA[Az 1942-es magyar razzia áldozataira emlékeztek a településen. Több vajdasági politikus és Magyarország belgrádi nagykövete is jelen volt.]]></description>
+   <category>Külföld</category>
+   <pubDate>Sun, 04 Jan 2015 18:45:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Majthényiék sziporkáznak, újabb két győzelem]]></title>
+   <link>http://mno.hu/sport/majthenyiek-sziporkaznak-ujabb-ket-gyozelem-1266079?utm_source=feed&amp;utm_medium=rss</link>
+   <author>BM</author>
+   <description><![CDATA[Akárcsak a szombati nyitónapon, úgy vasárnap is mindkét futamot megnyerte a Majthényi Szabolcs, Domokos András duó a Sydneyben zajló repülőhollandi-világbajnokságon.]]></description>
+   <category>Sport</category>
+   <pubDate>Sun, 04 Jan 2015 17:34:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Pusztít a bozóttűz Ausztráliában]]></title>
+   <link>http://mno.hu/kulfold/pusztit-a-bozottuz-ausztraliaban-1266059?utm_source=feed&amp;utm_medium=rss</link>
+   <author>BM</author>
+   <description><![CDATA[Legalább 11 ezer hektár erdő és bozót égett le Adelaide város környékén.]]></description>
+   <category>Külföld</category>
+   <pubDate>Sun, 04 Jan 2015 13:46:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Súlyos baleset a 8-as úton]]></title>
+   <link>http://mno.hu/bunugy_baleset/sulyos-baleset-a-8-as-uton-1266029?utm_source=feed&amp;utm_medium=rss</link>
+   <author>BM</author>
+   <description><![CDATA[Árokba csúszott egy kisbusz, több sérült, az út rönöki szakaszát lezárták.]]></description>
+   <category>Bűnügy és baleset</category>
+   <pubDate>Sun, 04 Jan 2015 07:42:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Szeles időnk van, de sok helyen süt a nap]]></title>
+   <link>http://mno.hu/idojaras_rovat/viharos-szel-zapor-ho-cudar-idonk-lesz-1266026?utm_source=feed&amp;utm_medium=rss</link>
+   <author>BM</author>
+   <description><![CDATA[Budapesten egész délelőtt sütött a nap, és az ország nagy részén is viszonylag derült, ugyanakkor szeles az idő.]]></description>
+   <category>Időjárás</category>
+   <pubDate>Sun, 04 Jan 2015 07:29:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Előzetesben a „háborús hős”]]></title>
+   <link>http://mno.hu/bunugy_baleset/elozetesben-a-haborus-hos-1266019?utm_source=feed&amp;utm_medium=rss</link>
+   <author>BM</author>
+   <description><![CDATA[A vállalkozásoktól a férfi 150 millió forintot csalt ki.]]></description>
+   <category>Bűnügy és baleset</category>
+   <pubDate>Sun, 04 Jan 2015 01:38:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Pontot szerzett a sereghajtó]]></title>
+   <link>http://mno.hu/foci/pontot-szerzett-a-sereghajto-1266021?utm_source=feed&amp;utm_medium=rss</link>
+   <author>BM</author>
+   <description><![CDATA[Hiába vezetett két góllal a Villarreal a sereghajtó Elche otthonában, a hazai csapat egyenlített és így pontot szerzett a spanyol labdarúgó-bajnokság 17. fordulójának szombati játéknapján.]]></description>
+   <category>90 perc</category>
+   <pubDate>Sat, 03 Jan 2015 22:47:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Valakik ma is milliomosok lettek]]></title>
+   <link>http://mno.hu/belfold/valakik-ma-is-milliomosok-lettek-1266018?utm_source=feed&amp;utm_medium=rss</link>
+   <author>BM</author>
+   <description><![CDATA[A Szerencsejáték Zrt. tájékoztatása szerint az 1. héten megtartott ötöslottó- és joker-számsorsoláson a következő számokat húzták ki:]]></description>
+   <category>Belföld</category>
+   <pubDate>Sat, 03 Jan 2015 21:38:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Frontális karambol Ócsánál]]></title>
+   <link>http://mno.hu/bunugy_baleset/frontalis-karambol-ocsanal-1266017?utm_source=feed&amp;utm_medium=rss</link>
+   <author>BM</author>
+   <description><![CDATA[Öt ember megsérült, teljes útlezárás van érvényben.]]></description>
+   <category>Bűnügy és baleset</category>
+   <pubDate>Sat, 03 Jan 2015 21:20:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

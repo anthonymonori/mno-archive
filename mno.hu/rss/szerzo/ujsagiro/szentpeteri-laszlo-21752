@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Szentpéteri László]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/szentpeteri-laszlo-21752</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Fri, 13 Apr 2018 20:06:51 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Újabb katonai műholdat bocsátott fel az USA]]></title>
+   <link>http://mno.hu/urkutatas/muos-otbol-a-harmadik-muhold-1268868?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Frey Sándor, Szentpéteri László</author>
+   <description><![CDATA[Újabb, immár a harmadik taggal bővült az amerikai katonai mobil távközlési műholdrendszer.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Wed, 21 Jan 2015 21:34:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Sztrela: egy régi-új rakéta?]]></title>
+   <link>http://mno.hu/urkutatas/sztrela-egy-regi-uj-raketa-1265416?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szentpéteri László</author>
+   <description><![CDATA[A Sztrela rakétáról ugyanis nem sokat hallhattak korábban. Vagy mégis?]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Wed, 31 Dec 2014 20:04:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Repül a Kondor]]></title>
+   <link>http://mno.hu/urkutatas/repul-a-kondor-1264606?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szentpéteri László</author>
+   <description><![CDATA[Bajkonurból egy Sztrela rakéta indította a Kondor-E1 radaros felderítő műholdat. A megrendelő Dél-Afrika.]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Thu, 25 Dec 2014 20:42:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[CubeSat a „nagyoknál” is]]></title>
+   <link>http://mno.hu/urkutatas/cubesat-a-nagyoknal-is-1264602?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szentpéteri László</author>
+   <description><![CDATA[A parányi CubeSat „dobozműholdakat” leginkább egyetemek diákjai és tanárai alkalmazzák. De nem csak ők!]]></description>
+   <category>Űrkutatás</category>
+   <pubDate>Wed, 24 Dec 2014 20:42:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Végre! Igazi kávé és lungo az űrállomáson is!]]></title>
+   <link>http://mno.hu/eletmod/vegre-igazi-kave-es-lungo-az-urallomason-is-1259979?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Szentpéteri László</author>
+   <description><![CDATA[A ma induló Szojuz TMA-15M fedélzetén a legújabb kísérleti és utánpótlási anyagok között helyet kapott a világ első űrkávéfőzőgépe. ]]></description>
+   <category>Életmód</category>
+   <pubDate>Tue, 25 Nov 2014 05:03:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

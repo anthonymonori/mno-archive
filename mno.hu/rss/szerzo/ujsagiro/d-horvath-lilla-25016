@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: D. Horváth Lilla]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/d-horvath-lilla-25016</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Fri, 13 Apr 2018 12:11:29 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[A város, ahol 9 millióan mentek szabadságra]]></title>
+   <link>http://mno.hu/kulfold/a-varos-ahol-9-millioan-mentek-szabadsagra-1360111?utm_source=feed&amp;utm_medium=rss</link>
+   <author>D. Horváth Lilla</author>
+   <enclosure url="http://mno.hu/data/cikkek/1360/13601/cikk-1360111/000_FU0J2.jpg" length="203606" type="image/jpeg"/>
+   <description><![CDATA[A G20-as csúcs idejére gyakorlatilag kiürült Hangcsou. Testközelből szemlélhettük a furcsa metamorfózist.]]></description>
+   <category>Külföld</category>
+   <pubDate>Sun, 04 Sep 2016 19:25:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

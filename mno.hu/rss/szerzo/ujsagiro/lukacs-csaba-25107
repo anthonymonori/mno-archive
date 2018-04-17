@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Lukács Csaba]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/lukacs-csaba-25107</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Wed, 11 Apr 2018 08:59:46 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Vége]]></title>
+   <link>http://mno.hu/vezercikk/vege-2459316?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lukács Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24593/cikk-2459316/CM9R4916.jpg" length="152116" type="image/jpeg"/>
+   <description><![CDATA[Hogy mi lesz a nyomtatott sajtóval Magyarországon? Erre a kérdésre a Magyar Nemzet ikonikus szerzőjének, Kristóf Attilának a mondatával válaszolok: Én nem tudom…]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Wed, 11 Apr 2018 00:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Választás után]]></title>
+   <link>http://mno.hu/vezercikk/valasztas-utan-2459137?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lukács Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24591/cikk-2459137/BEL_3607_01.jpg" length="214634" type="image/jpeg"/>
+   <description><![CDATA[Jó kérdés, hogy a győztest mennyire részegíti meg a siker, és a súlyos vereségből képes lesz-e tanulni a sok vesztes.]]></description>
+   <category>Vezércikk</category>
+   <pubDate>Tue, 10 Apr 2018 00:01:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Saját fegyverével szívatják a magyarokat jelentgető románt]]></title>
+   <link>http://mno.hu/hatarontul/sajat-fegyverevel-szivatjak-a-magyarokat-jelentgeto-romant-2458092?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lukács Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24580/cikk-2458092/Dan_Tanasa_Camera_Deputatilor.jpg" length="38375" type="image/jpeg"/>
+   <description><![CDATA[Negyedszer is törölte a Facebook Dan Tanasa blogger hivatalos oldalát.]]></description>
+   <category>Határon túl</category>
+   <pubDate>Thu, 05 Apr 2018 11:38:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Torokszorító pillanatok, miközben „Romániában megszűnt a jogállam”]]></title>
+   <link>http://mno.hu/hatarontul/torokszorito-pillanatok-mikozben-romaniaban-megszunt-a-jogallam-2455819?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lukács Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2455/24558/cikk-2455819/DEBRE20141003014.jpg" length="245583" type="image/jpeg"/>
+   <description><![CDATA[A Szent Mihály-templomban percekig állva tapsolta a közönség Horváth Anna volt kolozsvári alpolgármestert.]]></description>
+   <category>Határon túl</category>
+   <pubDate>Sun, 25 Mar 2018 14:21:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Negyvenezerrel kevesebben]]></title>
+   <link>http://mno.hu/velemeny/negyvenezerrel-kevesebben-2454419?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lukács Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2454/24544/cikk-2454419/VL20160808_9912.jpg" length="748645" type="image/jpeg"/>
+   <description><![CDATA[Ha így folytatjuk, az üres szülőszobák, iskolák, kórházak, gyárak országa leszünk.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Mon, 19 Mar 2018 18:34:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Egy éjszaka a bécsi migránshotelben]]></title>
+   <link>http://mno.hu/hetvegimagazin/egy-ejszaka-a-becsi-migranshotelben-2453959?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lukács Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2453/24539/cikk-2453959/IMG_6961.jpg" length="399599" type="image/jpeg"/>
+   <description><![CDATA[Sötétedés után sétáltunk az osztrák főváros azon kerületében, ahol Lázár János fényes nappal is csak halkan mert beszélni.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Sun, 18 Mar 2018 18:55:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A nagyzolás teszi tönkre a külföldön dolgozó románok életét]]></title>
+   <link>http://mno.hu/hetvegimagazin/a-nagyzolas-teszi-tonkre-a-kulfoldon-dolgozo-romanok-eletet-2452553?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lukács Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2452/24525/cikk-2452553/mandrie_si_beton_03.jpg" length="260546" type="image/jpeg"/>
+   <description><![CDATA[Szegények Párizsban, extravagánsak otthon – Petruț Călinescu fotósorozata a Nyugat-Európában dolgozó román munkavállalók kettős életéről.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Sun, 11 Mar 2018 14:28:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[„Csak a lakcímemet változtattam meg”]]></title>
+   <link>http://mno.hu/hetvegimagazin/csak-a-lakcimemet-valtoztattam-meg-2450985?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lukács Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2450/24509/cikk-2450985/000_APP2000062226008.jpg" length="433626" type="image/jpeg"/>
+   <description><![CDATA[Ki volt a kilencvenkilenc esztendős korában, álmában elhunyt világhírű baptista prédikátor, Billy Graham? ]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Fri, 09 Mar 2018 11:48:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az olaszok simán autóznak másfél órát egy jó ebédért]]></title>
+   <link>http://mno.hu/etelesital/az-olaszok-siman-autoznak-masfel-orat-egy-jo-ebedert-2450953?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lukács Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2450/24509/cikk-2450953/VL20180225_7676.jpg" length="301190" type="image/jpeg"/>
+   <description><![CDATA[Csapody Balázs, a Kistücsök tulajdonosa a külföldiek Balatonra csábításáról, Erdély ízeiről és a Pannon Gasztronómiai Akadémiáról.]]></description>
+   <category>Étel és ital</category>
+   <pubDate>Sun, 04 Mar 2018 15:30:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Túl sok aranyuk miatt stresszelnek a norvégok]]></title>
+   <link>http://mno.hu/jegenfoldon/tul-sok-aranyuk-miatt-stresszelnek-a-norvegok-2450362?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lukács Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2450/24503/cikk-2450362/K_EPA20180215391.jpg" length="308573" type="image/jpeg"/>
+   <description><![CDATA[A norvégok egy, a Marshall-tervhez hasonló fontosságú támogatást terveznek a téli sportok művelői számára.]]></description>
+   <category>Jégen-földön</category>
+   <pubDate>Wed, 28 Feb 2018 09:23:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A magyarok vérében van a munka]]></title>
+   <link>http://mno.hu/velemeny/a-magyarok-vereben-van-a-munka-2449947?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lukács Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2449/24499/cikk-2449947/DEBRE20180222061.jpg" length="205579" type="image/jpeg"/>
+   <description><![CDATA[Ritka alkalom, hogy jóleső érzés elolvasni egy román sajtóorgánumban megjelent publicisztikát. Most ez történt.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Mon, 26 Feb 2018 21:04:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Botrány a síszövetségben – kizárták az épületből a megválasztott elnököt ]]></title>
+   <link>http://mno.hu/sport/botrany-a-si-szovetsegben-kizartak-az-epuletbol-a-megvalasztott-elnokot-2448916?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lukács Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2448/24489/cikk-2448916/DEBRE20180122019.jpg" length="143512" type="image/jpeg"/>
+   <description><![CDATA[Többek között megkérdeztük Bajai Andrástól, hogy kinek az utasítására nem léphet be az épületbe.]]></description>
+   <category>Sport</category>
+   <pubDate>Wed, 21 Feb 2018 15:02:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Hiába tiltakozik Székelyudvarhely, a magyar állami cég tovább szennyezi a város környezetét ]]></title>
+   <link>http://mno.hu/hatarontul/hiaba-tiltakozik-szekelyudvarhely-a-magyar-allami-ceg-tovabb-szennyezi-a-varos-kornyezetet-2448318?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lukács Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2448/24483/cikk-2448318/20170814_Belo11.jpg" length="323781" type="image/jpeg"/>
+   <description><![CDATA[A Nemzeti Hulladékgazdálkodási Szolgáltató Kft. cége utólag kért engedélyt a 138 ezer tonna szemét lerakására.]]></description>
+   <category>Határon túl</category>
+   <pubDate>Mon, 19 Feb 2018 15:45:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Bálint, a Valentin]]></title>
+   <link>http://mno.hu/magazinpublicisztika/balint-a-valentin-2448051?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lukács Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2448/24480/cikk-2448051/000_ZS9LL.jpg" length="216860" type="image/jpeg"/>
+   <description><![CDATA[Milyen egy menő lánykérés ma széles e hazában?]]></description>
+   <category>Publicisztika a Magazinban</category>
+   <pubDate>Sun, 18 Feb 2018 18:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Gyomorforgató történet: lopott fotóval kezdődött a 2018-as választási kampány]]></title>
+   <link>http://mno.hu/belfold/gyomorforgato-tortenet-lopott-fotoval-indult-a-2018-as-valasztasi-kampany-2448081?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lukács Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2448/24480/cikk-2448081/mtl_1743469_r_2012_05_20.jpg" length="419536" type="image/jpeg"/>
+   <description><![CDATA[Döbbenetes élmény lehet, ha az ember a saját családjának fotóját egy uszító tartalmú plakáton látja viszont, ráadásul tele hazugsággal.]]></description>
+   <category>Belföld</category>
+   <pubDate>Sun, 18 Feb 2018 10:41:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A reptéri szarkák üzenete]]></title>
+   <link>http://mno.hu/bunugy_baleset/a-repteri-szarkak-uzenete-2446386?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lukács Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2446/24463/cikk-2446386/szb20140625_5452.jpg" length="318695" type="image/jpeg"/>
+   <description><![CDATA[Akit megloptak, azt nem a statisztika érdekli, hanem hogy megkerül-e a tettes.]]></description>
+   <category>Bűnügy és baleset</category>
+   <pubDate>Sun, 11 Feb 2018 05:54:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Jártunk a jövő boltjában, és megdöbbentünk]]></title>
+   <link>http://mno.hu/belfold/jartunk-a-jovo-boltjaban-es-megdobbentunk-2446132?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lukács Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2446/24461/cikk-2446132/IMG_6733x.jpg" length="424122" type="image/jpeg"/>
+   <description><![CDATA[Már az ajtónál elkezdődik a vevő azonosítása, és a figyelem a kilépésig tart.]]></description>
+   <category>Belföld</category>
+   <pubDate>Fri, 09 Feb 2018 12:56:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Észak-Korea a svédasztalnál]]></title>
+   <link>http://mno.hu/sport/eszak-korea-a-svedasztalnal-2445379?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lukács Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2445/24453/cikk-2445379/K_EPA20180206107.jpg" length="263093" type="image/jpeg"/>
+   <description><![CDATA[A déliek többsége megkönnyebbült a hírre, hogy Észak-Korea is részt vesz az olimpián. Úgy gondolják, ha észak is ott van, Kim Dzsongun nem fog rakétákat lődözni.]]></description>
+   <category>Sport</category>
+   <pubDate>Tue, 06 Feb 2018 20:05:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kim Dzsongun nem mehet az olimpiára]]></title>
+   <link>http://mno.hu/sport/kim-dzsongun-nem-mehet-az-olimpiara-2444668?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lukács Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2444/24446/cikk-2444668/P1050206.JPG" length="261414" type="image/jpeg"/>
+   <description><![CDATA[Nem egyszerű a közel ötszáz fős északi delegáció beutaztatása sem.]]></description>
+   <category>Sport</category>
+   <pubDate>Fri, 02 Feb 2018 19:11:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Magyarul tanulnak a románok: a Viszkisre négy nap alatt tízezren vettek jegyet]]></title>
+   <link>http://mno.hu/kulfold/magyarul-tanulnak-a-romanok-a-viszkisre-negy-nap-alatt-tizezren-vettek-jegyet-2443952?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lukács Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2443/24439/cikk-2443952/DW7A7660_896_504_1517378791.jpg" length="80692" type="image/jpeg"/>
+   <description><![CDATA[A filmet jelenleg 21 román filmszínházban tartják műsoron, köztük olyan városokban is, ahol nem élnek magyarok.]]></description>
+   <category>Külföld</category>
+   <pubDate>Wed, 31 Jan 2018 07:07:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nagy botrány van Simona Halep ruhája miatt]]></title>
+   <link>http://mno.hu/sport/nagy-botrany-van-simona-halep-ruhaja-miatt-2443477?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lukács Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2443/24434/cikk-2443477/K_EPA20180127009.jpg" length="287706" type="image/jpeg"/>
+   <description><![CDATA[Tavaly év végén lejárt a szponzori szerződése az Adidasszal, és a folytatásról nem tudtak megállapodni.]]></description>
+   <category>Sport</category>
+   <pubDate>Mon, 29 Jan 2018 11:39:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Székelyek félárbócon]]></title>
+   <link>http://mno.hu/magazinpublicisztika/szekelyek-felarbocon-2441687?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lukács Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2441/24416/cikk-2441687/K_EPA20170629194.jpg" length="291838" type="image/jpeg"/>
+   <description><![CDATA[A kormányfő lemondása után futótűzként terjedt a közösségi oldalakon: Tudose lemondott, mire a Székelyföldön félárbócra engedték a székelyeket.]]></description>
+   <category>Publicisztika a Magazinban</category>
+   <pubDate>Sun, 21 Jan 2018 18:45:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Sokkoló képek Venezuelából, a buszsofőrből lett baloldali vezér hazájából ]]></title>
+   <link>http://mno.hu/kulfold/sokkolo-kepek-venezuelabol-a-buszsoforbol-lett-baloldali-vezer-hazajabol-2440231?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lukács Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2440/24402/cikk-2440231/leadkep.jpg" length="333319" type="image/jpeg"/>
+   <description><![CDATA[A caracasi magyarok naponta küldik az ijesztőnél ijesztőbb híreket az árak és a dollárárfolyam alakulásáról.]]></description>
+   <category>Külföld</category>
+   <pubDate>Mon, 15 Jan 2018 15:30:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Igazi, tiltott, csempészett]]></title>
+   <link>http://mno.hu/velemeny/igazi-tiltott-csempeszett-2439653?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lukács Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2439/24396/cikk-2439653/20160506_18Belo.jpg" length="146452" type="image/jpeg"/>
+   <description><![CDATA[Az első számú Csíki Sör-ös kérdés, meddig juthat egy blöffre épített vállalkozás.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Fri, 12 Jan 2018 19:14:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Akciós DVD-ről nézik a filmklasszikusokat, mégis szárnyalnak]]></title>
+   <link>http://mno.hu/hetvegimagazin/akcios-dvd-rol-nezik-a-filmklasszikusokat-megis-szarnyalnak-2438180?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lukács Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2438/24381/cikk-2438180/Fekete_Peter_proba_Bereczky_Sandor_7305.jpg" length="282567" type="image/jpeg"/>
+   <description><![CDATA[Anyaországi színészreménységek tucatjai tanulnak Budapest vagy Kaposvár helyett Marosvásárhelyen.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Tue, 09 Jan 2018 07:18:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A becsületes cigányt ugyanúgy megbecsülik, ahogy megvetik a semmirevaló magyart]]></title>
+   <link>http://mno.hu/hetvegimagazin/a-becsuletes-ciganyt-ugyanugy-megbecsulik-ahogy-megvetik-a-semmirevalo-magyart-2437340?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lukács Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2437/24373/cikk-2437340/IMG_5865.jpg" length="744672" type="image/jpeg"/>
+   <description><![CDATA[Kecseten a helybeliek lerombolták azt a házat, amelyet évekkel ezelőtt önkényesen elfoglalt egy roma család. ]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Wed, 03 Jan 2018 19:08:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A túlélés esélyei]]></title>
+   <link>http://mno.hu/velemeny/a-tuleles-eselyei-2437337?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lukács Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2437/24373/cikk-2437337/HM20110603_0124.jpg" length="312445" type="image/jpeg"/>
+   <description><![CDATA[Nem lenne jó, ha a magyar betegek élete is jótékony gyógyszercsempészeken múlna.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Tue, 02 Jan 2018 13:50:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A malac fejét gyorsan vágjuk le!]]></title>
+   <link>http://mno.hu/nagyinterju_magazinban/a-malac-fejet-gyorsan-vagjuk-le-2436851?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lukács Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2436/24368/cikk-2436851/IMG_2162.jpg" length="227023" type="image/jpeg"/>
+   <description><![CDATA[Bittera Dóra és Molnár B. Tamás a rommá spékelt pulykáról és a túl rövid ideig seprőn hagyott pezsgőről. Interjú.]]></description>
+   <category>Nagyinterjú a Magazinban</category>
+   <pubDate>Sun, 31 Dec 2017 06:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Huszonnyolc év]]></title>
+   <link>http://mno.hu/magazinpublicisztika/huszonnyolc-ev-2437022?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lukács Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2437/24370/cikk-2437022/000_APP1999120757185.jpg" length="399798" type="image/jpeg"/>
+   <description><![CDATA[Majdnem három évtizedre volt szüksége ahhoz a román társadalomnak, hogy hivatalosan is kimondassék: államcsíny volt 1989 végén.]]></description>
+   <category>Publicisztika a Magazinban</category>
+   <pubDate>Sat, 30 Dec 2017 19:30:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Apám, aki adventkor elment]]></title>
+   <link>http://mno.hu/hetvegimagazin/apam-aki-adventkor-elment-2436001?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Lukács Csaba</author>
+   <enclosure url="http://mno.hu/data/cikkek/2436/24360/cikk-2436001/MAMAVIDE0231207_1.jpg" length="1939476" type="image/jpeg"/>
+   <description><![CDATA[Falun van a családi ház, a Székelyföldön, ahol még másképp mennek a dolgok.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Mon, 25 Dec 2017 12:06:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>

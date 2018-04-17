@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: dr. Lendvai Zsuzsanna]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/dr-lendvai-zsuzsanna-21105</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Thu, 12 Apr 2018 19:29:05 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[Nem a büntetés, csupán a fogaim árának megtérítése a cél]]></title>
+   <link>http://mno.hu/korabbipartnereink/nem-a-buntetes-csupan-a-fogaim-aranak-megteritese-a-cel-1262572?utm_source=feed&amp;utm_medium=rss</link>
+   <author>dr. Lendvai Zsuzsanna</author>
+   <description><![CDATA[Hétvégén szórakozóhelyen egy férfi többször fejbe vert, aminek következtében 5 darab fogam letört.]]></description>
+   <category>Korábbi partnereink</category>
+   <pubDate>Wed, 10 Dec 2014 10:21:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Nálam nyaral a gyerek. Ekkor is kell fizetnem a tartásdíjat?]]></title>
+   <link>http://mno.hu/korabbipartnereink/nalam-nyaral-a-gyerek-ekkor-is-kell-fizetnem-a-tartasdijat-1244124?utm_source=feed&amp;utm_medium=rss</link>
+   <author>dr. Lendvai Zsuzsanna</author>
+   <description><![CDATA[A bíróság pontosan meghatározza a gyerektartásdíj fizetésének kötelezettségét. Több lehetőség is van erre.]]></description>
+   <category>Korábbi partnereink</category>
+   <pubDate>Tue, 26 Aug 2014 08:33:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Így semmizik ki az emberek az örököseiket]]></title>
+   <link>http://mno.hu/korabbipartnereink/igy-semmizik-ki-az-emberek-az-orokoseiket-1226850?utm_source=feed&amp;utm_medium=rss</link>
+   <author>dr. Lendvai Zsuzsanna</author>
+   <description><![CDATA[Gyakran előfordul, hogy a végrendelkező nem akarja, hogy halála után az egyenes ági leszármazottja örököljön?]]></description>
+   <category>Korábbi partnereink</category>
+   <pubDate>Fri, 16 May 2014 11:38:00 +0200</pubDate>
+  </item>
+ </channel>
+</rss>

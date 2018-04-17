@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+ <channel>
+  <title><![CDATA[Magyar Nemzet - szerző: Pethő Tibor]]></title>
+  <link>http://mno.hu/szerzo/ujsagiro/petho-tibor-2969</link>
+  <language>hu</language>
+  <copyright><![CDATA[Tilos a http://mno.hu/ bármely fotójának, írott anyagának vagy részletének a szerző, illetve a kiadó írásbeli engedélye nélküli újraközlése.]]></copyright>
+  <description><![CDATA[Polgári napilap és hírportál – Szellemi honvédelem 1938 óta.]]></description>
+  <webfeeds:cover image="http://mno.hu/static/frontend/imgs/logo2.png"/>
+  <webfeeds:logo>http://mno.hu/static/frontend/imgs/logo2.png</webfeeds:logo>
+  <webfeeds:accentColor>000000</webfeeds:accentColor>
+  <webfeeds:related layout="card" target="browser"/>
+  <webfeeds:analytics id="UA-11029525-1" engine="GoogleAnalytics"/>
+  <lastBuildDate>Wed, 11 Apr 2018 09:00:21 +0200</lastBuildDate>
+  <item>
+   <title><![CDATA[1938. augusztus 25. – 2018. április 11.]]></title>
+   <link>http://mno.hu/belfold/1938-augusztus-25-2018-aprilis-11-2459318?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pethő Tibor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24593/cikk-2459318/MANEVIDE0110401_896_504_1523391230.jpg" length="15910" type="image/jpeg"/>
+   <description><![CDATA[Elhallgatni nem fogunk. Várunk, reménykedünk, imádkozunk. Mert lehet egy újságnak bárki is a tulajdonosa, azt pontosan tudjuk, hogy a mi igazi „gazdánk” az olvasó.]]></description>
+   <category>Belföld</category>
+   <pubDate>Wed, 11 Apr 2018 06:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Bukta után]]></title>
+   <link>http://mno.hu/velemeny/bukta-utan-2459038?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pethő Tibor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2459/24590/cikk-2459038/2781F299_0EF8_4DB6_AFC0_73744DD423EC.jpeg" length="342391" type="image/jpeg"/>
+   <description><![CDATA[Ámítottuk magunkat, a végeredménynek látványos előjelei voltak. A tömegeket egy mérsékelt és hiteles ellenzék szólíthatná meg.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Mon, 09 Apr 2018 18:21:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Mikor kezdték listázni a szimpatizáns választókat?]]></title>
+   <link>http://mno.hu/billegokorzet/mikor-kezdtek-listazni-a-szimpatizans-valasztokat-2458622?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pethő Tibor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2458/24586/cikk-2458622/C_SOS19980708013.jpg" length="202217" type="image/jpeg"/>
+   <description><![CDATA[Antalltól Orbánig, avagy kis magyar választástörténet 1990-től napjainkig.]]></description>
+   <category>Billegő körzet</category>
+   <pubDate>Sun, 08 Apr 2018 05:33:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kitől kellett az embert visszavásárolni?]]></title>
+   <link>http://mno.hu/hetvegimagazin/kitol-kellett-az-embert-visszavasarolni-2456824?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pethő Tibor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2456/24568/cikk-2456824/RTRPJLB.jpg" length="272451" type="image/jpeg"/>
+   <description><![CDATA[A hitvallások a húsvét szavakkal tökéletesen meg nem fogalmazható misztériumáról.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Mon, 02 Apr 2018 06:19:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A Soros-alapítványtól a Soros-tervig]]></title>
+   <link>http://mno.hu/belfold/a-soros-alapitvanytol-a-soros-tervig-2456851?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pethő Tibor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2456/24568/cikk-2456851/Fidesz30.jpg" length="299811" type="image/jpeg"/>
+   <description><![CDATA[Harminc fontos idézetet szedtünk össze a harmincéves Fidesz vezetőinek nyilatkozataiból.]]></description>
+   <category>Belföld</category>
+   <pubDate>Fri, 30 Mar 2018 06:32:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Előre a tíz százalékért!]]></title>
+   <link>http://mno.hu/velemeny/elore-a-tiz-szazalekert-2456802?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pethő Tibor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2456/24568/cikk-2456802/BD_5357.jpg" length="415412" type="image/jpeg"/>
+   <description><![CDATA[Az íróasztalok mellett kiókumlált elméleteket már számos esetben keresztülhúzták a hétköznapok eseményei.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Thu, 29 Mar 2018 14:11:00 +0200</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Talpra, magyar!: hamisan elbúgni Petőfi Sándor forradalmi sorait]]></title>
+   <link>http://mno.hu/grund/talpra-magyar-hamisan-elbugni-petofi-sandor-forradalmi-sorait-2454274?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pethő Tibor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2454/24542/cikk-2454274/DMOHA20180314001.jpg" length="367861" type="image/jpeg"/>
+   <description><![CDATA[Topolcsányi Laura író és Szurdi Miklós író-rendező rockmusicaljének legnagyobb tehertétele a zenés-táncos Nemzeti dal.]]></description>
+   <category>Kultúrgrund</category>
+   <pubDate>Mon, 19 Mar 2018 19:06:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Sétapálca helyett fokos – A hatalom mindig kihasználta március 15-ét]]></title>
+   <link>http://mno.hu/tortenelem/setapalca-helyett-fokos-a-hatalom-mindig-kihasznalta-marcius-15-et-2453948?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pethő Tibor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2453/24539/cikk-2453948/1_RGB_896_504_1521291957.jpg" length="48356" type="image/jpeg"/>
+   <description><![CDATA[Megmutatjuk, hogyan éltek vissza vele.]]></description>
+   <category>Múlt idő</category>
+   <pubDate>Sat, 17 Mar 2018 14:17:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Kommuna, pofon, írógép: 130 éve született Makarenko]]></title>
+   <link>http://mno.hu/tortenelem/kommuna-pofon-irogep-130-eve-szuletett-makarenko-2453344?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pethő Tibor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2453/24533/cikk-2453344/033_ria04_014099_3000.jpg" length="339570" type="image/jpeg"/>
+   <description><![CDATA[Utánajártunk, miért vált ki belőlünk viszolygást a leghíresebb szovjet pedagógus neve.]]></description>
+   <category>Múlt idő</category>
+   <pubDate>Wed, 14 Mar 2018 12:49:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Egy kelet-európai ország, ahol a fehér partizánok egészen 1963-ig harcoltak]]></title>
+   <link>http://mno.hu/tortenelem/egy-kelet-europai-orszag-ahol-a-feher-partizanok-egeszen-1963-ig-harcoltak-2452536?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pethő Tibor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2452/24525/cikk-2452536/_o_nierze_V_Wile_skiej_Brygady_AK.jpg" length="273898" type="image/jpeg"/>
+   <description><![CDATA[Erdélyben, Lengyelországban és Magyarországon is működtek fegyveres ellenálló csoportok.]]></description>
+   <category>Múlt idő</category>
+   <pubDate>Sun, 11 Mar 2018 06:25:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Már a Magyar Nemzet archívuma is böngészhető digitálisan]]></title>
+   <link>http://mno.hu/media/mar-a-magyar-nemzet-archivuma-is-bongeszheto-digitalisan-2450264?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pethő Tibor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2450/24502/cikk-2450264/MagyarNemzet_1939_09_pages17_17_.jpg" length="390901" type="image/jpeg"/>
+   <description><![CDATA[Magyarország legnagyobb internetes periodika-adatbázisánál ötmillió újságoldalt szkennelnek be egy évben.]]></description>
+   <category>Média</category>
+   <pubDate>Thu, 01 Mar 2018 17:43:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Fideszesek Fidesz nélkül]]></title>
+   <link>http://mno.hu/velemeny/fideszesek-fidesz-nelkul-2450428?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pethő Tibor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2450/24504/cikk-2450428/BA_05166.jpg" length="306202" type="image/jpeg"/>
+   <description><![CDATA[A kormánypárt kifejezetten fél a mérsékelten jobbos, független, hiteles emberektől.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Wed, 28 Feb 2018 18:10:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Figaro és az ős-NER]]></title>
+   <link>http://mno.hu/velemeny/figaro-es-az-os-ner-2447979?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pethő Tibor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2447/24479/cikk-2447979/VL20180209_6908.jpg" length="566747" type="image/jpeg"/>
+   <description><![CDATA[Gyurcsány Ferenc teszi a dolgát, mintha erre a Fidesz vagy a kormány kérte volna fel.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Sun, 18 Feb 2018 20:15:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[„Párttitkárok soha nem határozhatják meg az anyaszentegyház magatartását”]]></title>
+   <link>http://mno.hu/hetvegimagazin/parttitkarok-soha-nem-hatarozhatjak-meg-az-anyaszentegyhaz-magatartasat-2447778?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pethő Tibor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2447/24477/cikk-2447778/D_SAK20030201052.jpg" length="172245" type="image/jpeg"/>
+   <description><![CDATA[Az év elején mutatták be a Bulányi György piarista papról és a Bokor közösségről szóló dokumentumfilmet.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Sun, 18 Feb 2018 07:07:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Elkezdődött a negyvennapos böjt]]></title>
+   <link>http://mno.hu/eletmod/elkezdodott-a-negyven-napos-bojt-2447244?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pethő Tibor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2447/24472/cikk-2447244/US_Navy_080206_N_7869M_057_Electronics_Technician_3rd_Class_Leila_Tardieu_receives_the_sacramental_ashes_during_an_Ash_Wednesday_celebration.jpg" length="276552" type="image/jpeg"/>
+   <description><![CDATA[Ma sokan a szerelmesek Valentin-napját ünneplik, ám idén február 14-re esik a hamvazószerda is. ]]></description>
+   <category>Életmód</category>
+   <pubDate>Wed, 14 Feb 2018 16:50:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Az árulás vádja sztoikus nyugalmat szült Görgei Artúrban]]></title>
+   <link>http://mno.hu/hetvegimagazin/az-arulas-vadja-sztoikus-nyugalmat-szult-gorgei-arturban-2446210?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pethő Tibor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2446/24462/cikk-2446210/img258_2__896_504_1518188150.jpg" length="268749" type="image/jpeg"/>
+   <description><![CDATA[Görgei Artúr életveszélyes fejsérüléssel, nyitott koponyával harcolt, majd hatvanhét éven át tűrte a megbélyegzést.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Tue, 13 Feb 2018 21:35:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Mi vezette a békepapokat, amikor dicstelen szerepüket eljátszották?]]></title>
+   <link>http://mno.hu/tortenelem/mi-vezette-a-bekepapokat-amikor-dicstelen-szerepuket-eljatszottak-2445967?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pethő Tibor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2445/24459/cikk-2445967/108562.jpg" length="77465" type="image/jpeg"/>
+   <description><![CDATA[Hatvan éve közösítette ki a Zsinati Kongregáció Beresztóczy Miklóst, Horváth Richárdot és Máté Jánost.]]></description>
+   <category>Múlt idő</category>
+   <pubDate>Fri, 09 Feb 2018 19:16:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Sajtókamara és szalámi]]></title>
+   <link>http://mno.hu/velemeny/sajtokamara-es-szalami-2445879?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pethő Tibor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2445/24458/cikk-2445879/szb20161010_5458.jpg" length="536650" type="image/jpeg"/>
+   <description><![CDATA[A megfélemlítő-korlátozó lépésekhez végül nem is kellett hadra fogni a médiatörvényt.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Thu, 08 Feb 2018 13:03:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Újságírók, be a karámba!]]></title>
+   <link>http://mno.hu/hetvegimagazin/ujsagirok-be-a-karamba-2444557?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pethő Tibor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2444/24445/cikk-2444557/Sajtokamara.jpg" length="263358" type="image/jpeg"/>
+   <description><![CDATA[Sajtókamara létrehozását fontolgatják. A kis híján nyolcvan éve életre hívott névrokon hatékonyan korlátozta a sajtószabadságot.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Sat, 03 Feb 2018 20:13:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A szent szöveg és a gyilkos orvosok]]></title>
+   <link>http://mno.hu/tortenelem/a-szent-szoveg-es-a-gyilkos-orvosok-2444112?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pethő Tibor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2444/24441/cikk-2444112/000_SAPA990709726480.jpg" length="346896" type="image/jpeg"/>
+   <description><![CDATA[Hatvanöt éve, a szovjet orvosperekhez hasonlóan indult antiszemita hecckampány Magyarországon.]]></description>
+   <category>Múlt idő</category>
+   <pubDate>Thu, 01 Feb 2018 18:36:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A Fidesz vízlépcsője]]></title>
+   <link>http://mno.hu/velemeny/a-fidesz-vizlepcsoje-2444013?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pethő Tibor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2444/24440/cikk-2444013/fortepan_5747.jpg" length="489731" type="image/jpeg"/>
+   <description><![CDATA[Akad-e ügy vagy fejlemény, amely összeránt, felébreszt minket a választás előtt?]]></description>
+   <category>Vélemény</category>
+   <pubDate>Wed, 31 Jan 2018 20:02:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A szájkosárral hogy állunk?]]></title>
+   <link>http://mno.hu/velemeny/a-szajkosarral-hogy-allunk-2442926?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pethő Tibor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2442/24429/cikk-2442926/NBB_20151213_7345.jpg" length="131568" type="image/jpeg"/>
+   <description><![CDATA[Mekkora zavart kelthetnek a „jelenlegi helyzetben” a „félremagyarázható” mondatok!]]></description>
+   <category>Vélemény</category>
+   <pubDate>Fri, 26 Jan 2018 13:41:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Horthy-misét szerveznek a holokauszt emléknapján]]></title>
+   <link>http://mno.hu/belfold/horthy-miset-szerveznek-a-holokauszt-emleknapjan-2442538?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pethő Tibor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2442/24425/cikk-2442538/fortepan_8544.jpg" length="317584" type="image/jpeg"/>
+   <description><![CDATA[A Szombat főszerkesztője szerint az ügy valószínűleg nemzetközi hullámokat is kavar majd és árt az ország hírének.]]></description>
+   <category>Belföld</category>
+   <pubDate>Wed, 24 Jan 2018 18:34:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Tiszaeszlár, a magyar eszmetörténet rendkívül kényes kérdése ]]></title>
+   <link>http://mno.hu/hetvegimagazin/tiszaeszlar-a-magyar-eszmetortenet-rendkivul-kenyes-kerdese-2441393?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pethő Tibor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2441/24413/cikk-2441393/8_A_tiszaeszlari_per_targyalasa_1024x762.jpg" length="519622" type="image/jpeg"/>
+   <description><![CDATA[A Blutman László tollából most megjelent kötet új szempontokra, összefüggésekre hívja fel a figyelmet.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Mon, 22 Jan 2018 18:44:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[A CÖF-CÖKA ellopta a Magyar Nemzet Szellemi honvédelemért díját]]></title>
+   <link>http://mno.hu/velemeny/honvedok-es-tolvajok-2441839?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pethő Tibor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2441/24418/cikk-2441839/TT20091108_073.jpg" length="164189" type="image/jpeg"/>
+   <description><![CDATA[Szabó Zoltánék nem a hatalom katonáiként képzelték el a szellemi honvédelmet.]]></description>
+   <category>Vélemény</category>
+   <pubDate>Mon, 22 Jan 2018 09:38:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Jolika, az ÁVH keblein nevelkedett, gépírónőből lett belügyes nagyasszony]]></title>
+   <link>http://mno.hu/konyveshaz/jolika-az-avh-keblein-nevelkedett-gepironobol-lett-belugyes-nagyasszony-2439784?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pethő Tibor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2439/24397/cikk-2439784/D_TT20020813023.jpg" length="407538" type="image/jpeg"/>
+   <description><![CDATA[Császárné Lábass Jolán jelképpé nemesült. A képmutatás, a szembenézés kudarcának jelképévé.]]></description>
+   <category>Könyvesház</category>
+   <pubDate>Tue, 16 Jan 2018 12:31:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[„Édesapa most elutazik” – Hatvan éve végezték ki Földes Gábort]]></title>
+   <link>http://mno.hu/tortenelem/edesapa-most-elutazik-hatvan-eve-vegeztek-ki-foldes-gabort-2439755?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pethő Tibor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2439/24397/cikk-2439755/IMG_4855_896_504_1515765668.jpg" length="59965" type="image/jpeg"/>
+   <description><![CDATA[A Győri Nemzeti Színház főrendezőjének pere jellegzetesen mutatja a kádári koncepciós perek belső világát, cinizmusát.]]></description>
+   <category>Múlt idő</category>
+   <pubDate>Mon, 15 Jan 2018 07:01:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Időnként a cenzúra segítette az eligazodást a frontról érkező hírekben]]></title>
+   <link>http://mno.hu/tortenelem/idonkent-a-cenzura-segitette-az-eligazodast-a-frontrol-erkezo-hirekben-2439703?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pethő Tibor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2439/24397/cikk-2439703/fortepan_30348.jpg" length="170281" type="image/jpeg"/>
+   <description><![CDATA[Mit írtak a korabeli lapok a doni katasztrófáról? Amit engedtek nekik. De néha a törölt részek árulták el a legtöbbet.]]></description>
+   <category>Múlt idő</category>
+   <pubDate>Fri, 12 Jan 2018 18:24:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Makacs akadémikusok kontra nemzeti ezoterikusok – 40 éve van itthon a Szent Korona]]></title>
+   <link>http://mno.hu/hetvegimagazin/makacs-akademikusok-kontra-nemzeti-ezoterikusok-40-eve-van-itthon-a-szent-korona-2438093?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pethő Tibor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2438/24380/cikk-2438093/A_Szent_Korona_legregibb_hiteles_abrazolasa_1555.jpg" length="1262682" type="image/jpeg"/>
+   <description><![CDATA[A Szent Koronáról máig ölre menő viták dúlnak. Bármiféle konszenzus megteremtése lehetetlennek tűnik.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Sat, 06 Jan 2018 19:59:00 +0100</pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Volt idő, amikor még tudtunk nevetni a kormányok humorán]]></title>
+   <link>http://mno.hu/hetvegimagazin/volt-ido-amikor-meg-tudtunk-nevetni-a-kormanyok-humoran-2437932?utm_source=feed&amp;utm_medium=rss</link>
+   <author>Pethő Tibor</author>
+   <enclosure url="http://mno.hu/data/cikkek/2437/24379/cikk-2437932/Arany_Janos_.jpg" length="418615" type="image/jpeg"/>
+   <description><![CDATA[Létezhet-e kormánypárti humor? A 150 éve indult Borsszem Jankó rá a bizonyság, hogy igen.]]></description>
+   <category>Hétvégi Magazin</category>
+   <pubDate>Fri, 05 Jan 2018 16:39:00 +0100</pubDate>
+  </item>
+ </channel>
+</rss>
