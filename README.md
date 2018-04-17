@@ -52,7 +52,10 @@ In retrospect, I would have done things a bit differently, that I only realised 
 
 - Get a EC2 instance with a higher network bandwith (would have costed more)
 - Don't modify the source code at all and definitely don't safe the source in two formats
-- ...
+- Pushing a git repo all at once with 16GB worth of data spanned across 250k+ files is pushing git and the server to its edge
+- Push in batches early and often
+- No limit on repo size in GitHub (although they may ask you to compress and eliminate large files), but they don't allow anything above 100MB in one file
+- Split the wget log into files of 100MB max instead of ending up with a 200MB txt that cannot be uploaded onto GitHub 
 
 ## Attribution
 
